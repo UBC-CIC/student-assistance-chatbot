@@ -8,6 +8,8 @@ import os
 import json
 
 URL = "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea"
+PREREQ_SELECTOR = "//*[contains(text(),'Pre-req')]"
+COREQ_SELECTOR = "//*[contains(text(),'Co-req')]"
 SELECTOR = ".table.table-striped > tbody > tr > td > a"
 BASE_DIRECTORY = "./classes/"
 METADATA_DIRECTORY = "./metadata/"
@@ -38,8 +40,9 @@ class DateBuilding():
 
 
 class Course():
-    def __init__(self, credit, mode_of_delivery, requires_in_person_attendance, date_buildings, instructor):
+    def __init__(self, credit, description, mode_of_delivery, requires_in_person_attendance, date_buildings, instructor):
         self.credit = credit
+        self.description = description
         self.mode_of_delivery = mode_of_delivery
         self.requires_in_person_attendance = requires_in_person_attendance
         self.date_buildings = date_buildings
@@ -63,7 +66,7 @@ def formatDateBuildings(date_buildings):
             msg += ", Room: " + date_building.room
         msg += "\n"
     return msg
-def formatText(course, dept, course_num, section):
+def formatText(course, prereq, coreq, dept, course_num, section):
     msg = ""
     if dept:
         msg += "Department: " + dept + "\n"
@@ -71,6 +74,12 @@ def formatText(course, dept, course_num, section):
         msg += "Course Number: " + course_num + "\n"
     if section:
         msg += "Section: " + section + "\n"
+    if course.description:
+        msg += "Description: " + course.description + "\n"
+    if prereq:
+        msg += prereq + "\n"
+    if coreq:
+        msg += coreq + "\n"
     if course.credit:
         msg += "Credits: " + course.credit + "\n"
     if course.mode_of_delivery:
@@ -118,16 +127,20 @@ def parseDateBuilding(date_building):
     return DateBuilding(term, days, startTime, endTime, building, room)
 
 def parse(courseMain):
+
     credit = None if not re.search(CREDIT_REGEX,courseMain) else re.search(CREDIT_REGEX,courseMain).groups()[0]
     mode_of_delivery = None if not re.search(MODE_OF_DELIVERY_REGEX,courseMain) else re.search(MODE_OF_DELIVERY_REGEX,courseMain).groups()[0]
     requires_in_person_attendance = None if not re.search(REQUIRES_IN_PERSON_ATTENDANCE_REGEX,courseMain) else re.search(REQUIRES_IN_PERSON_ATTENDANCE_REGEX,courseMain).groups()[0]
+    description = courseMain.split("\n")[3]
+    if "Credit" in description:
+        description = None
     date_buildings = None if not re.search(DATE_BUILDING_REGEX,courseMain) else re.search(DATE_BUILDING_REGEX,courseMain).groups()
     date_buildings_arr = []
     if date_buildings:
         for elem in date_buildings:
             date_buildings_arr.append(parseDateBuilding(elem))
     instructor = None if not re.search(INSTRUCTOR_REGEX,courseMain) else re.search(INSTRUCTOR_REGEX,courseMain).groups()[0]
-    return Course(credit, mode_of_delivery, requires_in_person_attendance, date_buildings_arr, instructor)
+    return Course(credit, description, mode_of_delivery, requires_in_person_attendance, date_buildings_arr, instructor)
 
 def generateMetadata(department,courseNumber, sourceURI):
     metadata = {
@@ -138,15 +151,30 @@ def generateMetadata(department,courseNumber, sourceURI):
             "ubcURI": sourceURI, 
         },
         "Title": department + courseNumber,
-        # "ContentType": "txt"
     }
     json_object = json.dumps(metadata)
     return json_object
 
 
-def scrape(url,parentUrl):
+def scrape(url,parentUrl,prereq,coreq):
     driver.get(url)
     subjBox = driver.find_elements(By.CSS_SELECTOR, SELECTOR)
+    if not prereq:
+        try:
+            prereqBox = driver.find_element(By.XPATH,PREREQ_SELECTOR)
+            prereq = prereqBox.text
+            print(url)
+            print(prereq)
+        except:
+            pass
+    if not coreq:
+        try:
+            coreqBox = driver.find_element(By.XPATH,COREQ_SELECTOR)
+            coreq = coreqBox.text
+            print(url)
+            print(coreq)
+        except:
+            pass        
     urls = []
     for subj in subjBox:
         innerUrl = subj.get_attribute("href")
@@ -155,7 +183,7 @@ def scrape(url,parentUrl):
             
     if len(urls) != 0:
         for innerUrl in urls:
-            scrape(innerUrl,url)
+            scrape(innerUrl,url,prereq,coreq)
     else:
         try:
             courseMain = driver.find_element(By.XPATH, "//*[@role='main']").text.replace("Save To Worklist","")
@@ -163,7 +191,7 @@ def scrape(url,parentUrl):
             department = result.groups()[0]
             courseNumber = result.groups()[1]
             section = result.groups()[2]
-            formatted = formatText(parse(courseMain),department, courseNumber, section)
+            formatted = formatText(parse(courseMain),prereq,coreq,department, courseNumber, section)
             directory = BASE_DIRECTORY + department + "/"
             filename = courseNumber + ".txt"
             os.makedirs(os.path.dirname(directory),exist_ok=True)
@@ -177,7 +205,7 @@ def scrape(url,parentUrl):
         except:
             pass
     
-scrape(URL,None)
+scrape(URL,None,None,None)
 
 # Files below only used to help to clean up json files
 
