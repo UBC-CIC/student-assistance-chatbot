@@ -70,4 +70,23 @@ Note: The scraper code scrapes the courses from the [UBC courses website](https:
 
 # Step 4: Frontend Deployment
 
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/BX2000/student-assistant-bot)
+Before installing Amplify we need to create the IAM Role that associate the policies need to implement this solution. 
+
+In the home repository folder, execute the following CloudFormation command:
+
+```bash
+aws cloudformation deploy --template-file cfn-amplifyRole.yml --stack-name amplifyconsole-chatbot-backend-role --capabilities CAPABILITY_NAMED_IAM
+```
+
+Similar to above, if you have multiple AWS profiles configured, you may have to run
+```bash
+aws cloudformation deploy --template-file cfn-amplifyRole.yml --stack-name amplifyconsole-chatbot-backend-role --capabilities CAPABILITY_NAMED_IAM --profile <desired aws profile>
+```
+
+This command will create the desired IAM role to deploy the Amplify stack for the front-end.
+
+Once the role has been created, click the button below to launch the amplify app. This button will take you to the AWS console to deploy the app.
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/UBC-CIC/student-assistance-chatbot/)
+
+
+
