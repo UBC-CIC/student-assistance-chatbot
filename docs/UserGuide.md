@@ -26,7 +26,7 @@ Questions can be from the following categories
 # Feedback Page
 Upon completion of a conversation, the user has the option to submit feedbacko to improve the chatbot. This can be done by clicking the feedback button on the chat page.
 
-[!Home Page Feedback Button](./images/feedbackButton.png)
+[!Home Page Feedback Button](./images/FeedbackHighlight.png)
 
 The user will then land on the feedback page where they can submit a rating from 1 stars to 5 stars based on their chatbot experience and leave comments of any type for chatbot improvement.
 
