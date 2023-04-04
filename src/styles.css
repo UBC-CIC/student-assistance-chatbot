@@ -1,0 +1,5 @@
+@import '@aws-amplify/ui-react/styles.css';
+
+.amplify-tabs {
+    display: none;
+  }
