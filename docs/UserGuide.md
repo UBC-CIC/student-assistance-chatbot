@@ -1,8 +1,7 @@
 # User Guide
 
 # Requirements
-Before you use this app as a user, please ensure you have followed the steps in the deployment guide and that your application deployment is successful.
-- [Deployment Guides](./DeploymentGuide.md)
+Before you use this app as a user, please ensure you have followed the steps in the [Deployment Guide](./DeploymentGuide.md) and that your application deployment is successful.
 
 | Index                                               | Description                                             |
 | :-------------------------------------------------- | :------------------------------------------------------ |
