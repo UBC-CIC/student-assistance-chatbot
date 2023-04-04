@@ -1,8 +1,7 @@
 # User Guide
 
 # Requirements
-Before you use this app as a user, please ensure you have followed the steps in the deployment guide and that your application deployment is successful.
-- [Deployment Guides](./DeploymentGuide.md)
+Before you use this app as a user, please ensure you have followed the steps in the [Deployment Guide](./DeploymentGuide.md) and that your application deployment is successful.
 
 | Index                                               | Description                                             |
 | :-------------------------------------------------- | :------------------------------------------------------ |
@@ -34,7 +33,9 @@ The user will then land on the feedback page where they can submit a rating from
 
 
 # Admin Page
-If you are a system administrator, you will have access to the admin page provided you have created an admin account following the steps outlinted in the [deployment guide](./DeploymentGuide.md).
+If you are a system administrator, you will have access to the admin page provided you have created an admin account following the steps outlinted in the [deployment guide](./DeploymentGuide.md). To get to the admin page, you can click the admin button on the chat page.
+
+![Home Page Admin Button](./images/AdminHighlight.png)
 
 Upon logging in as the system admin, you will land upon this page.
 ![Admin Page](./images/adminPage.png)
