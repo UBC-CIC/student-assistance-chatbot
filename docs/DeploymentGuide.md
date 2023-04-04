@@ -47,6 +47,26 @@ Once deployed, the command will complete and you should be able to find the clou
 
 
 # Step 3: Scraper Deployment
+1. Install the dependencies using the command:
+```bash
+pip install -r requirements.txt
+```
+2. Run the scraper with the following command:
+```bash
+python scraper.py
+```
+
+Note: The scraper code scrapes the courses from the [UBC courses website](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea). We are able to extract the following information:
+* Buildings
+* Co-requisites
+* Course Number
+* Credits
+* Date
+* Description
+* Instructor
+* Mode of delivery
+* Pre-requisites
+* Requires in-person attendance
 
 # Step 4: Frontend Deployment
 
