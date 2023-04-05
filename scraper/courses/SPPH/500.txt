@@ -1,0 +1,33 @@
+Department: SPPH
+Course Number: 500
+Section: 002
+Description: Basic epidemiological designs as a framework for commonly used biostatistical techniques such as the Mantel-Haenszel, chi-squared, linear and logistic regression, and survival analysis. Computer packages will be available for computation of assignments.
+Pre-reqs: Either (a) all of HCEP 400, HCEP 502 or (b) all of SPPH 400, SPPH 502 or (c) all of SPPH 567, SPPH 502.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00
+Instructor: MARIN, MICHAEL
+
+Department: SPPH
+Course Number: 500
+Section: 007
+Description: Basic epidemiological designs as a framework for commonly used biostatistical techniques such as the Mantel-Haenszel, chi-squared, linear and logistic regression, and survival analysis. Computer packages will be available for computation of assignments.
+Pre-reqs: Either (a) all of HCEP 400, HCEP 502 or (b) all of SPPH 400, SPPH 502 or (c) all of SPPH 567, SPPH 502.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: P., Room: A.
+Instructor: WONG, HUBERT
+
+Department: SPPH
+Course Number: 500
+Section: BL2
+Description: Basic epidemiological designs as a framework for commonly used biostatistical techniques such as the Mantel-Haenszel, chi-squared, linear and logistic regression, and survival analysis. Computer packages will be available for computation of assignments.
+Pre-reqs: Either (a) all of HCEP 400, HCEP 502 or (b) all of SPPH 400, SPPH 502 or (c) all of SPPH 567, SPPH 502.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Start Time: Thu^, End Time: 9:30, Building: 12:30
+Instructor: MARIN, MICHAEL
+

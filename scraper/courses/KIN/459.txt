@@ -1,0 +1,21 @@
+Department: KIN
+Course Number: 459
+Section: 001
+Description: Exploration of the role that physical activity and exercise play in modifying the neurobiological, autonomic, endocrine, and inflammatory responses to stress.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Orchard, Room: Commons
+Instructor: PUTERMAN, ELI
+
+Department: KIN
+Course Number: 459
+Section: 0W1
+Description: Exploration of the role that physical activity and exercise play in modifying the neurobiological, autonomic, endocrine, and inflammatory responses to stress.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,11 @@
+Department: LATN
+Course Number: 402A
+Section: 001
+Description: Studies in narrative verse, comedy, satire, elegiac and lyric poetry. May be repeated for up to 12 credits. It is recommended that the corequisite course be completed prior to LATN 402.
+Co-reqs: Either (a) LATN 350 or (b) LATN 351.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D209
+Instructor: MARSHALL, CHRISTOPHER WARREN
+

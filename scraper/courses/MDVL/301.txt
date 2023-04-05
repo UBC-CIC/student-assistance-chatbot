@@ -1,0 +1,11 @@
+Department: MDVL
+Course Number: 301
+Section: 001
+Description: European Literature from the 5th to the 14th Century
+Pre-reqs: (Third-year standing in the Faculty of Arts.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B315
+Instructor: MORAN, PATRICK
+

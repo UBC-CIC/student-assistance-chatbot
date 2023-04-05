@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 404
+Section: 001
+Description: This course covers an epistemological approach that considers the social determinants of health and Indigenous spiritual-environmental and cultural perspectives and approaches to health and wellness.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: West, Room: Mall
+Instructor: RIVERS, MELANIE
+

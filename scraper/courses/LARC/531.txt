@@ -1,0 +1,9 @@
+Department: LARC
+Course Number: 531
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Frederic, Room: Lasserre
+Instructor: WILKINSON, STEPHEN
+

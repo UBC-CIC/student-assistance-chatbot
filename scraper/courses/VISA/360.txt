@@ -1,0 +1,22 @@
+Department: VISA
+Course Number: 360
+Section: 001
+Description: Investigation of contemporary practices in sculpture and the use of scale. Emphasis on public sculpture.
+Pre-reqs: One of VISA 260, VISA 285, VISA 286, FINA 285, FINA 286.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Dorothy, Room: Somerset
+Instructor: KOH, GERMAINE
+
+Department: VISA
+Course Number: 360
+Section: 01W
+Description: Investigation of contemporary practices in sculpture and the use of scale. Emphasis on public sculpture.
+Pre-reqs: One of VISA 260, VISA 285, VISA 286, FINA 285, FINA 286.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+

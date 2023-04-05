@@ -1,0 +1,11 @@
+Department: CIVL
+Course Number: 440
+Section: 101
+Description: Traffic operations and network analysis: traffic studies and data design; traffic stream flow and roadway analysis; weaving and interchange ramp analysis; intersection traffic control measures and control design; progressive signal system design; flows prediction; road network simulation and assignment algorithms; motor vehicle accident analysis; field exercises.
+Pre-reqs: CIVL 340.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:30, End Time: 12:00, Building: MacMillan, Room: 158
+Instructor: KIM, AMY
+

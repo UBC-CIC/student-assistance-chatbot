@@ -1,0 +1,17 @@
+Department: EPSE
+Course Number: 301
+Section: 074
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: Pharmaceutical, Room: Sciences
+Instructor: MILLER, MIRIAM
+
+Department: EPSE
+Course Number: 301
+Section: W74
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

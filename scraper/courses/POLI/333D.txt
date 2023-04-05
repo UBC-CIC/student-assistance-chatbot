@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 333D
+Section: 001
+Description: Issues in Comparative Politics - ISSUES COMP PLTC
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: A202
+Instructor: JEONG, GYUNG-HO
+

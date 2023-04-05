@@ -1,0 +1,11 @@
+Department: GEOS
+Course Number: 300
+Section: 201
+Description: Meteorology and climatology at the micro-, local, and meso-scales. Interactions between land surfaces and atmosphere. Basics of atmospheric turbulence and transfer processes. Microclimates on scales of a leaf to those of a large valley.
+Pre-reqs: One of GEOB 200, GEOS 200, GEOB 204, GEOS 204, ATSC 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Geography, Room: 101
+Instructor: KNOX, SARA
+

@@ -1,0 +1,11 @@
+Department: DES
+Course Number: 302
+Section: 001
+Description: Vancouver as a laboratory for design at the architectural and urban scale with a focused view into how design is implicated in the social, political, and environmental transformation of the city.
+Pre-reqs: A score of 60% or higher in DES 301.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:30, End Time: 17:00
+Instructor: BYRNE, FIONN
+

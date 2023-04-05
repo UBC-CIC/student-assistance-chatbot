@@ -1,0 +1,11 @@
+Department: MATH
+Course Number: 552
+Section: 101
+Description: Introduction to Dynamical Systems
+Pre-reqs: One of MATH 215, MATH 255, MATH 256 and one of MATH 256, MATH 257, MATH 316.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Frederic, Room: Lasserre
+Instructor: NAGATA, K WAYNE
+

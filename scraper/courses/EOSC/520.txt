@@ -1,0 +1,9 @@
+Department: EOSC
+Course Number: 520
+Section: 201
+Description: Crystal structure, chemistry, origin and paragenesis of major rock-forming and ore minerals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GROAT, LEE
+

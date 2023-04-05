@@ -1,0 +1,20 @@
+Department: SWED
+Course Number: 100
+Section: 001
+Description: Elementary Swedish I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D201
+Instructor: KARLSTROM, LENA
+
+Department: SWED
+Course Number: 100
+Section: 002
+Description: Elementary Swedish I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: Tower
+Instructor: KARLSTROM, LENA
+

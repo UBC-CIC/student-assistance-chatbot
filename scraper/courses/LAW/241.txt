@@ -1,0 +1,40 @@
+Department: LAW
+Course Number: 241
+Section: 001
+Description: A study of the bases of civil liability for intentionally and accidentally caused harms.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 10:30, Building: Allard, Room: Hall
+Instructor: UTECK, ANNE
+
+Department: LAW
+Course Number: 241
+Section: 002
+Description: A study of the bases of civil liability for intentionally and accidentally caused harms.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 10:30, Building: Allard, Room: Hall
+Instructor: THOMASEN, KRISTEN
+
+Department: LAW
+Course Number: 241
+Section: 003
+Description: A study of the bases of civil liability for intentionally and accidentally caused harms.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: BESWICK, SAMUEL PETER
+
+Department: LAW
+Course Number: 241
+Section: 004
+Description: A study of the bases of civil liability for intentionally and accidentally caused harms.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 10:30, Building: Allard, Room: Hall
+Instructor: BIRD, BRIAN
+

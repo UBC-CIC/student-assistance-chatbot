@@ -1,0 +1,23 @@
+Department: NURS
+Course Number: 541
+Section: 001
+Description: Study of the theory and practice of clinical nursing education.
+Pre-reqs: One of NURS 540, NURS 531.
+Co-reqs: NURS 511.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: UBC, Room: Hospital
+Instructor: ADHAMI, NASSIM
+
+Department: NURS
+Course Number: 541
+Section: 01W
+Description: Study of the theory and practice of clinical nursing education.
+Pre-reqs: One of NURS 540, NURS 531.
+Co-reqs: NURS 511.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: No
+Instructor: TBA
+

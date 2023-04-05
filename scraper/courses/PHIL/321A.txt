@@ -1,0 +1,22 @@
+Department: PHIL
+Course Number: 321A
+Section: 001
+Description: Formal methods relevant to probabilistic and inductive reasoning. Decision theory, game theory, axiomatic probability theory and its interpretations, belief dynamics, simulation and modelling.
+Pre-reqs: One of PHIL 125, PHIL 220. (or instructor permission.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B313
+Instructor: BARTHA, PAUL
+
+Department: PHIL
+Course Number: 321A
+Section: 002
+Description: Formal methods relevant to probabilistic and inductive reasoning. Decision theory, game theory, axiomatic probability theory and its interpretations, belief dynamics, simulation and modelling.
+Pre-reqs: One of PHIL 125, PHIL 220. (or instructor permission.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D222
+Instructor: KOROLEV, ALEXANDRE
+

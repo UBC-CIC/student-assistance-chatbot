@@ -1,0 +1,10 @@
+Department: FIST
+Course Number: 436A
+Section: 001
+Description: Topics may include an analysis of a specific period.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:30, Building: Chan, Room: Centre
+Instructor: COULTHARD, LISA
+

@@ -1,0 +1,33 @@
+Department: CRWR
+Course Number: 409K
+Section: 001
+Description: A workshop class in the writing of fiction.
+Pre-reqs: (Restricted to Majors in Creative Writing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Ponderosa, Room: Commons
+Instructor: ARMSTRONG, THEODORA
+
+Department: CRWR
+Course Number: 409K
+Section: 003
+Description: A workshop class in the writing of fiction.
+Pre-reqs: (Restricted to Majors in Creative Writing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: TATER, MALLORY
+
+Department: CRWR
+Course Number: 409K
+Section: 005
+Description: A workshop class in the writing of fiction.
+Pre-reqs: (Restricted to Majors in Creative Writing.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00
+Instructor: MAILLARD, KEITH
+

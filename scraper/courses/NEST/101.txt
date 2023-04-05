@@ -1,0 +1,9 @@
+Department: NEST
+Course Number: 101
+Section: 102
+Description: An overview of the past two centuries of archaeological investigations of the civilizations of the ancient Near East and Egypt.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

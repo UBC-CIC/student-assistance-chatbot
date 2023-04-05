@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 460
+Section: 201
+Description: Revolutionary movements in the Third World during the second half of the twentieth century; the radicalisation of anticolonial nationalism; the impact of anticolonial radicalism in the developed world; the decline of Marxism as a revolutionary inspiration.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: D316
+Instructor: BYRNE, JEFFREY
+

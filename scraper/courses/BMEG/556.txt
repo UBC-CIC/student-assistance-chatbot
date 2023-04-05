@@ -1,0 +1,26 @@
+Department: BMEG
+Course Number: 556
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 19:00, Building: Earth, Room: Sciences
+Instructor: FINDLAY, JUDY
+
+Department: BMEG
+Course Number: 556
+Section: T1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 19:00, End Time: 20:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: BMEG
+Course Number: 556
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

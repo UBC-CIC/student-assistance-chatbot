@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 611C
+Section: 001
+Description: Applicability of legal concepts in different cultures and societies, and the consequences for the form and structure of law.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: ETXABE, JULEN
+

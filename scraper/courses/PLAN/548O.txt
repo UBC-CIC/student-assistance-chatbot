@@ -1,0 +1,19 @@
+Department: PLAN
+Course Number: 548O
+Section: 001
+Description: Current Issues in Planning - CITY HALL WORK
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: West, Room: Mall
+Instructor: KENDALL, PATRICIA
+
+Department: PLAN
+Course Number: 548O
+Section: 0W1
+Description: Each year the school may offer one or more courses on a topical issue covering recent advances in the field.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KENDALL, PATRICIA
+

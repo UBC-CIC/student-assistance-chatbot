@@ -1,0 +1,38 @@
+Department: KIN
+Course Number: 160
+Section: 001
+Description: Introduction to the political, economic and social basis of leisure and sport; concepts, theories and problems.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: West, Room: Mall
+Instructor: NORMAN, MOSS
+
+Department: KIN
+Course Number: 160
+Section: 002
+Description: Introduction to the political, economic and social basis of leisure and sport; concepts, theories and problems.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: West, Room: Mall
+Instructor: NORMAN, MOSS
+
+Department: KIN
+Course Number: 160
+Section: 0W1
+Description: Introduction to the political, economic and social basis of leisure and sport; concepts, theories and problems.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 160
+Section: 0W2
+Description: Introduction to the political, economic and social basis of leisure and sport; concepts, theories and problems.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

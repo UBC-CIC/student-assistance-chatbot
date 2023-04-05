@@ -1,0 +1,9 @@
+Department: LING
+Course Number: 531
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 18:00
+Instructor: MATTHEWSON, LISA
+

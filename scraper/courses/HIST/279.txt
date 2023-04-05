@@ -1,0 +1,40 @@
+Department: HIST
+Course Number: 279
+Section: 101
+Description: Powerful empires that flourished over the Eurasian Steppe, from the earliest to modern times, and how regimes and cultures associated with these empires have changed the world.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: West, Room: Mall
+Instructor: YIN, SHOUFU
+
+Department: HIST
+Course Number: 279
+Section: L01
+Description: Powerful empires that flourished over the Eurasian Steppe, from the earliest to modern times, and how regimes and cultures associated with these empires have changed the world.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: West, Room: Mall
+Instructor: YIN, SHOUFU
+
+Department: HIST
+Course Number: 279
+Section: L02
+Description: Powerful empires that flourished over the Eurasian Steppe, from the earliest to modern times, and how regimes and cultures associated with these empires have changed the world.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Frederic, Room: Lasserre
+Instructor: YIN, SHOUFU
+
+Department: HIST
+Course Number: 279
+Section: L03
+Description: Powerful empires that flourished over the Eurasian Steppe, from the earliest to modern times, and how regimes and cultures associated with these empires have changed the world.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B219
+Instructor: YIN, SHOUFU
+

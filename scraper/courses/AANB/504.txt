@@ -1,0 +1,18 @@
+Department: AANB
+Course Number: 504
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 13:00
+Instructor: WEARY, DANIEL
+
+Department: AANB
+Course Number: 504
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 13:00
+Instructor: WEARY, DANIEL
+

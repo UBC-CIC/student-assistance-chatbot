@@ -1,0 +1,19 @@
+Department: CELL
+Course Number: 504
+Section: 001
+Description: Structure and function of the cytoskeleton, and its involvement in various forms of cell and intracellular motility.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 16:30
+Instructor: MOUKHLES, HAKIMA
+
+Department: CELL
+Course Number: 504
+Section: 01W
+Description: Structure and function of the cytoskeleton, and its involvement in various forms of cell and intracellular motility.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MOUKHLES, HAKIMA
+

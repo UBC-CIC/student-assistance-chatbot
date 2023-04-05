@@ -1,0 +1,18 @@
+Department: BAMS
+Course Number: 503
+Section: BA1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Wed Thu Fri, Start Time: 10:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: SHECHTER, STEVEN
+
+Department: BAMS
+Course Number: 503
+Section: BA2
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Wed Thu Fri, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: SHECHTER, STEVEN
+

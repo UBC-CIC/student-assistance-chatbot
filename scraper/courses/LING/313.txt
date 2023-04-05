@@ -1,0 +1,55 @@
+Department: LING
+Course Number: 313
+Section: 001
+Description: The articulatory and acoustic properties of speech production and perception, including practice in phonetic transcription, instrumental recording, and the analysis of normal speech.
+Pre-reqs: LING 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: West, Room: Mall
+Instructor: CARDOSO, AMANDA
+
+Department: LING
+Course Number: 313
+Section: LA1
+Description: The articulatory and acoustic properties of speech production and perception, including practice in phonetic transcription, instrumental recording, and the analysis of normal speech.
+Pre-reqs: LING 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: LING
+Course Number: 313
+Section: LA2
+Description: The articulatory and acoustic properties of speech production and perception, including practice in phonetic transcription, instrumental recording, and the analysis of normal speech.
+Pre-reqs: LING 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: LING
+Course Number: 313
+Section: LA4
+Description: The articulatory and acoustic properties of speech production and perception, including practice in phonetic transcription, instrumental recording, and the analysis of normal speech.
+Pre-reqs: LING 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: LING
+Course Number: 313
+Section: LA5
+Description: The articulatory and acoustic properties of speech production and perception, including practice in phonetic transcription, instrumental recording, and the analysis of normal speech.
+Pre-reqs: LING 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+

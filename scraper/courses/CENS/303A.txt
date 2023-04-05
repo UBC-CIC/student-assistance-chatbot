@@ -1,0 +1,9 @@
+Department: CENS
+Course Number: 303A
+Section: 001
+Description: Representations of the Holocaust (in English) - REPRESENTNS HOLO
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KARWOWSKA, BOZENA
+

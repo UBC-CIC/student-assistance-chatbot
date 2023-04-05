@@ -1,0 +1,18 @@
+Department: COMM
+Course Number: 549B
+Section: 001
+Description: Master's Thesis - MASTERS THESIS
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: COMM
+Course Number: 549B
+Section: 002
+Description: Master's Thesis - MASTERS THESIS
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

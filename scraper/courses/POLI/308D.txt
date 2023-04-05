@@ -1,0 +1,11 @@
+Department: POLI
+Course Number: 308D
+Section: 001
+Description: Issues in Canadian Politics - ISSUES CDN POLI
+Pre-reqs: POLI 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 18:00, Building: Leon, Room: and
+Instructor: CUTLER, FREDERICK
+

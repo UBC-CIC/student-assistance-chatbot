@@ -1,0 +1,33 @@
+Department: ITAL
+Course Number: 202
+Section: 201
+Description: Expansion of fundamental notions and presentation of elaborate structures, present, past and future tenses and different modes. Enriched opportunities to explore Italian culture and develop intercultural skills. Aligned with CEFR level A2 objectives.
+Pre-reqs: ITAL 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D204
+Instructor: FALANGOLA, CHIARA
+
+Department: ITAL
+Course Number: 202
+Section: 202
+Description: Expansion of fundamental notions and presentation of elaborate structures, present, past and future tenses and different modes. Enriched opportunities to explore Italian culture and develop intercultural skills. Aligned with CEFR level A2 objectives.
+Pre-reqs: ITAL 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: D201
+Instructor: ZAMPIERI, ELENA
+
+Department: ITAL
+Course Number: 202
+Section: W02
+Description: Expansion of fundamental notions and presentation of elaborate structures, present, past and future tenses and different modes. Enriched opportunities to explore Italian culture and develop intercultural skills. Aligned with CEFR level A2 objectives.
+Pre-reqs: ITAL 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 8:00, End Time: 9:00, Building: To, Room: Be
+Instructor: TBA
+

@@ -1,0 +1,143 @@
+Department: CIVL
+Course Number: 210
+Section: 201
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: UBC, Room: Life
+Instructor: FANNIN, R JONATHAN
+
+Department: CIVL
+Course Number: 210
+Section: L2A
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Civil, Room: and
+Instructor: FANNIN, R JONATHAN
+
+Department: CIVL
+Course Number: 210
+Section: L2B
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Civil, Room: and
+Instructor: FANNIN, R JONATHAN
+
+Department: CIVL
+Course Number: 210
+Section: L2C
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Civil, Room: and
+Instructor: FANNIN, R JONATHAN
+
+Department: CIVL
+Course Number: 210
+Section: L2D
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Civil, Room: and
+Instructor: FANNIN, R JONATHAN
+
+Department: CIVL
+Course Number: 210
+Section: L2E
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Civil, Room: and
+Instructor: FANNIN, R JONATHAN
+
+Department: CIVL
+Course Number: 210
+Section: L2F
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Civil, Room: and
+Instructor: FANNIN, R JONATHAN
+
+Department: CIVL
+Course Number: 210
+Section: L2G
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Civil, Room: and
+Instructor: FANNIN, R JONATHAN
+
+Department: CIVL
+Course Number: 210
+Section: L2H
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Civil, Room: and
+Instructor: FANNIN, R JONATHAN
+
+Department: CIVL
+Course Number: 210
+Section: T2A
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Aquatic, Room: Ecosystems
+Instructor: FANNIN, R JONATHAN
+
+Department: CIVL
+Course Number: 210
+Section: T2B
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Aquatic, Room: Ecosystems
+Instructor: FANNIN, R JONATHAN
+
+Department: CIVL
+Course Number: 210
+Section: 202
+Description: Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis.
+Pre-reqs: One of CIVL 230, MECH 260.
+Co-reqs: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

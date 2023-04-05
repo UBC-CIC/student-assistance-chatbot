@@ -1,0 +1,17 @@
+Department: ETEC
+Course Number: 530
+Section: 65A
+Description: Constructivism Strategies for E-Learning
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: JANES, DIANE
+
+Department: ETEC
+Course Number: 530
+Section: W5A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

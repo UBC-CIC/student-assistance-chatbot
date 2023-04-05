@@ -1,0 +1,10 @@
+Department: EDCP
+Course Number: 520
+Section: 031
+Description: Emphasis is placed upon the foundations and conflicting conceptions of curriculum in art education. Theory/practice issues in the development, implementation, and evaluation of art programs are explored.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: BERARD, MARIE-FRANCE
+

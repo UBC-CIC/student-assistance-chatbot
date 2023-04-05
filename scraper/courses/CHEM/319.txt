@@ -1,0 +1,19 @@
+Department: CHEM
+Course Number: 319
+Section: 162
+Description: The nature of scientific research; practical skills for chemical research; communicating science. Restricted to Honours students with third year standing and, with permission of the department Head, to Major students with satisfactory third year standing.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: Chemistry, Room: D317
+Instructor: STOODLEY, ROBIN
+
+Department: CHEM
+Course Number: 319
+Section: 1W1
+Description: The nature of scientific research; practical skills for chemical research; communicating science. Restricted to Honours students with third year standing and, with permission of the department Head, to Major students with satisfactory third year standing.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

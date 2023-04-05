@@ -1,0 +1,9 @@
+Department: LAW
+Course Number: 530
+Section: 001
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: TSIAKOS, GEORGE
+

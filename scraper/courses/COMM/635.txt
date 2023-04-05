@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 635
+Section: 001
+Description: Advanced Topics in Management Information Systems
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: NAN, NING
+

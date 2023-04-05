@@ -1,0 +1,18 @@
+Department: FREN
+Course Number: 499
+Section: 101
+Description: Honours Essay
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FREN
+Course Number: 499
+Section: 201
+Description: Honours Essay
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

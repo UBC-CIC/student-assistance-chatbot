@@ -1,0 +1,55 @@
+Department: FMST
+Course Number: 312
+Section: 104
+Description: Parent-child interaction over the life span.
+Pre-reqs: One of SOCI 200, FMST 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Chemical, Room: and
+Instructor: FREEBORN, CHELSEA
+
+Department: FMST
+Course Number: 312
+Section: 105
+Description: Parent-child interaction over the life span.
+Pre-reqs: One of SOCI 200, FMST 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Chemical, Room: and
+Instructor: FREEBORN, CHELSEA
+
+Department: FMST
+Course Number: 312
+Section: 106
+Description: Parent-child interaction over the life span.
+Pre-reqs: One of SOCI 200, FMST 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Chemistry, Room: D300
+Instructor: FREEBORN, CHELSEA
+
+Department: FMST
+Course Number: 312
+Section: 202
+Description: Parent-child interaction over the life span.
+Pre-reqs: One of SOCI 200, FMST 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: UBC, Room: Life
+Instructor: FREEBORN, CHELSEA
+
+Department: FMST
+Course Number: 312
+Section: 205
+Description: Parent-child interaction over the life span.
+Pre-reqs: One of SOCI 200, FMST 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Irving, Room: K
+Instructor: WAINER, RAFAEL
+

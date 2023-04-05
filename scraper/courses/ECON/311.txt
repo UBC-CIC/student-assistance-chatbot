@@ -1,0 +1,10 @@
+Department: ECON
+Course Number: 311
+Section: 001
+Pre-reqs: (Third-year, fourth-year or graduate standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Neville, Room: Scarfe
+Instructor: SHRESTHA, RATNA
+

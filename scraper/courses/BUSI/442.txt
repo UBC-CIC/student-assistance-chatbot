@@ -1,0 +1,20 @@
+Department: BUSI
+Course Number: 442
+Section: 001
+Description: Examines the day-to day issues that affect the practice of real estate appraisal.
+Pre-reqs: All of BUSI 121, BUSI 330, BUSI 331.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BUSI
+Course Number: 442
+Section: 002
+Description: Examines the day-to day issues that affect the practice of real estate appraisal.
+Pre-reqs: All of BUSI 121, BUSI 330, BUSI 331.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

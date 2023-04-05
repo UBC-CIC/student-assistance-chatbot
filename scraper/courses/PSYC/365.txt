@@ -1,0 +1,11 @@
+Department: PSYC
+Course Number: 365
+Section: 001
+Description: Current research into human brain systems underlying cognitive processes such as perception, attention, memory, and decision-making.
+Pre-reqs: One of NSCI 201, PSYC 260, PSYC 270, COGS 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Hebb, Room: 100
+Instructor: TODD, REBECCA
+

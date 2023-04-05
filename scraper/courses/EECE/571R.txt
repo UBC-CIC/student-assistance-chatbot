@@ -1,0 +1,17 @@
+Department: EECE
+Course Number: 571R
+Section: 203
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Hugh, Room: Dempster
+Instructor: CHEN, GEORGE
+
+Department: EECE
+Course Number: 571R
+Section: 2W3
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

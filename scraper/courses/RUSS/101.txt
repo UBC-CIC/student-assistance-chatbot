@@ -1,0 +1,40 @@
+Department: RUSS
+Course Number: 101
+Section: 001
+Description: Basic Russian I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D312
+Instructor: CHITNEV, VETA
+
+Department: RUSS
+Course Number: 101
+Section: 002
+Description: Basic Russian I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B211
+Instructor: PRYKHODKO, DARIYA
+
+Department: RUSS
+Course Number: 101
+Section: 003
+Description: Basic Russian I
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30
+Instructor: RODOVA, LIUDMILA
+
+Department: RUSS
+Course Number: 101
+Section: 004
+Description: Basic Russian I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: Tower
+Instructor: CHITNEV, VETA
+

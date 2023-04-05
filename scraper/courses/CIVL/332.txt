@@ -1,0 +1,22 @@
+Department: CIVL
+Course Number: 332
+Section: 101
+Description: Introduction to indeterminate structural analysis; approximate analysis of structures; calculation of displacements using virtual work; flexibility (force) method; stiffness method for frames; moment distribution method; influence lines, introduction to structural dynamics.
+Pre-reqs: All of CIVL 231, MATH 152.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: P., Room: A.
+Instructor: HAUKAAS, TERJE
+
+Department: CIVL
+Course Number: 332
+Section: L01
+Description: Introduction to indeterminate structural analysis; approximate analysis of structures; calculation of displacements using virtual work; flexibility (force) method; stiffness method for frames; moment distribution method; influence lines, introduction to structural dynamics.
+Pre-reqs: All of CIVL 231, MATH 152.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: Chemical, Room: and
+Instructor: HAUKAAS, TERJE
+

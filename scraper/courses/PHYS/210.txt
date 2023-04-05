@@ -1,0 +1,59 @@
+Department: PHYS
+Course Number: 210
+Section: 101
+Description: Introduction to UNIX/Linux; software tools for processing, fitting and displaying data; numerical methods and application in the physical sciences.
+Pre-reqs: One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001.
+Co-reqs: One of MATH 152, MATH 221, MATH 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:30, End Time: 13:00, Building: Hebb, Room: B112
+Instructor: IVES, JOSS
+
+Department: PHYS
+Course Number: 210
+Section: L1A
+Description: Introduction to UNIX/Linux; software tools for processing, fitting and displaying data; numerical methods and application in the physical sciences.
+Pre-reqs: One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001.
+Co-reqs: One of MATH 152, MATH 221, MATH 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 15:00, Building: Hebb, Room: B112
+Instructor: IVES, JOSS
+
+Department: PHYS
+Course Number: 210
+Section: 102
+Description: Introduction to UNIX/Linux; software tools for processing, fitting and displaying data; numerical methods and application in the physical sciences.
+Pre-reqs: One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001.
+Co-reqs: One of MATH 152, MATH 221, MATH 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 16:00, Building: Hebb, Room: B112
+Instructor: IVES, JOSS
+
+Department: PHYS
+Course Number: 210
+Section: L1B
+Description: Introduction to UNIX/Linux; software tools for processing, fitting and displaying data; numerical methods and application in the physical sciences.
+Pre-reqs: One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001.
+Co-reqs: One of MATH 152, MATH 221, MATH 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 18:00, Building: Hebb, Room: B112
+Instructor: IVES, JOSS
+
+Department: PHYS
+Course Number: 210
+Section: 10W
+Description: Introduction to UNIX/Linux; software tools for processing, fitting and displaying data; numerical methods and application in the physical sciences.
+Pre-reqs: One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001.
+Co-reqs: One of MATH 152, MATH 221, MATH 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

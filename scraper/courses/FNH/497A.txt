@@ -1,0 +1,16 @@
+Department: FNH
+Course Number: 497A
+Section: 101
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FNH
+Course Number: 497A
+Section: 102
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

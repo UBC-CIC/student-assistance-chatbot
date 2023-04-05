@@ -1,0 +1,63 @@
+Department: SOCI
+Course Number: 100
+Section: 306
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: A104
+Instructor: GREER, KERRY
+
+Department: SOCI
+Course Number: 100
+Section: D6A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D304
+Instructor: TBA
+
+Department: SOCI
+Course Number: 100
+Section: D6B
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 100
+Section: D6C
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B310
+Instructor: TBA
+
+Department: SOCI
+Course Number: 100
+Section: D6D
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 100
+Section: D6E
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D307
+Instructor: TBA
+
+Department: SOCI
+Course Number: 100
+Section: D6F
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B306
+Instructor: TBA
+

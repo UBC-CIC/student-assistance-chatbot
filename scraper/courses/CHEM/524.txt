@@ -1,0 +1,9 @@
+Department: CHEM
+Course Number: 524
+Section: 209
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Chemistry, Room: D215
+Instructor: SCHAFER, LAUREL
+

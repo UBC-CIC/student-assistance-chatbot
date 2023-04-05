@@ -1,0 +1,20 @@
+Department: CHEM
+Course Number: 498
+Section: 610
+Description: Co-operative Work Placement III
+Pre-reqs: CHEM 399.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CHEM
+Course Number: 498
+Section: 620
+Description: Co-operative Work Placement III
+Pre-reqs: CHEM 399.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

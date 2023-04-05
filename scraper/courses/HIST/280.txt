@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 280
+Section: 201
+Description: The history of the Islamic world in its global dimensions from its origins to the present day through the themes of religion, law, politics, culture, and modernity.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: B213
+Instructor: KHAKZAD, DELBAR
+

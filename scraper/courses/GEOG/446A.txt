@@ -1,0 +1,10 @@
+Department: GEOG
+Course Number: 446A
+Section: 101
+Description: See the departmental undergraduate advisor for details.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Irving, Room: K
+Instructor: BROWN, LOCH
+

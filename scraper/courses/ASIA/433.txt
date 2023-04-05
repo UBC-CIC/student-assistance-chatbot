@@ -1,0 +1,22 @@
+Department: ASIA
+Course Number: 433
+Section: 001
+Description: Representations of Muslims in Hindi/Urdu Films
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00
+Instructor: THOBANI, SUNERA
+
+Department: ASIA
+Course Number: 433
+Section: W01
+Description: Depictions of Muslims in relation to the majoritarian community as well as other minorities in South Asian cinema, with a particular focus on the Hindi/Urdu film industry.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: To, Room: Be
+Instructor: THOBANI, SUNERA
+

@@ -1,0 +1,44 @@
+Department: MUSC
+Course Number: 101
+Section: 001
+Description: Diatonic Harmony and Voice Leading
+Pre-reqs: One of MUSC 100, MUSC 110.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:00, Building: Music, Room: 301
+Instructor: POUDRIER, EVE
+
+Department: MUSC
+Course Number: 101
+Section: T01
+Description: Diatonic Harmony and Voice Leading
+Pre-reqs: One of MUSC 100, MUSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Music, Room: 339
+Instructor: POUDRIER, EVE
+
+Department: MUSC
+Course Number: 101
+Section: T02
+Description: Diatonic Harmony and Voice Leading
+Pre-reqs: One of MUSC 100, MUSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Music, Room: 339
+Instructor: POUDRIER, EVE
+
+Department: MUSC
+Course Number: 101
+Section: T03
+Description: Diatonic Harmony and Voice Leading
+Pre-reqs: One of MUSC 100, MUSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Music, Room: 339
+Instructor: POUDRIER, EVE
+

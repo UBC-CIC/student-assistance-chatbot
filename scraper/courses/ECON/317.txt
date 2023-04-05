@@ -1,0 +1,22 @@
+Department: ECON
+Course Number: 317
+Section: 001
+Description: Economic inequality in Canada and other countries; measurement and causes. Inequality in the distribution of wealth; redistribution of income and wealth; notions of distributive justice.
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 17:00, End Time: 19:00, Building: Buchanan, Room: A103
+Instructor: DOUGLAS, CATHERINE
+
+Department: ECON
+Course Number: 317
+Section: 002
+Description: Economic inequality in Canada and other countries; measurement and causes. Inequality in the distribution of wealth; redistribution of income and wealth; notions of distributive justice.
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: Iona, Room: Building
+Instructor: GREEN, DAVID
+

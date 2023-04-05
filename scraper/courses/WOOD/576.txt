@@ -1,0 +1,9 @@
+Department: WOOD
+Course Number: 576
+Section: 201
+Description: Analysis and design of structural wood products. Effect of material structure and variability on performance of wood products.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LAM, FRANK
+

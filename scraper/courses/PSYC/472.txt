@@ -1,0 +1,11 @@
+Department: PSYC
+Course Number: 472
+Section: 001
+Description: Neurobiological pathways mediating five core aspects of motivated behaviour: (1) affective decision making; (2) motivated drive; (3) goal-directed vs. habit-based behaviour; (4) learning from negative reinforcers; and (5) disorders of motivation.
+Pre-reqs: PSYC 361.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B313
+Instructor: WINSTANLEY, CATHARINE
+

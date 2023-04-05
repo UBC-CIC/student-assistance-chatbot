@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 505
+Section: 101
+Pre-reqs: (Supervisor and instructor approval required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: P., Room: A.
+Instructor: HATZIKIRIAKOS, SAVVAS
+

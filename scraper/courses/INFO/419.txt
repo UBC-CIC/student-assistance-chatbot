@@ -1,0 +1,11 @@
+Department: INFO
+Course Number: 419
+Section: 001
+Description: Basic theory and practice required to visually represent information. Introduces design principles and practical skills to create effective information visualizations. Examines effect of different visual representations on understanding and meaning.
+Pre-reqs: INFO 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: West, Room: Mall
+Instructor: ARIAS HERNANDEZ, RICHARD
+

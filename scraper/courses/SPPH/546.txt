@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 546
+Section: 001
+Description: Broad understanding of the health system and health system change from an economics perspective, with a focus on delivery, organization, and financing of healthcare.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 12:00
+Instructor: ANIS, ASLAM
+

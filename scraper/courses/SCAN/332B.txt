@@ -1,0 +1,9 @@
+Department: SCAN
+Course Number: 332B
+Section: 001
+Description: Topics in Scandinavian Studies (in English) - TOPICS IN SCAN
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

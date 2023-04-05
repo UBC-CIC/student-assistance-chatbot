@@ -1,0 +1,11 @@
+Department: COMM
+Course Number: 435
+Section: 201
+Description: Common issues faced by Chief Information Officers (CIO): Cost and value of information technology (IT), IT priorities, IT and the Board of Directors, Business-IT alignment, IT governance, IT talent management, standardization vs. innovation, project and vendor management/partnering, and managing security and risks.
+Pre-reqs: COMM 205.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 18:00, End Time: 21:00, Building: David, Room: Lam
+Instructor: EDDIN, SHEILA
+

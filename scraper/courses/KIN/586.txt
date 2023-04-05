@@ -1,0 +1,19 @@
+Department: KIN
+Course Number: 586
+Section: 001
+Description: Analysis of athlete performance and appropriate design and application of coaching intervention and skill acquisition for athlete and coach development.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 15:00, Building: War, Room: Memorial
+Instructor: COLLINGS, GORD
+
+Department: KIN
+Course Number: 586
+Section: WB8
+Description: Analysis of athlete performance and appropriate design and application of coaching intervention and skill acquisition for athlete and coach development.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TAYLOR, SHAUNNA
+

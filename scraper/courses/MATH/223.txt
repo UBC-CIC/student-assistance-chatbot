@@ -1,0 +1,22 @@
+Department: MATH
+Course Number: 223
+Section: 101
+Description: Linear Algebra
+Pre-reqs: Either (a) MATH 121 or (b) a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B213
+Instructor: ROBEVA, ELINA
+
+Department: MATH
+Course Number: 223
+Section: 201
+Description: Linear Algebra
+Pre-reqs: Either (a) MATH 121 or (b) a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Chemistry, Room: D200
+Instructor: GORDON, JULIA YULIA
+

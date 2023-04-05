@@ -1,0 +1,69 @@
+Department: EOSC
+Course Number: 220
+Section: 101
+Pre-reqs: One of CHEM 110, CHEM 111, CHEM 120, CHEM 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 13:00, End Time: 14:00, Building: Earth, Room: Sciences
+Instructor: PORRITT, LUCY
+
+Department: EOSC
+Course Number: 220
+Section: L1A
+Pre-reqs: One of CHEM 110, CHEM 111, CHEM 120, CHEM 121, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 220
+Section: L1B
+Pre-reqs: One of CHEM 110, CHEM 111, CHEM 120, CHEM 121, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 220
+Section: L1C
+Pre-reqs: One of CHEM 110, CHEM 111, CHEM 120, CHEM 121, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 220
+Section: L1D
+Pre-reqs: One of CHEM 110, CHEM 111, CHEM 120, CHEM 121, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 220
+Section: L1E
+Pre-reqs: One of CHEM 110, CHEM 111, CHEM 120, CHEM 121, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:00, End Time: 11:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 220
+Section: WL1
+Pre-reqs: One of CHEM 110, CHEM 111, CHEM 120, CHEM 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

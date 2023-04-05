@@ -1,0 +1,18 @@
+Department: AMNE
+Course Number: 215
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D217
+Instructor: DE ANGELIS, FRANCO
+
+Department: AMNE
+Course Number: 215
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D217
+Instructor: DE ANGELIS, FRANCO
+

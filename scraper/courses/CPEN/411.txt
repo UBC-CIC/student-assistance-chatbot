@@ -1,0 +1,47 @@
+Department: CPEN
+Course Number: 411
+Section: 101
+Pre-reqs: One of CPEN 212, CPEN 311, CPEN 312.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Hugh, Room: Dempster
+Instructor: NAIR, PRASHANT
+
+Department: CPEN
+Course Number: 411
+Section: T1A
+Pre-reqs: One of CPEN 212, CPEN 311, CPEN 312.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Hugh, Room: Dempster
+Instructor: NAIR, PRASHANT
+
+Department: CPEN
+Course Number: 411
+Section: T1W
+Pre-reqs: One of CPEN 212, CPEN 311, CPEN 312.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 411
+Section: 1W1
+Pre-reqs: One of CPEN 212, CPEN 311, CPEN 312.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 411
+Section: T1W
+Pre-reqs: One of CPEN 212, CPEN 311, CPEN 312.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

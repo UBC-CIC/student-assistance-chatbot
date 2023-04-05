@@ -1,0 +1,9 @@
+Department: HIST
+Course Number: 324
+Section: 101
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: GRITTNER, COLIN
+

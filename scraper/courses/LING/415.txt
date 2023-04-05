@@ -1,0 +1,11 @@
+Department: LING
+Course Number: 415
+Section: 002
+Description: A cross-linguistic exploration of language change, discussing theories, data, and methods. Topics can include change across historical time periods, lifespan; change across regions, within areas; change due to language contact and other social and cultural factors.
+Pre-reqs: One of LING 319, LING 445, ENGL 318, ENGL 319, ENGL 324 and two of LING 300, LING 311, LING 313, LING 327.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: West, Room: Mall
+Instructor: CARDOSO, AMANDA
+

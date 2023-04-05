@@ -1,0 +1,20 @@
+Department: FNEL
+Course Number: 381
+Section: 002
+Description: Critical exploration of the links between linguistic, biological and cultural diversity; including connections with linguistic relativity, linguistic identity, language and place; and strategies for collective, interdisciplinary action to promote and support the protection of languages, cultures, and the environment.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: D322
+Instructor: SHERPA, PASANG
+
+Department: FNEL
+Course Number: 381
+Section: WL1
+Description: Critical exploration of the links between linguistic, biological and cultural diversity; including connections with linguistic relativity, linguistic identity, language and place; and strategies for collective, interdisciplinary action to promote and support the protection of languages, cultures, and the environment.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+

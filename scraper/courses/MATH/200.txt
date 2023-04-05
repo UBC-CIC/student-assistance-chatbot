@@ -1,0 +1,99 @@
+Department: MATH
+Course Number: 200
+Section: 101
+Description: Calculus III
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Chemistry, Room: B250
+Instructor: KIM, YOUNG-HEON
+
+Department: MATH
+Course Number: 200
+Section: 102
+Description: Calculus III
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Leonard, Room: S.
+Instructor: HERMON, JONATHAN
+
+Department: MATH
+Course Number: 200
+Section: 104
+Description: Calculus III
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Frederic, Room: Lasserre
+Instructor: COLLIANDER, JAMES
+
+Department: MATH
+Course Number: 200
+Section: 105
+Description: Calculus III
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: A103
+Instructor: CHAU, ALBERT
+
+Department: MATH
+Course Number: 200
+Section: 107
+Description: Calculus III
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: A103
+Instructor: BRUCE, BENJAMIN
+
+Department: MATH
+Course Number: 200
+Section: 109
+Description: Calculus III
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: West, Room: Mall
+Instructor: CHAU, ALBERT
+
+Department: MATH
+Course Number: 200
+Section: 202
+Description: Calculus III
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Leonard, Room: S.
+Instructor: BENNETT, MICHAEL
+
+Department: MATH
+Course Number: 200
+Section: 204
+Description: Calculus III
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Leonard, Room: S.
+Instructor: REICHSTEIN, ZINOVY
+
+Department: MATH
+Course Number: 200
+Section: 20R
+Description: Calculus III
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Mathematics, Room: 104
+Instructor: BRUCE, BENJAMIN
+

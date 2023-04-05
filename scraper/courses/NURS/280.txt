@@ -1,0 +1,76 @@
+Department: NURS
+Course Number: 280
+Section: 001
+Description: Beliefs, behaviours, and expressions of human sexuality and the link to health for students from any program. How sexuality is discussed and practiced from various perspectives, and strategies to promote healthy sexual expression and sexual health.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: P., Room: A.
+Instructor: GILBERT, KRISTEN
+
+Department: NURS
+Course Number: 280
+Section: 002
+Description: Beliefs, behaviours, and expressions of human sexuality and the link to health for students from any program. How sexuality is discussed and practiced from various perspectives, and strategies to promote healthy sexual expression and sexual health.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: P., Room: A.
+Instructor: GILBERT, KRISTEN
+
+Department: NURS
+Course Number: 280
+Section: 01W
+Description: Beliefs, behaviours, and expressions of human sexuality and the link to health for students from any program. How sexuality is discussed and practiced from various perspectives, and strategies to promote healthy sexual expression and sexual health.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: NURS
+Course Number: 280
+Section: 02W
+Description: Beliefs, behaviours, and expressions of human sexuality and the link to health for students from any program. How sexuality is discussed and practiced from various perspectives, and strategies to promote healthy sexual expression and sexual health.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: NURS
+Course Number: 280
+Section: 03W
+Description: Beliefs, behaviours, and expressions of human sexuality and the link to health for students from any program. How sexuality is discussed and practiced from various perspectives, and strategies to promote healthy sexual expression and sexual health.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: NURS
+Course Number: 280
+Section: 04W
+Description: Beliefs, behaviours, and expressions of human sexuality and the link to health for students from any program. How sexuality is discussed and practiced from various perspectives, and strategies to promote healthy sexual expression and sexual health.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: NURS
+Course Number: 280
+Section: 101
+Description: Beliefs, behaviours, and expressions of human sexuality and the link to health for students from any program. How sexuality is discussed and practiced from various perspectives, and strategies to promote healthy sexual expression and sexual health.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Biological, Room: Sciences
+Instructor: GILBERT, KRISTEN
+
+Department: NURS
+Course Number: 280
+Section: 201
+Description: Beliefs, behaviours, and expressions of human sexuality and the link to health for students from any program. How sexuality is discussed and practiced from various perspectives, and strategies to promote healthy sexual expression and sexual health.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Biological, Room: Sciences
+Instructor: GILBERT, KRISTEN
+

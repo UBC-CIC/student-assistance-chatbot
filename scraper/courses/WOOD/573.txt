@@ -1,0 +1,20 @@
+Department: WOOD
+Course Number: 573
+Section: 201
+Description: Thermo-physical and mechano-sorptive properties of wood and their effect on service performance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: AVRAMIDIS, STAVROS
+
+Department: WOOD
+Course Number: 573
+Section: L02
+Description: Thermo-physical and mechano-sorptive properties of wood and their effect on service performance.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: AVRAMIDIS, STAVROS
+

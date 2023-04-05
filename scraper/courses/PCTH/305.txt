@@ -1,0 +1,12 @@
+Department: PCTH
+Course Number: 305
+Section: 001
+Description: Lectures and assigned reading on the effects, mechanisms of action, absorption, distribution, fate and excretion of major classes of therapeutic agents. Indications for the use of particular drugs will be discussed in terms of risk versus benefit for the individual and for society.
+Pre-reqs: One of BIOL 201, BIOC 202, BIOC 203.
+Co-reqs: CAPS 301.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: ABADI, SHIRIN S.A.
+

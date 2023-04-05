@@ -1,0 +1,27 @@
+Department: PATH
+Course Number: 301
+Section: 001
+Description: An integrated approach to specific areas of the theoretical and practical aspects of those physical and biological sciences relevant to medical laboratory science. Emphasis will be placed upon the application of basic science to those clinical disciplines practised by the medical laboratory scientist, e.g., histochemistry, clinical chemistry, microbiology, haematology, etc.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:00, End Time: 10:00, Building: UBC, Room: Hospital
+
+Department: PATH
+Course Number: 301
+Section: L01
+Description: An integrated approach to specific areas of the theoretical and practical aspects of those physical and biological sciences relevant to medical laboratory science. Emphasis will be placed upon the application of basic science to those clinical disciplines practised by the medical laboratory scientist, e.g., histochemistry, clinical chemistry, microbiology, haematology, etc.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 17:00, Building: UBC, Room: Hospital
+
+Department: PATH
+Course Number: 301
+Section: L02
+Description: An integrated approach to specific areas of the theoretical and practical aspects of those physical and biological sciences relevant to medical laboratory science. Emphasis will be placed upon the application of basic science to those clinical disciplines practised by the medical laboratory scientist, e.g., histochemistry, clinical chemistry, microbiology, haematology, etc.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 17:00, Building: UBC, Room: Hospital
+

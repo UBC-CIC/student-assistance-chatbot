@@ -1,0 +1,9 @@
+Department: ANAT
+Course Number: 448N
+Section: 001
+Description: Permission of the Head and supervisor required.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,38 @@
+Department: CPEN
+Course Number: 642
+Section: 201
+Description: Cybersecurity Research Seminar
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:30, End Time: 16:30, Building: Orchard, Room: Commons
+Instructor: BEZNOSOV, KONSTANTIN
+
+Department: CPEN
+Course Number: 642
+Section: 2W1
+Description: Cybersecurity Research Seminar
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 642
+Section: 201
+Description: Cybersecurity Research Seminar
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:30, End Time: 16:30, Building: Orchard, Room: Commons
+Instructor: BEZNOSOV, KONSTANTIN
+
+Department: CPEN
+Course Number: 642
+Section: 2W1
+Description: Cybersecurity Research Seminar
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

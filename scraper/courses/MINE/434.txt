@@ -1,0 +1,32 @@
+Department: MINE
+Course Number: 434
+Section: 201
+Description: Process alternatives and mineralogical considerations; physical and chemical recovery technologies; environmental protection; flowsheet studies.
+Pre-reqs: MINE 331.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Fri, Start Time: 9:00, End Time: 10:00, Building: Frank, Room: Forward
+Instructor: KLEIN, BERN
+
+Department: MINE
+Course Number: 434
+Section: L2A
+Description: Process alternatives and mineralogical considerations; physical and chemical recovery technologies; environmental protection; flowsheet studies.
+Pre-reqs: MINE 331.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00
+Instructor: KLEIN, BERN
+
+Department: MINE
+Course Number: 434
+Section: W-L
+Description: Process alternatives and mineralogical considerations; physical and chemical recovery technologies; environmental protection; flowsheet studies.
+Pre-reqs: MINE 331.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

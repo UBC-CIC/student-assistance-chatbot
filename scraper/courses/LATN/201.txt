@@ -1,0 +1,42 @@
+Department: LATN
+Course Number: 201
+Section: 001
+Description: Completion of the grammatical foundations of classical Latin, Part I.
+Pre-reqs: LATN 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Leon, Room: and
+Instructor: GORRIE, CHARMAINE
+
+Department: LATN
+Course Number: 201
+Section: 002
+Description: Completion of the grammatical foundations of classical Latin, Part I.
+Pre-reqs: LATN 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B303
+Instructor: LOUGHEED, CHRISTOPHER
+
+Department: LATN
+Course Number: 201
+Section: WL1
+Description: Completion of the grammatical foundations of classical Latin, Part I.
+Pre-reqs: LATN 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GORRIE, CHARMAINE
+
+Department: LATN
+Course Number: 201
+Section: WL2
+Description: Completion of the grammatical foundations of classical Latin, Part I.
+Pre-reqs: LATN 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

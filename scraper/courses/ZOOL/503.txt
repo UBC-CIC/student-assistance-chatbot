@@ -1,0 +1,9 @@
+Department: ZOOL
+Course Number: 503
+Section: 001
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00
+Instructor: MARSHALL, KATIE
+

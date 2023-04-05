@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 584
+Section: 001
+Description: Climate science and impacts including: carbon management options; mitigation and energy system changes; efficiency options; 'end-of-pipe' solutions; vulnerability and adaptation to climate change; carbon economics and organization-level strategies in a carbon-constrained world.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: KANDLIKAR, MILIND
+

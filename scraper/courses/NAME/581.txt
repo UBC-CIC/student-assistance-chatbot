@@ -1,0 +1,9 @@
+Department: NAME
+Course Number: 581
+Section: 101
+Co-reqs: All of NAME 578, MECH 488, CIVL 437 and one of NAME 524, APPP 501.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MCGREER, DAN
+

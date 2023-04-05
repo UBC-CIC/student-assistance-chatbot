@@ -1,0 +1,20 @@
+Department: FNIS
+Course Number: 452
+Section: 101
+Pre-reqs: One of FNIS 100, FNSP 200, FNIS 210, FNSP 210, FNIS 220, FNSP 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Leon, Room: and
+Instructor: COULTHARD, GLEN
+
+Department: FNIS
+Course Number: 452
+Section: WL1
+Pre-reqs: One of FNIS 100, FNSP 200, FNIS 210, FNSP 210, FNIS 220, FNSP 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: COULTHARD, GLEN
+

@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 483
+Section: 201
+Description: Integration and application of business knowledge to make business decisions across disciplines; development of personal leadership ability and style. Case-based with guest speakers.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Sat Sun, Start Time: 8:00, End Time: 21:00, Building: Henry, Room: Angus
+Instructor: GAMAR, ADEL
+

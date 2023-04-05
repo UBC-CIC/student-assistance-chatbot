@@ -1,0 +1,776 @@
+Department: EXCH
+Course Number: 380
+Section: 001
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 003
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 005
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 006
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 008
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 009
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 010
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 011
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 012
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 013
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 014
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 015
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 017
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 018
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 019
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 020
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 021
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 022
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 023
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 024
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 029
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 030
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 043
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 066
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 067
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 068
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 069
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 101
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 103
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 104
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 105
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 106
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 107
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 108
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 109
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 110
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 111
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 112
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 113
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 114
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 115
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 116
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 117
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 118
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 119
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 121
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 122
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 123
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 124
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 125
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 126
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 127
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 128
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 129
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 130
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 132
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 133
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 134
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 135
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 169
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 201
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 203
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 205
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 206
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 208
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 209
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 210
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 211
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 213
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 214
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 216
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 217
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 218
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 219
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 220
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 221
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 222
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 223
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 224
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 225
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 226
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 227
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 228
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 229
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 230
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 231
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 232
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 233
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 234
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 235
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 236
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 238
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 239
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 240
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 300
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 302
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 380
+Section: 940
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

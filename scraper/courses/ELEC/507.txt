@@ -1,0 +1,17 @@
+Department: ELEC
+Course Number: 507
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu Fri, Start Time: 15:30, End Time: 17:00, Building: MacLeod, Room: 2014
+Instructor: ROSALES, ROBERTO
+
+Department: ELEC
+Course Number: 507
+Section: 1W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

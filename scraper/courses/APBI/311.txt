@@ -1,0 +1,21 @@
+Department: APBI
+Course Number: 311
+Section: 001
+Description: Cardiovascular, respiratory and osmoregulatory physiology of vertebrates.
+Pre-reqs: BIOL 204 and one of BIOL 260, BIOL 361. (And 3rd year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Wesbrook, Room: 100
+Instructor: BRAUNER, COLIN
+
+Department: APBI
+Course Number: 311
+Section: 0W1
+Description: Cardiovascular, respiratory and osmoregulatory physiology of vertebrates.
+Pre-reqs: BIOL 204 and one of BIOL 260, BIOL 361. (And 3rd year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

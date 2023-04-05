@@ -1,0 +1,11 @@
+Department: MINE
+Course Number: 590X
+Section: 201
+Description: A special advanced course may be arranged upon the approval of the department head.
+Pre-reqs: (Permission of instructor is required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:00, End Time: 16:30, Building: Forest, Room: Sciences
+Instructor: KUNZ, NADJA
+

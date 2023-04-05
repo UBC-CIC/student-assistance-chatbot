@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 435
+Section: 001
+Description: In-depth review of the theoretical principles and evidence basis for comprehensive midwifery care through tutorials and case reviews.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: JEVITT, CECILIA
+

@@ -1,0 +1,11 @@
+Department: FNEL
+Course Number: 448K
+Section: 001
+Description: Supervised by a faculty member.
+Pre-reqs: (Agreement of Supervisor and approval of Chair of FNEL program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 14:00, Building: Buchanan, Room: D325
+Instructor: KADIR, AYNUR
+

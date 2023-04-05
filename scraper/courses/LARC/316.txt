@@ -1,0 +1,10 @@
+Department: LARC
+Course Number: 316
+Section: 002
+Description: Culture and identification of landscape materials with emphasis on woody plants. Elementary principles of landscape composition. Suitable for students of other faculties and departments interested in landscape materials and their uses, but priority given to Agroecology and Landscape Architecture students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 11:00, Building: Hennings, Room: 304
+Instructor: JUSTICE, DOUGLAS
+

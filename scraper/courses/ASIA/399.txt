@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 399
+Section: 001
+Description: Films of the South Asian Diaspora
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 11:30, End Time: 12:30
+Instructor: THOBANI, SUNERA
+
+Department: ASIA
+Course Number: 399
+Section: W01
+Description: Contemporary films of the South Asian Diaspora, with a focus on Canada, US, and UK. Emphasizes theories of representation, visual and cultural analysis.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 11:30, End Time: 12:30
+Instructor: THOBANI, SUNERA
+

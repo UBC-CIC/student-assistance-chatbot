@@ -1,0 +1,11 @@
+Department: BEST
+Course Number: 300
+Section: 101
+Description: Study of occurrence, synthesis, derivatization, physical properties, processing, and application of major bio-based polymers from biomass. Manufacturing processes and uses of biobased products are examined.
+Pre-reqs: One of CHEM 203, CHEM 233.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Forest, Room: Sciences
+Instructor: CRANSTON, EMILY
+

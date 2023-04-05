@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 115
+Section: 001
+Description: Research designs used in midwifery research, types of studies reported in the midwifery and health care literature, research methodology and basic principles of epidemiology, biostatistics and social research.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30
+Instructor: NETHERY, ELIZABETH
+

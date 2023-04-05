@@ -1,0 +1,10 @@
+Department: PHYS
+Course Number: 560
+Section: 201
+Description: Injectors, radio frequency acceleration, superconducting acceleration elements, beam dynamics, and applications of electron accelerators.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Hennings, Room: 301
+Instructor: STELZER-CHILTON, OLIVER
+

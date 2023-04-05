@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 274
+Section: 001
+Description: Open only to B.F.A. Acting students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Thu, Start Time: 9:00, End Time: 12:00, Building: B.C., Room: Binnings
+Instructor: ELCHUK, TANYA
+

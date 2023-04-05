@@ -1,0 +1,22 @@
+Department: CSIS
+Course Number: 200
+Section: 101
+Description: Introductory survey to sexuality studies that emphasizes how sexuality intersects with race, gender, class, ability, and geography.
+Pre-reqs: GRSJ 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: West, Room: Mall
+Instructor: SLOVIN, LJ
+
+Department: CSIS
+Course Number: 200
+Section: WL1
+Description: Introductory survey to sexuality studies that emphasizes how sexuality intersects with race, gender, class, ability, and geography.
+Pre-reqs: GRSJ 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: To, Room: Be
+Instructor: TBA
+

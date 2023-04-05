@@ -1,0 +1,9 @@
+Department: INLB
+Course Number: 401F
+Section: 005
+Description: Topics and location will vary from year to year. Advanced experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s). For further information please consult the departmental website.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Wed Thu Fri, Start Time: 9:30, End Time: 17:00
+

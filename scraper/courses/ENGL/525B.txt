@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 525B
+Section: 001
+Description: Studies in the Eighteenth Century - STUDIES 18TH C
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Buchanan, Room: Tower
+Instructor: HUDSON, NICHOLAS JAMES
+
+Department: ENGL
+Course Number: 525B
+Section: 01W
+Description: Studies in the Eighteenth Century - STUDIES 18TH C
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

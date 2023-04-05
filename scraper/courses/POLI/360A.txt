@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 360A
+Section: 001
+Description: The contemporary international security context: reorientation of the study of security, patterns of inter- and intrastate conflict and communal violence, dilemmas of international response and conflict management.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Iona, Room: Building
+Instructor: CHOWDHURY, ARJUN
+

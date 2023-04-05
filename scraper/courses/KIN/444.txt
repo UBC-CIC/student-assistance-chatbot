@@ -1,0 +1,32 @@
+Department: KIN
+Course Number: 444
+Section: 002
+Description: Examination of innovative, developmentally appropriate, conceptual and tactical approaches to team game instruction.
+Pre-reqs: One of KIN 140, KIN 284. (and Third-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:30, End Time: 12:30, Building: Chemical, Room: and
+Instructor: SAMUHEL-COREWYN, JANKA
+
+Department: KIN
+Course Number: 444
+Section: 0W2
+Description: Examination of innovative, developmentally appropriate, conceptual and tactical approaches to team game instruction.
+Pre-reqs: One of KIN 140, KIN 284. (and Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 444
+Section: L2A
+Description: Examination of innovative, developmentally appropriate, conceptual and tactical approaches to team game instruction.
+Pre-reqs: One of KIN 140, KIN 284. (and Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Robert, Room: F.
+Instructor: SAMUHEL-COREWYN, JANKA
+

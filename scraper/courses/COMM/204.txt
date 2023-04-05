@@ -1,0 +1,143 @@
+Department: COMM
+Course Number: 204
+Section: 101
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: LIAO, SHA
+
+Department: COMM
+Course Number: 204
+Section: 102
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: LIAO, SHA
+
+Department: COMM
+Course Number: 204
+Section: 103
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: AZARON, AMIR
+
+Department: COMM
+Course Number: 204
+Section: 104
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: AZARON, AMIR
+
+Department: COMM
+Course Number: 204
+Section: 105
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: KHAN, ABRAR MOHAMMED
+
+Department: COMM
+Course Number: 204
+Section: 106
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: KEI, WENDY WAI YEE
+
+Department: COMM
+Course Number: 204
+Section: 201
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: TRIPATHY, MANISH
+
+Department: COMM
+Course Number: 204
+Section: 202
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: KHAN, ABRAR MOHAMMED
+
+Department: COMM
+Course Number: 204
+Section: 203
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: KHAN, ABRAR MOHAMMED
+
+Department: COMM
+Course Number: 204
+Section: 204
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: LIAO, SHA
+
+Department: COMM
+Course Number: 204
+Section: 205
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: LIAO, SHA
+
+Department: COMM
+Course Number: 204
+Section: 206
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: PAAT, JOSEPH
+
+Department: COMM
+Course Number: 204
+Section: 207
+Description: The design and management of systems to make products, provide services and deliver them to the end user.
+Pre-reqs: One of COMM 190, COMM 290 and one of COMM 191, COMM 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: PAAT, JOSEPH
+

@@ -1,0 +1,10 @@
+Department: FRST
+Course Number: 562
+Section: 001
+Description: Contemporary and emerging issues in international forestry.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 16:00, Building: Forest, Room: Sciences
+Instructor: LANGSTON, JAMES
+

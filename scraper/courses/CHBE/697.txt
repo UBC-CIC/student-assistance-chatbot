@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 697
+Section: 001
+Description: Techniques for preparation of a critical literature review and focussed research proposal for Ph.D. candidates. Students perform oral and written critiques of published research in their area of study, define research questions and hypotheses, and develop a focussed research proposal.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: MacMillan, Room: 256
+Instructor: BERLINGUETTE, CURTIS
+

@@ -1,0 +1,24 @@
+Department: EXCH
+Course Number: 580
+Section: 001
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 580
+Section: 101
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 580
+Section: 201
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

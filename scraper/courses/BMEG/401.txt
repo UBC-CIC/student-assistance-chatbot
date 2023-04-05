@@ -1,0 +1,29 @@
+Department: BMEG
+Course Number: 401
+Section: 201
+Description: Canadian and USA engineering economics in BME and healthcare systems. Economic equivalence, cost estimation, risk assessment, regulatory frameworks, economic optimization, intangible factors, ethics, sustainability, financial tools, commercialization and regulator regimes.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Civil, Room: and
+Instructor: TIGHE, ALLYSON
+
+Department: BMEG
+Course Number: 401
+Section: 202
+Description: Canadian and USA engineering economics in BME and healthcare systems. Economic equivalence, cost estimation, risk assessment, regulatory frameworks, economic optimization, intangible factors, ethics, sustainability, financial tools, commercialization and regulator regimes.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: MacLeod, Room: 3002
+Instructor: POGUE, FRASER
+
+Department: BMEG
+Course Number: 401
+Section: WL1
+Description: Canadian and USA engineering economics in BME and healthcare systems. Economic equivalence, cost estimation, risk assessment, regulatory frameworks, economic optimization, intangible factors, ethics, sustainability, financial tools, commercialization and regulator regimes.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

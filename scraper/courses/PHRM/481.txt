@@ -1,0 +1,25 @@
+Department: PHRM
+Course Number: 481
+Section: 001
+Description: Builds on the foundation of patient care and management learning with knowledge about healthcare system improvement. Focuses on principles of quality measurement and quality improvement in health. Pass/Fail.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: WILBUR, KERRY
+
+Department: PHRM
+Course Number: 481
+Section: 005
+Description: Builds on the foundation of patient care and management learning with knowledge about healthcare system improvement. Focuses on principles of quality measurement and quality improvement in health. Pass/Fail.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+
+Department: PHRM
+Course Number: 481
+Section: 007
+Description: Builds on the foundation of patient care and management learning with knowledge about healthcare system improvement. Focuses on principles of quality measurement and quality improvement in health. Pass/Fail.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+

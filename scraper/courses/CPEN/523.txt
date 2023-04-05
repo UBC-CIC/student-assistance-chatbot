@@ -1,0 +1,10 @@
+Department: CPEN
+Course Number: 523
+Section: 101
+Description: Software Project Management
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:30, Building: To, Room: Be
+Instructor: GOPALAKRISHNAN, SATHISH
+

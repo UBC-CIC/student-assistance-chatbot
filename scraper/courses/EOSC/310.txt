@@ -1,0 +1,20 @@
+Department: EOSC
+Course Number: 310
+Section: 99A
+Description: The Earth and the Solar System
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: HODGE, KIRSTEN
+
+Department: EOSC
+Course Number: 310
+Section: 99C
+Description: The Earth and the Solar System
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: QADRI, S.M. TALHA
+

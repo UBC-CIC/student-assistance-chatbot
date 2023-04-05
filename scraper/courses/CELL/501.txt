@@ -1,0 +1,11 @@
+Department: CELL
+Course Number: 501
+Section: 001
+Description: Development of written communication and critical thinking skills.
+Pre-reqs: BIOL 530.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 12:00
+Instructor: ALLAN, DOUGLAS
+

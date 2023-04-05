@@ -1,0 +1,10 @@
+Department: STAT
+Course Number: 547C
+Section: 101
+Description: Topics in Statistics - PROB OF STATS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Neville, Room: Scarfe
+Instructor: BLOEM-REDDY, BENJAMIN
+

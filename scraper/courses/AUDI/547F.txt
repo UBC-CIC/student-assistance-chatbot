@@ -1,0 +1,9 @@
+Department: AUDI
+Course Number: 547F
+Section: 009
+Description: May be taken more than once.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,21 @@
+Department: MICB
+Course Number: 413
+Section: 201
+Description: Critical examination and discussion of contemporary research literature concerning the impact of host-associated microbiomes on host development, health and disease with a focus on humans. Priority given to students in Microbiology and Immunology specializations.
+Pre-reqs: Either (a) MICB 302 and one of MICB 308, MICB 325, BIOL 335; or (b) BIOT 380. (And fourth-year standing in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:30, End Time: 17:30, Building: Neville, Room: Scarfe
+Instructor: FINLAY, B BRETT
+
+Department: MICB
+Course Number: 413
+Section: WL2
+Description: Critical examination and discussion of contemporary research literature concerning the impact of host-associated microbiomes on host development, health and disease with a focus on humans. Priority given to students in Microbiology and Immunology specializations.
+Pre-reqs: Either (a) MICB 302 and one of MICB 308, MICB 325, BIOL 335; or (b) BIOT 380. (And fourth-year standing in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

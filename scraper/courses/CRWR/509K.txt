@@ -1,0 +1,27 @@
+Department: CRWR
+Course Number: 509K
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Buchanan, Room: D315
+Instructor: TATER, MALLORY
+
+Department: CRWR
+Course Number: 509K
+Section: 003
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Leon, Room: and
+Instructor: VIGNA, JOHN
+
+Department: CRWR
+Course Number: 509K
+Section: D01
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Thu Fri
+Instructor: MEDVED, MAUREEN
+

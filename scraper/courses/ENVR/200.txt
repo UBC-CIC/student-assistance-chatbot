@@ -1,0 +1,42 @@
+Department: ENVR
+Course Number: 200
+Section: 101
+Description: Seminars and field trips introducing the major global, regional, and local environmental issues facing human societies.
+Pre-reqs: (Open to all students with second-year, or higher, standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Frank, Room: Forward
+Instructor: CHRITZ, KENDRA
+
+Department: ENVR
+Course Number: 200
+Section: 1W1
+Description: Seminars and field trips introducing the major global, regional, and local environmental issues facing human societies.
+Pre-reqs: (Open to all students with second-year, or higher, standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ENVR
+Course Number: 200
+Section: 201
+Description: Seminars and field trips introducing the major global, regional, and local environmental issues facing human societies.
+Pre-reqs: (Open to all students with second-year, or higher, standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: MacLeod, Room: 3014
+Instructor: ACHAR, JERRY
+
+Department: ENVR
+Course Number: 200
+Section: 2W1
+Description: Seminars and field trips introducing the major global, regional, and local environmental issues facing human societies.
+Pre-reqs: (Open to all students with second-year, or higher, standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

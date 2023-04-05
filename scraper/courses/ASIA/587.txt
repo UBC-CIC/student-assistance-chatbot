@@ -1,0 +1,10 @@
+Department: ASIA
+Course Number: 587
+Section: 007
+Pre-reqs: ASIA 506.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 12:30, Building: Buchanan, Room: B316
+Instructor: HUR, NAM-LIN
+

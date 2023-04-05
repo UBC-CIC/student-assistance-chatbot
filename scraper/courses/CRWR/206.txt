@@ -1,0 +1,20 @@
+Department: CRWR
+Course Number: 206
+Section: 001
+Description: Techniques of and practice in creating, developing, and writing a screenplay. Manuscript submission is not required for admission.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:30, Building: Leonard, Room: S.
+Instructor: GRAEFE, SARA
+
+Department: CRWR
+Course Number: 206
+Section: 002
+Description: Techniques of and practice in creating, developing, and writing a screenplay. Manuscript submission is not required for admission.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00
+Instructor: MCGOWAN, SHARON
+

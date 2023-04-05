@@ -1,0 +1,9 @@
+Department: COMM
+Course Number: 486H
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: TILFORD, WILLIAM
+

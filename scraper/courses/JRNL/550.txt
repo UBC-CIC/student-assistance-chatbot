@@ -1,0 +1,9 @@
+Department: JRNL
+Course Number: 550
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:30, End Time: 12:30, Building: Sing, Room: Tao
+Instructor: MACKINNON, JAMES
+

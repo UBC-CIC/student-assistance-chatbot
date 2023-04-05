@@ -1,0 +1,30 @@
+Department: MINE
+Course Number: 200
+Section: 101
+Description: Introduction to the mining life cycle and the design, planning, operation, and closure of mining systems, with a focus on rock and mineral formation, mineralogy, mining methods, mineral processing, community engagement, and social license to operate.
+Credits: 7
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: GROAT, LEE
+
+Department: MINE
+Course Number: 200
+Section: L1A
+Description: Introduction to the mining life cycle and the design, planning, operation, and closure of mining systems, with a focus on rock and mineral formation, mineralogy, mining methods, mineral processing, community engagement, and social license to operate.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: MINL, Room: 100
+Instructor: GROAT, LEE
+
+Department: MINE
+Course Number: 200
+Section: L2A
+Description: Introduction to the mining life cycle and the design, planning, operation, and closure of mining systems, with a focus on rock and mineral formation, mineralogy, mining methods, mineral processing, community engagement, and social license to operate.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 18:00, Building: MINL, Room: 100
+Instructor: GROAT, LEE
+

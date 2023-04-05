@@ -1,0 +1,16 @@
+Department: AMNE
+Course Number: 236
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: AMNE
+Course Number: 236
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

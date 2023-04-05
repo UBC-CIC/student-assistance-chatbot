@@ -1,0 +1,8 @@
+Department: EDST
+Course Number: 575
+Section: 082
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TAYLOR, ALISON
+

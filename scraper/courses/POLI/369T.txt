@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 369T
+Section: 001
+Description: Issues in International Security - ISS IN INTL SECU
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B315
+Instructor: SHARP, GREGORY
+

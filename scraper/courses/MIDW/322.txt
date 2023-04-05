@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 322
+Section: 002
+Description: Clinical course focusing on consolidation of skills and knowledge of all aspects of midwifery care.
+Credits: 8
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Wed Thu Fri, Start Time: 9:00, End Time: 16:00, Building: To, Room: Be
+Instructor: NGUYEN, JENNIFER
+

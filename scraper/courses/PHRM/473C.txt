@@ -1,0 +1,86 @@
+Department: PHRM
+Course Number: 473C
+Section: 002
+Description: Diverse options available in such domains as patient care (various settings), research, health policy, education, and others. The available placement options will vary from year to year depending on site/preceptor availability. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Wed Thu Fri
+Instructor: FANG, KAYLA
+
+Department: PHRM
+Course Number: 473C
+Section: 003
+Description: Diverse options available in such domains as patient care (various settings), research, health policy, education, and others. The available placement options will vary from year to year depending on site/preceptor availability. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Wed Thu Fri
+Instructor: FANG, KAYLA
+
+Department: PHRM
+Course Number: 473C
+Section: 004
+Description: Diverse options available in such domains as patient care (various settings), research, health policy, education, and others. The available placement options will vary from year to year depending on site/preceptor availability. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Wed Thu Fri
+Instructor: FANG, KAYLA
+
+Department: PHRM
+Course Number: 473C
+Section: 005
+Description: Diverse options available in such domains as patient care (various settings), research, health policy, education, and others. The available placement options will vary from year to year depending on site/preceptor availability. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Wed Thu Fri
+Instructor: FANG, KAYLA
+
+Department: PHRM
+Course Number: 473C
+Section: 006
+Description: Diverse options available in such domains as patient care (various settings), research, health policy, education, and others. The available placement options will vary from year to year depending on site/preceptor availability. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Wed Thu Fri
+Instructor: FANG, KAYLA
+
+Department: PHRM
+Course Number: 473C
+Section: 007
+Description: Diverse options available in such domains as patient care (various settings), research, health policy, education, and others. The available placement options will vary from year to year depending on site/preceptor availability. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Wed Thu Fri
+Instructor: FANG, KAYLA
+
+Department: PHRM
+Course Number: 473C
+Section: 008
+Description: Diverse options available in such domains as patient care (various settings), research, health policy, education, and others. The available placement options will vary from year to year depending on site/preceptor availability. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Wed Thu Fri
+
+Department: PHRM
+Course Number: 473C
+Section: 009
+Description: Diverse options available in such domains as patient care (various settings), research, health policy, education, and others. The available placement options will vary from year to year depending on site/preceptor availability. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TANG, ALEX
+

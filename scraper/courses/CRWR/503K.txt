@@ -1,0 +1,18 @@
+Department: CRWR
+Course Number: 503K
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: D214
+Instructor: KYI, TANYA
+
+Department: CRWR
+Course Number: 503K
+Section: D01
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Wed Thu
+Instructor: SCOTT, JORDAN
+

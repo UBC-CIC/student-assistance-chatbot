@@ -1,0 +1,126 @@
+Department: ADHE
+Course Number: 329
+Section: 63A
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: REGMI, KAPIL
+
+Department: ADHE
+Course Number: 329
+Section: 63B
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: AIJAZI, OMER
+
+Department: ADHE
+Course Number: 329
+Section: 63C
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MAESTRINI, GABRIELLA
+
+Department: ADHE
+Course Number: 329
+Section: 63D
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MAESTRINI, GABRIELLA
+
+Department: ADHE
+Course Number: 329
+Section: 63E
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: AIJAZI, OMER
+
+Department: ADHE
+Course Number: 329
+Section: 63F
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: REGMI, KAPIL
+
+Department: ADHE
+Course Number: 329
+Section: W3D
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: ADHE
+Course Number: 329
+Section: 63A
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: REGMI, KAPIL
+
+Department: ADHE
+Course Number: 329
+Section: 63B
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: AIJAZI, OMER
+
+Department: ADHE
+Course Number: 329
+Section: 63C
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MAESTRINI, GABRIELLA
+
+Department: ADHE
+Course Number: 329
+Section: 63D
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MAESTRINI, GABRIELLA
+
+Department: ADHE
+Course Number: 329
+Section: 63E
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: AIJAZI, OMER
+
+Department: ADHE
+Course Number: 329
+Section: 63F
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: REGMI, KAPIL
+
+Department: ADHE
+Course Number: 329
+Section: W3D
+Description: Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

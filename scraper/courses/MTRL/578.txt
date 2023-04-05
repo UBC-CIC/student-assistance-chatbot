@@ -1,0 +1,20 @@
+Department: MTRL
+Course Number: 578
+Section: 201
+Description: Physical mechanisms of microstructure evolution; structure, energy and mobilities of grain boundaries, grain boundary segregation, precipitation, recovery, recrystallization, grain growth; microstructure engineering of steels.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:00, Building: Frank, Room: Forward
+Instructor: MILITZER, MATTHIAS
+
+Department: MTRL
+Course Number: 578
+Section: T2A
+Description: Physical mechanisms of microstructure evolution; structure, energy and mobilities of grain boundaries, grain boundary segregation, precipitation, recovery, recrystallization, grain growth; microstructure engineering of steels.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 14:00, Building: Frank, Room: Forward
+Instructor: MILITZER, MATTHIAS
+

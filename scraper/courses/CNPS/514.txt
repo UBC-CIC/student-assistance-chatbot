@@ -1,0 +1,10 @@
+Department: CNPS
+Course Number: 514
+Section: 001
+Description: Theory, research, and practice of counselling adolescents.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: BRUNO, TALINO
+

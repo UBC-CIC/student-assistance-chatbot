@@ -1,0 +1,17 @@
+Department: PHRM
+Course Number: 306E
+Section: 001
+Description: Individual assignments involving library and field work investigations of problems associated with pharmacy practice.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BOLT, JENNIFER
+
+Department: PHRM
+Course Number: 306E
+Section: 002
+Description: Individual assignments involving library and field work investigations of problems associated with pharmacy practice.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

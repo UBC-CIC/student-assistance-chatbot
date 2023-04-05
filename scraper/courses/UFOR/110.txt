@@ -1,0 +1,11 @@
+Department: UFOR
+Course Number: 110
+Section: 201
+Description: Basic concepts of landscape design as it relates to urban forestry.
+Pre-reqs: UFOR 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Forest, Room: Sciences
+Instructor: PARK, KEUNHYUN
+

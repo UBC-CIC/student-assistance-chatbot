@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 328E
+Section: 001
+Description: Introduction to the principles of ethnomusicology and an examination of at least two contrasting musical traditions. May be repeated once for credit if different traditions are covered.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Asian, Room: Centre
+Instructor: GBOLONYO, JUSTICE
+

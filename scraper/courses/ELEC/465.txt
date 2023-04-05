@@ -1,0 +1,17 @@
+Department: ELEC
+Course Number: 465
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Hugh, Room: Dempster
+Instructor: CRETU, EDMOND
+
+Department: ELEC
+Course Number: 465
+Section: 1W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

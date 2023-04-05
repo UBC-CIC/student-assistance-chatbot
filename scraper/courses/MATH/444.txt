@@ -1,0 +1,21 @@
+Department: MATH
+Course Number: 444
+Section: 201
+Description: Current research topics in pure and applied mathematics are explored at the undergraduate level. Technical communication and research skills are developed.
+Pre-reqs: One of MATH 220, MATH 226. (and 6 credits of MATH courses numbered 300 or higher.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Mathematics, Room: Annex
+Instructor: ALINIAEIFARD, FARID
+
+Department: MATH
+Course Number: 444
+Section: 202
+Description: Current research topics in pure and applied mathematics are explored at the undergraduate level. Technical communication and research skills are developed.
+Pre-reqs: One of MATH 220, MATH 226. (and 6 credits of MATH courses numbered 300 or higher.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Leonard, Room: S.
+

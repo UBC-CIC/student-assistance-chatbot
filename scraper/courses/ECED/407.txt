@@ -1,0 +1,18 @@
+Department: ECED
+Course Number: 407
+Section: 63A
+Description: Supporting Early Learning in the Pre-School Years
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BURBEE, CAROL
+
+Department: ECED
+Course Number: 407
+Section: 63C
+Description: Supporting Early Learning in the Pre-School Years
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BURBEE, CAROL
+

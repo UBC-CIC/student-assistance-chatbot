@@ -1,0 +1,21 @@
+Department: NURS
+Course Number: 427
+Section: 001
+Description: Nursing practice to consolidate nursing knowledge, theory, evidence, and practice, and facilitate the transition to professional practice.
+Pre-reqs: All of NURS 344, NURS 402, NURS 430.
+Credits: 10
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MCBURNEY, SHEILA MARY
+
+Department: NURS
+Course Number: 427
+Section: 002
+Description: Nursing practice to consolidate nursing knowledge, theory, evidence, and practice, and facilitate the transition to professional practice.
+Pre-reqs: All of NURS 344, NURS 402, NURS 430.
+Credits: 10
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00
+Instructor: AFFLECK, FRANCES
+

@@ -1,0 +1,8 @@
+Department: AMNE
+Course Number: 499
+Section: 001
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 8:00, End Time: 9:00, Building: To, Room: Be
+

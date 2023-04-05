@@ -1,0 +1,11 @@
+Department: PHAR
+Course Number: 305
+Section: 001
+Description: Population-level study designs and their critical appraisal skills in evidence evaluation, with a special emphasis on evidence-based pharmacy practice and the practical application of population-level data analysis and interpretation.
+Pre-reqs: PHAR 205.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 12:00, Building: Pharmaceutical, Room: Sciences
+Instructor: JOHNSON, KATE
+

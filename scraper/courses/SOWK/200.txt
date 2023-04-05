@@ -1,0 +1,19 @@
+Department: SOWK
+Course Number: 200
+Section: 001
+Description: Introduction to Social Welfare
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: West, Room: Mall
+Instructor: DE KERCKHOVE, PASCALE
+
+Department: SOWK
+Course Number: 200
+Section: 1W1
+Description: Introduction to Social Welfare
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

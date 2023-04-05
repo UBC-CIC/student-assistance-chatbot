@@ -1,0 +1,19 @@
+Department: CELL
+Course Number: 503
+Section: 001
+Description: Cellular communication within tissues by direct contact and by modulating and responding to the microenvironment.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 18:00
+Instructor: ROSKELLEY, CALVIN
+
+Department: CELL
+Course Number: 503
+Section: 01W
+Description: Cellular communication within tissues by direct contact and by modulating and responding to the microenvironment.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

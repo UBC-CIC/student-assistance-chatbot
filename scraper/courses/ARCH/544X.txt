@@ -1,0 +1,9 @@
+Department: ARCH
+Course Number: 544X
+Section: 002
+Description: An exploration of selected topics in architecture. Enrolment is limited to facilitate discussion.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: JOHNSON, GREGORY
+

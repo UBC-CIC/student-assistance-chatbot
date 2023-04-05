@@ -1,0 +1,20 @@
+Department: CONS
+Course Number: 200
+Section: 001
+Description: Conceptual foundations of conservation; means of conserving nature and natural resources.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: DICKSON-HOYLE, SARAH
+
+Department: CONS
+Course Number: 200
+Section: 002
+Description: Conceptual foundations of conservation; means of conserving nature and natural resources.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Chemical, Room: and
+Instructor: TOMASELLI CRESPO, MARIA
+

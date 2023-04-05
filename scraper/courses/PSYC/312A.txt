@@ -1,0 +1,11 @@
+Department: PSYC
+Course Number: 312A
+Section: 001
+Description: The principal trends of psychological explanation and events in the history of psychology from the earliest times to the present. Open only to Major or Honours students or by permission of the instructor.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 101 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: Buchanan, Room: A103
+Instructor: KINGSTONE, ALAN FORBES
+

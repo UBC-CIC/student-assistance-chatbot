@@ -1,0 +1,344 @@
+Department: PHYS
+Course Number: 117
+Section: 101
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Hebb, Room: 100
+Instructor: IVES, JOSS
+
+Department: PHYS
+Course Number: 117
+Section: T1A
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1B
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1C
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1D
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1E
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 16:30, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1F
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1G
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1M
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue, Start Time: 20:00, End Time: 21:00
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1N
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1O
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1W
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: 102
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Hennings, Room: 202
+Instructor: IVES, JOSS
+
+Department: PHYS
+Course Number: 117
+Section: T1A
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1B
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1C
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1D
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1E
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 16:30, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1F
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1G
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1N
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1O
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1W
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: 10W
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: T1W
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 117
+Section: V01
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:00, End Time: 10:30, Building: Orchard, Room: Commons
+Instructor: RIEGER, GEORG
+
+Department: PHYS
+Course Number: 117
+Section: VT1
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:30, Building: Forest, Room: Sciences
+Instructor: RIEGER, GEORG
+
+Department: PHYS
+Course Number: 117
+Section: V02
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:30, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: RIEGER, GEORG
+
+Department: PHYS
+Course Number: 117
+Section: VT1
+Description: Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:30, Building: Forest, Room: Sciences
+Instructor: RIEGER, GEORG
+

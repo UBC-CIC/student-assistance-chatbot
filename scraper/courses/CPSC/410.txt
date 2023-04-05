@@ -1,0 +1,22 @@
+Department: CPSC
+Course Number: 410
+Section: 101
+Description: Specification, design, construction and validation of multi-version software systems.
+Pre-reqs: Either (a) CPSC 310 or (b) all of CPEN 321, CPEN 331.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Hugh, Room: Dempster
+Instructor: SUMMERS, ALEXANDER
+
+Department: CPSC
+Course Number: 410
+Section: 1W1
+Description: Specification, design, construction and validation of multi-version software systems.
+Pre-reqs: Either (a) CPSC 310 or (b) all of CPEN 321, CPEN 331.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: To, Room: Be
+Instructor: SUMMERS, ALEXANDER
+

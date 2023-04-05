@@ -1,0 +1,24 @@
+Department: FOPR
+Course Number: 362
+Section: 201
+Description: Harvesting Systems and Forest Access
+Pre-reqs: ECON 101.
+Co-reqs: FRST 318.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Civil, Room: and
+Instructor: SALMON, LEE
+
+Department: FOPR
+Course Number: 362
+Section: L01
+Description: The mechanics and productivity of a broad range of forest harvesting systems combined with topics on forest access.
+Pre-reqs: ECON 101.
+Co-reqs: FRST 318.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 10:30, Building: Forest, Room: Sciences
+Instructor: SALMON, LEE
+

@@ -1,0 +1,10 @@
+Department: CAPS
+Course Number: 449
+Section: 001
+Description: Written report and presentation on an independent investigaton approved by the department head.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Sun, Start Time: 20:30, End Time: 21:00
+Instructor: LOEWEN, CHRISTOPHER
+

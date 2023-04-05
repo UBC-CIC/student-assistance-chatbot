@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 546B
+Section: 001
+Description: Studies in Commonwealth/Post-colonial Literatures - CMMNWLTH/POSTCOL
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:30, End Time: 17:30, Building: Buchanan, Room: Tower
+Instructor: AL-KASSIM, DINA
+
+Department: ENGL
+Course Number: 546B
+Section: 01W
+Description: Studies in Commonwealth/Post-colonial Literatures - CMMNWLTH/POSTCOL
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

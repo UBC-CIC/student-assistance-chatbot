@@ -1,0 +1,17 @@
+Department: EPSE
+Course Number: 436
+Section: 074
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: BRAICH, SUNITA
+
+Department: EPSE
+Course Number: 436
+Section: W74
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

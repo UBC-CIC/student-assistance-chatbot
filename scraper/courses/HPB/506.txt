@@ -1,0 +1,10 @@
+Department: HPB
+Course Number: 506
+Section: 101
+Description: Students will take a building under design and work with the designers towards a high performance energy system. The project will be a proposed high performance building with a client, a design team, and energy performance objectives.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 13:00, Building: Ponderosa, Room: Commons
+Instructor: FRISQUE, ANDREA
+

@@ -1,0 +1,21 @@
+Department: CHEM
+Course Number: 213
+Section: 201
+Description: Spectroscopy of organic compounds. Mechanistic analysis of chemical reactivity of common functional groups with a focus on carbon-carbon bond formation; functional group interconversion. Preference will be given to students in Chemistry or Biochemistry specializations.
+Pre-reqs: Either (a) one of CHEM 203, CHEM 223 or (b) a score of 76% or higher in CHEM 233.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Chemistry, Room: B150
+Instructor: PERRIN, DAVID
+
+Department: CHEM
+Course Number: 213
+Section: 2W1
+Description: Spectroscopy of organic compounds. Mechanistic analysis of chemical reactivity of common functional groups with a focus on carbon-carbon bond formation; functional group interconversion. Preference will be given to students in Chemistry or Biochemistry specializations.
+Pre-reqs: Either (a) one of CHEM 203, CHEM 223 or (b) a score of 76% or higher in CHEM 233.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

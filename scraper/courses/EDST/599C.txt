@@ -1,0 +1,24 @@
+Department: EDST
+Course Number: 599C
+Section: 081
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDST
+Course Number: 599C
+Section: 082
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDST
+Course Number: 599C
+Section: 083
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

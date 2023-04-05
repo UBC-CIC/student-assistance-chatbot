@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 492
+Section: 001
+Description: In consultation with faculty, students develop a research project, report on their project during seminars, give feedback on their fellow students' projects, and write a thesis.
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: CUTLER, FREDERICK
+

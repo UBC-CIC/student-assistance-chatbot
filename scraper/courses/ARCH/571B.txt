@@ -1,0 +1,10 @@
+Department: ARCH
+Course Number: 571B
+Section: 001
+Description: Topics across a range of building material and construction technology-based subject matter.
+Pre-reqs: All of ARCH 511, ARCH 512, ARCH 531.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

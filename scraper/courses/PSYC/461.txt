@@ -1,0 +1,11 @@
+Department: PSYC
+Course Number: 461
+Section: 001
+Description: Experimental findings and theory documenting the plasticity of the brain and its relationship to behaviour: emphasis on gene regulation, neurogenesis and cell morphology changes in relation to learning and experience.
+Pre-reqs: One of PSYC 304, PSYC 360, PSYC 371, PSYC 460.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: To, Room: Be
+Instructor: GALEA, LIISA ANN MARGARET
+

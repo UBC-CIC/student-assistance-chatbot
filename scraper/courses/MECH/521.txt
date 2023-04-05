@@ -1,0 +1,40 @@
+Department: MECH
+Course Number: 521
+Section: 101
+Description: Micro-fabrication of MEMS: solid-state technology and other micromachining techniques. Engineering principles of various MEMS devices.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Forest, Room: Sciences
+Instructor: CHIAO, MU
+
+Department: MECH
+Course Number: 521
+Section: L1A
+Description: Micro-fabrication of MEMS: solid-state technology and other micromachining techniques. Engineering principles of various MEMS devices.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 20:00
+Instructor: TBA
+
+Department: MECH
+Course Number: 521
+Section: L1B
+Description: Micro-fabrication of MEMS: solid-state technology and other micromachining techniques. Engineering principles of various MEMS devices.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 20:00
+Instructor: TBA
+
+Department: MECH
+Course Number: 521
+Section: L1C
+Description: Micro-fabrication of MEMS: solid-state technology and other micromachining techniques. Engineering principles of various MEMS devices.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 17:00, End Time: 20:00
+Instructor: TBA
+

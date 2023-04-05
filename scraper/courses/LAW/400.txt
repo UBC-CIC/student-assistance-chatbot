@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 400
+Section: 001
+Description: Selected topics relating to procedural law and practice in criminal matters.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:00, End Time: 10:30, Building: Allard, Room: Hall
+Instructor: HARRIS, NIKOS
+

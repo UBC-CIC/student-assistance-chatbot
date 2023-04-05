@@ -1,0 +1,9 @@
+Department: PHRM
+Course Number: 306B
+Section: 001
+Description: Individual assignments involving library and field work investigations of problems associated with pharmacy practice.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Instructor: NICHOLL, TESSA
+

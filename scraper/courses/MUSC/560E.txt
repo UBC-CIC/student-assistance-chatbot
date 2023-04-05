@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 560E
+Section: 001
+Description: Open only to graduate students.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Music, Room: 302
+Instructor: PEARSON, ALEC
+

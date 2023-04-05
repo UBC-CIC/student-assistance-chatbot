@@ -1,0 +1,10 @@
+Department: FIPR
+Course Number: 469A
+Section: 001
+Description: Advanced film production, including interdisciplinary projects.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Theatre-Film, Room: Production
+Instructor: YOSHIZAWA, ALEJANDRO
+

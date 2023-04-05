@@ -1,0 +1,3768 @@
+Department: CPSC
+Course Number: 121
+Section: 101
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Hugh, Room: Dempster
+Instructor: MOCHETTI DE MAGALHAES, KARINA
+
+Department: CPSC
+Course Number: 121
+Section: L1A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1L
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1Q
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1R
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1T
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1V
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1X
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1Y
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1Z
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Neville, Room: Scarfe
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 16:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 18:00, End Time: 19:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1L
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: 102
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: MOCHETTI DE MAGALHAES, KARINA
+
+Department: CPSC
+Course Number: 121
+Section: L1A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1L
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1Q
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1R
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1T
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1V
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1X
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1Y
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1Z
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Neville, Room: Scarfe
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 16:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 18:00, End Time: 19:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1L
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: 103
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Forest, Room: Sciences
+Instructor: MOCHETTI DE MAGALHAES, KARINA
+
+Department: CPSC
+Course Number: 121
+Section: L1A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1L
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1Q
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1R
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1T
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1V
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1X
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1Y
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L1Z
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Neville, Room: Scarfe
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 16:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 18:00, End Time: 19:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1L
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T1N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: 1W1
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: To, Room: Be
+Instructor: MOCHETTI DE MAGALHAES, KARINA
+
+Department: CPSC
+Course Number: 121
+Section: 1W2
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: To, Room: Be
+Instructor: MOCHETTI DE MAGALHAES, KARINA
+
+Department: CPSC
+Course Number: 121
+Section: 1W3
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: To, Room: Be
+Instructor: MOCHETTI DE MAGALHAES, KARINA
+
+Department: CPSC
+Course Number: 121
+Section: 201
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: West, Room: Mall
+Instructor: TIEN, GEOFFREY
+
+Department: CPSC
+Course Number: 121
+Section: L22
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L23
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L24
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L25
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L26
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L27
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L28
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L29
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 14:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2L
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2P
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Q
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2R
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2T
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2V
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Y
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Z
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Frank, Room: Forward
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 10:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2P
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Chemical, Room: and
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2Q
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2R
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2T
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: 202
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: West, Room: Mall
+Instructor: TIEN, GEOFFREY
+
+Department: CPSC
+Course Number: 121
+Section: L22
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L23
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L24
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L25
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L26
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L27
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L28
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L29
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 14:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2L
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2P
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Q
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2R
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2T
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2V
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Y
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Z
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Frank, Room: Forward
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 10:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2P
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Chemical, Room: and
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2Q
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2R
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2T
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: 203
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Earth, Room: Sciences
+Instructor: BELLEVILLE, PATRICE
+
+Department: CPSC
+Course Number: 121
+Section: L22
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L23
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L25
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L26
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L27
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L28
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L29
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 14:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2L
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2P
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Q
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2R
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2T
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2V
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Y
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Z
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Frank, Room: Forward
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 10:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2P
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Chemical, Room: and
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2Q
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2R
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2T
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: 204
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Hennings, Room: 201
+Instructor: TIEN, GEOFFREY
+
+Department: CPSC
+Course Number: 121
+Section: L22
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L23
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L24
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L25
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L26
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L27
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L28
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L29
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 14:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2L
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2P
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Q
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2R
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2T
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2V
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Y
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: L2Z
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2A
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2B
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2C
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2D
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2E
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2F
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Frank, Room: Forward
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2G
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2H
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2J
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2K
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2M
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2N
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 10:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2P
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Chemical, Room: and
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2Q
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2R
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: MacLeod, Room: 2012
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2S
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2T
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: T2U
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 3008
+Instructor: TBA
+
+Department: CPSC
+Course Number: 121
+Section: 2W1
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: To, Room: Be
+Instructor: TIEN, GEOFFREY
+
+Department: CPSC
+Course Number: 121
+Section: 2W2
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: To, Room: Be
+Instructor: BELLEVILLE, PATRICE
+
+Department: CPSC
+Course Number: 121
+Section: 2W3
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30
+Instructor: MOCHETTI DE MAGALHAES, KARINA
+
+Department: CPSC
+Course Number: 121
+Section: 2W4
+Description: Models of Computation
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12.)
+Co-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: To, Room: Be
+Instructor: TIEN, GEOFFREY
+

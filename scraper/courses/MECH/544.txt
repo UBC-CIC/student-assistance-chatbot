@@ -1,0 +1,21 @@
+Department: MECH
+Course Number: 544
+Section: 101
+Description: Review of metal cutting mechanics, milling, static deformations of machine tools. Machine tool vibrations, forced and self excited vibrations in machining, chatter, stability. Sensors for machine tool monitoring and adaptive control. Sensor assisted intelligent machining techniques.
+Pre-reqs: All of MECH 392, MECH 466.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:00, End Time: 16:30, Building: Ponderosa, Room: Commons
+Instructor: ALTINTAS, YUSUF
+
+Department: MECH
+Course Number: 544
+Section: WL1
+Description: Review of metal cutting mechanics, milling, static deformations of machine tools. Machine tool vibrations, forced and self excited vibrations in machining, chatter, stability. Sensors for machine tool monitoring and adaptive control. Sensor assisted intelligent machining techniques.
+Pre-reqs: All of MECH 392, MECH 466.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

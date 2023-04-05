@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 317
+Section: 001
+Description: The evolution of a distinctive Korean civilization within the East Asian cultural sphere. Primary focus on cultural, social and political development from the earliest times to the sixteenth century.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Frederic, Room: Lasserre
+Instructor: BAKER, DONALD LESLIE
+
+Department: ASIA
+Course Number: 317
+Section: W01
+Description: The evolution of a distinctive Korean civilization within the East Asian cultural sphere. Primary focus on cultural, social and political development from the earliest times to the sixteenth century.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: To, Room: Be
+Instructor: BAKER, DONALD LESLIE
+

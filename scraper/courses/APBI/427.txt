@@ -1,0 +1,11 @@
+Department: APBI
+Course Number: 427
+Section: 201
+Description: Behavioural, population, and community ecology of insects. Interaction between insects and plants and the application of the principals of insect ecology to biological control of insects and weeds.
+Pre-reqs: Either (a) BIOL 205 or (b) all of BIOL 327, APBI 327.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TSENG, MICHELLE
+

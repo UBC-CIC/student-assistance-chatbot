@@ -1,0 +1,18 @@
+Department: ECED
+Course Number: 417
+Section: 63C
+Description: Supporting Learning in the Kindergarten Year
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: ECCLESTONE, KATHLEEN
+
+Department: ECED
+Course Number: 417
+Section: 63D
+Description: Supporting Learning in the Kindergarten Year
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: ECCLESTONE, KATHLEEN
+

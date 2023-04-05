@@ -1,0 +1,20 @@
+Department: GRSJ
+Course Number: 515A
+Section: 101
+Description: The potential of creative work to disrupt ingrained ideas and representations by appealing to the senses. Study and engage with academics, artists, and activists interested in how art contributes to critical and engaged social justice work.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: B316
+Instructor: MAHTANI, MINELLE
+
+Department: GRSJ
+Course Number: 515A
+Section: WL1
+Description: The potential of creative work to disrupt ingrained ideas and representations by appealing to the senses. Study and engage with academics, artists, and activists interested in how art contributes to critical and engaged social justice work.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+

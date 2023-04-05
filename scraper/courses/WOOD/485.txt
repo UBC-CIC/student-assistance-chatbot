@@ -1,0 +1,22 @@
+Department: WOOD
+Course Number: 485
+Section: 101
+Description: The theory and practice of modern construction techniques used in the manufacture of furniture and cabinets.
+Pre-reqs: All of WOOD 292, WOOD 305.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: FUERST, ROBERT
+
+Department: WOOD
+Course Number: 485
+Section: L01
+Description: The theory and practice of modern construction techniques used in the manufacture of furniture and cabinets.
+Pre-reqs: All of WOOD 292, WOOD 305.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Forest, Room: Sciences
+Instructor: FUERST, ROBERT
+

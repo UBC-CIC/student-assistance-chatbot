@@ -1,0 +1,40 @@
+Department: JAPN
+Course Number: 320
+Section: 001
+Pre-reqs: One of JAPN 103, JAPN 151, JAPN 201, JAPN 260.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 10:00, End Time: 11:00, Building: West, Room: Mall
+Instructor: HILLMAN, KYOKO
+
+Department: JAPN
+Course Number: 320
+Section: 003
+Pre-reqs: One of JAPN 103, JAPN 151, JAPN 201, JAPN 260.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D228
+Instructor: EL-KHOURY, MASUMI ABE
+
+Department: JAPN
+Course Number: 320
+Section: W01
+Pre-reqs: One of JAPN 103, JAPN 151, JAPN 201, JAPN 260.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 10:00, End Time: 11:00, Building: To, Room: Be
+Instructor: HILLMAN, KYOKO
+
+Department: JAPN
+Course Number: 320
+Section: W03
+Pre-reqs: One of JAPN 103, JAPN 151, JAPN 201, JAPN 260.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 13:00, End Time: 14:00, Building: To, Room: Be
+Instructor: EL-KHOURY, MASUMI ABE
+

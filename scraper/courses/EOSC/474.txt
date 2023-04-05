@@ -1,0 +1,19 @@
+Department: EOSC
+Course Number: 474
+Section: 101
+Description: An interdisciplinary study of pollution, with examples drawn from coastal and oceanic environments, including areas of local interest. Intended for third and fourth year students with a background in the sciences.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Leonard, Room: S.
+Instructor: ORIANS, KRISTIN
+
+Department: EOSC
+Course Number: 474
+Section: W-L
+Description: An interdisciplinary study of pollution, with examples drawn from coastal and oceanic environments, including areas of local interest. Intended for third and fourth year students with a background in the sciences.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

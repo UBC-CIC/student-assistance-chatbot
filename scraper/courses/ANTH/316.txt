@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 316
+Section: 001
+Description: Topics in political anthropology; ethnographic and theoretical approaches to nationalism, globalization, political systems, international movements and organizations; anthropology of the state.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Frederic, Room: Lasserre
+Instructor: ZEWERI, HELENA
+

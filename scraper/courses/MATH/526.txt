@@ -1,0 +1,10 @@
+Department: MATH
+Course Number: 526
+Section: 201
+Description: Differential Geometry II
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Mathematics, Room: Annex
+Instructor: PICARD, SEBASTIEN
+

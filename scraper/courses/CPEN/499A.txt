@@ -1,0 +1,45 @@
+Department: CPEN
+Course Number: 499A
+Section: 001
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 499A
+Section: 00W
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 499A
+Section: 101
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FEDOROVA, ALEXANDRA
+
+Department: CPEN
+Course Number: 499A
+Section: 1W1
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 499A
+Section: 201
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

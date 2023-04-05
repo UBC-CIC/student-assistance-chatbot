@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 170
+Section: 001
+Description: Lyric Diction
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:00, Building: Music, Room: 339
+Instructor: GRANT, ANDREA
+

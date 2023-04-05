@@ -1,0 +1,19 @@
+Department: ARCH
+Course Number: 504I
+Section: 001
+Description: Topics in Architectural History I (Pre-1900) - MATERIALITY <20C
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 11:00, Building: Frederic, Room: Lasserre
+Instructor: GRAY, CHRISTINA
+
+Department: ARCH
+Course Number: 504I
+Section: WL1
+Description: Topics in Architectural History I (Pre-1900) - MATERIALITY <20C
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GRAY, CHRISTINA
+

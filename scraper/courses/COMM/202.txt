@@ -1,0 +1,1680 @@
+Department: COMM
+Course Number: 202
+Section: 101
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TOPLEY, CONOR
+
+Department: COMM
+Course Number: 202
+Section: T01
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T02
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T03
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T04
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T05
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T06
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T07
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T08
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T09
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T10
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T11
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T12
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T13
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T14
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T15
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T16
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T17
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T18
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T19
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T20
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: 102
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TOPLEY, CONOR
+
+Department: COMM
+Course Number: 202
+Section: T01
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T02
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T03
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T04
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T05
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T06
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T07
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T08
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T09
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T10
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T11
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T12
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T13
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T14
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T15
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T16
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T17
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T18
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T19
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T20
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: 103
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TOPLEY, CONOR
+
+Department: COMM
+Course Number: 202
+Section: T01
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T02
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T03
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T04
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T05
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T06
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T07
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T08
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T09
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T10
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T11
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T12
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T13
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T14
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T15
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T16
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T17
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T18
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T19
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T20
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: 104
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TOPLEY, CONOR
+
+Department: COMM
+Course Number: 202
+Section: T01
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T02
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T03
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T04
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T05
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T06
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T07
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T08
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T09
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T10
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T11
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T12
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T13
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T14
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T15
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T16
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T17
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T18
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T19
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T20
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: 201
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TOPLEY, CONOR
+
+Department: COMM
+Course Number: 202
+Section: T21
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T22
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T23
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T24
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T25
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T26
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T27
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T28
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T29
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T30
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T31
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T32
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T33
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T34
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T35
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T36
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T37
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T38
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:30, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T39
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:30, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T40
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:30, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: 202
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:30, End Time: 18:30, Building: Henry, Room: Angus
+Instructor: TOPLEY, CONOR
+
+Department: COMM
+Course Number: 202
+Section: T21
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T22
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T23
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T24
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T25
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T26
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T27
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T28
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T29
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T30
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T31
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T32
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T33
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T34
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T35
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T36
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T37
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T38
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:30, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T39
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:30, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T40
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:30, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: 203
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TOPLEY, CONOR
+
+Department: COMM
+Course Number: 202
+Section: T21
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T22
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T23
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T24
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T25
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T26
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T27
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T28
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T29
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T30
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T31
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T32
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T33
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T34
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T35
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T36
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T37
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T38
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:30, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T39
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:30, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T40
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:30, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: 204
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TOPLEY, CONOR
+
+Department: COMM
+Course Number: 202
+Section: T21
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T22
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T23
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T24
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T25
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T26
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T27
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T28
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T29
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T30
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T31
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T32
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T33
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T34
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T35
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T36
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T37
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:30, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T38
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:30, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T39
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:30, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 202
+Section: T40
+Description: Fundamentals of career management including effective resume and cover letter writing, performing well in interviews and learning about the recruiting cycles, networking and resources available at the Hari B. Varshney Business Career Centre.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:30, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: TBA
+

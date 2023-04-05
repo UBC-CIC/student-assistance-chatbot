@@ -1,0 +1,9 @@
+Department: BAIT
+Course Number: 515
+Section: 001
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 18:00, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: NORTON, OLIVIA
+

@@ -1,0 +1,20 @@
+Department: EDST
+Course Number: 602A
+Section: 083
+Description: For students in the first or second year of a doctoral program as determined in consultation with the student's supervisor. Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: METCALFE, AMY
+
+Department: EDST
+Course Number: 602A
+Section: 084
+Description: For students in the first or second year of a doctoral program as determined in consultation with the student's supervisor. Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 17:00, End Time: 20:00, Building: Ponderosa, Room: Commons
+Instructor: TAYLOR, ALISON
+

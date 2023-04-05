@@ -1,0 +1,9 @@
+Department: FRST
+Course Number: 558
+Section: 201
+Description: Preparation of landscape-level sustainable forest management plans that integrate ecological, social, and economic components.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BYRNE, KENNETH
+

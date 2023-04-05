@@ -1,0 +1,11 @@
+Department: BEST
+Course Number: 401
+Section: 101
+Description: Understanding key issues for carbon management, protocols for carbon accounting and methodologies for emissions inventories and carbon costing. Economics and business response to climate change are examined.
+Pre-reqs: ECON 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: MacLeod, Room: 3018
+Instructor: GUTA, DAWIT
+

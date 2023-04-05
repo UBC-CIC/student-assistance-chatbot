@@ -1,0 +1,24 @@
+Department: DENT
+Course Number: 561D
+Section: 102
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: WYATT, CHRISTOPHER
+
+Department: DENT
+Course Number: 561D
+Section: 103
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MOSTAFA, NESRINE
+
+Department: DENT
+Course Number: 561D
+Section: 104
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

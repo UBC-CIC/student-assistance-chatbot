@@ -1,0 +1,30 @@
+Department: SOCI
+Course Number: 433A
+Section: 101
+Description: General reading and/or a research undertaking, with the agreement, and under the supervision, of a Department faculty member selected by the student.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102. (And permission of the Department.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: SOCI
+Course Number: 433A
+Section: 201
+Description: General reading and/or a research undertaking, with the agreement, and under the supervision, of a Department faculty member selected by the student.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102. (And permission of the Department.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: SOCI
+Course Number: 433A
+Section: 301
+Description: General reading and/or a research undertaking, with the agreement, and under the supervision, of a Department faculty member selected by the student.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102. (And permission of the Department.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

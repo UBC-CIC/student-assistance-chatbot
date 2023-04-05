@@ -1,0 +1,22 @@
+Department: PHIL
+Course Number: 338A
+Section: 001
+Description: Concepts of law, constitution and sovereignty; law and morality; natural law theories and legal positivism; obligation, responsibility, and punishment.
+Pre-reqs: (Restricted to second- or higher-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 18:30, End Time: 20:00, Building: Buchanan, Room: A203
+Instructor: LUKITS, STEFAN
+
+Department: PHIL
+Course Number: 338A
+Section: 002
+Description: Concepts of law, constitution and sovereignty; law and morality; natural law theories and legal positivism; obligation, responsibility, and punishment.
+Pre-reqs: (Restricted to second- or higher-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Chemistry, Room: C126
+Instructor: BITTNER, THOMAS JACOB
+

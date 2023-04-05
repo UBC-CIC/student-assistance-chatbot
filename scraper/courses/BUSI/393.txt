@@ -1,0 +1,40 @@
+Department: BUSI
+Course Number: 393
+Section: 101
+Description: Introduction to the law of contracts, with particular reference to contracts for sale of goods and related law of personal property, principles of agency, partnership, and company law.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Wed, Start Time: 18:30, End Time: 21:30
+Instructor: COX, BARBARA
+
+Department: BUSI
+Course Number: 393
+Section: 102
+Description: Introduction to Business Law
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Thu, Start Time: 18:30, End Time: 21:30
+Instructor: COX, BARBARA
+
+Department: BUSI
+Course Number: 393
+Section: 201
+Description: Introduction to Business Law
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 18:30, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: KANHAI, DEVIN
+
+Department: BUSI
+Course Number: 393
+Section: 202
+Description: Introduction to the law of contracts, with particular reference to contracts for sale of goods and related law of personal property, principles of agency, partnership, and company law.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Thu, Start Time: 18:30, End Time: 21:30
+Instructor: COX, BARBARA
+

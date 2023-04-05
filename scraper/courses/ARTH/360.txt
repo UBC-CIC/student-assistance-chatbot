@@ -1,0 +1,20 @@
+Department: ARTH
+Course Number: 360
+Section: 001
+Description: Analyses visual narratives and relationships between painting, calligraphy, and poetry in court and literati painting.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Geography, Room: 147
+Instructor: ORELL, JULIA
+
+Department: ARTH
+Course Number: 360
+Section: 01W
+Description: Analyses visual narratives and relationships between painting, calligraphy, and poetry in court and literati painting.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 14:30
+Instructor: TBA
+

@@ -1,0 +1,27 @@
+Department: EDUC
+Course Number: 421D
+Section: 21S
+Pre-reqs: (Normally all requirements set to precede this practicum.)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDUC
+Course Number: 421D
+Section: 301
+Pre-reqs: (Normally all requirements set to precede this practicum.)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: YAMAMOTO, JOHN
+
+Department: EDUC
+Course Number: 421D
+Section: 640
+Pre-reqs: (Normally all requirements set to precede this practicum.)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FLICK, DENISE
+

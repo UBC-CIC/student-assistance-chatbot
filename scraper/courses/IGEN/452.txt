@@ -1,0 +1,22 @@
+Department: IGEN
+Course Number: 452
+Section: 201
+Description: Pipeline and pipeline system design reflecting technical, regulatory, environmental, societal, professional, and economic aspects; pipeline design project.
+Pre-reqs: IGEN 450.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: WIJEWICKREME, DHARMAPRIYA
+
+Department: IGEN
+Course Number: 452
+Section: T2A
+Description: Pipeline and pipeline system design reflecting technical, regulatory, environmental, societal, professional, and economic aspects; pipeline design project.
+Pre-reqs: IGEN 450.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: WIJEWICKREME, DHARMAPRIYA
+

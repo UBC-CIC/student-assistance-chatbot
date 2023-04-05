@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 492
+Section: 201
+Description: Research project under the direction of a staff member.
+Pre-reqs: CHBE 491.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CAO, YANKAI
+

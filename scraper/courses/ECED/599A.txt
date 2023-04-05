@@ -1,0 +1,24 @@
+Department: ECED
+Course Number: 599A
+Section: 051
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ECED
+Course Number: 599A
+Section: 052
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ECED
+Course Number: 599A
+Section: 053
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

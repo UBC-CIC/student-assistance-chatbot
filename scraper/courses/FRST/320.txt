@@ -1,0 +1,33 @@
+Department: FRST
+Course Number: 320
+Section: 101
+Description: Ecological effects of fire and climatic (wind, temperature, and snow) disturbances; fire danger rating, principles of fire management and prescribed fire use; windthrow risk modelling and management.
+Pre-reqs: All of FRST 210, FRST 211.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Hugh, Room: Dempster
+Instructor: DANIELS, LORI
+
+Department: FRST
+Course Number: 320
+Section: L01
+Description: Ecological effects of fire and climatic (wind, temperature, and snow) disturbances; fire danger rating, principles of fire management and prescribed fire use; windthrow risk modelling and management.
+Pre-reqs: All of FRST 210, FRST 211.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: MacLeod, Room: 3018
+Instructor: DANIELS, LORI
+
+Department: FRST
+Course Number: 320
+Section: L02
+Description: Ecological effects of fire and climatic (wind, temperature, and snow) disturbances; fire danger rating, principles of fire management and prescribed fire use; windthrow risk modelling and management.
+Pre-reqs: All of FRST 210, FRST 211.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: MacLeod, Room: 2012
+Instructor: DANIELS, LORI
+

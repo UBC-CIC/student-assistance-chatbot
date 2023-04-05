@@ -1,0 +1,27 @@
+Department: ASIA
+Course Number: 599B
+Section: 001
+Description: Master's Thesis - MASTERS THESIS
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ASIA
+Course Number: 599B
+Section: 002
+Description: Master's Thesis - MASTERS THESIS
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ASIA
+Course Number: 599B
+Section: 101
+Description: Master's Thesis - MASTERS THESIS
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

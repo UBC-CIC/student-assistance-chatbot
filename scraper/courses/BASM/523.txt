@@ -1,0 +1,19 @@
+Department: BASM
+Course Number: 523
+Section: 001
+Pre-reqs: All of BASM 501, BAFI 500.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 18:00, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: ARRATA, PHILIPPE
+
+Department: BASM
+Course Number: 523
+Section: WL1
+Pre-reqs: All of BASM 501, BAFI 500.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

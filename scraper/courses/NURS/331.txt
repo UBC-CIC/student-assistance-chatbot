@@ -1,0 +1,12 @@
+Department: NURS
+Course Number: 331
+Section: 002
+Description: Consolidation of fundamental theories, concepts, evidence, and competencies pertaining to acute care nursing practice with adults/older adults and their families.
+Pre-reqs: All of NURS 300, NURS 310, NURS 321, NURS 352, NURS 360.
+Co-reqs: All of NURS 322, NURS 361.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: West, Room: Mall
+Instructor: TIPPING, JULIE ANNE
+

@@ -1,0 +1,8 @@
+Department: DES
+Course Number: 101
+Section: 001
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FUJITA, MARI
+

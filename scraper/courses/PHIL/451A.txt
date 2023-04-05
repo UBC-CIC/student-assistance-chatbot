@@ -1,0 +1,22 @@
+Department: PHIL
+Course Number: 451A
+Section: 001
+Description: The nature of the mental and physical; the relation between minds and bodies; the character of psychological explanation.
+Pre-reqs: Either (a) PHIL 240 or (b) COGS 200. (If COGS 200, accompanied by 3 credits of PHIL at the 200-level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: B215
+Instructor: HENRY, AARON
+
+Department: PHIL
+Course Number: 451A
+Section: 002
+Description: The nature of the mental and physical; the relation between minds and bodies; the character of psychological explanation.
+Pre-reqs: Either (a) PHIL 240 or (b) COGS 200. (If COGS 200, accompanied by 3 credits of PHIL at the 200-level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: B315
+Instructor: THOMPSON, EVAN
+

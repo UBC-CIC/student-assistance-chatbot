@@ -1,0 +1,11 @@
+Department: SOCI
+Course Number: 440
+Section: 101
+Description: Analysis of economic actions and institutions using the concepts and methods of sociology.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: Anthropology, Room: and
+Instructor: HANSER, AMY
+

@@ -1,0 +1,11 @@
+Department: UFOR
+Course Number: 330
+Section: 201
+Description: Theory, concepts and applications of urban green equity and urban environmental justice with particular focus on implications for urban forest policy, planning, management, and design.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: NESBITT, LORIEN
+

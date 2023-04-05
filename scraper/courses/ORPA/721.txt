@@ -1,0 +1,9 @@
+Department: ORPA
+Course Number: 721
+Section: 001
+Description: A series of seminars is given weekly, and during each 2-hour session a topic in clinical orthopaedics is reviewed. The subject matter includes the whole spectrum of orthopaedics. One or more faculty members are in attendance at each seminar.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

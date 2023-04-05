@@ -1,0 +1,80 @@
+Department: KORN
+Course Number: 102
+Section: 001
+Description: Basic Korean
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D221
+Instructor: SHIN, EURIE
+
+Department: KORN
+Course Number: 102
+Section: 002
+Description: Basic Korean
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D221
+Instructor: SHIN, EURIE
+
+Department: KORN
+Course Number: 102
+Section: 005
+Description: Basic Korean
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Leon, Room: and
+Instructor: SON, JEONG HYE
+
+Department: KORN
+Course Number: 102
+Section: 006
+Description: Basic Korean
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Fri, Start Time: 15:00, End Time: 16:00, Building: Leon, Room: and
+Instructor: SON, JEONG HYE
+
+Department: KORN
+Course Number: 102
+Section: W01
+Description: Basic Korean
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 10:00, End Time: 11:00, Building: To, Room: Be
+Instructor: SHIN, EURIE
+
+Department: KORN
+Course Number: 102
+Section: W02
+Description: Basic Korean
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 11:00, End Time: 12:00, Building: To, Room: Be
+Instructor: SHIN, EURIE
+
+Department: KORN
+Course Number: 102
+Section: W05
+Description: Basic Korean
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Thu, Start Time: 14:00, End Time: 15:00
+Instructor: SON, JEONG HYE
+
+Department: KORN
+Course Number: 102
+Section: W06
+Description: Basic Korean
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Thu, Start Time: 15:00, End Time: 16:00
+Instructor: SON, JEONG HYE
+

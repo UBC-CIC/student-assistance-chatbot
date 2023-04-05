@@ -1,0 +1,11 @@
+Department: NURS
+Course Number: 352
+Section: 001
+Description: Relational theoretical underpinnings of nursing practice and healthcare ethics are critically examined.
+Co-reqs: All of NURS 300, NURS 310, NURS 321, NURS 330, NURS 360.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Thu, Start Time: 13:00, End Time: 16:00, Building: West, Room: Mall
+Instructor: BOSCHMA, GEERTJE
+

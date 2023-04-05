@@ -1,0 +1,11 @@
+Department: SPPH
+Course Number: 520
+Section: 002
+Description: Epidemiology of viral, bacterial and parasitic infections with emphasis on the control of these infections in human populations. Immunization programs will be stressed.
+Pre-reqs: Either (a) all of HCEP 400, HCEP 502 or (b) all of SPPH 400, SPPH 502.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 12:00
+Instructor: PATRICK, DAVID
+

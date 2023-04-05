@@ -1,0 +1,9 @@
+Department: MATH
+Course Number: 549B
+Section: 004
+Description: Thesis for Master's Degree - MASTERS THESIS
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

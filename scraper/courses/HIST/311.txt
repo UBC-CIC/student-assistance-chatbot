@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 311
+Section: 101
+Description: Transformation of the British imperial system from the mid-nineteenth century to de-colonization and neo-colonialism after the second World War.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: B213
+Instructor: SILVER, LARA
+

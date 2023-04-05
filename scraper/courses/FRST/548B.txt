@@ -1,0 +1,27 @@
+Department: FRST
+Course Number: 548B
+Section: 001
+Description: For non-thesis master's degree programs.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FRST
+Course Number: 548B
+Section: 101
+Description: For non-thesis master's degree programs.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FRST
+Course Number: 548B
+Section: 201
+Description: For non-thesis master's degree programs.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

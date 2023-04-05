@@ -1,0 +1,24 @@
+Department: ASIA
+Course Number: 580A
+Section: 020
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CHIU-DUKE, JOSEPHINE
+
+Department: ASIA
+Course Number: 580A
+Section: 041
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HALL, NICHOLAS
+
+Department: ASIA
+Course Number: 580A
+Section: 043
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: WU, HELENA
+

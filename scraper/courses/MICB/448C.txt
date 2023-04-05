@@ -1,0 +1,10 @@
+Department: MICB
+Course Number: 448C
+Section: 001
+Description: A library (3 credits) or laboratory (3 or 6 credits) project. Requires permission of the Undergraduate Advisor. The results are presented in a written report to be reviewed by oral examination.
+Pre-reqs: Either (a) MICB 323 or (b) all of MICB 322, MICB 399.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KION, TRACY
+

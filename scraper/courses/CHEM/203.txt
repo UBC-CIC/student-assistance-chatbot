@@ -1,0 +1,67 @@
+Department: CHEM
+Course Number: 203
+Section: 101
+Pre-reqs: Either (a) CHEM 123 or (b) all of CHEM 130, CHEM 135 or (c) SCIE 001.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Chemistry, Room: B150
+Instructor: TANNER, MARTIN
+
+Department: CHEM
+Course Number: 203
+Section: L06
+Pre-reqs: Either (a) CHEM 123 or (b) all of CHEM 130, CHEM 135 or (c) SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: C324
+Instructor: BOLDUC, TREVOR
+
+Department: CHEM
+Course Number: 203
+Section: L07
+Pre-reqs: Either (a) CHEM 123 or (b) all of CHEM 130, CHEM 135 or (c) SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: C326
+Instructor: BOLDUC, TREVOR
+
+Department: CHEM
+Course Number: 203
+Section: L08
+Pre-reqs: Either (a) CHEM 123 or (b) all of CHEM 130, CHEM 135 or (c) SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Chemistry, Room: C324
+Instructor: BOLDUC, TREVOR
+
+Department: CHEM
+Course Number: 203
+Section: L09
+Pre-reqs: Either (a) CHEM 123 or (b) all of CHEM 130, CHEM 135 or (c) SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: C324
+Instructor: BOLDUC, TREVOR
+
+Department: CHEM
+Course Number: 203
+Section: XMT
+Pre-reqs: Either (a) CHEM 123 or (b) all of CHEM 130, CHEM 135 or (c) SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: CHEM
+Course Number: 203
+Section: 1W1
+Pre-reqs: Either (a) CHEM 123 or (b) all of CHEM 130, CHEM 135 or (c) SCIE 001.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

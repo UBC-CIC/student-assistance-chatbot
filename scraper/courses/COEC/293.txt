@@ -1,0 +1,9 @@
+Department: COEC
+Course Number: 293
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 18:00, End Time: 19:30, Building: Leonard, Room: S.
+Instructor: LEE, SARAH
+

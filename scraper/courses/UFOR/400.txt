@@ -1,0 +1,10 @@
+Department: UFOR
+Course Number: 400
+Section: 201
+Description: Development of field skills, professional judgment, critical reflection, and integration of theory, practice, and policy. Offered at Malcolm Knapp Research Forest over a 7-day period in April.
+Pre-reqs: UFOR 200. (And third year standing in the B.U.F. program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ALMAS, ANDREW
+

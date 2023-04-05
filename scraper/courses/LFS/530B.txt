@@ -1,0 +1,24 @@
+Department: LFS
+Course Number: 530B
+Section: 001
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: LFS
+Course Number: 530B
+Section: 002
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: LFS
+Course Number: 530B
+Section: 003
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

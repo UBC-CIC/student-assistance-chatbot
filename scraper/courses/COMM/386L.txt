@@ -1,0 +1,9 @@
+Department: COMM
+Course Number: 386L
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: TANSEY, JAMES
+

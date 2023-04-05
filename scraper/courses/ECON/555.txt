@@ -1,0 +1,18 @@
+Department: ECON
+Course Number: 555
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:00, End Time: 13:30, Building: Buchanan, Room: B219
+Instructor: COUTURE, VICTOR
+
+Department: ECON
+Course Number: 555
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:00, End Time: 13:30
+Instructor: TBA
+

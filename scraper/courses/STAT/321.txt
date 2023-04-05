@@ -1,0 +1,22 @@
+Department: STAT
+Course Number: 321
+Section: 201
+Description: Stochastic behaviour of signals and systems (e.g., communication systems); discrete and continuous probability; random processes; modelling and identification of linear time-invariant systems; binary hypothesis testing and decision making.
+Pre-reqs: One of EECE 269, ELEC 221, STAT 305. (STAT 305 may be taken concurrently, with registration assistance from Statistics Student Services.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: LEUNG, CYRIL
+
+Department: STAT
+Course Number: 321
+Section: T2A
+Description: Stochastic behaviour of signals and systems (e.g., communication systems); discrete and continuous probability; random processes; modelling and identification of linear time-invariant systems; binary hypothesis testing and decision making.
+Pre-reqs: One of EECE 269, ELEC 221, STAT 305. (STAT 305 may be taken concurrently, with registration assistance from Statistics Student Services.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+

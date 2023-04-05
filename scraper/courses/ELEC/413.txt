@@ -1,0 +1,19 @@
+Department: ELEC
+Course Number: 413
+Section: 201
+Description: An introduction to lasers and applications. Theory, modelling, fabrication and performance of semiconductor lasers. Optical communications links.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Civil, Room: and
+Instructor: CHROSTOWSKI, LUKAS
+
+Department: ELEC
+Course Number: 413
+Section: 2W1
+Description: An introduction to lasers and applications. Theory, modelling, fabrication and performance of semiconductor lasers. Optical communications links.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

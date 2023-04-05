@@ -1,0 +1,22 @@
+Department: BIOL
+Course Number: 437
+Section: 101
+Description: The use of recombinant DNA techniques to explore problems in animal developmental biology.
+Pre-reqs: All of BIOL 331, BIOL 335 and one of BIOL 201, BIOC 202, BIOC 203.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 16:00, Building: To, Room: Be
+Instructor: NG, DAVID
+
+Department: BIOL
+Course Number: 437
+Section: 1W1
+Description: The use of recombinant DNA techniques to explore problems in animal developmental biology.
+Pre-reqs: All of BIOL 331, BIOL 335 and one of BIOL 201, BIOC 202, BIOC 203.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 16:00, Building: To, Room: Be
+Instructor: TBA
+

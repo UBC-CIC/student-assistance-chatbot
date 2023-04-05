@@ -1,0 +1,10 @@
+Department: EDST
+Course Number: 601A
+Section: 081
+Description: Doctoral Seminar - DOCTORAL SEM
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: ROCHA PERKERWICZ, SAMUEL
+

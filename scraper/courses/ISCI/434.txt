@@ -1,0 +1,22 @@
+Department: ISCI
+Course Number: 434
+Section: 201
+Description: Interdisciplinary non-animal methods (e.g., organoids, organ-on-a-chip, 3D bioprinting) for research, testing, and education; the regulatory landscape.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:30, End Time: 11:00, Building: West, Room: Mall
+Instructor: DHILLON, SUKHNEET KAUR
+
+Department: ISCI
+Course Number: 434
+Section: 2W1
+Description: Interdisciplinary non-animal methods (e.g., organoids, organ-on-a-chip, 3D bioprinting) for research, testing, and education; the regulatory landscape.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:30, End Time: 11:00
+Instructor: TBA
+

@@ -1,0 +1,9 @@
+Department: MINE
+Course Number: 591
+Section: 101
+Description: Preparation for mining and mineral processing engineering internships. The course includes workshops on the following topics: developing a synopsis of qualifications, written communication and interviewing skills for the engineering professional. Pass/fail.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

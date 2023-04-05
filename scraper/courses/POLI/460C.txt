@@ -1,0 +1,11 @@
+Department: POLI
+Course Number: 460C
+Section: 001
+Description: Foreign Policy Analysis - FRGN POLICY ANLY
+Pre-reqs: Two of POLI 260, POLI 360, POLI 361, POLI 362, POLI 363, POLI 364, POLI 365, POLI 366, POLI 367, POLI 368, POLI 369, POLI 370.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 20:00, Building: Geography, Room: 242
+Instructor: EVANS, PAUL
+

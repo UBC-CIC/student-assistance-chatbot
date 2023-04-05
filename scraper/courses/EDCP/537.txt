@@ -1,0 +1,9 @@
+Department: EDCP
+Course Number: 537
+Section: 61A
+Description: A review and critical analysis of the history and philosophy of school home economics programs.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: RENWICK, KERRY
+

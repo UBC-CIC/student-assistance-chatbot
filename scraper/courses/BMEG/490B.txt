@@ -1,0 +1,11 @@
+Department: BMEG
+Course Number: 490B
+Section: 001
+Description: Research project directed by a faculty member in Biomedical Engineering. Course may include workshops.
+Pre-reqs: (Fourth-year standing and at least 80% average in third-year courses.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 7:00, End Time: 8:30, Building: To, Room: Be
+Instructor: NEWELL, ROBYN
+

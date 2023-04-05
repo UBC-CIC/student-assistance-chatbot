@@ -1,0 +1,50 @@
+Department: COMM
+Course Number: 498
+Section: 101
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: David, Room: Lam
+Instructor: DERETIC, MOMCILO
+
+Department: COMM
+Course Number: 498
+Section: 102
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: David, Room: Lam
+Instructor: DERETIC, MOMCILO
+
+Department: COMM
+Course Number: 498
+Section: 201
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: DERETIC, MOMCILO
+
+Department: COMM
+Course Number: 498
+Section: 202
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: KIKKAWA, AYUMU
+
+Department: COMM
+Course Number: 498
+Section: 203
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: KIKKAWA, AYUMU
+

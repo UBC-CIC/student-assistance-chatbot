@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 504
+Section: 001
+Description: Fundamentals of policy analysis and program evaluation for a professional context. Standard tools of policy analysis, risk assessment, and evaluation to design policy interventions and implement monitoring and evaluation systems for effectiveness. Case studies for government, international organizations, and NGOs.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: C., Room: K.
+Instructor: JARAMILLO GUTIERREZ, GRACE
+

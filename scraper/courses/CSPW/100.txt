@@ -1,0 +1,10 @@
+Department: CSPW
+Course Number: 100
+Section: 0W1
+Description: Students participate in activities related to their CSP courses, including hands-on work, discussion and analysis of scientific topics. Graded Pass/Fail.
+Pre-reqs: (Registration in Coordinated Science Program)
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

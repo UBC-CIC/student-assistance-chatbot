@@ -1,0 +1,30 @@
+Department: BIOL
+Course Number: 343
+Section: 101
+Description: Plants and Peoples
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:00, Building: Hennings, Room: 302
+Instructor: ELLIS, SHONA MARGARET
+
+Department: BIOL
+Course Number: 343
+Section: L11
+Description: Plants and Peoples
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 18:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 343
+Section: 1W1
+Description: Plants and Peoples
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:00
+Instructor: TBA
+

@@ -1,0 +1,9 @@
+Department: CHBE
+Course Number: 559C
+Section: 201
+Description: A discussion of some aspects of modern Chemical Engineering. Subject matter varies each year.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HATZIKIRIAKOS, SAVVAS
+

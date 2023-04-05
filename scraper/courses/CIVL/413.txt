@@ -1,0 +1,11 @@
+Department: CIVL
+Course Number: 413
+Section: 201
+Description: Purpose and types of dams; design criteria; construction sequence; compaction; seepage; filter design; factors influencing the design of earth dams; stability and deformation under static and earthquake loading; slope protection; field instrumentation.
+Pre-reqs: CIVL 311. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:00, End Time: 16:30, Building: Civil, Room: and
+Instructor: FANNIN, R JONATHAN
+

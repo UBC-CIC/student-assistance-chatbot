@@ -1,0 +1,10 @@
+Department: FIPR
+Course Number: 434
+Section: 001
+Description: The creative and business aspects of producing for film and television.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 18:00, End Time: 21:00, Building: Theatre-Film, Room: Production
+Instructor: MCCALL, LAEL
+

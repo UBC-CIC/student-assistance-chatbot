@@ -1,0 +1,27 @@
+Department: ANTH
+Course Number: 649
+Section: 001
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 8:00, End Time: 9:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: ANTH
+Course Number: 649
+Section: 002
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 8:00, End Time: 9:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: ANTH
+Course Number: 649
+Section: 003
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 8:00, End Time: 9:00, Building: To, Room: Be
+Instructor: TBA
+

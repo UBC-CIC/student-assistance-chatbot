@@ -1,0 +1,52 @@
+Department: CPEN
+Course Number: 491W
+Section: 201
+Description: Design, analysis, and implementation of solutions in response to a real-world computer engineering problem, provided by industry, research laboratories, or other suitable entities. Includes coverage of topics such as project management.
+Pre-reqs: CPEN 391.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:00, Building: Orchard, Room: Commons
+Instructor: LEE, TERRY
+
+Department: CPEN
+Course Number: 491W
+Section: L2A
+Description: Design, analysis, and implementation of solutions in response to a real-world computer engineering problem, provided by industry, research laboratories, or other suitable entities. Includes coverage of topics such as project management.
+Pre-reqs: CPEN 391.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: LEE, TERRY
+
+Department: CPEN
+Course Number: 491W
+Section: L2W
+Description: Design, analysis, and implementation of solutions in response to a real-world computer engineering problem, provided by industry, research laboratories, or other suitable entities. Includes coverage of topics such as project management.
+Pre-reqs: CPEN 391.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 491W
+Section: 2W1
+Description: Design, analysis, and implementation of solutions in response to a real-world computer engineering problem, provided by industry, research laboratories, or other suitable entities. Includes coverage of topics such as project management.
+Pre-reqs: CPEN 391.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 491W
+Section: L2W
+Description: Design, analysis, and implementation of solutions in response to a real-world computer engineering problem, provided by industry, research laboratories, or other suitable entities. Includes coverage of topics such as project management.
+Pre-reqs: CPEN 391.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

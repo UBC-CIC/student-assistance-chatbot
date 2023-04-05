@@ -1,0 +1,9 @@
+Department: DENT
+Course Number: 565
+Section: 001
+Description: Continues in second year.
+Credits: 8
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: YEN, EDWIN H
+

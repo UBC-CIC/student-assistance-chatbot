@@ -1,0 +1,115 @@
+Department: KIN
+Course Number: 132
+Section: 002
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: West, Room: Mall
+Instructor: LANGILL, ROBERT
+
+Department: KIN
+Course Number: 132
+Section: 0W2
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 132
+Section: 901
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: P., Room: A.
+Instructor: LANGILL, ROBERT
+
+Department: KIN
+Course Number: 132
+Section: 91A
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 19:00, End Time: 21:00, Building: Robert, Room: F.
+Instructor: LANGILL, ROBERT
+
+Department: KIN
+Course Number: 132
+Section: 91B
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Robert, Room: F.
+Instructor: LANGILL, ROBERT
+
+Department: KIN
+Course Number: 132
+Section: 91C
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 19:00, End Time: 21:00, Building: Robert, Room: F.
+Instructor: LANGILL, ROBERT
+
+Department: KIN
+Course Number: 132
+Section: 9W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 132
+Section: L1A
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Robert, Room: F.
+Instructor: LANGILL, ROBERT
+
+Department: KIN
+Course Number: 132
+Section: L1B
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Robert, Room: F.
+Instructor: LANGILL, ROBERT
+
+Department: KIN
+Course Number: 132
+Section: L1C
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Robert, Room: F.
+Instructor: LANGILL, ROBERT
+
+Department: KIN
+Course Number: 132
+Section: L1D
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Robert, Room: F.
+Instructor: LANGILL, ROBERT
+
+Department: KIN
+Course Number: 132
+Section: L1E
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 8:00, End Time: 10:00, Building: Robert, Room: F.
+Instructor: LANGILL, ROBERT
+
+Department: KIN
+Course Number: 132
+Section: L1F
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Robert, Room: F.
+Instructor: LANGILL, ROBERT
+

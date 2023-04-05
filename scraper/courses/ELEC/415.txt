@@ -1,0 +1,21 @@
+Department: ELEC
+Course Number: 415
+Section: 201
+Description: Physics of operation, and design and analysis of semiconductor devices of topical interest, e.g., solar cells, LEDs, high-speed MOSFETs, high-frequency HBTs, low-noise HEMTs.
+Pre-reqs: One of ELEC 315, PHYS 304.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: West, Room: Mall
+Instructor: SALFI, JOSEPH
+
+Department: ELEC
+Course Number: 415
+Section: 2W1
+Description: Physics of operation, and design and analysis of semiconductor devices of topical interest, e.g., solar cells, LEDs, high-speed MOSFETs, high-frequency HBTs, low-noise HEMTs.
+Pre-reqs: One of ELEC 315, PHYS 304.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,11 @@
+Department: FNH
+Course Number: 475
+Section: 001
+Description: Etiology, pathophysiology and nutrition therapy for selected diseases and conditions. Topics include neurological disorders, dysphagia, critical care, oncology, hepatobiliary conditions, HIV and renal disease. Restricted to students in year 4 of the dietetics major.
+Pre-reqs: All of BIOC 302, FNH 470.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Food,, Room: Nutrition
+Instructor: DONATTI CASTRO FALCI, BRUNA
+

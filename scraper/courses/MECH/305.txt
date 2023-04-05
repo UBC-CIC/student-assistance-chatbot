@@ -1,0 +1,33 @@
+Department: MECH
+Course Number: 305
+Section: 201
+Description: The use of probability and statistical methods for engineering applications. Mechanics of materials, heat transfer, and fluid dynamics. Instrumentation, data acquisition, and data manipulation using modern computational tools.
+Pre-reqs: All of MECH 220, MECH 223, MECH 224, MECH 225.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Hugh, Room: Dempster
+Instructor: D'ENTREMONT, AGNES
+
+Department: MECH
+Course Number: 305
+Section: L2A
+Description: The use of probability and statistical methods for engineering applications. Mechanics of materials, heat transfer, and fluid dynamics. Instrumentation, data acquisition, and data manipulation using modern computational tools.
+Pre-reqs: All of MECH 220, MECH 223, MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+
+Department: MECH
+Course Number: 305
+Section: L2B
+Description: The use of probability and statistical methods for engineering applications. Mechanics of materials, heat transfer, and fluid dynamics. Instrumentation, data acquisition, and data manipulation using modern computational tools.
+Pre-reqs: All of MECH 220, MECH 223, MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 20:00
+Instructor: TBA
+

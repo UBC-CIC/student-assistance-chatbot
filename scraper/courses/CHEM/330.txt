@@ -1,0 +1,21 @@
+Department: CHEM
+Course Number: 330
+Section: 109
+Description: Application of carbonyl group chemistry, cyclization reactions, conformational analysis and rearrangement reactions in organic synthesis.
+Pre-reqs: CHEM 213.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Chemistry, Room: D200
+Instructor: DAKE, GREGORY
+
+Department: CHEM
+Course Number: 330
+Section: 1W1
+Description: Application of carbonyl group chemistry, cyclization reactions, conformational analysis and rearrangement reactions in organic synthesis.
+Pre-reqs: CHEM 213.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

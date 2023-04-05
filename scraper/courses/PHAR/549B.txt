@@ -1,0 +1,24 @@
+Department: PHAR
+Course Number: 549B
+Section: 004
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHAR
+Course Number: 549B
+Section: 005
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHAR
+Course Number: 549B
+Section: 006
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

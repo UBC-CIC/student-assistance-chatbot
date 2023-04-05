@@ -1,0 +1,33 @@
+Department: COMM
+Course Number: 475
+Section: 101
+Description: The management of security portfolios for individual and institutional investors; relation of investment policy to money markets and business fluctuations.
+Pre-reqs: COMM 371.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: FREEDMAN, RUTH
+
+Department: COMM
+Course Number: 475
+Section: 201
+Description: The management of security portfolios for individual and institutional investors; relation of investment policy to money markets and business fluctuations.
+Pre-reqs: COMM 371.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: HEINKEL, ROBERT LEE
+
+Department: COMM
+Course Number: 475
+Section: 202
+Description: The management of security portfolios for individual and institutional investors; relation of investment policy to money markets and business fluctuations.
+Pre-reqs: COMM 371.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TILFORD, WILLIAM
+

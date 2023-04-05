@@ -1,0 +1,22 @@
+Department: MINE
+Course Number: 590M
+Section: 201
+Description: A special advanced course may be arranged upon the approval of the department head.
+Pre-reqs: (Permission of instructor is required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: West, Room: Mall
+Instructor: ELMO, DAVIDE
+
+Department: MINE
+Course Number: 590M
+Section: L2A
+Description: A special advanced course may be arranged upon the approval of the department head.
+Pre-reqs: (Permission of instructor is required.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 12:00
+Instructor: ELMO, DAVIDE
+

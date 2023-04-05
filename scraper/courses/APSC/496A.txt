@@ -1,0 +1,10 @@
+Department: APSC
+Course Number: 496A
+Section: 001
+Description: Interdisciplinary Engineering Design Project - INTER ENG PRJECT
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: School, Room: of
+Instructor: HODGSON, ANTONY
+

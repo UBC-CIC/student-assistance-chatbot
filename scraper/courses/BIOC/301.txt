@@ -1,0 +1,65 @@
+Department: BIOC
+Course Number: 301
+Section: 001
+Description: Biochemistry Laboratory
+Co-reqs: One of BIOC 300, BIOC 302, BIOC 303.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 13:30, Building: Friedman, Room: Building
+Instructor: READ, JASON
+
+Department: BIOC
+Course Number: 301
+Section: L01
+Description: Biochemistry Laboratory
+Co-reqs: One of BIOC 300, BIOC 302, BIOC 303.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: READ, JASON
+
+Department: BIOC
+Course Number: 301
+Section: L02
+Description: Biochemistry Laboratory
+Co-reqs: One of BIOC 300, BIOC 302, BIOC 303.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: READ, JASON
+
+Department: BIOC
+Course Number: 301
+Section: L03
+Description: Biochemistry Laboratory
+Co-reqs: One of BIOC 300, BIOC 302, BIOC 303.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: READ, JASON
+
+Department: BIOC
+Course Number: 301
+Section: L04
+Description: Biochemistry Laboratory
+Co-reqs: One of BIOC 300, BIOC 302, BIOC 303.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: READ, JASON
+
+Department: BIOC
+Course Number: 301
+Section: 0W1
+Description: Biochemistry Laboratory
+Co-reqs: One of BIOC 300, BIOC 302, BIOC 303.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

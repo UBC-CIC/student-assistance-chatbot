@@ -1,0 +1,27 @@
+Department: PATH
+Course Number: 649
+Section: 001
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 7:00, End Time: 8:00
+Instructor: TBA
+
+Department: PATH
+Course Number: 649
+Section: 002
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 7:00, End Time: 7:30
+Instructor: TBA
+
+Department: PATH
+Course Number: 649
+Section: 003
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 7:00, End Time: 7:30
+Instructor: TBA
+

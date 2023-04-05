@@ -1,0 +1,22 @@
+Department: CRWR
+Course Number: 403K
+Section: 001
+Description: A workshop class in writing for Children and Young Adults.
+Pre-reqs: (Restricted to Majors in Creative Writing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Irving, Room: K
+Instructor: POHL-WEARY, EMILY
+
+Department: CRWR
+Course Number: 403K
+Section: 003
+Description: A workshop class in writing for Children and Young Adults.
+Pre-reqs: (Restricted to Majors in Creative Writing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Ponderosa, Room: Commons
+Instructor: KYI, TANYA
+

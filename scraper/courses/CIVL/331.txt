@@ -1,0 +1,22 @@
+Department: CIVL
+Course Number: 331
+Section: 201
+Description: Introduction to limit states design of steel and timber structures: design objectives, design loads and load combinations, structural safety, material properties, design of tension and compression members, beams, columns, and connections.
+Pre-reqs: CIVL 231.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: P., Room: A.
+Instructor: MOLINA HUTT, CARLOS
+
+Department: CIVL
+Course Number: 331
+Section: T2A
+Description: Introduction to limit states design of steel and timber structures: design objectives, design loads and load combinations, structural safety, material properties, design of tension and compression members, beams, columns, and connections.
+Pre-reqs: CIVL 231.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: P., Room: A.
+Instructor: MOLINA HUTT, CARLOS
+

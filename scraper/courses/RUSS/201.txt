@@ -1,0 +1,11 @@
+Department: RUSS
+Course Number: 201
+Section: 001
+Description: Second-Year Russian I
+Pre-reqs: One of RUSS 100, RUSS 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B141
+Instructor: CHITNEV, VETA
+

@@ -1,0 +1,9 @@
+Department: PHAR
+Course Number: 591
+Section: 001
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00
+Instructor: CONKLIN, ANNALIJN
+

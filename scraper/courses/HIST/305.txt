@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 305
+Section: 201
+Description: The social, political, cultural, environmental, and economic transformations that have made British Columbia. Topics include the histories of Indigenous and settler peoples, the modern state, migration, activism, and identity.
+Credits: 3
+Mode of Delivery: Multi-access
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Ponderosa, Room: Commons
+Instructor: ISHIGURO, LAURA
+

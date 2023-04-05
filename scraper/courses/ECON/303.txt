@@ -1,0 +1,30 @@
+Department: ECON
+Course Number: 303
+Section: 003
+Pre-reqs: One of ECON 301, ECON 304.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: A102
+Instructor: LI, WEI
+
+Department: ECON
+Course Number: 303
+Section: L2A
+Pre-reqs: One of ECON 301, ECON 304.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:30, Building: Buchanan, Room: D316
+Instructor: TBA
+
+Department: ECON
+Course Number: 303
+Section: L2B
+Pre-reqs: One of ECON 301, ECON 304.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:30, Building: Buchanan, Room: D316
+Instructor: TBA
+

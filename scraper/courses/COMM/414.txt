@@ -1,0 +1,44 @@
+Department: COMM
+Course Number: 414
+Section: 101
+Description: Descriptive analytics including data analysis and visualization. Predictive analytics including forecasting and various statistical techniques. Predictive analytics including optimization, Monte Carlo simulation, decision trees, and discrete event simulation.
+Pre-reqs: COMM 204.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: LIAO, SHA
+
+Department: COMM
+Course Number: 414
+Section: 102
+Description: Descriptive analytics including data analysis and visualization. Predictive analytics including forecasting and various statistical techniques. Predictive analytics including optimization, Monte Carlo simulation, decision trees, and discrete event simulation.
+Pre-reqs: COMM 204.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: LIAO, SHA
+
+Department: COMM
+Course Number: 414
+Section: 201
+Description: Descriptive analytics including data analysis and visualization. Predictive analytics including forecasting and various statistical techniques. Predictive analytics including optimization, Monte Carlo simulation, decision trees, and discrete event simulation.
+Pre-reqs: COMM 204.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: KRISHNAMOORTHY, SRINIVAS
+
+Department: COMM
+Course Number: 414
+Section: 202
+Description: Descriptive analytics including data analysis and visualization. Predictive analytics including forecasting and various statistical techniques. Predictive analytics including optimization, Monte Carlo simulation, decision trees, and discrete event simulation.
+Pre-reqs: COMM 204.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: KRISHNAMOORTHY, SRINIVAS
+

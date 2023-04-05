@@ -1,0 +1,27 @@
+Department: ECED
+Course Number: 401
+Section: 63A
+Description: Supporting Young Children's Health and Well-Being in Early Childhood Settings
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HOVEN, MICHAELYN
+
+Department: ECED
+Course Number: 401
+Section: 63C
+Description: Supporting Young Children's Health and Well-Being in Early Childhood Settings
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HOVEN, MICHAELYN
+
+Department: ECED
+Course Number: 401
+Section: 63D
+Description: Supporting Young Children's Health and Well-Being in Early Childhood Settings
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HOVEN, MICHAELYN
+

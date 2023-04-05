@@ -1,0 +1,54 @@
+Department: ELEC
+Course Number: 499B
+Section: 001
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: WANG, LELE
+
+Department: ELEC
+Course Number: 499B
+Section: 00W
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 499B
+Section: 102
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 499B
+Section: 1W2
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 499B
+Section: 202
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 499B
+Section: 2W2
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

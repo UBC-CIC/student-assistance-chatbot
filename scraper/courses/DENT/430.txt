@@ -1,0 +1,87 @@
+Department: DENT
+Course Number: 430
+Section: 001
+Description: A multi-disciplinary course integrating didactic, simulation, clinical, and community service learning. Students function as team members in clinical group practices with individual progression through the Clinical Clerkships.
+Pre-reqs: DENT 420.
+Credits: 36
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BRONDANI, MARIO
+
+Department: DENT
+Course Number: 430
+Section: DGE
+Description: A multi-disciplinary course integrating didactic, simulation, clinical, and community service learning. Students function as team members in clinical group practices with individual progression through the Clinical Clerkships.
+Pre-reqs: DENT 420.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: P., Room: A.
+Instructor: BRONDANI, MARIO
+
+Department: DENT
+Course Number: 430
+Section: EDE
+Description: A multi-disciplinary course integrating didactic, simulation, clinical, and community service learning. Students function as team members in clinical group practices with individual progression through the Clinical Clerkships.
+Pre-reqs: DENT 420.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: P., Room: A.
+Instructor: TBA
+
+Department: DENT
+Course Number: 430
+Section: IGP
+Description: A multi-disciplinary course integrating didactic, simulation, clinical, and community service learning. Students function as team members in clinical group practices with individual progression through the Clinical Clerkships.
+Pre-reqs: DENT 420.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Mon^, End Time: 14:30, Building: 17:00, Room: P.
+Instructor: EL-ADWAR, LAMIA
+
+Department: DENT
+Course Number: 430
+Section: OMS
+Description: A multi-disciplinary course integrating didactic, simulation, clinical, and community service learning. Students function as team members in clinical group practices with individual progression through the Clinical Clerkships.
+Pre-reqs: DENT 420.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 9:00, Building: P., Room: A.
+Instructor: TBA
+
+Department: DENT
+Course Number: 430
+Section: PM1
+Description: A multi-disciplinary course integrating didactic, simulation, clinical, and community service learning. Students function as team members in clinical group practices with individual progression through the Clinical Clerkships.
+Pre-reqs: DENT 420.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: P., Room: A.
+Instructor: FOGELMAN, MENACHEM
+
+Department: DENT
+Course Number: 430
+Section: PMI
+Description: A multi-disciplinary course integrating didactic, simulation, clinical, and community service learning. Students function as team members in clinical group practices with individual progression through the Clinical Clerkships.
+Pre-reqs: DENT 420.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Thu*, End Time: 9:00, Building: 9:30, Room: P.
+Instructor: TBA
+
+Department: DENT
+Course Number: 430
+Section: RST
+Description: A multi-disciplinary course integrating didactic, simulation, clinical, and community service learning. Students function as team members in clinical group practices with individual progression through the Clinical Clerkships.
+Pre-reqs: DENT 420.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:00, End Time: 9:00, Building: P., Room: A.
+Instructor: LEE, VINCENT
+

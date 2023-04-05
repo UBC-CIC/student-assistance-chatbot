@@ -1,0 +1,36 @@
+Department: AMNE
+Course Number: 341
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B215
+Instructor: MILSTEIN, SARA
+
+Department: AMNE
+Course Number: 341
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: AMNE
+Course Number: 341
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B215
+Instructor: MILSTEIN, SARA
+
+Department: AMNE
+Course Number: 341
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: To, Room: Be
+Instructor: TBA
+

@@ -1,0 +1,21 @@
+Department: CHEM
+Course Number: 302
+Section: 209
+Description: Introduction to structure, composition and chemical processes occurring in Earth's atmosphere, including interactions with solar radiation, stratospheric ozone layer, photochemical smog and acid rain.
+Pre-reqs: One of CHEM 123, CHEM 130, CHBE 220. (and Third year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Chemistry, Room: D200
+Instructor: MOMOSE, TAKAMASA
+
+Department: CHEM
+Course Number: 302
+Section: 2W1
+Description: Introduction to structure, composition and chemical processes occurring in Earth's atmosphere, including interactions with solar radiation, stratospheric ozone layer, photochemical smog and acid rain.
+Pre-reqs: One of CHEM 123, CHEM 130, CHBE 220. (and Third year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

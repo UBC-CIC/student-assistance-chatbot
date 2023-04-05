@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 372
+Section: 001
+Description: Development of Traditional Chinese Thought
+Credits: 3
+Mode of Delivery: Multi-access
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: D217
+Instructor: ASHTON, CLAYTON
+
+Department: ASIA
+Course Number: 372
+Section: W01
+Description: Chinese thought from the Han dynasty (206 BCE to 220 CE) to Wang Yangming (1472-1529) in its historical and cultural contexts.
+Credits: 3
+Mode of Delivery: Multi-access
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:30
+Instructor: ASHTON, CLAYTON
+

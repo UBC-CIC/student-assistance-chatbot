@@ -1,0 +1,24 @@
+Department: PHAR
+Course Number: 550C
+Section: 001
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHAR
+Course Number: 550C
+Section: 002
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHAR
+Course Number: 550C
+Section: 003
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

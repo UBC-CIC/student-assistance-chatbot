@@ -1,0 +1,21 @@
+Department: GEOG
+Course Number: 432
+Section: 101
+Description: Decolonial theory and practice through an examination of critical Indigenous and critical race scholarship and activism.
+Pre-reqs: (Restricted to students with 3rd year standing or higher. GEOG 121, or equivalent, is strongly recommended for students with 3rd year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Geography, Room: 214
+Instructor: FABRIS, MICHAEL
+
+Department: GEOG
+Course Number: 432
+Section: WL1
+Description: Decolonial theory and practice through an examination of critical Indigenous and critical race scholarship and activism.
+Pre-reqs: (Restricted to students with 3rd year standing or higher. GEOG 121, or equivalent, is strongly recommended for students with 3rd year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

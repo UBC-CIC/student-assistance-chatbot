@@ -1,0 +1,9 @@
+Department: ANAT
+Course Number: 448J
+Section: 002
+Description: Permission of the Head and supervisor required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ROSKELLEY, CALVIN
+

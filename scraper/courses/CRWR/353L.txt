@@ -1,0 +1,11 @@
+Department: CRWR
+Course Number: 353L
+Section: 002
+Description: An intermediate level workshop class in writing for children and young adults. Manuscript submission is not required for admission.
+Pre-reqs: CRWR 303.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Buchanan, Room: B310
+Instructor: POHL-WEARY, EMILY
+

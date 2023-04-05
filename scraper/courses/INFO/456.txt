@@ -1,0 +1,11 @@
+Department: INFO
+Course Number: 456
+Section: 001
+Description: Develops capabilities required to assess the need for information policies in professional contexts, evaluate relevant socio-technical dimensions and envision likely implications for specific communities and practice settings.
+Pre-reqs: INFO 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: D322
+Instructor: NATHAN, LISA
+

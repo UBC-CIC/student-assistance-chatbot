@@ -1,0 +1,32 @@
+Department: SPAN
+Course Number: 301
+Section: 101
+Description: Complex grammatical structures in context to enhance proficiency. Explores relevant cultural topics through reading, writing, and discussion. Aligned with CEFR level B1 objectives.
+Pre-reqs: One of SPAN 202, SPAN 207, SPAN 12.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: UBC, Room: Life
+Instructor: CASAS AGUILAR, ANNA
+
+Department: SPAN
+Course Number: 301
+Section: 102
+Description: Complex grammatical structures in context to enhance proficiency. Explores relevant cultural topics through reading, writing, and discussion. Aligned with CEFR level B1 objectives.
+Pre-reqs: One of SPAN 202, SPAN 207, SPAN 12.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: B218
+Instructor: ESCOBAR TRUJILLO, MARIA ADELAIDA
+
+Department: SPAN
+Course Number: 301
+Section: W01
+Description: Complex grammatical structures in context to enhance proficiency. Explores relevant cultural topics through reading, writing, and discussion. Aligned with CEFR level B1 objectives.
+Pre-reqs: One of SPAN 202, SPAN 207, SPAN 12.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

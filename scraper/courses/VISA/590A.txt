@@ -1,0 +1,9 @@
+Department: VISA
+Course Number: 590A
+Section: 001
+Description: Tutorial work in visual arts and theory arranged by permission with an individual faculty member. Not available to students enrolled in the M.F.A. program in Visual Arts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

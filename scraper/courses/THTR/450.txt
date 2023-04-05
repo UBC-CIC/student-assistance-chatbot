@@ -1,0 +1,11 @@
+Department: THTR
+Course Number: 450
+Section: 001
+Description: Technical direction; complex techniques and problems in scenery production.
+Pre-reqs: THTR 350.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Frederic, Room: Wood
+Instructor: POWERS, BRADLEY
+

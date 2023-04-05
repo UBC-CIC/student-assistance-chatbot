@@ -1,0 +1,9 @@
+Department: DENT
+Course Number: 595
+Section: 001
+Description: Student case presentations, treatment choice, and evaluation of prognosis.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: COIL, JEFFREY MARTIN
+

@@ -1,0 +1,27 @@
+Department: PATH
+Course Number: 303
+Section: 001
+Description: Fundamentals of human genetics and molecular biology as they relate to studying and detecting disease in a population; tissue culture techniques to assess cell viabilities; cytomorphology principles in disease detection.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: UBC, Room: Hospital
+
+Department: PATH
+Course Number: 303
+Section: L01
+Description: Fundamentals of human genetics and molecular biology as they relate to studying and detecting disease in a population; tissue culture techniques to assess cell viabilities; cytomorphology principles in disease detection.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 17:00, Building: UBC, Room: Hospital
+
+Department: PATH
+Course Number: 303
+Section: L02
+Description: Fundamentals of human genetics and molecular biology as they relate to studying and detecting disease in a population; tissue culture techniques to assess cell viabilities; cytomorphology principles in disease detection.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 17:00, Building: UBC, Room: Hospital
+

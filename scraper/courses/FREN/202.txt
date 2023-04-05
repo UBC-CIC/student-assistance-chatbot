@@ -1,0 +1,109 @@
+Department: FREN
+Course Number: 202
+Section: 201
+Description: A continuation of FREN 201. This course aligned with level A2 objectives of the CEFR.
+Pre-reqs: One of FREN 111, FREN 201. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D222
+Instructor: AYAN, IREM
+
+Department: FREN
+Course Number: 202
+Section: 202
+Description: A continuation of FREN 201. This course aligned with level A2 objectives of the CEFR.
+Pre-reqs: One of FREN 111, FREN 201. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: UBC, Room: Life
+Instructor: OLLIVIER-BUDISA, CÉCILE
+
+Department: FREN
+Course Number: 202
+Section: 203
+Description: A continuation of FREN 201. This course aligned with level A2 objectives of the CEFR.
+Pre-reqs: One of FREN 111, FREN 201. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B315
+Instructor: O'BRIEN, JULIET
+
+Department: FREN
+Course Number: 202
+Section: 204
+Description: A continuation of FREN 201. This course aligned with level A2 objectives of the CEFR.
+Pre-reqs: One of FREN 111, FREN 201. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D219
+Instructor: MILET, SOLINE
+
+Department: FREN
+Course Number: 202
+Section: 205
+Description: A continuation of FREN 201. This course aligned with level A2 objectives of the CEFR.
+Pre-reqs: One of FREN 111, FREN 201. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: UBC, Room: Life
+Instructor: OLLIVIER-BUDISA, CÉCILE
+
+Department: FREN
+Course Number: 202
+Section: 206
+Description: A continuation of FREN 201. This course aligned with level A2 objectives of the CEFR.
+Pre-reqs: One of FREN 111, FREN 201. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Hennings, Room: 304
+Instructor: O'BRIEN, JULIET
+
+Department: FREN
+Course Number: 202
+Section: 208
+Description: A continuation of FREN 201. This course aligned with level A2 objectives of the CEFR.
+Pre-reqs: One of FREN 111, FREN 201. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Frederic, Room: Lasserre
+Instructor: DELAGE-BELAND, ISABELLE
+
+Department: FREN
+Course Number: 202
+Section: 210
+Description: A continuation of FREN 201. This course aligned with level A2 objectives of the CEFR.
+Pre-reqs: One of FREN 111, FREN 201. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: B211
+Instructor: KAMRANIAN, SOMAYEH
+
+Department: FREN
+Course Number: 202
+Section: 211
+Description: A continuation of FREN 201. This course aligned with level A2 objectives of the CEFR.
+Pre-reqs: One of FREN 111, FREN 201. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Buchanan, Room: D314
+Instructor: KAMRANIAN, SOMAYEH
+
+Department: FREN
+Course Number: 202
+Section: W02
+Description: A continuation of FREN 201. This course aligned with level A2 objectives of the CEFR.
+Pre-reqs: One of FREN 111, FREN 201. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

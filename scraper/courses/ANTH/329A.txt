@@ -1,0 +1,11 @@
+Department: ANTH
+Course Number: 329A
+Section: 002
+Description: Anthropological perspectives on contemporary issues of public policy, law, and political activity, as they affect Indigenous Peoples in Canada and globally.
+Pre-reqs: (ANTH 220 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Allard, Room: Hall
+Instructor: BLACKBURN, CAROLE
+

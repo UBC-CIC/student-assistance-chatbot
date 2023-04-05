@@ -1,0 +1,10 @@
+Department: MECH
+Course Number: 410I
+Section: 201
+Description: Lectures and readings on specialized topics of current interest in Mechanical Engineering.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Civil, Room: and
+Instructor: KIRCHEN, PATRICK
+

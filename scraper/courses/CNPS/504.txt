@@ -1,0 +1,10 @@
+Department: CNPS
+Course Number: 504
+Section: 001
+Description: Theory and practice of school counselling.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Thu, Start Time: 16:30, End Time: 19:30
+Instructor: BUCHANAN, MARLA
+

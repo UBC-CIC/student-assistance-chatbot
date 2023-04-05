@@ -1,0 +1,11 @@
+Department: FRST
+Course Number: 408
+Section: 201
+Description: Role of climate and climate change in the population dynamics, outbreak potentials and resultant impacts to forest ecosystems associated with herbivorous forest insects.
+Pre-reqs: One of FRST 307, APBI 327, BIOL 327.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 19:00, Building: Forest, Room: Sciences
+Instructor: CARROLL, ALLAN
+

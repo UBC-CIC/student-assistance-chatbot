@@ -1,0 +1,16 @@
+Department: EOSC
+Course Number: 538
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KOPYLOVA, MAYA
+
+Department: EOSC
+Course Number: 538
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KOPYLOVA, MAYA
+

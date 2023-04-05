@@ -1,0 +1,10 @@
+Department: MRNE
+Course Number: 480
+Section: 610
+Description: Instruction in the critical analysis of published research papers and of oral seminars.
+Pre-reqs: (Completion of second year in a biology program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

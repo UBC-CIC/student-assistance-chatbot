@@ -1,0 +1,9 @@
+Department: ASIA
+Course Number: 533A
+Section: 006
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:30, End Time: 16:30, Building: Ponderosa, Room: Commons
+Instructor: YI, CHRISTINA
+

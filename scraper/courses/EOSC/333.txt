@@ -1,0 +1,33 @@
+Department: EOSC
+Course Number: 333
+Section: 201
+Description: Analytical methods in geochemistry, major and trace element geochemistry, radiogenic isotopes, geochemistry of seawater, the mantle, basalts, subduction zones, sedimentary rocks, continental crust.
+Pre-reqs: EOSC 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:00, Building: Earth, Room: and
+Instructor: CHRITZ, KENDRA
+
+Department: EOSC
+Course Number: 333
+Section: L2A
+Description: Analytical methods in geochemistry, major and trace element geochemistry, radiogenic isotopes, geochemistry of seawater, the mantle, basalts, subduction zones, sedimentary rocks, continental crust.
+Pre-reqs: EOSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 16:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 333
+Section: L2B
+Description: Analytical methods in geochemistry, major and trace element geochemistry, radiogenic isotopes, geochemistry of seawater, the mantle, basalts, subduction zones, sedimentary rocks, continental crust.
+Pre-reqs: EOSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 18:00, Building: Earth, Room: and
+Instructor: TBA
+

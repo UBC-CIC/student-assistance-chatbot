@@ -1,0 +1,100 @@
+Department: EDUC
+Course Number: 418D
+Section: 101
+Description: Pass/Fail.
+Pre-reqs: (Normally all requirements set to precede this practicum)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, ROD
+
+Department: EDUC
+Course Number: 418D
+Section: 102
+Description: Pass/Fail.
+Pre-reqs: (Normally all requirements set to precede this practicum)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, ROD
+
+Department: EDUC
+Course Number: 418D
+Section: 103
+Description: Pass/Fail.
+Pre-reqs: (Normally all requirements set to precede this practicum)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, ROD
+
+Department: EDUC
+Course Number: 418D
+Section: 104
+Description: Pass/Fail.
+Pre-reqs: (Normally all requirements set to precede this practicum)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, ROD
+
+Department: EDUC
+Course Number: 418D
+Section: 105
+Description: Pass/Fail.
+Pre-reqs: (Normally all requirements set to precede this practicum)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, ROD
+
+Department: EDUC
+Course Number: 418D
+Section: 107
+Description: Pass/Fail.
+Pre-reqs: (Normally all requirements set to precede this practicum)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, ROD
+
+Department: EDUC
+Course Number: 418D
+Section: 108
+Description: Pass/Fail.
+Pre-reqs: (Normally all requirements set to precede this practicum)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, ROD
+
+Department: EDUC
+Course Number: 418D
+Section: 109
+Description: Pass/Fail.
+Pre-reqs: (Normally all requirements set to precede this practicum)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, ROD
+
+Department: EDUC
+Course Number: 418D
+Section: 623
+Description: Pass/Fail.
+Pre-reqs: (Normally all requirements set to precede this practicum)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: POELL, HOLLY
+
+Department: EDUC
+Course Number: 418D
+Section: 640
+Description: Pass/Fail.
+Pre-reqs: (Normally all requirements set to precede this practicum)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MAGUIRE, SUSANNE
+

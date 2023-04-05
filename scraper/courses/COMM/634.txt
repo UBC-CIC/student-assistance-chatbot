@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 634
+Section: 001
+Description: Empirical Research Methods in Information Systems
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00
+Instructor: CENFETELLI, RONALD TIMOTHY
+

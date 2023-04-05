@@ -1,0 +1,40 @@
+Department: MUSC
+Course Number: 100
+Section: 001
+Description: Principles of Musical Form
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:30, End Time: 9:30, Building: Music, Room: 462
+Instructor: VAN HANDEL, LEIGH
+
+Department: MUSC
+Course Number: 100
+Section: T01
+Description: Principles of Musical Form
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Music, Room: 339
+Instructor: VAN HANDEL, LEIGH
+
+Department: MUSC
+Course Number: 100
+Section: T02
+Description: Principles of Musical Form
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Music, Room: 339
+Instructor: VAN HANDEL, LEIGH
+
+Department: MUSC
+Course Number: 100
+Section: T03
+Description: Fundamental materials and processes of music - rhythmic, melodic, textural and harmonic - and how they create small-scale structures in a variety of styles. Compositional and analytical applications.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Music, Room: 339
+Instructor: VAN HANDEL, LEIGH
+

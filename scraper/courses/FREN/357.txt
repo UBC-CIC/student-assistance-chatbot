@@ -1,0 +1,11 @@
+Department: FREN
+Course Number: 357
+Section: 101
+Description: Principles, practical strategies and methods of translation from French to English and English to French. Overview of the main challenges involved in intercultural communication.
+Pre-reqs: FREN 353 and one of FREN 225, FREN 402.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: D314
+Instructor: AYAN, IREM
+

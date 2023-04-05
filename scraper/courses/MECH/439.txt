@@ -1,0 +1,10 @@
+Department: MECH
+Course Number: 439
+Section: 201
+Description: Seminar in Biomechanics research.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 8:00, End Time: 9:00
+Instructor: WU, CHUN
+

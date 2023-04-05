@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 227
+Section: 001
+Description: An examination of health and illness, in their social and cultural contexts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: Irving, Room: K
+Instructor: WAINER, RAFAEL
+

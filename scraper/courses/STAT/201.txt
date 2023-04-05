@@ -1,0 +1,54 @@
+Department: STAT
+Course Number: 201
+Section: 201
+Description: Classical and simulation-based techniques for estimation and hypothesis testing, including inference for means and proportions. Emphasis on case studies and real data sets, as well as reproducible and transparent workflows when writing computer scripts for analysis and reports.
+Pre-reqs: DSCI 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Chemistry, Room: B250
+Instructor: WIJENDRA ACHARIGE, LASANTHA PREMARATHNA
+
+Department: STAT
+Course Number: 201
+Section: T1A
+Description: Classical and simulation-based techniques for estimation and hypothesis testing, including inference for means and proportions. Emphasis on case studies and real data sets, as well as reproducible and transparent workflows when writing computer scripts for analysis and reports.
+Pre-reqs: DSCI 100.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 9:00, Building: Chemistry, Room: B250
+Instructor: TBA
+
+Department: STAT
+Course Number: 201
+Section: 202
+Description: Classical and simulation-based techniques for estimation and hypothesis testing, including inference for means and proportions. Emphasis on case studies and real data sets, as well as reproducible and transparent workflows when writing computer scripts for analysis and reports.
+Pre-reqs: DSCI 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Chemistry, Room: B250
+Instructor: NGUYEN, LE QUAN
+
+Department: STAT
+Course Number: 201
+Section: T1B
+Description: Classical and simulation-based techniques for estimation and hypothesis testing, including inference for means and proportions. Emphasis on case studies and real data sets, as well as reproducible and transparent workflows when writing computer scripts for analysis and reports.
+Pre-reqs: DSCI 100.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:00, End Time: 9:00, Building: Mathematics, Room: 100
+Instructor: TBA
+
+Department: STAT
+Course Number: 201
+Section: WL1
+Description: Classical and simulation-based techniques for estimation and hypothesis testing, including inference for means and proportions. Emphasis on case studies and real data sets, as well as reproducible and transparent workflows when writing computer scripts for analysis and reports.
+Pre-reqs: DSCI 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

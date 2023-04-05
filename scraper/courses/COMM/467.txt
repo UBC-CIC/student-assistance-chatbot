@@ -1,0 +1,22 @@
+Department: COMM
+Course Number: 467
+Section: 101
+Description: Issues and challenges commonly faced by brand managers, including: assessing brand meaning, evaluating brand health, assessing a brand's leverage potential, evaluating brand extensions, managing brands through a crisis, and assessing brand value.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: SILK, TIMOTHY
+
+Department: COMM
+Course Number: 467
+Section: 201
+Description: Issues and challenges commonly faced by brand managers, including: assessing brand meaning, evaluating brand health, assessing a brand's leverage potential, evaluating brand extensions, managing brands through a crisis, and assessing brand value.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: SILK, TIMOTHY
+

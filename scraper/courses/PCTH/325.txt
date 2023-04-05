@@ -1,0 +1,11 @@
+Department: PCTH
+Course Number: 325
+Section: 001
+Description: The principles and applications underlying the action and disposition of therapeutic agents (including alternative medicines) in the body. Use of drugs as tools in experimental research.
+Pre-reqs: One of BIOL 201, BIOC 202, BIOC 203, BIOC 300.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Wesbrook, Room: 100
+Instructor: ABADI, SHIRIN S.A.
+

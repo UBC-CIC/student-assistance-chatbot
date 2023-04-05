@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 551A
+Section: 001
+Description: Studies in Literary Movements - ST'S LIT MOVEMNT
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:30, End Time: 16:30, Building: Buchanan, Room: Tower
+Instructor: TE PUNGA SOMERVILLE, ALICE
+
+Department: ENGL
+Course Number: 551A
+Section: 01W
+Description: Studies in Literary Movements - ST'S LIT MOVEMNT
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

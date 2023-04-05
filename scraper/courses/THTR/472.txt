@@ -1,0 +1,11 @@
+Department: THTR
+Course Number: 472
+Section: 001
+Description: Open only to B.F.A. Acting students.
+Co-reqs: (All of THTR 471, THTR 473, THTR 474.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 16:30, Building: B.C., Room: Binnings
+Instructor: DUBORG, KATHLEEN
+

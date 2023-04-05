@@ -1,0 +1,11 @@
+Department: PHAR
+Course Number: 205
+Section: 001
+Description: Population-level study designs and critical appraisal skills in evidence evaluation, with a special emphasis on evidence-based pharmacy practice.
+Pre-reqs: One of STAT 200, BIOL 300.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Pharmaceutical, Room: Sciences
+Instructor: DE VERA, MARY
+

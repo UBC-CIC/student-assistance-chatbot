@@ -1,0 +1,9 @@
+Department: SPE
+Course Number: 502
+Section: 101
+Description: Properties and characterization of macromolecules including rheology. Polymer processing and application to green products development including from lignocellulosic sources. Circular economy driven processing. Biomimetics engineering.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

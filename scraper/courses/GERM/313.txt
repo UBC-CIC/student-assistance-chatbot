@@ -1,0 +1,11 @@
+Department: GERM
+Course Number: 313
+Section: 001
+Description: Conversational German II
+Pre-reqs: GERM 210. (or equivalent.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: B310
+Instructor: GASSNER, FLORIAN
+

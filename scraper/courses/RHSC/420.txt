@@ -1,0 +1,38 @@
+Department: RHSC
+Course Number: 420
+Section: 001
+Description: An introduction to the structure and function of the human nervous system.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LEE, MICHAEL
+
+Department: RHSC
+Course Number: 420
+Section: 002
+Description: An introduction to the structure and function of the human nervous system.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 12:00
+Instructor: CONSTANTIN, ALINA
+
+Department: RHSC
+Course Number: 420
+Section: L01
+Description: An introduction to the structure and function of the human nervous system.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LEE, MICHAEL
+
+Department: RHSC
+Course Number: 420
+Section: L02
+Description: An introduction to the structure and function of the human nervous system.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 19:00
+Instructor: CONSTANTIN, ALINA
+

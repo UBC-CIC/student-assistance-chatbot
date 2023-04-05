@@ -1,0 +1,27 @@
+Department: SOIL
+Course Number: 502
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: MacMillan, Room: 158
+Instructor: BROWN, SANDRA
+
+Department: SOIL
+Course Number: 502
+Section: T01
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: MacLeod, Room: 3002
+Instructor: BROWN, SANDRA
+
+Department: SOIL
+Course Number: 502
+Section: T02
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Forest, Room: Sciences
+Instructor: BROWN, SANDRA
+

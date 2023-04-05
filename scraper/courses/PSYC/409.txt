@@ -1,0 +1,11 @@
+Department: PSYC
+Course Number: 409
+Section: 002
+Description: The structure of the mind as revealed by brain injury, neurological illness, and surgical intervention. Topics include attention, memory, language, sense of self, topographic awareness, moral reasoning, emotion, theory of mind, and social awareness.
+Pre-reqs: Either (a) one of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 278; or (b) PSYC 366 and one of PSYC 309, PSYC 365.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Food,, Room: Nutrition
+Instructor: HANDY, TODD
+

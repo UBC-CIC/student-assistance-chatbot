@@ -1,0 +1,10 @@
+Department: CIVL
+Course Number: 598W
+Section: 101
+Description: Seminar or lecture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 12:30, End Time: 14:00, Building: School, Room: of
+Instructor: BECK, SARA
+

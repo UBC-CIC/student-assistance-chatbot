@@ -1,0 +1,9 @@
+Department: CONS
+Course Number: 528
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:30, End Time: 16:30, Building: Forest, Room: Sciences
+Instructor: HAGERMAN, SHANNON MARIE
+

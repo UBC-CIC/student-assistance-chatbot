@@ -1,0 +1,17 @@
+Department: ELEC
+Course Number: 581
+Section: 101
+Pre-reqs: EECE 584.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: ELEC
+Course Number: 581
+Section: 1W1
+Pre-reqs: EECE 584.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

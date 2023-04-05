@@ -1,0 +1,44 @@
+Department: VISA
+Course Number: 311
+Section: 001
+Description: Investigation of issues and topics in digital media and visual culture through the production of contemporary video art. Technical instruction in video manipulation software. Individual and/or group projects.
+Pre-reqs: One of VISA 210, VISA 287, FINA 287.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: B125
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 311
+Section: 002
+Description: Investigation of issues and topics in digital media and visual culture through the production of contemporary video art. Technical instruction in video manipulation software. Individual and/or group projects.
+Pre-reqs: One of VISA 210, VISA 287, FINA 287.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: B125
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 311
+Section: 01W
+Description: Investigation of issues and topics in digital media and visual culture through the production of contemporary video art. Technical instruction in video manipulation software. Individual and/or group projects.
+Pre-reqs: One of VISA 210, VISA 287, FINA 287.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+
+Department: VISA
+Course Number: 311
+Section: 02W
+Description: Investigation of issues and topics in digital media and visual culture through the production of contemporary video art. Technical instruction in video manipulation software. Individual and/or group projects.
+Pre-reqs: One of VISA 210, VISA 287, FINA 287.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+

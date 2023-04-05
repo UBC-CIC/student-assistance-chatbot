@@ -1,0 +1,26 @@
+Department: INLB
+Course Number: 220
+Section: 001
+Description: Applied cultural, political, and economic land-based practices that inform and advance Indigenous self-determination. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Wed Thu Fri, Start Time: 9:30, End Time: 17:00
+
+Department: INLB
+Course Number: 220
+Section: 005
+Description: Applied cultural, political, and economic land-based practices that inform and advance Indigenous self-determination. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Wed Thu Fri, Start Time: 9:30, End Time: 17:00
+
+Department: INLB
+Course Number: 220
+Section: 006
+Description: Applied cultural, political, and economic land-based practices that inform and advance Indigenous self-determination. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

@@ -1,0 +1,10 @@
+Department: PHIL
+Course Number: 470
+Section: 001
+Description: Ways in which the 'self' has been portrayed in eastern and western religious traditions. Thinkers to be considered include Aristotle, Mencius, Freud, Xunzi (Hsün-tzu), Nietzche, and Zhuangzi (Chuang-tzu).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Geography, Room: 212
+Instructor: THOMPSON, EVAN
+

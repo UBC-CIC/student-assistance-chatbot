@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 444
+Section: 001
+Description: Focuses on a limited time period or particular aspect of modern Japanese literature.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: UBC, Room: Life
+Instructor: LAFFIN, CHRISTINA
+
+Department: ASIA
+Course Number: 444
+Section: W01
+Description: Focuses on a limited time period or particular aspect of modern Japanese literature.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: LAFFIN, CHRISTINA
+

@@ -1,0 +1,47 @@
+Department: ELEC
+Course Number: 457
+Section: 101
+Description: Application of linear and nonlinear optimization methods in power systems; constrained optimization; optimal power flow; economic dispatch; electricity market; local prices for active and reactive power; security-constrained OPF; state estimation, reliability analysis.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 17:00, End Time: 20:00, Building: MacLeod, Room: 3002
+Instructor: VAAHEDI, EBRAHIM
+
+Department: ELEC
+Course Number: 457
+Section: T1A
+Description: Application of linear and nonlinear optimization methods in power systems; constrained optimization; optimal power flow; economic dispatch; electricity market; local prices for active and reactive power; security-constrained OPF; state estimation, reliability analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Civil, Room: and
+Instructor: VAAHEDI, EBRAHIM
+
+Department: ELEC
+Course Number: 457
+Section: T1W
+Description: Application of linear and nonlinear optimization methods in power systems; constrained optimization; optimal power flow; economic dispatch; electricity market; local prices for active and reactive power; security-constrained OPF; state estimation, reliability analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 457
+Section: 1W1
+Description: Application of linear and nonlinear optimization methods in power systems; constrained optimization; optimal power flow; economic dispatch; electricity market; local prices for active and reactive power; security-constrained OPF; state estimation, reliability analysis.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 457
+Section: T1W
+Description: Application of linear and nonlinear optimization methods in power systems; constrained optimization; optimal power flow; economic dispatch; electricity market; local prices for active and reactive power; security-constrained OPF; state estimation, reliability analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

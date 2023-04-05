@@ -1,0 +1,22 @@
+Department: CHBE
+Course Number: 352
+Section: 101
+Description: Heat and mass transfer; conduction and molecular diffusion; convective transfer; analogies among heat, mass and momentum transfer; heat exchanger design; mass transfer coefficients; interphase mass transfer.
+Pre-reqs: All of CHBE 251, MATH 253.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: West, Room: Mall
+Instructor: MARTINEZ, MARK
+
+Department: CHBE
+Course Number: 352
+Section: T1A
+Description: Heat and mass transfer; conduction and molecular diffusion; convective transfer; analogies among heat, mass and momentum transfer; heat exchanger design; mass transfer coefficients; interphase mass transfer.
+Pre-reqs: All of CHBE 251, MATH 253.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Mon*, End Time: 14:00, Building: 16:00, Room: West
+Instructor: MARTINEZ, MARK
+

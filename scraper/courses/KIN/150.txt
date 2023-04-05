@@ -1,0 +1,34 @@
+Department: KIN
+Course Number: 150
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Forest, Room: Sciences
+Instructor: BEAUCHAMP, MARK
+
+Department: KIN
+Course Number: 150
+Section: 0W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 150
+Section: 901
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 20:00, Building: P., Room: A.
+Instructor: BENNETT, ERICA
+
+Department: KIN
+Course Number: 150
+Section: 9W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

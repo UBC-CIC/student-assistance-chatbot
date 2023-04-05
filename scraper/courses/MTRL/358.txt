@@ -1,0 +1,20 @@
+Department: MTRL
+Course Number: 358
+Section: 101
+Description: Aqueous extraction of metals from ores and concentrates.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:00, End Time: 10:00, Building: Frank, Room: Forward
+Instructor: DEHKHODA, AMIR MEHDI(Coordinator)
+
+Department: MTRL
+Course Number: 358
+Section: T1A
+Description: Aqueous extraction of metals from ores and concentrates.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Jack, Room: Bell
+Instructor: TBA
+

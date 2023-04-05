@@ -1,0 +1,20 @@
+Department: RMST
+Course Number: 202
+Section: 201
+Description: An introduction to the main themes that shaped the Romance World in the age of the nation state, imperialism, colonization, and decolonization.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Orchard, Room: Commons
+Instructor: ORR-ALVAREZ, BRIANNE
+
+Department: RMST
+Course Number: 202
+Section: W02
+Description: An introduction to the main themes that shaped the Romance World in the age of the nation state, imperialism, colonization, and decolonization.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: To, Room: Be
+Instructor: ORR-ALVAREZ, BRIANNE
+

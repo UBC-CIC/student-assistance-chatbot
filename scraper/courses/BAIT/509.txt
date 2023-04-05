@@ -1,0 +1,20 @@
+Department: BAIT
+Course Number: 509
+Section: BA1
+Description: Supervised and unsupervised machine learning algorithms, support vector machines, and ensemble methods for text mining projects. Applications in descriptive and predictive analytics.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 16:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: AREF, SAMIN
+
+Department: BAIT
+Course Number: 509
+Section: BA2
+Description: Supervised and unsupervised machine learning algorithms, support vector machines, and ensemble methods for text mining projects. Applications in descriptive and predictive analytics.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: AREF, SAMIN
+

@@ -1,0 +1,24 @@
+Department: ARTH
+Course Number: 599
+Section: 001
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARTH
+Course Number: 599
+Section: 002
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARTH
+Course Number: 599
+Section: 003
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

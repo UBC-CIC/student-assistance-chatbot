@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 565
+Section: 001
+Description: Ethnic and religious conflict in Asia related to historical and dialectic development of different forms of nationalism; the confluence between religion, ethnicity, and nationalist ideologies in the escalation of conflicts in different Asian societies.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: LIU, Room: 316
+Instructor: SHAKYA, TSERING
+

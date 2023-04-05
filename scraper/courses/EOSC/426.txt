@@ -1,0 +1,11 @@
+Department: EOSC
+Course Number: 426
+Section: 101
+Description: Foundational knowledge of the interactions between microorganisms and Earth's surface chemistry.
+Pre-reqs: One of BIOL 111, BIOL 112, BIOL 121, CHEM 110, CHEM 111, CHEM 120, CHEM 121, EOSC 110, EOSC 112. (Third year standing in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Earth, Room: and
+Instructor: CROWE, SEAN
+

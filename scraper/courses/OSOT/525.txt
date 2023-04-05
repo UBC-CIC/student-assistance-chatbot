@@ -1,0 +1,8 @@
+Department: OSOT
+Course Number: 525
+Section: 001
+Description: Building on OSOT 511 and OSOT 515, complex skills and approaches to enable client occupational engagement are applied through workshops and labs. Biomechanical, psychosocial, neuro-rehabilitative and developmental frames of reference will inform professional reasoning as students work through the occupational therapy practice process.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

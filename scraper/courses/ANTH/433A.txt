@@ -1,0 +1,27 @@
+Department: ANTH
+Course Number: 433A
+Section: 001
+Description: General reading and/or a research undertaking, with the agreement, and under the supervision, of a Department faculty member selected by the student. No more than six credits of Directed Studies may be taken for credit toward the Major or Honours program.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ANTH
+Course Number: 433A
+Section: 002
+Description: General reading and/or a research undertaking, with the agreement, and under the supervision, of a Department faculty member selected by the student. No more than six credits of Directed Studies may be taken for credit toward the Major or Honours program.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ANTH
+Course Number: 433A
+Section: 003
+Description: General reading and/or a research undertaking, with the agreement, and under the supervision, of a Department faculty member selected by the student. No more than six credits of Directed Studies may be taken for credit toward the Major or Honours program.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

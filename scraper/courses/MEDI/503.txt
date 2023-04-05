@@ -1,0 +1,10 @@
+Department: MEDI
+Course Number: 503
+Section: 001
+Description: Framing appropriate research questions, appropriate research designs, protocol development, key concepts in regulatory approval and human ethical oversight in Canada, privacy and knowledge translation. For students pursuing clinical, patient oriented and translational research.
+Pre-reqs: (Permission of Experimental Medicine Program Director)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BRIGHAM, DOUG
+

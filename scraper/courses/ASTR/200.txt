@@ -1,0 +1,22 @@
+Department: ASTR
+Course Number: 200
+Section: 101
+Description: Stellar masses and evolution. White dwarfs, neutron stars, and black holes. Extrasolar planet formation and detection. Dark matter in the Milky Way and other galaxies. Cosmological observations and principles.
+Pre-reqs: Either (a) one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157, PHYS 153 and one of MATH 101, MATH 103, MATH 105, MATH 121; or (b) SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Fri, Start Time: 12:00, End Time: 13:00, Building: Hennings, Room: 202
+Instructor: MAN, WING SHAN (ALLISON)
+
+Department: ASTR
+Course Number: 200
+Section: M01
+Description: Stellar masses and evolution. White dwarfs, neutron stars, and black holes. Extrasolar planet formation and detection. Dark matter in the Milky Way and other galaxies. Cosmological observations and principles.
+Pre-reqs: Either (a) one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157, PHYS 153 and one of MATH 101, MATH 103, MATH 105, MATH 121; or (b) SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Hennings, Room: 202
+Instructor: MAN, WING SHAN (ALLISON)
+

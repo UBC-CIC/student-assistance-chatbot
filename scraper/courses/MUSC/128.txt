@@ -1,0 +1,40 @@
+Department: MUSC
+Course Number: 128
+Section: 001
+Description: A multi-disciplinary survey of musical rhythm in selected world traditions and genres, connecting it to ideas of time, evolution, history, anthropology, philosophy, and contemporary globalised culture.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:30, End Time: 9:30, Building: Music, Room: 462
+Instructor: TENZER, MICHAEL
+
+Department: MUSC
+Course Number: 128
+Section: T01
+Description: A multi-disciplinary survey of musical rhythm in selected world traditions and genres, connecting it to ideas of time, evolution, history, anthropology, philosophy, and contemporary globalised culture.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Asian, Room: Centre
+Instructor: TENZER, MICHAEL
+
+Department: MUSC
+Course Number: 128
+Section: T02
+Description: A multi-disciplinary survey of musical rhythm in selected world traditions and genres, connecting it to ideas of time, evolution, history, anthropology, philosophy, and contemporary globalised culture.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Asian, Room: Centre
+Instructor: TENZER, MICHAEL
+
+Department: MUSC
+Course Number: 128
+Section: T03
+Description: A multi-disciplinary survey of musical rhythm in selected world traditions and genres, connecting it to ideas of time, evolution, history, anthropology, philosophy, and contemporary globalised culture.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Asian, Room: Centre
+Instructor: TENZER, MICHAEL
+

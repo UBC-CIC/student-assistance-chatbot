@@ -1,0 +1,27 @@
+Department: PLAN
+Course Number: 550A
+Section: 001
+Description: Directed Studies - DIRECTED STUDIES
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 550A
+Section: 002
+Description: Directed Studies - DIRECTED STUDIES
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 550A
+Section: 003
+Description: Directed Studies - DIRECTED STUDIES
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

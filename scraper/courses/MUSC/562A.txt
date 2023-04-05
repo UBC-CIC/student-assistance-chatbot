@@ -1,0 +1,9 @@
+Department: MUSC
+Course Number: 562A
+Section: 001
+Description: Open only to graduate students.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FRANCH BALLESTER, JOSE
+

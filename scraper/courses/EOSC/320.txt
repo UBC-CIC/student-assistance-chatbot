@@ -1,0 +1,55 @@
+Department: EOSC
+Course Number: 320
+Section: 201
+Description: Origin, diagenesis and geochemistry of sediments and sedimentary rocks.
+Pre-reqs: EOSC 221 and one of EOSC 210, EOSC 222.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 10:00, End Time: 11:00, Building: Earth, Room: and
+Instructor: BUSTIN, ROBERT MARC
+
+Department: EOSC
+Course Number: 320
+Section: L2A
+Description: Origin, diagenesis and geochemistry of sediments and sedimentary rocks.
+Pre-reqs: EOSC 221 and one of EOSC 210, EOSC 222.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 320
+Section: L2B
+Description: Origin, diagenesis and geochemistry of sediments and sedimentary rocks.
+Pre-reqs: EOSC 221 and one of EOSC 210, EOSC 222.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 320
+Section: L2C
+Description: Origin, diagenesis and geochemistry of sediments and sedimentary rocks.
+Pre-reqs: EOSC 221 and one of EOSC 210, EOSC 222.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 18:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 320
+Section: 2W1
+Description: Origin, diagenesis and geochemistry of sediments and sedimentary rocks.
+Pre-reqs: EOSC 221 and one of EOSC 210, EOSC 222.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu
+Instructor: TBA
+

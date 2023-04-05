@@ -1,0 +1,21 @@
+Department: MICB
+Course Number: 302
+Section: 101
+Description: Mechanisms of innate and adaptive immune responses. Hematopoiesis, development of T and B lymphocytes, leukocyte migration, antigen processing/presentation and the major histocompatibility complex, immune responses against pathogens, and diseases associated with aberrant immune responses.
+Pre-reqs: One of MICB 212, MICB 202.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Centre, Room: for
+Instructor: KION, TRACY
+
+Department: MICB
+Course Number: 302
+Section: WL1
+Description: Mechanisms of innate and adaptive immune responses. Hematopoiesis, development of T and B lymphocytes, leukocyte migration, antigen processing/presentation and the major histocompatibility complex, immune responses against pathogens, and diseases associated with aberrant immune responses.
+Pre-reqs: One of MICB 212, MICB 202.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

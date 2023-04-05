@@ -1,0 +1,19 @@
+Department: ELEC
+Course Number: 400M
+Section: 101
+Description: Lectures or projects on subjects of current interest.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Orchard, Room: Commons
+Instructor: LI, XIAOXIAO
+
+Department: ELEC
+Course Number: 400M
+Section: 1W1
+Description: Lectures or projects on subjects of current interest.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LI, XIAOXIAO
+

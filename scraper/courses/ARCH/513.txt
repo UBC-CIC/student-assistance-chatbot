@@ -1,0 +1,10 @@
+Department: ARCH
+Course Number: 513
+Section: 001
+Description: Building form and fabric considerations to assure appropriate thermal, luminous, sonic, and atmospheric conditions within buildings.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Frederic, Room: Lasserre
+Instructor: RYSANEK, ADAM
+

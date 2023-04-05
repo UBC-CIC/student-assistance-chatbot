@@ -1,0 +1,20 @@
+Department: GEM
+Course Number: 500
+Section: 921
+Description: Current concepts and skills in ecological modelling and spatial analysis.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00
+Instructor: BARON, JENNIFER
+
+Department: GEM
+Course Number: 500
+Section: L21
+Description: Current concepts and skills in ecological modelling and spatial analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Hugh, Room: Dempster
+Instructor: BARON, JENNIFER
+

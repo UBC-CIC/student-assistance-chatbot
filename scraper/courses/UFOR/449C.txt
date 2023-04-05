@@ -1,0 +1,39 @@
+Department: UFOR
+Course Number: 449C
+Section: 001
+Description: In special cases and with the approval of the instructor concerned, a student may carry out directed studies on a specific topic/problems in Urban Forestry and related greenspace planning, management, or governance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Forest, Room: Sciences
+Instructor: DETTMER, JOERN
+
+Department: UFOR
+Course Number: 449C
+Section: 201
+Description: In special cases and with the approval of the instructor concerned, a student may carry out directed studies on a specific topic/problems in Urban Forestry and related greenspace planning, management, or governance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HINCH, SCOTT
+
+Department: UFOR
+Course Number: 449C
+Section: 202
+Description: In special cases and with the approval of the instructor concerned, a student may carry out directed studies on a specific topic/problems in Urban Forestry and related greenspace planning, management, or governance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: UFOR
+Course Number: 449C
+Section: 203
+Description: In special cases and with the approval of the instructor concerned, a student may carry out directed studies on a specific topic/problems in Urban Forestry and related greenspace planning, management, or governance.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:30
+Instructor: CZEKAJLO, AGATHA
+

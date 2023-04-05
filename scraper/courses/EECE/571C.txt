@@ -1,0 +1,17 @@
+Department: EECE
+Course Number: 571C
+Section: 106
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 11:00, Building: MacLeod, Room: 3002
+Instructor: JALALZAI, MOHAMMAD
+
+Department: EECE
+Course Number: 571C
+Section: 1W6
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: JALALZAI, MOHAMMAD
+

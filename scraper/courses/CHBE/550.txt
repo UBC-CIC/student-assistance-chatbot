@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 550
+Section: 101
+Description: Topics vary from year to year, and may include kinetics of fluid-solid reactions of single particles, packed, moving, fluidized and transported bed reactors; rotary kilns; gas-liquid reaction kinetics and reactor design; reactor design for gas-liquid-solid and non-catalytic processes.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: MacLeod, Room: 2012
+Instructor: YADAV, VIKRAMADITYA
+

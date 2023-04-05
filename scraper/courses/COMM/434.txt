@@ -1,0 +1,22 @@
+Department: COMM
+Course Number: 434
+Section: 201
+Description: Legal principles and concepts relating to real estate and land development.
+Pre-reqs: COMM 393.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: FINLEY, DUNCAN
+
+Department: COMM
+Course Number: 434
+Section: 202
+Description: Legal principles and concepts relating to real estate and land development.
+Pre-reqs: COMM 393.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: FINLEY, DUNCAN
+

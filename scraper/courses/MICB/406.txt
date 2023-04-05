@@ -1,0 +1,21 @@
+Department: MICB
+Course Number: 406
+Section: 201
+Description: Presentations, library research, paper reviews, class discussions about current research in virology. Topics such as molecular targets in viral therapy; chronic viral infection; virus-host cell interaction.
+Pre-reqs: MICB 306.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30
+Instructor: HORWITZ, MARC
+
+Department: MICB
+Course Number: 406
+Section: WL2
+Description: Presentations, library research, paper reviews, class discussions about current research in virology. Topics such as molecular targets in viral therapy; chronic viral infection; virus-host cell interaction.
+Pre-reqs: MICB 306.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

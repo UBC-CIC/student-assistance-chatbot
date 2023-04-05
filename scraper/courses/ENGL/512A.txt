@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 512A
+Section: 001
+Description: Middle English Studies - MID ENGL STUDIES
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:30, End Time: 12:30, Building: Buchanan, Room: Tower
+Instructor: PARELES, MO
+
+Department: ENGL
+Course Number: 512A
+Section: 01W
+Description: Middle English Studies - MID ENGL STUDIES
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

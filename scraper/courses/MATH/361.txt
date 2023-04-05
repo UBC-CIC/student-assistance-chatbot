@@ -1,0 +1,11 @@
+Department: MATH
+Course Number: 361
+Section: 101
+Description: Mathematical modelling of basic biological processes in ecology, physiology, neuroscience and genetics. Dynamic behavior of difference equations, differential equations, and partial differential equations, explained with reference to concrete biological examples.
+Pre-reqs: One of BIOL 301, MATH 215, MATH 255, MATH 256, MATH 258.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Frederic, Room: Lasserre
+Instructor: CYTRYNBAUM, ERIC
+

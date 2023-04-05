@@ -1,0 +1,11 @@
+Department: DES
+Course Number: 301
+Section: 001
+Description: Design at the architectural scale through the medium of program and site.
+Pre-reqs: A score of 60% or higher in DES 202.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:30, End Time: 17:00
+Instructor: FUJITA, MARI
+

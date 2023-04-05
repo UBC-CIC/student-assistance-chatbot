@@ -1,0 +1,17 @@
+Department: EECE
+Course Number: 571T
+Section: 206
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Earth, Room: Sciences
+Instructor: YEDLIN, MATTHEW
+
+Department: EECE
+Course Number: 571T
+Section: 2W6
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

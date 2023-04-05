@@ -1,0 +1,22 @@
+Department: CPSC
+Course Number: 422
+Section: 101
+Description: Principles and techniques underlying the design, implementation and evaluation of intelligent computational systems. Applications of artificial intelligence to natural language understanding, image understanding and computer-based expert and advisor systems. Advanced symbolic programming methodology.
+Pre-reqs: CPSC 322.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Hugh, Room: Dempster
+Instructor: JOHNSON, JORDON
+
+Department: CPSC
+Course Number: 422
+Section: 1W1
+Description: Principles and techniques underlying the design, implementation and evaluation of intelligent computational systems. Applications of artificial intelligence to natural language understanding, image understanding and computer-based expert and advisor systems. Advanced symbolic programming methodology.
+Pre-reqs: CPSC 322.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: To, Room: Be
+Instructor: JOHNSON, JORDON
+

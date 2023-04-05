@@ -1,0 +1,30 @@
+Department: BA
+Course Number: 511
+Section: DD1
+Description: Registration restricted to students in the M.M. Program.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: BASTO DA SILVA, RUI JORGE
+
+Department: BA
+Course Number: 511
+Section: DD2
+Description: Registration restricted to students in the M.M. Program.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: BASTO DA SILVA, RUI JORGE
+
+Department: BA
+Course Number: 511
+Section: MM1
+Description: Registration restricted to students in the M.M. Program.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 8:00, End Time: 17:00, Building: David, Room: Lam
+Instructor: RAWCLIFFE, WAYNE
+

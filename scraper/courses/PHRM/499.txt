@@ -1,0 +1,20 @@
+Department: PHRM
+Course Number: 499
+Section: 001
+Description: Assessment of skills in the clinical problem-solving process. Pass/Fail.
+Pre-reqs: (Successful completion of all other coursework.)
+Credits: 1
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Instructor: GERBER, PATRICIA
+
+Department: PHRM
+Course Number: 499
+Section: 002
+Description: Assessment of skills in the clinical problem-solving process. Pass/Fail.
+Pre-reqs: (Successful completion of all other coursework.)
+Credits: 1
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Instructor: GERBER, PATRICIA
+

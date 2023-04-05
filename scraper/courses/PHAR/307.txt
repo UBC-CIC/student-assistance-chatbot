@@ -1,0 +1,43 @@
+Department: PHAR
+Course Number: 307
+Section: 001
+Description: Theoretical and practical knowledge of the analytical sciences commonly used in Academic Research as well as the Pharmaceutical and Biotechnology Industries.
+Pre-reqs: All of CHEM 211, CHEM 233, CHEM 235, PHAR 204.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:00, End Time: 10:00, Building: Pharmaceutical, Room: Sciences
+Instructor: COLLIER, ABBY
+
+Department: PHAR
+Course Number: 307
+Section: L01
+Description: Theoretical and practical knowledge of the analytical sciences commonly used in Academic Research as well as the Pharmaceutical and Biotechnology Industries.
+Pre-reqs: All of CHEM 211, CHEM 233, CHEM 235, PHAR 204.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 17:00, Building: Pharmaceutical, Room: Sciences
+Instructor: SMITH, ALEXANDER
+
+Department: PHAR
+Course Number: 307
+Section: L02
+Description: Theoretical and practical knowledge of the analytical sciences commonly used in Academic Research as well as the Pharmaceutical and Biotechnology Industries.
+Pre-reqs: All of CHEM 211, CHEM 233, CHEM 235, PHAR 204.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 17:00, Building: Pharmaceutical, Room: Sciences
+Instructor: SMITH, ALEXANDER
+
+Department: PHAR
+Course Number: 307
+Section: L03
+Description: Theoretical and practical knowledge of the analytical sciences commonly used in Academic Research as well as the Pharmaceutical and Biotechnology Industries.
+Pre-reqs: All of CHEM 211, CHEM 233, CHEM 235, PHAR 204.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

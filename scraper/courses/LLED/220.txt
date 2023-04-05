@@ -1,0 +1,20 @@
+Department: LLED
+Course Number: 220
+Section: 001
+Description: Basic tenets of translation as a methodology for increasing students' sociocultural understanding, intercultural communication, pragmatics, and written English.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: HASEYAMA, KOICHI
+
+Department: LLED
+Course Number: 220
+Section: L01
+Description: Basic tenets of translation as a methodology for increasing students' sociocultural understanding, intercultural communication, pragmatics, and written English.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:30, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: HASEYAMA, KOICHI
+

@@ -1,0 +1,22 @@
+Department: CHBE
+Course Number: 457
+Section: 101
+Description: Strategy for the conceptual design of industrial chemical and biological processes; rules of thumb for chemical engineers, simulation to assist process synthesis, reactor-separator network synthesis, introduction to product design and molecular structure design, efficiency and sustainability in the chemical industry.
+Pre-reqs: All of CHBE 241, CHBE 346, CHBE 376, CHBE 344.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: MacLeod, Room: 2018
+Instructor: CHINTALAPATI, PRANAV
+
+Department: CHBE
+Course Number: 457
+Section: T1A
+Description: Strategy for the conceptual design of industrial chemical and biological processes; rules of thumb for chemical engineers, simulation to assist process synthesis, reactor-separator network synthesis, introduction to product design and molecular structure design, efficiency and sustainability in the chemical industry.
+Pre-reqs: All of CHBE 241, CHBE 346, CHBE 376, CHBE 344.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Civil, Room: and
+Instructor: CHINTALAPATI, PRANAV
+

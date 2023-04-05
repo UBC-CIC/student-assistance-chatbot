@@ -1,0 +1,30 @@
+Department: MTRL
+Course Number: 451
+Section: 101
+Description: Basic principles and techniques of microstructural analysis with particular reference to engineered materials including x-ray, SEM microprobe TEM and high energy electron analysis.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 2012
+Instructor: WANG, RIZHI
+
+Department: MTRL
+Course Number: 451
+Section: L1A
+Description: Basic principles and techniques of microstructural analysis with particular reference to engineered materials including x-ray, SEM microprobe TEM and high energy electron analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Frank, Room: Forward
+Instructor: WANG, RIZHI
+
+Department: MTRL
+Course Number: 451
+Section: L1B
+Description: Basic principles and techniques of microstructural analysis with particular reference to engineered materials including x-ray, SEM microprobe TEM and high energy electron analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 13:00, Building: Frank, Room: Forward
+Instructor: WANG, RIZHI
+

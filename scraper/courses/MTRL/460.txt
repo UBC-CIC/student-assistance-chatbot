@@ -1,0 +1,22 @@
+Department: MTRL
+Course Number: 460
+Section: 101
+Description: Measurement systems for materials processing and evaluation, methods of data collection and analysis in materials engineering, materials processing monitoring and control, design of experiments for materials processing and optimization.
+Pre-reqs: All of STAT 251, APSC 278.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Frank, Room: Forward
+Instructor: ABDIN, YASMINE
+
+Department: MTRL
+Course Number: 460
+Section: T1A
+Description: Measurement systems for materials processing and evaluation, methods of data collection and analysis in materials engineering, materials processing monitoring and control, design of experiments for materials processing and optimization.
+Pre-reqs: All of STAT 251, APSC 278.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Forest, Room: Sciences
+Instructor: ABDIN, YASMINE
+

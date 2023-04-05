@@ -1,0 +1,16 @@
+Department: AANB
+Course Number: 551
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: AANB
+Course Number: 551
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

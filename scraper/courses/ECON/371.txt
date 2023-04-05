@@ -1,0 +1,20 @@
+Department: ECON
+Course Number: 371
+Section: 002
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: A102
+Instructor: BAYLIS, PATRICK
+
+Department: ECON
+Course Number: 371
+Section: 003
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: West, Room: Mall
+Instructor: WAGNER, KATHERINE
+

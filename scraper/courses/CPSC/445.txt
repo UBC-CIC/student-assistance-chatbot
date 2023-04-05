@@ -1,0 +1,22 @@
+Department: CPSC
+Course Number: 445
+Section: 201
+Description: Sequence alignment, phylogenetic tree reconstruction, prediction of RNA and protein structure, gene finding and sequence annotation, gene expression, and biomolecular computing.
+Pre-reqs: CPSC 320. (and either BMEG 250 or six credits of BIOL beyond BIOL 111.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Hugh, Room: Dempster
+Instructor: DING, JIARUI
+
+Department: CPSC
+Course Number: 445
+Section: 2W1
+Description: Sequence alignment, phylogenetic tree reconstruction, prediction of RNA and protein structure, gene finding and sequence annotation, gene expression, and biomolecular computing.
+Pre-reqs: CPSC 320. (and either BMEG 250 or six credits of BIOL beyond BIOL 111.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00
+Instructor: DING, JIARUI
+

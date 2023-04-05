@@ -1,0 +1,22 @@
+Department: KORN
+Course Number: 301
+Section: 001
+Description: Readings in intermediate-level Korean on aspects of Korean culture, customs, and contemporary life, along with structured conversations based on those readings. As of 2011W, credit will be granted for only one of KORN 301/302 or KORN 300.
+Pre-reqs: KORN 202. (Or permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Fri, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: B319
+Instructor: SHIN, EURIE
+
+Department: KORN
+Course Number: 301
+Section: W01
+Description: Readings in intermediate-level Korean on aspects of Korean culture, customs, and contemporary life, along with structured conversations based on those readings. As of 2011W, credit will be granted for only one of KORN 301/302 or KORN 300.
+Pre-reqs: KORN 202. (Or permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Fri, Start Time: 14:00, End Time: 15:30, Building: To, Room: Be
+Instructor: SHIN, EURIE
+

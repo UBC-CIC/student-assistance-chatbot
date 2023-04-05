@@ -1,0 +1,10 @@
+Department: RMST
+Course Number: 302
+Section: 201
+Description: Theatre and poetry of the Romance-speaking world from the Middle Ages to the present day from a comparative perspective.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: D317
+Instructor: PIECHOCKI, KATHARINA
+

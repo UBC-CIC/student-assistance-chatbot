@@ -1,0 +1,11 @@
+Department: FNH
+Course Number: 345
+Section: 201
+Description: Counselling in dietetics: communication theory and foundational counselling skills.
+Pre-reqs: FNH 370.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 13:00, End Time: 14:30, Building: MacLeod, Room: 2002
+Instructor: MOUBARAK, CRISTEL
+

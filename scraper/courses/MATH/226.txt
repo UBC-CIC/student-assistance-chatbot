@@ -1,0 +1,12 @@
+Department: MATH
+Course Number: 226
+Section: 101
+Description: Advanced Calculus I
+Pre-reqs: Either (a) a score of 68% or higher in MATH 121 or (b) a score of 80% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001.
+Co-reqs: One of MATH 152, MATH 221, MATH 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Mathematics, Room: Annex
+Instructor: BENNETT, MICHAEL
+

@@ -1,0 +1,9 @@
+Department: ECED
+Course Number: 441
+Section: 63C
+Description: Early Intervention for Infants and Young Children with Sensory Loss and Motor Impairments
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: WOOLDRIDGE, MICHAELA
+

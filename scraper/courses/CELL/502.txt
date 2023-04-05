@@ -1,0 +1,10 @@
+Department: CELL
+Course Number: 502
+Section: 001
+Description: Cellular and molecular mechanisms of development from the earliest stages of axis formation to organogenesis.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Fri, Start Time: 15:00, End Time: 17:00
+Instructor: O'CONNOR, TIMOTHY
+

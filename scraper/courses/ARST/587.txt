@@ -1,0 +1,18 @@
+Department: ARST
+Course Number: 587
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: FRASER, TARA
+
+Department: ARST
+Course Number: 587
+Section: WL2
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: TBA
+

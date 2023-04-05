@@ -1,0 +1,19 @@
+Department: PHYS
+Course Number: 509C
+Section: 101
+Description: Theory of Measurements - MEASUREMNT THEOR
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Hennings, Room: 301
+Instructor: OSER, SCOTT
+
+Department: PHYS
+Course Number: 509C
+Section: WL1
+Description: Theory of Measurements - MEASUREMNT THEOR
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

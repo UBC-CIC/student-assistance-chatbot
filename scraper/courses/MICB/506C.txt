@@ -1,0 +1,10 @@
+Department: MICB
+Course Number: 506C
+Section: 001
+Description: Developing, discussing, and undertaking research projects. Oral communication skills, peer review skills, scientific ethics, and the ability to critically evaluate papers in the literature. To be taken only with permission of the department head.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00
+Instructor: ABRAHAM, NINAN
+

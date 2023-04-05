@@ -1,0 +1,55 @@
+Department: ELEC
+Course Number: 404
+Section: 201
+Description: Introduction to radio-frequency (RF) communication systems; matching networks, transceiver architectures, low noise amplifiers, mixers, oscillators, etc.
+Pre-reqs: ELEC 221.
+Co-reqs: ELEC 401.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 18:30, End Time: 21:30, Building: MacLeod, Room: 2002
+
+Department: ELEC
+Course Number: 404
+Section: T2A
+Description: Introduction to radio-frequency (RF) communication systems; matching networks, transceiver architectures, low noise amplifiers, mixers, oscillators, etc.
+Pre-reqs: ELEC 221.
+Co-reqs: ELEC 401.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Civil, Room: and
+
+Department: ELEC
+Course Number: 404
+Section: T2W
+Description: Introduction to radio-frequency (RF) communication systems; matching networks, transceiver architectures, low noise amplifiers, mixers, oscillators, etc.
+Pre-reqs: ELEC 221.
+Co-reqs: ELEC 401.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 404
+Section: 2W1
+Description: Introduction to radio-frequency (RF) communication systems; matching networks, transceiver architectures, low noise amplifiers, mixers, oscillators, etc.
+Pre-reqs: ELEC 221.
+Co-reqs: ELEC 401.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 404
+Section: T2W
+Description: Introduction to radio-frequency (RF) communication systems; matching networks, transceiver architectures, low noise amplifiers, mixers, oscillators, etc.
+Pre-reqs: ELEC 221.
+Co-reqs: ELEC 401.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

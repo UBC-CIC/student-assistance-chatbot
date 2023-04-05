@@ -1,0 +1,20 @@
+Department: CHIN
+Course Number: 401
+Section: 001
+Pre-reqs: One of CHIN 207, CHIN 208, CHIN 337, CHIN 338.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: LIN, CHIEN-JU
+
+Department: CHIN
+Course Number: 401
+Section: W01
+Pre-reqs: One of CHIN 207, CHIN 208, CHIN 337, CHIN 338.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: LIN, CHIEN-JU
+

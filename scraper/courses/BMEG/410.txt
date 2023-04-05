@@ -1,0 +1,26 @@
+Department: BMEG
+Course Number: 410
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: MacLeod, Room: 2018
+Instructor: KREBS, CLAUDIA
+
+Department: BMEG
+Course Number: 410
+Section: T1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Chemical, Room: and
+Instructor: KREBS, CLAUDIA
+
+Department: BMEG
+Course Number: 410
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

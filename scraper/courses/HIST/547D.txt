@@ -1,0 +1,72 @@
+Department: HIST
+Course Number: 547D
+Section: 032
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: YIN, SHOUFU
+
+Department: HIST
+Course Number: 547D
+Section: 033
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CHEEK, TIMOTHY
+
+Department: HIST
+Course Number: 547D
+Section: 034
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SHIN, LEO
+
+Department: HIST
+Course Number: 547D
+Section: 035
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: THRUSH, COLL
+
+Department: HIST
+Course Number: 547D
+Section: 036
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ROOSA, JOHN
+
+Department: HIST
+Course Number: 547D
+Section: 037
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TONG, CLEMENT
+
+Department: HIST
+Course Number: 547D
+Section: 038
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ISHIGURO, LAURA
+
+Department: HIST
+Course Number: 547D
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: HIST
+Course Number: 547D
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

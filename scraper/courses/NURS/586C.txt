@@ -1,0 +1,9 @@
+Department: NURS
+Course Number: 586C
+Section: 001
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: UBC, Room: Hospital
+Instructor: RANGER, MANON
+

@@ -1,0 +1,118 @@
+Department: CNPS
+Course Number: 362
+Section: 001
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:30, Building: Forest, Room: Sciences
+Instructor: COX, DANIEL
+
+Department: CNPS
+Course Number: 362
+Section: L1A
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:00, End Time: 13:30, Building: Neville, Room: Scarfe
+Instructor: COX, DANIEL(Coordinator)
+
+Department: CNPS
+Course Number: 362
+Section: L1B
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:30, Building: Neville, Room: Scarfe
+Instructor: COX, DANIEL(Coordinator)
+
+Department: CNPS
+Course Number: 362
+Section: L1C
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 12:00, End Time: 13:30, Building: Neville, Room: Scarfe
+Instructor: COX, DANIEL(Coordinator)
+
+Department: CNPS
+Course Number: 362
+Section: L1D
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:30, Building: Neville, Room: Scarfe
+Instructor: COX, DANIEL(Coordinator)
+
+Department: CNPS
+Course Number: 362
+Section: 002
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 15:30, Building: Forest, Room: Sciences
+Instructor: MADSEN, JOSHUA
+
+Department: CNPS
+Course Number: 362
+Section: L2A
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:30, Building: Neville, Room: Scarfe
+Instructor: TBA
+
+Department: CNPS
+Course Number: 362
+Section: L2B
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:30, Building: Ponderosa, Room: Commons
+Instructor: TBA
+
+Department: CNPS
+Course Number: 362
+Section: L2C
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:30, Building: Neville, Room: Scarfe
+Instructor: TBA
+
+Department: CNPS
+Course Number: 362
+Section: L2D
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 15:30, Building: Neville, Room: Scarfe
+Instructor: TBA
+
+Department: CNPS
+Course Number: 362
+Section: 0W1
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CNPS
+Course Number: 362
+Section: 0W2
+Description: Development of basic interviewing skills for counselling and guidance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

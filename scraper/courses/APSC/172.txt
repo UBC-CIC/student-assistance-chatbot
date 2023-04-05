@@ -1,0 +1,30 @@
+Department: APSC
+Course Number: 172
+Section: VE1
+Description: Functions, limits, differentiation, applications of derivatives, integration, applications of definite integrals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:30, Building: Chemical, Room: and
+Instructor: ABELLO RUBIO, JUAN
+
+Department: APSC
+Course Number: 172
+Section: VT1
+Description: Functions, limits, differentiation, applications of derivatives, integration, applications of definite integrals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: APSC
+Course Number: 172
+Section: VT2
+Description: Functions, limits, differentiation, applications of derivatives, integration, applications of definite integrals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: TBA
+

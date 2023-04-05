@@ -1,0 +1,20 @@
+Department: FNH
+Course Number: 482
+Section: 201
+Description: Practice education placements in settings across British Columbia. Restricted to students in the Dietetics Major. Pass/Fail.
+Pre-reqs: FNH 481.
+Credits: 12
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Instructor: BROWES, ALISON
+
+Department: FNH
+Course Number: 482
+Section: 202
+Description: Practice education placements in settings across British Columbia. Restricted to students in the Dietetics Major. Pass/Fail.
+Pre-reqs: FNH 481.
+Credits: 12
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Instructor: BROWES, ALISON
+

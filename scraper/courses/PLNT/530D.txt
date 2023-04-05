@@ -1,0 +1,24 @@
+Department: PLNT
+Course Number: 530D
+Section: 001
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLNT
+Course Number: 530D
+Section: 002
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLNT
+Course Number: 530D
+Section: 003
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

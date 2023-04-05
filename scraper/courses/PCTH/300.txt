@@ -1,0 +1,11 @@
+Department: PCTH
+Course Number: 300
+Section: 001
+Description: The concepts, language and techniques of scientific pharmacology. Intended primarily for Honours and Major students in Pharmacology.
+Pre-reqs: Either (a) all of BIOL 200, BIOL 201, CHEM 233, CHEM 235 or (b) all of BIOL 200, BIOL 201, CHEM 203, CHEM 204; and CHEM 211 and one of CHEM 205, CHEM 201. (Permission of the undergraduate advisor is required.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: ABADI, SHIRIN S.A.
+

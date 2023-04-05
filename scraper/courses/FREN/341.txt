@@ -1,0 +1,11 @@
+Department: FREN
+Course Number: 341
+Section: 201
+Description: Exploration of modern and contemporary French culture and literature from the early 19th century to the present day; the impact of society on the arts and vice versa.
+Pre-reqs: FREN 311 and one of FREN 224, FREN 401.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B303
+Instructor: LAROUSSI, FARID
+

@@ -1,0 +1,66 @@
+Department: DSCI
+Course Number: 572
+Section: 001
+Description: Support Vector Machines. Random Forests. Ensemble Classifiers. Graphical models.
+Pre-reqs: DSCI 571.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:30, End Time: 12:00, Building: MacMillan, Room: 166
+Instructor: SEYED-AHMADI, ARMAN
+
+Department: DSCI
+Course Number: 572
+Section: L01
+Description: Support Vector Machines. Random Forests. Ensemble Classifiers. Graphical models.
+Pre-reqs: DSCI 571.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: SEYED-AHMADI, ARMAN
+
+Department: DSCI
+Course Number: 572
+Section: L02
+Description: Support Vector Machines. Random Forests. Ensemble Classifiers. Graphical models.
+Pre-reqs: DSCI 571.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: SEYED-AHMADI, ARMAN
+
+Department: DSCI
+Course Number: 572
+Section: 002
+Description: Support Vector Machines. Random Forests. Ensemble Classifiers. Graphical models.
+Pre-reqs: DSCI 571.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 10:30, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: SILFVERBERG, MIIKKA PIETARI
+
+Department: DSCI
+Course Number: 572
+Section: L03
+Description: Support Vector Machines. Random Forests. Ensemble Classifiers. Graphical models.
+Pre-reqs: DSCI 571.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: PARK, JUNGYEUL
+
+Department: DSCI
+Course Number: 572
+Section: L04
+Description: Support Vector Machines. Random Forests. Ensemble Classifiers. Graphical models.
+Pre-reqs: DSCI 571.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 18:00, Building: Orchard, Room: Commons
+Instructor: PARK, JUNGYEUL
+

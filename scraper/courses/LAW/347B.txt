@@ -1,0 +1,40 @@
+Department: LAW
+Course Number: 347B
+Section: 001
+Description: An examination of the principles of Canadian federalism.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:30, End Time: 15:30, Building: Allard, Room: Hall
+Instructor: BAKAN, JOEL CONRAD
+
+Department: LAW
+Course Number: 347B
+Section: 002
+Description: An examination of the principles of Canadian federalism.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Allard, Room: Hall
+Instructor: KONG, HOI
+
+Department: LAW
+Course Number: 347B
+Section: 004
+Description: An examination of the principles of Canadian federalism.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: KAUSHAL, ASHA
+
+Department: LAW
+Course Number: 347B
+Section: 005
+Description: An examination of the principles of Canadian federalism.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:30, End Time: 17:30, Building: Allard, Room: Hall
+Instructor: KONG, HOI
+

@@ -1,0 +1,11 @@
+Department: POLI
+Course Number: 405C
+Section: 001
+Description: Topics in Canadian Politics - TPC CANADA POLI
+Pre-reqs: POLI 101 and one of POLI 301, POLI 302, POLI 303, POLI 304, POLI 305, POLI 306, POLI 307, POLI 308.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00
+Instructor: DOBERSTEIN, CAREY
+

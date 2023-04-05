@@ -1,0 +1,16 @@
+Department: EECE
+Course Number: 571Y
+Section: 204
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GOPALAKRISHNAN, SATHISH
+
+Department: EECE
+Course Number: 571Y
+Section: 2W4
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

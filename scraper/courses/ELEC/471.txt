@@ -1,0 +1,21 @@
+Department: ELEC
+Course Number: 471
+Section: 101
+Description: Physical principles of ultrasound, magnetic resonance, computed tomography, X-ray projection imaging and molecular imaging in medical imaging for diagnostics, therapeutics, and interventions.
+Pre-reqs: All of ELEC 371, ELEC 341, ELEC 311, ELEC 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: P., Room: A.
+Instructor: ROHLING, ROBERT
+
+Department: ELEC
+Course Number: 471
+Section: 1W1
+Description: Physical principles of ultrasound, magnetic resonance, computed tomography, X-ray projection imaging and molecular imaging in medical imaging for diagnostics, therapeutics, and interventions.
+Pre-reqs: All of ELEC 371, ELEC 341, ELEC 311, ELEC 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

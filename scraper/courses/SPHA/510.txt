@@ -1,0 +1,10 @@
+Department: SPHA
+Course Number: 510
+Section: 001
+Description: Analysis of topical Canadian health policy issues including an historical overview of the health care system, health care funding, public / private financing, health care personnel and pharmaceutical policy challenges.
+Credits: 1.5
+Mode of Delivery: Multi-access
+Requires in Person Attendance: No
+Term: 1, Days: Sat, Start Time: 14:00, End Time: 17:00
+Instructor: MORGAN, STEVEN
+

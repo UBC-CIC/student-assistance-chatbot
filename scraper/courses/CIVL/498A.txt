@@ -1,0 +1,10 @@
+Department: CIVL
+Course Number: 498A
+Section: 201
+Description: Seminar or lecture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: MacMillan, Room: 158
+Instructor: ZOU, ZHENGBO
+

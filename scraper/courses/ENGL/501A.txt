@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 501A
+Section: 001
+Description: Studies in Bibliography - BIBLIOGRAPHY
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:30, End Time: 12:30, Building: Buchanan, Room: Tower
+Instructor: CHAPMAN, MARY ANN
+
+Department: ENGL
+Course Number: 501A
+Section: 01W
+Description: Studies in Bibliography - BIBLIOGRAPHY
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

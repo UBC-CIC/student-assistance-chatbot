@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 434
+Section: 001
+Description: Legal issues relating to tort claims in negligence and related causes of action against health care providers, with a primary focus on physicians and hospital authorities.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:30, End Time: 20:30, Building: Allard, Room: Hall
+Instructor: MCGIVERN, LINDSAY
+

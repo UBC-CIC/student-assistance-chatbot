@@ -1,0 +1,30 @@
+Department: LFS
+Course Number: 398
+Section: 001
+Description: Work experience in relevant private and/or public sector settings. Work terms are normally four months long. Restricted to students admitted to the Co-op Program in Land and Food Systems. Pass/Fail.
+Pre-reqs: (Must attend all Co-op pre-employment workshops.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Instructor: TBA
+
+Department: LFS
+Course Number: 398
+Section: 002
+Description: Work experience in relevant private and/or public sector settings. Work terms are normally four months long. Restricted to students admitted to the Co-op Program in Land and Food Systems. Pass/Fail.
+Pre-reqs: (Must attend all Co-op pre-employment workshops.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Instructor: TBA
+
+Department: LFS
+Course Number: 398
+Section: 003
+Description: Work experience in relevant private and/or public sector settings. Work terms are normally four months long. Restricted to students admitted to the Co-op Program in Land and Food Systems. Pass/Fail.
+Pre-reqs: (Must attend all Co-op pre-employment workshops.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Instructor: TBA
+

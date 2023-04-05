@@ -1,0 +1,43 @@
+Department: GRS
+Course Number: 490
+Section: 001
+Description: Students interact face-to-face and online as a community of learners to discuss global issues in agriculture, food, and natural resources in cultural context. Typically taken after studying abroad.
+Pre-reqs: GRS 390.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:30, End Time: 19:00, Building: MacMillan, Room: 160
+Instructor: LAVKULICH, LESLIE
+
+Department: GRS
+Course Number: 490
+Section: 102
+Description: Students interact face-to-face and online as a community of learners to discuss global issues in agriculture, food, and natural resources in cultural context. Typically taken after studying abroad.
+Pre-reqs: GRS 390.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:30, End Time: 19:00, Building: MacMillan, Room: 256
+Instructor: LAVKULICH, LESLIE
+
+Department: GRS
+Course Number: 490
+Section: 103
+Description: Students interact face-to-face and online as a community of learners to discuss global issues in agriculture, food, and natural resources in cultural context. Typically taken after studying abroad.
+Pre-reqs: GRS 390.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:30, End Time: 19:00, Building: MacMillan, Room: 158
+Instructor: LAVKULICH, LESLIE
+
+Department: GRS
+Course Number: 490
+Section: 104
+Description: Students interact face-to-face and online as a community of learners to discuss global issues in agriculture, food, and natural resources in cultural context. Typically taken after studying abroad.
+Pre-reqs: GRS 390.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Instructor: LAVKULICH, LESLIE
+

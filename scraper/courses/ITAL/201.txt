@@ -1,0 +1,33 @@
+Department: ITAL
+Course Number: 201
+Section: 101
+Description: Introduction to complex language structures used to communicate in a variety of situations by using different tenses and modes. Enhanced ability to comprehend, interact and express wishes or feelings in common personal and social contexts. Aligned with CEFR level A2 objectives.
+Pre-reqs: ITAL 102. (Or successful completion of CEFR Level A1.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D301
+Instructor: ZAMPIERI, ELENA
+
+Department: ITAL
+Course Number: 201
+Section: 102
+Description: Introduction to complex language structures used to communicate in a variety of situations by using different tenses and modes. Enhanced ability to comprehend, interact and express wishes or feelings in common personal and social contexts. Aligned with CEFR level A2 objectives.
+Pre-reqs: ITAL 102. (Or successful completion of CEFR Level A1.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B307
+Instructor: FALANGOLA, CHIARA
+
+Department: ITAL
+Course Number: 201
+Section: W01
+Description: Introduction to complex language structures used to communicate in a variety of situations by using different tenses and modes. Enhanced ability to comprehend, interact and express wishes or feelings in common personal and social contexts. Aligned with CEFR level A2 objectives.
+Pre-reqs: ITAL 102. (Or successful completion of CEFR Level A1.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 8:00, End Time: 9:00, Building: To, Room: Be
+Instructor: TBA
+

@@ -1,0 +1,9 @@
+Department: GEOG
+Course Number: 514B
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Geography, Room: 223
+Instructor: DEMPSEY, JESSICA
+

@@ -1,0 +1,42 @@
+Department: KIN
+Course Number: 262
+Section: 001
+Description: Health policy and the social context in relation to active health.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 19:00, Building: Biological, Room: Sciences
+Instructor: BUNDON, ANDREA
+
+Department: KIN
+Course Number: 262
+Section: 002
+Description: Health policy and the social context in relation to active health.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 19:00, Building: Neville, Room: Scarfe
+Instructor: YOON, LIV
+
+Department: KIN
+Course Number: 262
+Section: 0W1
+Description: Health policy and the social context in relation to active health.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 262
+Section: 0W2
+Description: Health policy and the social context in relation to active health.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

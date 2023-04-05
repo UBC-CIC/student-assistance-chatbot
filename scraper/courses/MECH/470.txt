@@ -1,0 +1,21 @@
+Department: MECH
+Course Number: 470
+Section: 101
+Description: Energy supply and demand. Energy conversion chain. Electrical power generation using thermal power plants, renewable energy, and fuel cells. Rankine cycle steam power. Brayton cycle gas turbine power plants, intercooling, reheat, and regeneration. Internal combustion engines. Exhaust gas after treatment. Combined and binary cycles. Nuclear power.
+Pre-reqs: All of MECH 327, MECH 375.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Civil, Room: and
+Instructor: NAJARIAN, SIAMAK
+
+Department: MECH
+Course Number: 470
+Section: 1W1
+Description: Energy supply and demand. Energy conversion chain. Electrical power generation using thermal power plants, renewable energy, and fuel cells. Rankine cycle steam power. Brayton cycle gas turbine power plants, intercooling, reheat, and regeneration. Internal combustion engines. Exhaust gas after treatment. Combined and binary cycles. Nuclear power.
+Pre-reqs: All of MECH 327, MECH 375.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

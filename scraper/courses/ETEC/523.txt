@@ -1,0 +1,18 @@
+Department: ETEC
+Course Number: 523
+Section: 65A
+Description: Mobile and Open Education
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: VOGT, DAVID
+
+Department: ETEC
+Course Number: 523
+Section: W5A
+Description: Experiential immersion in the proven and emerging educational potentials of mobile technologies and open learning. Theory and strategy of mobile and open education through collective critical analysis of trending knowledge.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

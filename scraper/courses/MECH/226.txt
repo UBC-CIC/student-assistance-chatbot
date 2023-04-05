@@ -1,0 +1,59 @@
+Department: MECH
+Course Number: 226
+Section: 001
+Description: Written and oral communication. Preparation of design reports, business correspondence, verbal, online, and visual presentation of technical material. Restricted to students in the second year of Mechanical Engineering.
+Pre-reqs: A score of 65% or higher in one of ENGL 112, WRDS 150, APSC 176.
+Co-reqs: All of MECH 220, MECH 221, MECH 222, MECH 223, MECH 224, MECH 225.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: EYKING, ADRIANNA
+
+Department: MECH
+Course Number: 226
+Section: T0A
+Description: Written and oral communication. Preparation of design reports, business correspondence, verbal, online, and visual presentation of technical material. Restricted to students in the second year of Mechanical Engineering.
+Pre-reqs: A score of 65% or higher in one of ENGL 112, WRDS 150, APSC 176.
+Co-reqs: All of MECH 220, MECH 221, MECH 222, MECH 223, MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: West, Room: Mall
+Instructor: TBA
+
+Department: MECH
+Course Number: 226
+Section: T0B
+Description: Written and oral communication. Preparation of design reports, business correspondence, verbal, online, and visual presentation of technical material. Restricted to students in the second year of Mechanical Engineering.
+Pre-reqs: A score of 65% or higher in one of ENGL 112, WRDS 150, APSC 176.
+Co-reqs: All of MECH 220, MECH 221, MECH 222, MECH 223, MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: West, Room: Mall
+Instructor: TBA
+
+Department: MECH
+Course Number: 226
+Section: T0C
+Description: Written and oral communication. Preparation of design reports, business correspondence, verbal, online, and visual presentation of technical material. Restricted to students in the second year of Mechanical Engineering.
+Pre-reqs: A score of 65% or higher in one of ENGL 112, WRDS 150, APSC 176.
+Co-reqs: All of MECH 220, MECH 221, MECH 222, MECH 223, MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: West, Room: Mall
+Instructor: TBA
+
+Department: MECH
+Course Number: 226
+Section: T0D
+Description: Written and oral communication. Preparation of design reports, business correspondence, verbal, online, and visual presentation of technical material. Restricted to students in the second year of Mechanical Engineering.
+Pre-reqs: A score of 65% or higher in one of ENGL 112, WRDS 150, APSC 176.
+Co-reqs: All of MECH 220, MECH 221, MECH 222, MECH 223, MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: West, Room: Mall
+Instructor: TBA
+

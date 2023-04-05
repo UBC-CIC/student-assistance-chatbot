@@ -1,0 +1,18 @@
+Department: BAFI
+Course Number: 508
+Section: BA1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 10:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: FISHER, ADLAI
+
+Department: BAFI
+Course Number: 508
+Section: BA2
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: FISHER, ADLAI
+

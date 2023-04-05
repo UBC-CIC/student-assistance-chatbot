@@ -1,0 +1,10 @@
+Department: COEC
+Course Number: 387
+Section: 001
+Description: Financial issues encountered by those active on the investing side of entrepreneurship, such as working for banks, venture capital firms, or corporate venture organizations, or anyone interacting with entrepreneurs and private equity investors.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Iona, Room: Building
+Instructor: BENA, JAN
+

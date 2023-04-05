@@ -1,0 +1,33 @@
+Department: MANU
+Course Number: 330
+Section: 001
+Description: Project-based, multi-step manufacturing engineering design and problem solving.
+Pre-reqs: MANU 230.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 10:00, Building: Neville, Room: Scarfe
+Instructor: KEULEN, CASEY
+
+Department: MANU
+Course Number: 330
+Section: L0A
+Description: Project-based, multi-step manufacturing engineering design and problem solving.
+Pre-reqs: MANU 230.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:30, End Time: 13:30
+Instructor: KEULEN, CASEY
+
+Department: MANU
+Course Number: 330
+Section: L0B
+Description: Project-based, multi-step manufacturing engineering design and problem solving.
+Pre-reqs: MANU 230.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00
+Instructor: KEULEN, CASEY
+

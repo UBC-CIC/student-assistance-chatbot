@@ -1,0 +1,40 @@
+Department: BUSI
+Course Number: 291
+Section: 101
+Description: Methods and applications of statistics in business; data analysis, descriptive regression; data generation; sampling distributions; hypothesis testing; confidence intervals; two sample problems; inference in regression.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 18:30, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: ESSAK, MARTHA
+
+Department: BUSI
+Course Number: 291
+Section: 102
+Description: Methods and applications of statistics in business; data analysis, descriptive regression; data generation; sampling distributions; hypothesis testing; confidence intervals; two sample problems; inference in regression.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Mon, Start Time: 18:30, End Time: 21:30
+Instructor: ESSAK, MARTHA
+
+Department: BUSI
+Course Number: 291
+Section: 201
+Description: Methods and applications of statistics in business; data analysis, descriptive regression; data generation; sampling distributions; hypothesis testing; confidence intervals; two sample problems; inference in regression.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 18:30, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: ESSAK, MARTHA
+
+Department: BUSI
+Course Number: 291
+Section: 202
+Description: Methods and applications of statistics in business; data analysis, descriptive regression; data generation; sampling distributions; hypothesis testing; confidence intervals; two sample problems; inference in regression.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Wed, Start Time: 18:30, End Time: 21:30
+Instructor: ESSAK, MARTHA
+

@@ -1,0 +1,10 @@
+Department: DANI
+Course Number: 110
+Section: 001
+Description: Elementary Danish II
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B218
+Instructor: HAVEMOSE, ANN-KATHRINE
+

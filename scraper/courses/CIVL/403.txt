@@ -1,0 +1,11 @@
+Department: CIVL
+Course Number: 403
+Section: 201
+Description: Time value of money; cash flow analysis; comparing options; depreciation, taxes, and inflation; financial accounting; company structures; public sector projects; decision-making.
+Pre-reqs: (Fourth-year standing required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: West, Room: Mall
+Instructor: ETMANNSKI, TAMARA
+

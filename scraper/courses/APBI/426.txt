@@ -1,0 +1,22 @@
+Department: APBI
+Course Number: 426
+Section: 001
+Description: Biology and physiology of selected plant-microbe relationships. Impacts of plant-microbe relationships on society.
+Pre-reqs: BIOL 200 and one of BIOC 202, BIOC 203, BIOL 201, BIOL 233, BIOL 234, BIOL 260.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: KRONSTAD, JAMES
+
+Department: APBI
+Course Number: 426
+Section: T01
+Description: Biology and physiology of selected plant-microbe relationships. Impacts of plant-microbe relationships on society.
+Pre-reqs: BIOL 200 and one of BIOC 202, BIOC 203, BIOL 201, BIOL 233, BIOL 234, BIOL 260.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Food,, Room: Nutrition
+Instructor: TBA
+

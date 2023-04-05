@@ -1,0 +1,11 @@
+Department: SPPH
+Course Number: 514
+Section: 002
+Description: Methods and application of decision analysis to improve health from the perspective of the policy maker, health professional, and patient.
+Pre-reqs: Either (a) all of HCEP 400, HCEP 502 or (b) all of SPPH 400, SPPH 502.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: School, Room: of
+Instructor: BANSBACK, NICHOLAS
+

@@ -1,0 +1,11 @@
+Department: EOSC
+Course Number: 352
+Section: 201
+Description: Introduction to tensor calculus and continuum mechanics. Stress, strain and strain-rate tensors. Mass, momentum and energy balance. Applications to problems of geophysical heat transport, elasticity and fluid dynamics.
+Pre-reqs: One of EOSC 250, MATH 317.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Earth, Room: and
+Instructor: SCHOOF, CHRISTIAN
+

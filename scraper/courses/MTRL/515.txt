@@ -1,0 +1,10 @@
+Department: MTRL
+Course Number: 515
+Section: 201
+Description: Mathematical modelling of manufacturing processes; Computer Aided Engineering tools; application examples will be drawn from a range of manufacturing operations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Frank, Room: Forward
+Instructor: COCKCROFT, STEVEN
+

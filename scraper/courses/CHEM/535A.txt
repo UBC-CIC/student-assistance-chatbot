@@ -1,0 +1,9 @@
+Department: CHEM
+Course Number: 535A
+Section: 212
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Chemistry, Room: D317
+Instructor: BERTRAM, ALLAN
+

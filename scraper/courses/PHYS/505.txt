@@ -1,0 +1,10 @@
+Department: PHYS
+Course Number: 505
+Section: 101
+Description: Nucleons and their structure, hadrons and isospin, two-nucleon systems and interactions, bulk properties of nuclei and models, nuclear excitations and radioactivity, strong and electromagnetic decay, symmetries and weak interaction, reactions, nuclear astrophysics.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 9:30, End Time: 11:00
+Instructor: BEHR, JOHN
+

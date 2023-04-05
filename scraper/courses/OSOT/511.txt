@@ -1,0 +1,8 @@
+Department: OSOT
+Course Number: 511
+Section: 001
+Description: Fundamentals of occupational therapy, including values and beliefs, conceptual models, client-centred principles, and practice process frameworks are introduced. Professional reasoning is demonstrated through resolution of case-based client occupational issues. Critical appraisal of theory fosters nuanced understandings of occupation and health.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

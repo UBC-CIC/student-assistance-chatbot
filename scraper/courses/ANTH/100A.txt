@@ -1,0 +1,420 @@
+Department: ANTH
+Course Number: 100A
+Section: 001
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:00
+Instructor: SHIVA, AMIRPOUYAN
+
+Department: ANTH
+Course Number: 100A
+Section: D1A
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D1B
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D1C
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D1D
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D1E
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D1F
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: 002
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: A202
+Instructor: SHIVA, AMIRPOUYAN
+
+Department: ANTH
+Course Number: 100A
+Section: D2A
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D2B
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 18:00, End Time: 19:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D2C
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D2D
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: 003
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 17:00, Building: Hebb, Room: 100
+Instructor: DAVIS, WADE
+
+Department: ANTH
+Course Number: 100A
+Section: D3A
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B302
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3B
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3C
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3D
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3E
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3F
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3G
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3H
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3I
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3J
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3K
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3L
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3M
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3N
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D3O
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: 004
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: West, Room: Mall
+Instructor: ZEWERI, HELENA
+
+Department: ANTH
+Course Number: 100A
+Section: D4A
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D4B
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D4C
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D4D
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D4E
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D4F
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: 005
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:00, Building: Earth, Room: Sciences
+Instructor: HAYAT, ZAHRA
+
+Department: ANTH
+Course Number: 100A
+Section: D5A
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D5B
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D5C
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D5D
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D5E
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ANTH
+Course Number: 100A
+Section: D5F
+Description: Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Anthropology, Room: and
+Instructor: TBA
+

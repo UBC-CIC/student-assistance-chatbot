@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 565
+Section: 101
+Description: Discrete-time chemical system modelling; model-based predictive control; predictive controller design; analysis of design parameters; controller stability; robustness and performance analysis; selected topics from current developments in the literature.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: P., Room: A.
+Instructor: CAO, YANKAI
+

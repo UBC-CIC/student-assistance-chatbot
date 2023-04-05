@@ -1,0 +1,11 @@
+Department: EOSC
+Course Number: 445
+Section: 001
+Description: Geological engineering design project from scope definition to final design. Based on a problem from industry.
+Pre-reqs: (Fourth-year standing in Geological Engineering.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Earth, Room: Sciences
+Instructor: HOLLINGSHEAD, SUSAN
+

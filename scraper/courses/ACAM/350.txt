@@ -1,0 +1,40 @@
+Department: ACAM
+Course Number: 350
+Section: 001
+Description: Digital media production in the context of community engagement. Includes critical media literacy, community-based research ethics, project design, training in media forms such audio, video, photography, and web publishing.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 19:00, Building: Buchanan, Room: D304
+Instructor: YOSHIZAWA, ALEJANDRO
+
+Department: ACAM
+Course Number: 350
+Section: WL1
+Description: Digital media production in the context of community engagement. Includes critical media literacy, community-based research ethics, project design, training in media forms such audio, video, photography, and web publishing.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 19:00
+Instructor: TBA
+
+Department: ACAM
+Course Number: 350
+Section: 001
+Description: Digital media production in the context of community engagement. Includes critical media literacy, community-based research ethics, project design, training in media forms such audio, video, photography, and web publishing.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 19:00, Building: Buchanan, Room: D304
+Instructor: YOSHIZAWA, ALEJANDRO
+
+Department: ACAM
+Course Number: 350
+Section: WL1
+Description: Digital media production in the context of community engagement. Includes critical media literacy, community-based research ethics, project design, training in media forms such audio, video, photography, and web publishing.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 19:00
+Instructor: TBA
+

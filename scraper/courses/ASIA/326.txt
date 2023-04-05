@@ -1,0 +1,100 @@
+Department: ASIA
+Course Number: 326
+Section: 001
+Description: Critical Approaches to Manga and Anime
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 12:30, End Time: 14:00, Building: Geography, Room: 200
+Instructor: BLUM, HALEY
+
+Department: ASIA
+Course Number: 326
+Section: 004
+Description: A critical introduction to Japanese manga and anime in the 20th and 21st centuries.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: A202
+Instructor: QIU, HUIYONG CYRUS
+
+Department: ASIA
+Course Number: 326
+Section: 005
+Description: A critical introduction to Japanese manga and anime in the 20th and 21st centuries.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: A202
+Instructor: QIU, HUIYONG CYRUS
+
+Department: ASIA
+Course Number: 326
+Section: 006
+Description: A critical introduction to Japanese manga and anime in the 20th and 21st centuries.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:30, End Time: 18:00, Building: Frederic, Room: Lasserre
+Instructor: BLUM, HALEY
+
+Department: ASIA
+Course Number: 326
+Section: 007
+Description: A critical introduction to Japanese manga and anime in the 20th and 21st centuries.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Geography, Room: 200
+Instructor: YAMAMOTO, AI
+
+Department: ASIA
+Course Number: 326
+Section: W01
+Description: Critical Approaches to Manga and Anime
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 12:30, End Time: 14:00, Building: To, Room: Be
+Instructor: BLUM, HALEY
+
+Department: ASIA
+Course Number: 326
+Section: W04
+Description: A critical introduction to Japanese manga and anime in the 20th and 21st centuries.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: To, Room: Be
+Instructor: QIU, HUIYONG CYRUS
+
+Department: ASIA
+Course Number: 326
+Section: W05
+Description: A critical introduction to Japanese manga and anime in the 20th and 21st centuries.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: To, Room: Be
+Instructor: QIU, HUIYONG CYRUS
+
+Department: ASIA
+Course Number: 326
+Section: W06
+Description: A critical introduction to Japanese manga and anime in the 20th and 21st centuries.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:30, End Time: 18:00
+Instructor: BLUM, HALEY
+
+Department: ASIA
+Course Number: 326
+Section: W07
+Description: A critical introduction to Japanese manga and anime in the 20th and 21st centuries.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: To, Room: Be
+Instructor: YAMAMOTO, AI
+

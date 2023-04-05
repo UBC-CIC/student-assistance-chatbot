@@ -1,0 +1,11 @@
+Department: SURG
+Course Number: 560
+Section: 99B
+Description: Course with a four to eight week on-site field placement. Proposal development, implementation and high-level written report of a surgical care field practicum in an underserved location globally, producing practical "on-the-ground" skills.
+Pre-reqs: All of SURG 510, SURG 512, SURG 514, SURG 516.
+Co-reqs: SURG 517.
+Credits: 6
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: JOOS, EMILIE
+

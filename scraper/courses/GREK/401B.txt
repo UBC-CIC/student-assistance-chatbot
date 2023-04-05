@@ -1,0 +1,11 @@
+Department: GREK
+Course Number: 401B
+Section: 001
+Description: Studies in history, philosophy and/or oratory. It is recommended that the corequisite course be completed prior to GREK 401.
+Co-reqs: Either (a) GREK 351 or (b) GREK 352.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Allard, Room: Hall
+Instructor: DE ANGELIS, FRANCO
+

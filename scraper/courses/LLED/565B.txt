@@ -1,0 +1,9 @@
+Department: LLED
+Course Number: 565B
+Section: 61A
+Description: Courses in various subject matter fields designed to bring teachers up to date in recent findings in each field.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: WONG, MELANIE
+

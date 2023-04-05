@@ -1,0 +1,9 @@
+Department: JRNL
+Course Number: 548
+Section: 001
+Description: Pass/Fail.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

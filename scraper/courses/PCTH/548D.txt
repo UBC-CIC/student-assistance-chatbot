@@ -1,0 +1,9 @@
+Department: PCTH
+Course Number: 548D
+Section: 004
+Description: Directed Studies in Pharmacology - DIRECTED STUDIES
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BERNATCHEZ, PASCAL
+

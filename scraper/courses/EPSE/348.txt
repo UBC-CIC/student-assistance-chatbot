@@ -1,0 +1,32 @@
+Department: EPSE
+Course Number: 348
+Section: 63A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: STEWART, MARY
+
+Department: EPSE
+Course Number: 348
+Section: 63C
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: STEWART, MARY
+
+Department: EPSE
+Course Number: 348
+Section: W3A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: EPSE
+Course Number: 348
+Section: W3C
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

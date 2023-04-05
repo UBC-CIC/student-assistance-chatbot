@@ -1,0 +1,9 @@
+Department: MINE
+Course Number: 497A
+Section: 201
+Description: Requires approval of the department head.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

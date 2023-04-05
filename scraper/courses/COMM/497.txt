@@ -1,0 +1,20 @@
+Department: COMM
+Course Number: 497
+Section: 101
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: DERETIC, MOMCILO
+
+Department: COMM
+Course Number: 497
+Section: 201
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: DERETIC, MOMCILO
+

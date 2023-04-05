@@ -1,0 +1,9 @@
+Department: BMEG
+Course Number: 557
+Section: 101
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: BAYAT, SHARAREH
+

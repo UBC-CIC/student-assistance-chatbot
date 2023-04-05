@@ -1,0 +1,30 @@
+Department: ECON
+Course Number: 455
+Section: 002
+Pre-reqs: One of ECON 301, ECON 304, ECON 315.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: JUHASZ, REKA
+
+Department: ECON
+Course Number: 455
+Section: L02
+Pre-reqs: One of ECON 301, ECON 304, ECON 315.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: B215
+Instructor: TBA
+
+Department: ECON
+Course Number: 455
+Section: 003
+Pre-reqs: One of ECON 301, ECON 304, ECON 315.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Frederic, Room: Lasserre
+Instructor: ORR, PATRICK SCOTT
+

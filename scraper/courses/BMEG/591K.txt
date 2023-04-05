@@ -1,0 +1,10 @@
+Department: BMEG
+Course Number: 591K
+Section: 201
+Description: Topics in Biomedical Engineering - WEARABLES
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: KUO, CALVIN
+

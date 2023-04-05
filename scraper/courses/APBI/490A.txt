@@ -1,0 +1,11 @@
+Department: APBI
+Course Number: 490A
+Section: 101
+Description: Analysis and interpretation of current issues in applied biology.
+Pre-reqs: (3rd year standing or higher.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 18:30, Building: West, Room: Mall
+Instructor: BRAR, GURCHARN
+

@@ -1,0 +1,126 @@
+Department: ADHE
+Course Number: 412
+Section: 63A
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: 63B
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: 63C
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: 63D
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: 63E
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: 63F
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: W3D
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: ADHE
+Course Number: 412
+Section: 63A
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: 63B
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: 63C
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: 63D
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: 63E
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: 63F
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PALACIOS, CAROLINA
+
+Department: ADHE
+Course Number: 412
+Section: W3D
+Description: Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

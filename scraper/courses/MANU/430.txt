@@ -1,0 +1,33 @@
+Department: MANU
+Course Number: 430
+Section: 001
+Description: Project-based, multi-step, multi-part Capstone design project involving manufacturing engineering design methods, problem solving.
+Pre-reqs: MANU 230.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Food,, Room: Nutrition
+Instructor: KEULEN, CASEY
+
+Department: MANU
+Course Number: 430
+Section: L0A
+Description: Project-based, multi-step, multi-part Capstone design project involving manufacturing engineering design methods, problem solving.
+Pre-reqs: MANU 230.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 14:00
+Instructor: KEULEN, CASEY
+
+Department: MANU
+Course Number: 430
+Section: L0B
+Description: Project-based, multi-step, multi-part Capstone design project involving manufacturing engineering design methods, problem solving.
+Pre-reqs: MANU 230.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00
+Instructor: KEULEN, CASEY
+

@@ -1,0 +1,11 @@
+Department: SPPH
+Course Number: 533
+Section: 002
+Description: Mechanism of action of commonly encountered occupational toxic agents; relevance of laboratory and epidemiological evidence.
+Pre-reqs: (Permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 16:00, Building: MacLeod, Room: 2014
+Instructor: BHATTI, PARVEEN
+

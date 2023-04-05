@@ -1,0 +1,43 @@
+Department: FREN
+Course Number: 321
+Section: 102
+Description: Practical tools for university-level writing in French. Apply stylistic devices and rhetorical structures to form questions and arguments, analyse literary and cultural objects, and produce a variety of essay genres.
+Pre-reqs: One of FREN 220, FREN 221, FREN 311.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: D213
+Instructor: MORAN, PATRICK
+
+Department: FREN
+Course Number: 321
+Section: 201
+Description: Practical tools for university-level writing in French. Apply stylistic devices and rhetorical structures to form questions and arguments, analyse literary and cultural objects, and produce a variety of essay genres.
+Pre-reqs: One of FREN 220, FREN 221, FREN 311.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: B310
+Instructor: AYAN, IREM
+
+Department: FREN
+Course Number: 321
+Section: W01
+Description: Practical tools for university-level writing in French. Apply stylistic devices and rhetorical structures to form questions and arguments, analyse literary and cultural objects, and produce a variety of essay genres.
+Pre-reqs: One of FREN 220, FREN 221, FREN 311.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FREN
+Course Number: 321
+Section: W02
+Description: Practical tools for university-level writing in French. Apply stylistic devices and rhetorical structures to form questions and arguments, analyse literary and cultural objects, and produce a variety of essay genres.
+Pre-reqs: One of FREN 220, FREN 221, FREN 311.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: To, Room: Be
+Instructor: TBA
+

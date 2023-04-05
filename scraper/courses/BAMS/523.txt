@@ -1,0 +1,9 @@
+Department: BAMS
+Course Number: 523
+Section: 001
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:00, End Time: 12:00, Building: David, Room: Lam
+Instructor: SHECHTER, STEVEN
+

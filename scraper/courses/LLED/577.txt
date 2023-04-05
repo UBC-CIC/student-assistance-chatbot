@@ -1,0 +1,9 @@
+Department: LLED
+Course Number: 577
+Section: 062
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:30, End Time: 19:30, Building: Earth, Room: Sciences
+Instructor: KUBOTA, RYUKO
+

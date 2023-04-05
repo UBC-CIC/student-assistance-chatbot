@@ -1,0 +1,9 @@
+Department: PHRM
+Course Number: 462
+Section: 002
+Description: Respirology, dermatology, and ears, eyes, nose, and throat. Pass/Fail.
+Pre-reqs: PHRM 461.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

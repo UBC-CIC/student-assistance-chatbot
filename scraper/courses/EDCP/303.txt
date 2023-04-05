@@ -1,0 +1,20 @@
+Department: EDCP
+Course Number: 303
+Section: 001
+Pre-reqs: (6 credits of introductory art studio or art history courses.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:30, End Time: 20:30, Building: Neville, Room: Scarfe
+Instructor: DING, PEISEN
+
+Department: EDCP
+Course Number: 303
+Section: 002
+Pre-reqs: (6 credits of introductory art studio or art history courses.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: DING, PEISEN
+

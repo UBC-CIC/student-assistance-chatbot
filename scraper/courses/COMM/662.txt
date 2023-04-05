@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 662
+Section: 001
+Description: Buyer Behaviour
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: CAVANAUGH, LISA
+

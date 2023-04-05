@@ -1,0 +1,11 @@
+Department: LAW
+Course Number: 470
+Section: 001
+Description: Clinical program giving hands-on experience in reviewing claims of innocence post-conviction. Not offered every year; consult Faculty.
+Co-reqs: One of LAW 471, LAW 476.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Allard, Room: Hall
+Instructor: LEVY, TAMARA
+

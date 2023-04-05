@@ -1,0 +1,10 @@
+Department: ARCL
+Course Number: 203
+Section: 001
+Description: Introduces the methods and principles applied in anthropological archaeology and cultural-historical research.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Mathematics, Room: 100
+Instructor: SPELLER, CAMILLA
+

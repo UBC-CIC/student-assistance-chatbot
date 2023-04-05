@@ -1,0 +1,61 @@
+Department: LAW
+Course Number: 588
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:30, End Time: 16:30, Building: Allard, Room: Hall
+Instructor: MARTZ, LISA
+
+Department: LAW
+Course Number: 588
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Allard, Room: Hall
+Instructor: AFFOLDER, NATASHA
+
+Department: LAW
+Course Number: 588
+Section: 003
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 9:00, End Time: 10:30, Building: Allard, Room: Hall
+Instructor: MARTZ, LISA
+
+Department: LAW
+Course Number: 588
+Section: 004
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 18:30, End Time: 21:30, Building: Allard, Room: Hall
+Instructor: MORRIS, JOEL
+
+Department: LAW
+Course Number: 588
+Section: 006
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Allard, Room: Hall
+Instructor: RUSSO, ROBERT
+
+Department: LAW
+Course Number: 588
+Section: 99A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: RUSSO, ROBERT
+
+Department: LAW
+Course Number: 588
+Section: 99C
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MACFARLANE, SUSAN
+

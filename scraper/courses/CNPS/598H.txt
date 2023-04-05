@@ -1,0 +1,27 @@
+Department: CNPS
+Course Number: 598H
+Section: 001
+Description: For students in the master's program. Pass/Fail.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CNPS
+Course Number: 598H
+Section: 002
+Description: For students in the master's program. Pass/Fail.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CNPS
+Course Number: 598H
+Section: 003
+Description: For students in the master's program. Pass/Fail.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,9 @@
+Department: COMM
+Course Number: 486P
+Section: 001
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Fri^, End Time: 13:00, Building: 14:30, Room: Henry
+Instructor: FISHER, ADLAI
+

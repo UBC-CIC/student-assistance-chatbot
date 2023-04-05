@@ -1,0 +1,8 @@
+Department: HIST
+Course Number: 488A
+Section: 201
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Instructor: TBA
+

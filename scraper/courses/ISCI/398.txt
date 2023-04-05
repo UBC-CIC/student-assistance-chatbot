@@ -1,0 +1,20 @@
+Department: ISCI
+Course Number: 398
+Section: 101
+Description: Industrial or academic work experience for a minimum of 4 months. Normally taken in Winter Session of third year or Summer Session after third year. Technical report required. Restricted to students in the ISP Co-op program.
+Pre-reqs: (One term in ISP.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ISCI
+Course Number: 398
+Section: 201
+Description: Industrial or academic work experience for a minimum of 4 months. Normally taken in Winter Session of third year or Summer Session after third year. Technical report required. Restricted to students in the ISP Co-op program.
+Pre-reqs: (One term in ISP.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

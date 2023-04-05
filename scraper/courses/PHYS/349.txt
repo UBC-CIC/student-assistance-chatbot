@@ -1,0 +1,9 @@
+Department: PHYS
+Course Number: 349
+Section: 001
+Description: A research project, undertaken under the direction of a faculty member, culminating in a written report. This course requires approval of the course instructor and program advisor in the Department of Physics and Astronomy.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KIEFL, ROBERT
+

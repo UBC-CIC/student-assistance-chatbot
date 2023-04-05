@@ -1,0 +1,36 @@
+Department: MATH
+Course Number: 264
+Section: 201
+Description: Vector Calculus for Electrical Engineering
+Pre-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Co-reqs: One of BMEG 220, ELEC 211.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: MacMillan, Room: 166
+Instructor: DEMIRBAS, SECKIN
+
+Department: MATH
+Course Number: 264
+Section: 202
+Description: Vector Calculus for Electrical Engineering
+Pre-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Co-reqs: One of BMEG 220, ELEC 211.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: MacMillan, Room: 166
+Instructor: DEMIRBAS, SECKIN
+
+Department: MATH
+Course Number: 264
+Section: 203
+Description: Divergence, gradient, curl, theorems of Gauss and Stokes. Applications to Electrostatics and Magnetostatics. MATH 264 content is strongly coupled to BMEG 220 and ELEC 211 with topics and student evaluations weighted accordingly.
+Pre-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Co-reqs: One of BMEG 220, ELEC 211.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Neville, Room: Scarfe
+Instructor: WANG, ZHICHAO
+

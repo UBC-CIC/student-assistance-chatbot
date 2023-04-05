@@ -1,0 +1,22 @@
+Department: MINE
+Course Number: 402
+Section: 101
+Description: Design and analysis for ventilation systems for mining. Topics such as ventilation design, ventilation surveys, thermodynamic aspects, psychrometry of air and air conditioning.
+Pre-reqs: MINE 291.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Fri, Start Time: 12:30, End Time: 14:00, Building: Frank, Room: Forward
+Instructor: GHOREISHI-MADISEH, SEYED
+
+Department: MINE
+Course Number: 402
+Section: L1A
+Description: Design and analysis for ventilation systems for mining. Topics such as ventilation design, ventilation surveys, thermodynamic aspects, psychrometry of air and air conditioning.
+Pre-reqs: MINE 291.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 17:00
+Instructor: GHOREISHI-MADISEH, SEYED
+

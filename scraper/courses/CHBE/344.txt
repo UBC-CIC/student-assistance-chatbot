@@ -1,0 +1,22 @@
+Department: CHBE
+Course Number: 344
+Section: 101
+Description: Foundational concepts and design equations for basic unit operations such as: comminution, screening, filtration, centrifugal separations, evaporation and crystallization.
+Pre-reqs: All of CHBE 241, CHBE 244.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Chemical, Room: and
+Instructor: HATZIKIRIAKOS, SAVVAS
+
+Department: CHBE
+Course Number: 344
+Section: T1A
+Description: Foundational concepts and design equations for basic unit operations such as: comminution, screening, filtration, centrifugal separations, evaporation and crystallization.
+Pre-reqs: All of CHBE 241, CHBE 244.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Chemical, Room: and
+Instructor: HATZIKIRIAKOS, SAVVAS
+

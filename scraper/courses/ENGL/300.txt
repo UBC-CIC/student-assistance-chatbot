@@ -1,0 +1,11 @@
+Department: ENGL
+Course Number: 300
+Section: 001
+Description: Introduction to Critical Theory
+Pre-reqs: (Third-year standing and successful completion of (a) ENGL 210 OR (b) 6 credits of 200-level English courses including 3 credits of ENGL 200. Prerequisites must be met by the first day of class or students will be withdrawn.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Hennings, Room: 301
+Instructor: PALTIN, JUDITH
+

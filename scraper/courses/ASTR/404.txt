@@ -1,0 +1,21 @@
+Department: ASTR
+Course Number: 404
+Section: 101
+Description: Astronomical instrumentation and techniques for ground and space-based observations. Theory of measurement, imaging, interferometry and spectroscopy of electromagnetic radiation at optical, radio, infrared, and X-ray wavelengths. Astronomical data analysis.
+Pre-reqs: All of PHYS 210, PHYS 408 and one of PHYS 312, MATH 316.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Hennings, Room: 304
+Instructor: HINSHAW, GARY
+
+Department: ASTR
+Course Number: 404
+Section: WL1
+Description: Astronomical instrumentation and techniques for ground and space-based observations. Theory of measurement, imaging, interferometry and spectroscopy of electromagnetic radiation at optical, radio, infrared, and X-ray wavelengths. Astronomical data analysis.
+Pre-reqs: All of PHYS 210, PHYS 408 and one of PHYS 312, MATH 316.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

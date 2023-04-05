@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 393D
+Section: 001
+Description: Explore the human right to a healthy environment and the rights of nature through the stories of environmental lawyers and defenders worldwide who struggle for environmental justice through law. No pre- or co-requisites.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: WOOD, JOHN
+

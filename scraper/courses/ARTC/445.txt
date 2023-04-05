@@ -1,0 +1,54 @@
+Department: ARTC
+Course Number: 445
+Section: 01F
+Pre-reqs: One of ARTC 410, ARTC 411.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARTC
+Course Number: 445
+Section: 01W
+Pre-reqs: One of ARTC 410, ARTC 411.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARTC
+Course Number: 445
+Section: 02F
+Pre-reqs: One of ARTC 410, ARTC 411.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARTC
+Course Number: 445
+Section: 02W
+Pre-reqs: One of ARTC 410, ARTC 411.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARTC
+Course Number: 445
+Section: 03F
+Pre-reqs: One of ARTC 410, ARTC 411.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARTC
+Course Number: 445
+Section: 03W
+Pre-reqs: One of ARTC 410, ARTC 411.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

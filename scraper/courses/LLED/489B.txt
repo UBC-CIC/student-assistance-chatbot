@@ -1,0 +1,25 @@
+Department: LLED
+Course Number: 489B
+Section: 003
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:30, End Time: 19:30, Building: Ponderosa, Room: Commons
+Instructor: KUBOTA, RYUKO
+
+Department: LLED
+Course Number: 489B
+Section: 61A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KOWKABI, NASRIN
+
+Department: LLED
+Course Number: 489B
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

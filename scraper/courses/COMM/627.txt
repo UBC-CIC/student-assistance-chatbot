@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 627
+Section: 001
+Description: Advanced Behavioural Research Methods
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: EVANS, JONATHAN BLAIR
+

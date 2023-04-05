@@ -1,0 +1,18 @@
+Department: LIBR
+Course Number: 527
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 12:00, Building: Irving, Room: K
+Instructor: PRENDERGAST, TERESA
+
+Department: LIBR
+Course Number: 527
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 12:00
+Instructor: TBA
+

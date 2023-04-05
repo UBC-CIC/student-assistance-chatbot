@@ -1,0 +1,44 @@
+Department: BUSI
+Course Number: 354
+Section: 101
+Description: Cost Accounting
+Pre-reqs: All of BUSI 293, BUSI 294, BUSI 370.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 18:30, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: MCGUINNESS, ALINA
+
+Department: BUSI
+Course Number: 354
+Section: 102
+Description: The provision and analysis of cost accounting information that will assist management in making operating decisions and in evaluating operational performance.
+Pre-reqs: All of BUSI 293, BUSI 294, BUSI 370.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu, Start Time: 12:00, End Time: 13:30
+Instructor: MCGUINNESS, ALINA
+
+Department: BUSI
+Course Number: 354
+Section: 201
+Description: Cost Accounting
+Pre-reqs: All of BUSI 293, BUSI 294, BUSI 370.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 18:30, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: WONG, RICHARD
+
+Department: BUSI
+Course Number: 354
+Section: 202
+Description: The provision and analysis of cost accounting information that will assist management in making operating decisions and in evaluating operational performance.
+Pre-reqs: All of BUSI 293, BUSI 294, BUSI 370.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon Wed, Start Time: 12:00, End Time: 13:30
+Instructor: MCGUINNESS, ALINA
+

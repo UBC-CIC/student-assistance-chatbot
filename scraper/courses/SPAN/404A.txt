@@ -1,0 +1,11 @@
+Department: SPAN
+Course Number: 404A
+Section: 201
+Description: Selected areas of study relating to Hispanic Cinema. Consult the Department for this year's offerings.
+Pre-reqs: SPAN 221. (; and SPAN 301 or equivalent expertise in written and spoken Spanish.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D314
+Instructor: CASAS AGUILAR, ANNA
+

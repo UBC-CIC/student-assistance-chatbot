@@ -1,0 +1,26 @@
+Department: ASIA
+Course Number: 516
+Section: 028
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:30
+Instructor: THOBANI, SUNERA
+
+Department: ASIA
+Course Number: 516
+Section: 039
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 14:00, Building: Buchanan, Room: B216
+Instructor: KADIR, AYNUR
+
+Department: ASIA
+Course Number: 516
+Section: 628
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: THOBANI, SUNERA
+

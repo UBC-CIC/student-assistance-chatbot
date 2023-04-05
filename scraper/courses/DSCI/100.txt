@@ -1,0 +1,141 @@
+Department: DSCI
+Course Number: 100
+Section: 001
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Hennings, Room: 200
+Instructor: NGUYEN, LE QUAN
+
+Department: DSCI
+Course Number: 100
+Section: 002
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Leonard, Room: S.
+Instructor: LEE, MELISSA
+
+Department: DSCI
+Course Number: 100
+Section: 004
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Hennings, Room: 200
+Instructor: CAMPBELL, TREVOR
+
+Department: DSCI
+Course Number: 100
+Section: 005
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: LOURENZUTTI, RODOLFO
+
+Department: DSCI
+Course Number: 100
+Section: 006
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:00, End Time: 17:30, Building: Hennings, Room: 200
+Instructor: WIJENDRA ACHARIGE, LASANTHA PREMARATHNA
+
+Department: DSCI
+Course Number: 100
+Section: 007
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Fri, Start Time: 15:00, End Time: 16:30, Building: Hennings, Room: 200
+Instructor: CHRISTIDIS, ANTHONY-ALEXANDER
+
+Department: DSCI
+Course Number: 100
+Section: 008
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: West, Room: Mall
+Instructor: OSTBLOM, JOEL
+
+Department: DSCI
+Course Number: 100
+Section: 009
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Hennings, Room: 200
+Instructor: CHEN, DANIEL
+
+Department: DSCI
+Course Number: 100
+Section: 100
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: HEAGY, LINDSEY
+
+Department: DSCI
+Course Number: 100
+Section: WL1
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: DSCI
+Course Number: 100
+Section: WL2
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: DSCI
+Course Number: 100
+Section: WL3
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: TBA
+
+Department: DSCI
+Course Number: 100
+Section: WL4
+Description: Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
+Pre-reqs: (MATH 12)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00
+Instructor: TBA
+

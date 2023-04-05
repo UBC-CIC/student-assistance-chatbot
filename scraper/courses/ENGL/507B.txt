@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 507B
+Section: 001
+Description: Studies in English Historical Linguistics - ENG HIST LING
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: Buchanan, Room: Tower
+Instructor: DOLLINGER, STEFAN
+
+Department: ENGL
+Course Number: 507B
+Section: 01W
+Description: Studies in English Historical Linguistics - ENG HIST LING
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

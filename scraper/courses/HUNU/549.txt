@@ -1,0 +1,24 @@
+Department: HUNU
+Course Number: 549
+Section: 101
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: HUNU
+Course Number: 549
+Section: 102
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: HUNU
+Course Number: 549
+Section: 103
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: FIPR
+Course Number: 339
+Section: 001
+Description: Open only to students in the Film Production BFA Program.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 18:00, End Time: 21:00, Building: Theatre-Film, Room: Production
+Instructor: SPIVAK, REFAEL
+

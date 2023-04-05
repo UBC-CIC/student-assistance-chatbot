@@ -1,0 +1,20 @@
+Department: COMM
+Course Number: 482
+Section: 201
+Description: How new products are developed and the factors that influence success and failure throughout the various stages of development.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: SILK, TIMOTHY
+
+Department: COMM
+Course Number: 482
+Section: 202
+Description: How new products are developed and the factors that influence success and failure throughout the various stages of development.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: SILK, TIMOTHY
+

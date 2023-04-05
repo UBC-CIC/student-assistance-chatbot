@@ -1,0 +1,8 @@
+Department: LLED
+Course Number: 520A
+Section: 61A
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: RUEST, CARL
+

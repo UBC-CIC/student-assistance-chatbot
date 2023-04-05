@@ -1,0 +1,11 @@
+Department: ANTH
+Course Number: 437
+Section: 001
+Description: Anthropological approaches to foodways and agricultural sustainability, particularly small-scale producers and communities. Includes ethnographic analysis of food movements, food systems and the socio-economic contexts of food provisioning and food production. Recommended: Third year status.
+Pre-reqs: (Second year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Allard, Room: Hall
+Instructor: HEATHERINGTON, TRACEY
+

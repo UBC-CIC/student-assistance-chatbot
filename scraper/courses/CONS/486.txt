@@ -1,0 +1,22 @@
+Department: CONS
+Course Number: 486
+Section: 201
+Description: Principles of fish biology, population and community ecology necessary to understand conservation and management; overview of current issues, tactics and institutions involved with fisheries conservation and management.
+Pre-reqs: FRST 386.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Forest, Room: Sciences
+Instructor: HINCH, SCOTT
+
+Department: CONS
+Course Number: 486
+Section: L01
+Description: Principles of fish biology, population and community ecology necessary to understand conservation and management; overview of current issues, tactics and institutions involved with fisheries conservation and management.
+Pre-reqs: FRST 386.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 16:00, Building: Forest, Room: Sciences
+Instructor: HINCH, SCOTT
+

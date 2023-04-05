@@ -1,0 +1,19 @@
+Department: PHTH
+Course Number: 576
+Section: 001
+Description: Pass/fail.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 7:00, End Time: 7:30, Building: To, Room: Be
+Instructor: GREIG, ALISON
+
+Department: PHTH
+Course Number: 576
+Section: 002
+Description: Pass/fail.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

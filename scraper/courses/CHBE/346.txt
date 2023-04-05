@@ -1,0 +1,22 @@
+Department: CHBE
+Course Number: 346
+Section: 101
+Description: Volumetric and thermodynamic properties of fluids; equations of state; heat effects; ideal and non-ideal mixtures; fugacities and activity coefficients; vapor-liquid and liquid-liquid phase equilibrium; solubility of gases and solids in liquids; chemical reaction equilibrium; equilibrium partitioning of pollutants.
+Pre-reqs: All of CHBE 220, CHBE 241, CHBE 244.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Hugh, Room: Dempster
+Instructor: ENGLEZOS, PETROS
+
+Department: CHBE
+Course Number: 346
+Section: T1A
+Description: Volumetric and thermodynamic properties of fluids; equations of state; heat effects; ideal and non-ideal mixtures; fugacities and activity coefficients; vapor-liquid and liquid-liquid phase equilibrium; solubility of gases and solids in liquids; chemical reaction equilibrium; equilibrium partitioning of pollutants.
+Pre-reqs: All of CHBE 220, CHBE 241, CHBE 244.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Mon^, End Time: 14:00, Building: 16:00, Room: Chemical
+Instructor: ENGLEZOS, PETROS
+

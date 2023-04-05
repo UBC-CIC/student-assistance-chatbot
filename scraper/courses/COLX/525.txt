@@ -1,0 +1,28 @@
+Department: COLX
+Course Number: 525
+Section: 001
+Description: Identify and differentiate morphological processes occurring in natural language for implementation in computational linguistics applications.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:30, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: SILFVERBERG, MIIKKA PIETARI
+
+Department: COLX
+Course Number: 525
+Section: L01
+Description: Identify and differentiate morphological processes occurring in natural language for implementation in computational linguistics applications.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+
+Department: COLX
+Course Number: 525
+Section: L02
+Description: Identify and differentiate morphological processes occurring in natural language for implementation in computational linguistics applications.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 18:00, Building: Orchard, Room: Commons
+

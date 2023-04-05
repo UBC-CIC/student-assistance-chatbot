@@ -1,0 +1,30 @@
+Department: MANU
+Course Number: 230
+Section: 001
+Description: Theory, operational constraints, and problem solving in traditional manufacturing processes. Casting, heat treatment, bulk deformation (i.e. rolling, extrusion, drawing), machining, joining, and shaping of composites. Experiments in process and product characterization.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: West, Room: Mall
+Instructor: KEULEN, CASEY
+
+Department: MANU
+Course Number: 230
+Section: L0A
+Description: Theory, operational constraints, and problem solving in traditional manufacturing processes. Casting, heat treatment, bulk deformation (i.e. rolling, extrusion, drawing), machining, joining, and shaping of composites. Experiments in process and product characterization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:30, End Time: 12:30
+Instructor: KEULEN, CASEY
+
+Department: MANU
+Course Number: 230
+Section: L0B
+Description: Theory, operational constraints, and problem solving in traditional manufacturing processes. Casting, heat treatment, bulk deformation (i.e. rolling, extrusion, drawing), machining, joining, and shaping of composites. Experiments in process and product characterization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00
+Instructor: KEULEN, CASEY
+

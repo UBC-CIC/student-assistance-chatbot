@@ -1,0 +1,9 @@
+Department: BAMA
+Course Number: 513
+Section: 001
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 18:00, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: TANG, VICTOR
+

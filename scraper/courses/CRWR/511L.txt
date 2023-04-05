@@ -1,0 +1,9 @@
+Department: CRWR
+Course Number: 511L
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Buchanan, Room: B219
+Instructor: HUSSAIN, TARIQ
+

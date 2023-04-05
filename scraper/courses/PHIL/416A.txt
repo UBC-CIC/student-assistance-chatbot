@@ -1,0 +1,11 @@
+Department: PHIL
+Course Number: 416A
+Section: 001
+Description: Study of a major 19th-century philosopher such as Hegel, Mill or Nietzsche, or school, such as German Idealism.
+Pre-reqs: One of PHIL 314, PHIL 315, PHIL 316, PHIL 340.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D216
+Instructor: VERKERK, WILLOW
+

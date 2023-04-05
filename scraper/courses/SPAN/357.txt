@@ -1,0 +1,11 @@
+Department: SPAN
+Course Number: 357
+Section: 101
+Description: Tradition, faith, conflict, prosperity, and decadence in literature and everyday life from the Middle Ages to 1700.
+Pre-reqs: SPAN 221. (; and SPAN 301 or equivalent expertise in written and spoken Spanish.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: D301
+Instructor: ALVAREZ MORENO, RAUL
+

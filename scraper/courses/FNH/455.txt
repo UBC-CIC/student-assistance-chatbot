@@ -1,0 +1,21 @@
+Department: FNH
+Course Number: 455
+Section: 001
+Description: Applying nutrition concepts and principles in addressing problems of malnutrition and food insecurity in international settings. Basics of developing culturally acceptable, sustainable nutrition intervention programs.
+Pre-reqs: FNH 355.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Earth, Room: Sciences
+Instructor: KARAKOCHUK, CRYSTAL DAWN
+
+Department: FNH
+Course Number: 455
+Section: 0W1
+Description: Applying nutrition concepts and principles in addressing problems of malnutrition and food insecurity in international settings. Basics of developing culturally acceptable, sustainable nutrition intervention programs.
+Pre-reqs: FNH 355.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

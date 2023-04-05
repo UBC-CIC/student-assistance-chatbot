@@ -1,0 +1,10 @@
+Department: SOWK
+Course Number: 440B
+Section: 001
+Description: Integrative Seminars in Social Work - INTGRTV SEM SOWK
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 20:00
+Instructor: IBRAHIM, MOHAMED
+

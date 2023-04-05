@@ -1,0 +1,60 @@
+Department: SOCI
+Course Number: 200
+Section: 101
+Description: An introduction to contemporary family forms and relations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: West, Room: Mall
+Instructor: ALEXANDER, ALYSSA
+
+Department: SOCI
+Course Number: 200
+Section: 103
+Description: An introduction to contemporary family forms and relations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: A201
+Instructor: ROBINSON, ORAL
+
+Department: SOCI
+Course Number: 200
+Section: 108
+Description: An introduction to contemporary family forms and relations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Irving, Room: K
+Instructor: ALEXANDER, ALYSSA
+
+Department: SOCI
+Course Number: 200
+Section: 201
+Description: An introduction to contemporary family forms and relations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Wesbrook, Room: 201
+Instructor: ROBINSON, ORAL
+
+Department: SOCI
+Course Number: 200
+Section: 204
+Description: An introduction to contemporary family forms and relations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: West, Room: Mall
+Instructor: ALEXANDER, ALYSSA
+
+Department: SOCI
+Course Number: 200
+Section: 205
+Description: An introduction to contemporary family forms and relations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: West, Room: Mall
+Instructor: BARTOLIC, SILVIA
+

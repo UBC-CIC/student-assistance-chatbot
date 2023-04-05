@@ -1,0 +1,10 @@
+Department: UDES
+Course Number: 509C
+Section: 101
+Description: Faculty-initiated graduate seminars related to topics in urban design.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:30, End Time: 12:30, Building: MacLeod, Room: 2014
+Instructor: CONDON, PATRICK MICHAEL
+

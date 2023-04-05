@@ -1,0 +1,9 @@
+Department: SPPH
+Course Number: 581T
+Section: 001
+Description: By seminar and directed readings, certain topics of current interest are explored in depth.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,19 @@
+Department: ARCH
+Course Number: 505L
+Section: 001
+Description: Topics in Architectural History II (1900-Present) - UTOPIA/DYSTOPIA
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B219
+Instructor: VUJOSEVIC, TIJANA
+
+Department: ARCH
+Course Number: 505L
+Section: WL1
+Description: Topics in Architectural History II (1900-Present) - UTOPIA/DYSTOPIA
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: VUJOSEVIC, TIJANA
+

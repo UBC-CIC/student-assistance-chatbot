@@ -1,0 +1,18 @@
+Department: DHYG
+Course Number: 433
+Section: 2W1
+Description: Available in online distance education format only.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SCHMITZ, SUSAN
+
+Department: DHYG
+Course Number: 433
+Section: 99C
+Description: Available in online distance education format only.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SCHMITZ, SUSAN
+

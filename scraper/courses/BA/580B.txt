@@ -1,0 +1,20 @@
+Department: BA
+Course Number: 580B
+Section: 001
+Description: Restricted to students in one of: E.M.B.A., M.B.A., J.D./M.B.A., M.M., or M.B.A./M.A.A.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:00, End Time: 10:00, Building: David, Room: Lam
+Instructor: ANTWEILER, WERNER
+
+Department: BA
+Course Number: 580B
+Section: 002
+Description: Restricted to students in one of: E.M.B.A., M.B.A., J.D./M.B.A., M.M., or M.B.A./M.A.A.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: ANTWEILER, WERNER
+

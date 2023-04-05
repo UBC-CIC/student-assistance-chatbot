@@ -1,0 +1,10 @@
+Department: PHRM
+Course Number: 329
+Section: 001
+Description: Leadership skills in preparation for the practice of pharmacy in direct or non-direct patient care settings and contexts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:30, End Time: 12:00
+Instructor: GERBER, PATRICIA
+

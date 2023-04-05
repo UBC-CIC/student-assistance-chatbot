@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 522
+Section: 001
+Description: The meaning of development and micro/macro aspects of policy planning and implementation for development. The rise of development thought; assessment of the outcomes of development for different countries and communities.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: LIU, Room: 130
+Instructor: HECHT, CATHERINE
+

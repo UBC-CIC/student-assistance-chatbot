@@ -1,0 +1,10 @@
+Department: SPHA
+Course Number: 553
+Section: 001
+Description: Basic concepts and principles underlying program planning and evaluation in health services.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 21:00
+Instructor: SNOW, MARY
+

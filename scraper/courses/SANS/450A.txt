@@ -1,0 +1,10 @@
+Department: SANS
+Course Number: 450A
+Section: 001
+Description: Study of selected texts belonging to a particular period (e.g., Vedic) or representing a specific branch of kavya (poetic literature) or sastra (technical-philosophical literature).
+Pre-reqs: One of SANS 200, SANS 202, SANS 400, SANS 402.
+Credits: 6
+Mode of Delivery: Multi-access
+Requires in Person Attendance: See Section Comments
+Instructor: SATHAYE, ADHEESH
+

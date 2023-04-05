@@ -1,0 +1,17 @@
+Department: DENT
+Course Number: 775
+Section: 001
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: DENT
+Course Number: 775
+Section: SEM
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: J.B., Room: MacDonald
+Instructor: TBA
+

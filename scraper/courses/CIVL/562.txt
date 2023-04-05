@@ -1,0 +1,11 @@
+Department: CIVL
+Course Number: 562
+Section: 101
+Description: Development and application of sampling and data analysis programs as they apply to environmental engineering.
+Pre-reqs: One of CIVL 407, CHBE 364.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 16:30, Building: School, Room: of
+Instructor: SCHOLES, RACHEL
+

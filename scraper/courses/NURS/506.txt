@@ -1,0 +1,26 @@
+Department: NURS
+Course Number: 506
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: UBC, Room: Hospital
+Instructor: BURROWS, MARLENE
+
+Department: NURS
+Course Number: 506
+Section: 01W
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: NURS
+Course Number: 506
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: UBC, Room: Hospital
+Instructor: OLIFFE, JOHN
+

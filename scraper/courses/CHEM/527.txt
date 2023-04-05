@@ -1,0 +1,9 @@
+Department: CHEM
+Course Number: 527
+Section: 157
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 20:00, Building: Chemistry, Room: D215
+Instructor: MACLACHLAN, MARK
+

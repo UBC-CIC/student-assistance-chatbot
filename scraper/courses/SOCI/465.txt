@@ -1,0 +1,11 @@
+Department: SOCI
+Course Number: 465
+Section: 201
+Description: An examination of the arts as social practices from the standpoint of the relationships among artists, critics, patrons, and public; and the social institutions through which these relationships are structured.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Anthropology, Room: and
+Instructor: YODANIS, CARRIE
+

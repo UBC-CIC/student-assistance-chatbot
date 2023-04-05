@@ -1,0 +1,11 @@
+Department: CAPS
+Course Number: 431
+Section: 001
+Description: Techniques relevant to human genetics and physiology in the assessment of human health and disease.
+Pre-reqs: CAPS 303.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: ALLAN, DOUGLAS
+

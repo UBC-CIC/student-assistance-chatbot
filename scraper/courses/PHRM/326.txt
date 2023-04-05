@@ -1,0 +1,11 @@
+Department: PHRM
+Course Number: 326
+Section: 001
+Description: Case-based approach to the pathophysiology, pharmacology, clinical pharmacokinetics, and pharmacotherapy in nephrology with emphasis on the integration and application of fundamental principles to clinical situations in class.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: VERMA, ARUN
+

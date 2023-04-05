@@ -1,0 +1,432 @@
+Department: BIOL
+Course Number: 363
+Section: 101
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Food,, Room: Nutrition
+Instructor: LACOMBE, AGNES
+
+Department: BIOL
+Course Number: 363
+Section: L01
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L02
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L03
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L04
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T01
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T02
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T03
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T04
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: 1W1
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: 201
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Food,, Room: Nutrition
+Instructor: LACOMBE, AGNES
+
+Department: BIOL
+Course Number: 363
+Section: L11
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L12
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L13
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L14
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T11
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T12
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T13
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T14
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: 2W1
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L01
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T01
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L02
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T02
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L03
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T03
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L04
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T04
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L11
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T11
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L12
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T12
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L13
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T13
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: L14
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 363
+Section: T14
+Description: Experimental studies in animal physiology. Restricted to Majors and Honours students in Biology, Nutritional Sciences and Combined Honours Biophysics.
+Pre-reqs: BIOL 204.
+Co-reqs: One of BIOL 361, BIOL 370, BIOL 371.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+

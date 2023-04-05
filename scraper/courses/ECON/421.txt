@@ -1,0 +1,22 @@
+Department: ECON
+Course Number: 421
+Section: 003
+Description: Principles of rational behaviour in strategic situations and various notions of equilibrium useful in predicting outcomes. Applications from economics, business, politics, law and biology.
+Pre-reqs: One of ECON 301, ECON 304, ECON 315.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: D316
+Instructor: LI, HAO
+
+Department: ECON
+Course Number: 421
+Section: L01
+Description: Principles of rational behaviour in strategic situations and various notions of equilibrium useful in predicting outcomes. Applications from economics, business, politics, law and biology.
+Pre-reqs: One of ECON 301, ECON 304, ECON 315.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Iona, Room: Building
+Instructor: TBA
+

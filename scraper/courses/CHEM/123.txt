@@ -1,0 +1,1449 @@
+Department: CHEM
+Course Number: 123
+Section: 201
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Chemistry, Room: B250
+
+Department: CHEM
+Course Number: 123
+Section: L08
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L09
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L81
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L82
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L91
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L92
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: XMT
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: CHEM
+Course Number: 123
+Section: 202
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Chemistry, Room: B250
+
+Department: CHEM
+Course Number: 123
+Section: L02
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L03
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L06
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L07
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L08
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L21
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L22
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L31
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L32
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L61
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L62
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L71
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L72
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L81
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L82
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: XMT
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: CHEM
+Course Number: 123
+Section: 203
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Chemistry, Room: B150
+
+Department: CHEM
+Course Number: 123
+Section: L02
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L03
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L06
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L07
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L08
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L21
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L22
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L31
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L32
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L61
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L62
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L71
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L72
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L81
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L82
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: XMT
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: CHEM
+Course Number: 123
+Section: 210
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Chemistry, Room: B150
+
+Department: CHEM
+Course Number: 123
+Section: L02
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L03
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L05
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: BRYMAN, DOUGLAS
+
+Department: CHEM
+Course Number: 123
+Section: L06
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L07
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L09
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L21
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L22
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L31
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L32
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L51
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L52
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L61
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L62
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L71
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L72
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L91
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L92
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: XMT
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: CHEM
+Course Number: 123
+Section: 211
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Chemistry, Room: B250
+
+Department: CHEM
+Course Number: 123
+Section: L02
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L03
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L05
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: BRYMAN, DOUGLAS
+
+Department: CHEM
+Course Number: 123
+Section: L06
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L07
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L09
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L21
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L22
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L31
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L32
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L51
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L52
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L61
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L62
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L71
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L72
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L91
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L92
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: XMT
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: CHEM
+Course Number: 123
+Section: 222
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Chemistry, Room: B150
+
+Department: CHEM
+Course Number: 123
+Section: L02
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L05
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: BRYMAN, DOUGLAS
+
+Department: CHEM
+Course Number: 123
+Section: L06
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L08
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L09
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L21
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L22
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L51
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L52
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L61
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L62
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L81
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L82
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L91
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L92
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: XMT
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: CHEM
+Course Number: 123
+Section: 266
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Chemistry, Room: B150
+
+Department: CHEM
+Course Number: 123
+Section: L03
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L05
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: BRYMAN, DOUGLAS
+
+Department: CHEM
+Course Number: 123
+Section: L07
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L08
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L09
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L31
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L32
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L51
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L52
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L71
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L72
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L81
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L82
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L91
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L92
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: XMT
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: CHEM
+Course Number: 123
+Section: 299
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: 4
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Chemistry, Room: B250
+
+Department: CHEM
+Course Number: 123
+Section: L03
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L05
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: BRYMAN, DOUGLAS
+
+Department: CHEM
+Course Number: 123
+Section: L07
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L08
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L09
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B370
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L31
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L32
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L51
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L52
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L71
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L72
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L81
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L82
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L91
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: L92
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 123
+Section: XMT
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: CHEM
+Course Number: 123
+Section: 2W1
+Description: Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.
+Pre-reqs: One of CHEM 111, CHEM 121.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

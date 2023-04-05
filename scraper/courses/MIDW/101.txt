@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 101
+Section: 001
+Description: Theory, knowledge, strategies, and skills of person-centered counselling including family systems, trauma theory, theory, grief counselling, motivational interviewing skills, self-awareness and mindfulness, interprofessional communication, and cultural competency in continuity of care.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 16:00
+Instructor: CAMPBELL, MAGHAN
+

@@ -1,0 +1,9 @@
+Department: AUDI
+Course Number: 550D
+Section: 001
+Description: May be taken more than once for credit.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

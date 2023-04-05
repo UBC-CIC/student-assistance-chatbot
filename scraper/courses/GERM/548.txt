@@ -1,0 +1,27 @@
+Department: GERM
+Course Number: 548
+Section: 001
+Description: Major Essay
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: GERM
+Course Number: 548
+Section: 002
+Description: Major Essay
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: GERM
+Course Number: 548
+Section: 003
+Description: Major Essay
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

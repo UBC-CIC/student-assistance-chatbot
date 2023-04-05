@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 591R
+Section: 001
+Description: Special Topics in Public Policy - TOPS PUBLIC PLCY
+Credits: 3.0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: C., Room: K.
+Instructor: LU, JULIET
+

@@ -1,0 +1,10 @@
+Department: OBST
+Course Number: 510
+Section: 001
+Description: Focus on genomics and pathophysiology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 11:00
+Instructor: ANGLESIO, MICHAEL
+

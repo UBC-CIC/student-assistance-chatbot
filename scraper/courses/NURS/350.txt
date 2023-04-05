@@ -1,0 +1,20 @@
+Department: NURS
+Course Number: 350
+Section: 002
+Description: The significance of critical inquiry and research in nursing and health care, and the fundamental concepts and processes pertaining to scientific inquiry, evidence-based practice, and research utilization in nursing. Students who take NURS 350 cannot earn credit for NURS 305, NURS 339 or NURS 342. This course is eligible for Cr/F for 19W2 only.
+Pre-reqs: All of NURS 300, NURS 310, NURS 321, NURS 330, NURS 352, NURS 360.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: NURS
+Course Number: 350
+Section: 003
+Description: The significance of critical inquiry and research in nursing and health care, and the fundamental concepts and processes pertaining to scientific inquiry, evidence-based practice, and research utilization in nursing. Students who take NURS 350 cannot earn credit for NURS 305, NURS 339 or NURS 342. This course is eligible for Cr/F for 19W2 only.
+Pre-reqs: All of NURS 300, NURS 310, NURS 321, NURS 330, NURS 352, NURS 360.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 12:00, Building: Pharmaceutical, Room: Sciences
+Instructor: ADHAMI, NASSIM
+

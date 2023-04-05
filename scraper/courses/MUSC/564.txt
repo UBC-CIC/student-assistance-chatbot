@@ -1,0 +1,20 @@
+Department: MUSC
+Course Number: 564
+Section: 001
+Description: Jazz Ensemble
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 19:30, End Time: 21:30, Building: Music, Room: 201
+Instructor: STRIDE, FREDERICK
+
+Department: MUSC
+Course Number: 564
+Section: 002
+Description: Jazz Ensemble
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 20:00, End Time: 22:00, Building: Music, Room: 116
+Instructor: ESSON, DENNIS
+

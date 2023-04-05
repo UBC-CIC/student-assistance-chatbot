@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 442
+Section: 001
+Description: Legal issues over the lifecycle of condominium/strata property from creation and development, through operating life, to termination.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 9:00, End Time: 10:30, Building: Allard, Room: Hall
+Instructor: HARRIS, DOUGLAS
+

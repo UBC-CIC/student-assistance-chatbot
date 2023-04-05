@@ -1,0 +1,22 @@
+Department: TIBT
+Course Number: 101
+Section: 001
+Description: Focus on grammar, syntax, and structures to improve comprehension and communication skills. Also covers aspects of Tibetan worldview.
+Pre-reqs: TIBT 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:00, End Time: 11:00, Building: Irving, Room: K
+Instructor: CHUSANG, SONAM
+
+Department: TIBT
+Course Number: 101
+Section: W01
+Description: Focus on grammar, syntax, and structures to improve comprehension and communication skills. Also covers aspects of Tibetan worldview.
+Pre-reqs: TIBT 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:00, End Time: 11:00
+Instructor: CHUSANG, SONAM
+

@@ -1,0 +1,119 @@
+Department: KIN
+Course Number: 235
+Section: 001
+Description: Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Friedman, Room: Building
+Instructor: MITCHELL, CAMERON
+
+Department: KIN
+Course Number: 235
+Section: 002
+Description: Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Friedman, Room: Building
+Instructor: MITCHELL, CAMERON
+
+Department: KIN
+Course Number: 235
+Section: 0W1
+Description: Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 235
+Section: 0W2
+Description: Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 235
+Section: L1A
+Description: Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Robert, Room: F.
+Instructor: MITCHELL, CAMERON
+
+Department: KIN
+Course Number: 235
+Section: L1B
+Description: Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Robert, Room: F.
+Instructor: MITCHELL, CAMERON
+
+Department: KIN
+Course Number: 235
+Section: L1C
+Description: Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Robert, Room: F.
+Instructor: MITCHELL, CAMERON
+
+Department: KIN
+Course Number: 235
+Section: L1D
+Description: Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 18:00, End Time: 20:00, Building: Robert, Room: F.
+Instructor: MITCHELL, CAMERON
+
+Department: KIN
+Course Number: 235
+Section: L1E
+Description: Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 14:00, Building: Robert, Room: F.
+Instructor: MITCHELL, CAMERON
+
+Department: KIN
+Course Number: 235
+Section: L2B
+Description: Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Robert, Room: F.
+Instructor: MITCHELL, CAMERON
+
+Department: KIN
+Course Number: 235
+Section: L2C
+Description: Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Robert, Room: F.
+Instructor: MITCHELL, CAMERON
+

@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 478
+Section: 001
+Description: Theoretical premises underlying the dispute-resolving process; arbitration, other non-judicial means of resolving legal disputes, and their relationship to litigation. Not offered each year, consult Faculty.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Allard, Room: Hall
+Instructor: GOLDBACH, TOBY
+

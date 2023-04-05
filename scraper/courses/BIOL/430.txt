@@ -1,0 +1,22 @@
+Department: BIOL
+Course Number: 430
+Section: 101
+Description: Integration of molecular genetics and genomics with evolutionary biology. Emphasis on the evolutionary dynamics of genomes and the evolutionary implications of recent discoveries in molecular genetics and genomics.
+Pre-reqs: One of BIOL 335, BIOL 336, BIOL 338.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: ADAMS, KEITH
+
+Department: BIOL
+Course Number: 430
+Section: 1W1
+Description: Integration of molecular genetics and genomics with evolutionary biology. Emphasis on the evolutionary dynamics of genomes and the evolutionary implications of recent discoveries in molecular genetics and genomics.
+Pre-reqs: One of BIOL 335, BIOL 336, BIOL 338.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 10:30
+Instructor: TBA
+

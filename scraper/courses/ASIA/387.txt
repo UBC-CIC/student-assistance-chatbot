@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 387
+Section: 001
+Description: An introduction to traditional Japanese religions including Shinto, Buddhism, Shugendo, Confucianism, new religions and folklore, and their roles in Japanese history, culture and society.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Hebb, Room: 116
+Instructor: HUR, NAM-LIN
+
+Department: ASIA
+Course Number: 387
+Section: W01
+Description: An introduction to traditional Japanese religions including Shinto, Buddhism, Shugendo, Confucianism, new religions and folklore, and their roles in Japanese history, culture and society.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00
+Instructor: HUR, NAM-LIN
+

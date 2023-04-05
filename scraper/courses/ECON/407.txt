@@ -1,0 +1,11 @@
+Department: ECON
+Course Number: 407
+Section: 001
+Description: Selected topics in advanced macroeconomic analysis.
+Pre-reqs: One of ECON 301, ECON 304 and one of ECON 302, ECON 305 and one of ECON 303, ECON 306.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Iona, Room: Building
+Instructor: PERLA, JESSE
+

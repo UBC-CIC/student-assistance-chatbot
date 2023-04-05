@@ -1,0 +1,11 @@
+Department: ECON
+Course Number: 485
+Section: 001
+Description: State and politics in economics. How states emerge, how dictators stay in power. Why groups engage in costly conflict, how countries turn into democracies and what its benefits are.
+Pre-reqs: One of ECON 301, ECON 304, ECON 315 and one of ECON 302, ECON 305, ECON 309 and one of ECON 325, ECON 327 and one of ECON 326, ECON 328.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:00, End Time: 10:30, Building: Iona, Room: Building
+Instructor: ABRAMOVAY FERRAZ DO AMARA, CLAUDIO
+

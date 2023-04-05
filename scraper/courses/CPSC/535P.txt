@@ -1,0 +1,19 @@
+Department: CPSC
+Course Number: 535P
+Section: 101
+Description: Topics in Simulation and Optimization - DIGITAL HUMANS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:30, End Time: 15:00, Building: Hugh, Room: Dempster
+Instructor: PAI, DINESH
+
+Department: CPSC
+Course Number: 535P
+Section: 1W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:30, End Time: 15:00, Building: To, Room: Be
+Instructor: PAI, DINESH
+

@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 506
+Section: 001
+Description: Governmental implementation and delivery of public policy. Variations in international practice, the growing interdependence of governments, firms and non-government organizations. Complexities of multi-level governance including control and accountability of governments.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: LIU, Room: 130
+Instructor: DARLING, SEAN
+

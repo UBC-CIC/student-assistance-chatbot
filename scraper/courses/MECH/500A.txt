@@ -1,0 +1,18 @@
+Department: MECH
+Course Number: 500A
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Civil, Room: and
+Instructor: EYKING, ADRIANNA
+
+Department: MECH
+Course Number: 500A
+Section: T1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:30, End Time: 16:30, Building: Civil, Room: and
+Instructor: TBA
+

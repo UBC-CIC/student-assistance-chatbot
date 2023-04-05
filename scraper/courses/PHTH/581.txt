@@ -1,0 +1,22 @@
+Department: PHTH
+Course Number: 581
+Section: 001
+Description: Restricted to students in the Graduate Certificate in Orthopaedic Musculoskeletal Physical Therapy program.
+Pre-reqs: RHSC 501.
+Co-reqs: PHTH 580.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KENNEDY, CAROLYN
+
+Department: PHTH
+Course Number: 581
+Section: 002
+Description: Restricted to students in the Graduate Certificate in Orthopaedic Musculoskeletal Physical Therapy program.
+Pre-reqs: RHSC 501.
+Co-reqs: PHTH 580.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

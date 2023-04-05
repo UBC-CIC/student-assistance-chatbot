@@ -1,0 +1,36 @@
+Department: LING
+Course Number: 448A
+Section: 001
+Description: Supervisor and topic chosen by mutual agreement between student and Linguistics faculty member. Department Advisor approval is required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ABDUL-MAGEED, MUHAMMAD
+
+Department: LING
+Course Number: 448A
+Section: 002
+Description: Supervisor and topic chosen by mutual agreement between student and Linguistics faculty member. Department Advisor approval is required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HANSSON, GUNNAR
+
+Department: LING
+Course Number: 448A
+Section: 003
+Description: Supervisor and topic chosen by mutual agreement between student and Linguistics faculty member. Department Advisor approval is required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SILFVERBERG, MIIKKA PIETARI
+
+Department: LING
+Course Number: 448A
+Section: 005
+Description: Supervisor and topic chosen by mutual agreement between student and Linguistics faculty member. Department Advisor approval is required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HUDSON KAM, CARLA
+

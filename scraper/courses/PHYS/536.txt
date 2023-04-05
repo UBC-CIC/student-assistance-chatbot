@@ -1,0 +1,9 @@
+Department: PHYS
+Course Number: 536
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Hennings, Room: 302
+Instructor: BAKER, JENNIFER
+

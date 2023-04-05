@@ -1,0 +1,9 @@
+Department: EDST
+Course Number: 523A
+Section: 021
+Pre-reqs: One of EDST 426, EDST 427, EDST 429.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: STEIN, SHARON REBEKAH
+

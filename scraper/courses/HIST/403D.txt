@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 403D
+Section: 201
+Description: Selected topics in the history of international relations. Restricted to fourth year students majoring in History or International Relations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Buchanan, Room: B216
+Instructor: LEE, STEVEN HUGH
+

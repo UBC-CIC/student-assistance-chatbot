@@ -1,0 +1,396 @@
+Department: EPSE
+Course Number: 308
+Section: 101
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: PARENT, NATASHA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 004
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:30, End Time: 15:00, Building: West, Room: Mall
+Instructor: PARENT, NATASHA
+
+Department: EPSE
+Course Number: 308
+Section: 102
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: PARENT, NATASHA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 001
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 10:30, Building: West, Room: Mall
+Instructor: PARENT, NATASHA
+
+Department: EPSE
+Course Number: 308
+Section: 103
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: PARENT, NATASHA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 001
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 10:30, Building: West, Room: Mall
+Instructor: PARENT, NATASHA
+
+Department: EPSE
+Course Number: 308
+Section: 104
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:30, Building: West, Room: Mall
+Instructor: PARENT, NATASHA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 004
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:30, End Time: 15:00, Building: West, Room: Mall
+Instructor: PARENT, NATASHA
+
+Department: EPSE
+Course Number: 308
+Section: 105
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: PARENT, NATASHA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 004
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:30, End Time: 15:00, Building: West, Room: Mall
+Instructor: PARENT, NATASHA
+
+Department: EPSE
+Course Number: 308
+Section: 107
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: PARENT, NATASHA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 004
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:30, End Time: 15:00, Building: West, Room: Mall
+Instructor: PARENT, NATASHA
+
+Department: EPSE
+Course Number: 308
+Section: 108
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: PARENT, NATASHA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 001
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 10:30, Building: West, Room: Mall
+Instructor: PARENT, NATASHA
+
+Department: EPSE
+Course Number: 308
+Section: 109
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Tue*, End Time: 8:30, Building: 12:30, Room: Neville
+Instructor: VADEBONCOEUR, JENNIFER
+
+Department: EPSE
+Course Number: 308
+Section: 110
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: MILLER, MIRIAM
+
+Department: EPSE
+Course Number: 308
+Section: 301
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: JHANGIANI, SURITA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 002
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: JHANGIANI, SURITA
+
+Department: EPSE
+Course Number: 308
+Section: 302
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: JHANGIANI, SURITA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 002
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: JHANGIANI, SURITA
+
+Department: EPSE
+Course Number: 308
+Section: 303
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: JHANGIANI, SURITA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 002
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: JHANGIANI, SURITA
+
+Department: EPSE
+Course Number: 308
+Section: 304
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: JHANGIANI, SURITA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 002
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: JHANGIANI, SURITA
+
+Department: EPSE
+Course Number: 308
+Section: 305
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: JHANGIANI, SURITA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 003
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:30, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: JHANGIANI, SURITA
+
+Department: EPSE
+Course Number: 308
+Section: 306
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: JHANGIANI, SURITA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 003
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:30, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: JHANGIANI, SURITA
+
+Department: EPSE
+Course Number: 308
+Section: 307
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: JHANGIANI, SURITA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 003
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:30, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: JHANGIANI, SURITA
+
+Department: EPSE
+Course Number: 308
+Section: 308
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: JHANGIANI, SURITA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 003
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:30, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: JHANGIANI, SURITA
+
+Department: EPSE
+Course Number: 308
+Section: 309
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: JHANGIANI, SURITA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 003
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:30, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: JHANGIANI, SURITA
+
+Department: EPSE
+Course Number: 308
+Section: 310
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:30, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: JHANGIANI, SURITA(Coordinator)
+
+Department: EPSE
+Course Number: 308
+Section: 002
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 10:30, Building: Henry, Room: Angus
+Instructor: JHANGIANI, SURITA
+
+Department: EPSE
+Course Number: 308
+Section: 623
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SAM, JOHANNA
+
+Department: EPSE
+Course Number: 308
+Section: 640
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FLICK, DENISE
+
+Department: EPSE
+Course Number: 308
+Section: 641
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FLICK, DENISE
+
+Department: EPSE
+Course Number: 308
+Section: 650
+Description: This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail.
+Credits: 4
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MILLER, MIRIAM
+

@@ -1,0 +1,18 @@
+Department: ECED
+Course Number: 406
+Section: 63A
+Description: Early Learning Curriculum in the Pre-School Years
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BAILLIE, TRACI
+
+Department: ECED
+Course Number: 406
+Section: 63C
+Description: Early Learning Curriculum in the Pre-School Years
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BAILLIE, TRACI
+

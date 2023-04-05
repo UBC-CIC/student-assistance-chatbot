@@ -1,0 +1,27 @@
+Department: PLAN
+Course Number: 527A
+Section: 001
+Description: Internship - INTERNSHIP
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 527A
+Section: 002
+Description: Internship - INTERNSHIP
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 527A
+Section: 003
+Description: Internship - INTERNSHIP
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

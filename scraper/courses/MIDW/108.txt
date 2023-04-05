@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 108
+Section: 002
+Description: Scope of practice of a midwife, regulatory framework, skills for basic midwifery practice. A series of lectures and clinical lab sessions.
+Credits: 5
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 13:30, End Time: 16:30
+Instructor: JOHNSON, NATALIE
+

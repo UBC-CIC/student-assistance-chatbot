@@ -1,0 +1,44 @@
+Department: MATH
+Course Number: 190
+Section: 101
+Description: Functions, derivatives, integrals, curve sketching growth functions, volume calculations. Only for credit in the Faculty of Forestry. Students with credit for MATH 100, 102, 104, 120, 180, or 184 cannot in the same term or later terms obtain credit for MATH 190.
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12 and registration in the B.S.F. or B.Sc.N. programs.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Chemistry, Room: D300
+Instructor: LIU, KEQIN
+
+Department: MATH
+Course Number: 190
+Section: L1A
+Description: Functions, derivatives, integrals, curve sketching growth functions, volume calculations. Only for credit in the Faculty of Forestry. Students with credit for MATH 100, 102, 104, 120, 180, or 184 cannot in the same term or later terms obtain credit for MATH 190.
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12 and registration in the B.S.F. or B.Sc.N. programs.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:30, Building: Mathematics, Room: 202
+Instructor: TBA
+
+Department: MATH
+Course Number: 190
+Section: L1B
+Description: Functions, derivatives, integrals, curve sketching growth functions, volume calculations. Only for credit in the Faculty of Forestry. Students with credit for MATH 100, 102, 104, 120, 180, or 184 cannot in the same term or later terms obtain credit for MATH 190.
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12 and registration in the B.S.F. or B.Sc.N. programs.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:30, Building: Mathematics, Room: 204
+Instructor: TBA
+
+Department: MATH
+Course Number: 190
+Section: L1C
+Description: Functions, derivatives, integrals, curve sketching growth functions, volume calculations. Only for credit in the Faculty of Forestry. Students with credit for MATH 100, 102, 104, 120, 180, or 184 cannot in the same term or later terms obtain credit for MATH 190.
+Pre-reqs: (Principles of Mathematics 12 or Pre-calculus 12 and registration in the B.S.F. or B.Sc.N. programs.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 12:30, End Time: 14:00, Building: Hennings, Room: 302
+Instructor: TBA
+

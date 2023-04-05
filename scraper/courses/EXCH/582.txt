@@ -1,0 +1,8 @@
+Department: EXCH
+Course Number: 582
+Section: 101
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

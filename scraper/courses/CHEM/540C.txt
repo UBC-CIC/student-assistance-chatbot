@@ -1,0 +1,20 @@
+Department: CHEM
+Course Number: 540C
+Section: IDG
+Description: Pass/Fail.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Chemistry, Room: D300
+Instructor: TBA
+
+Department: CHEM
+Course Number: 540C
+Section: ODG
+Description: Pass/Fail.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Chemistry, Room: D200
+Instructor: TBA
+

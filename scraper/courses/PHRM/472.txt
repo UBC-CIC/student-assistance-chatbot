@@ -1,0 +1,55 @@
+Department: PHRM
+Course Number: 472
+Section: 001
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in inpatient settings. Patient care will be provided for a wide range of therapeutic areas. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: PHRM
+Course Number: 472
+Section: 002
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in inpatient settings. Patient care will be provided for a wide range of therapeutic areas. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: PHRM
+Course Number: 472
+Section: 003
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in inpatient settings. Patient care will be provided for a wide range of therapeutic areas. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: PHRM
+Course Number: 472
+Section: 004
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in inpatient settings. Patient care will be provided for a wide range of therapeutic areas. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: PHRM
+Course Number: 472
+Section: 005
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in inpatient settings. Patient care will be provided for a wide range of therapeutic areas. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: PHRM
+Course Number: 472
+Section: 006
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in inpatient settings. Patient care will be provided for a wide range of therapeutic areas. Pass/Fail.
+Pre-reqs: PHRM 371.
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FANG, KAYLA
+

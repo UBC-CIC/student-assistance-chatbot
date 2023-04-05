@@ -1,0 +1,16 @@
+Department: EPSE
+Course Number: 580B
+Section: 074
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EPSE
+Course Number: 580B
+Section: 075
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

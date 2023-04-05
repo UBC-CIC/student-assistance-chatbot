@@ -1,0 +1,21 @@
+Department: KIN
+Course Number: 344
+Section: 001
+Description: Policy issues relating to leisure opportunities for persons with disabilities.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 19:00, Building: Geography, Room: 100
+Instructor: SAMUHEL-COREWYN, JANKA
+
+Department: KIN
+Course Number: 344
+Section: 0W1
+Description: Policy issues relating to leisure opportunities for persons with disabilities.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

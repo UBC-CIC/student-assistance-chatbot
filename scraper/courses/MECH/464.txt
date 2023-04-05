@@ -1,0 +1,20 @@
+Department: MECH
+Course Number: 464
+Section: 201
+Co-reqs: One of MECH 466, MECH 467.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Chemistry, Room: C126
+Instructor: SALCUDEAN, SEPTIMIU
+
+Department: MECH
+Course Number: 464
+Section: T2A
+Co-reqs: One of MECH 466, MECH 467.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: Chemistry, Room: C124
+Instructor: SALCUDEAN, SEPTIMIU
+

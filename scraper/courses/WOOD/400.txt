@@ -1,0 +1,10 @@
+Department: WOOD
+Course Number: 400
+Section: 201
+Description: Approved and supervised work experience with a public or private organization for a minimum of 13 weeks fulltime. Final work term assignment required. Restricted to students in the Co-operative Education Program in Wood Products Processing.
+Pre-reqs: (Permission of the Co-op Coordinator.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LEUNG, VINCENT
+

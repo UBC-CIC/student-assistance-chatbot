@@ -1,0 +1,70 @@
+Department: CIVL
+Course Number: 597
+Section: 002
+Description: Presentations and discussions of current research topics in various disciplines of Civil Engineering.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:30, End Time: 17:00, Building: Food,, Room: Nutrition
+Instructor: LENCE, BARBARA JEAN
+
+Department: CIVL
+Course Number: 597
+Section: 003
+Description: Presentations and discussions of current research topics in various disciplines of Civil Engineering.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:30, End Time: 17:00, Building: Civil, Room: and
+Instructor: LEE, JONGHO
+
+Department: CIVL
+Course Number: 597
+Section: 004
+Description: Presentations and discussions of current research topics in various disciplines of Civil Engineering.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:30, End Time: 17:00, Building: Civil, Room: and
+Instructor: HAUKAAS, TERJE
+
+Department: CIVL
+Course Number: 597
+Section: 005
+Description: Presentations and discussions of current research topics in various disciplines of Civil Engineering.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:30, End Time: 17:00, Building: Civil, Room: and
+Instructor: SWEI, OMAR
+
+Department: CIVL
+Course Number: 597
+Section: 006
+Description: Presentations and discussions of current research topics in various disciplines of Civil Engineering.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:30, End Time: 17:00, Building: Civil, Room: and
+Instructor: BIGAZZI, ALEXANDER YORK
+
+Department: CIVL
+Course Number: 597
+Section: 007
+Description: Presentations and discussions of current research topics in various disciplines of Civil Engineering.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: Civil, Room: and
+Instructor: WIJEWICKREME, DHARMAPRIYA
+
+Department: CIVL
+Course Number: 597
+Section: 008
+Description: Presentations and discussions of current research topics in various disciplines of Civil Engineering.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:30, End Time: 19:00, Building: Civil, Room: and
+Instructor: BANTHIA, NEMKUMAR
+

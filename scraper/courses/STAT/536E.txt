@@ -1,0 +1,10 @@
+Department: STAT
+Course Number: 536E
+Section: 201
+Description: Statistical Theory for the Design and Analysis of Clinical Studies - BIOSTAT METHODS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:00, End Time: 17:30, Building: Earth, Room: Sciences
+Instructor: WU, LANG
+

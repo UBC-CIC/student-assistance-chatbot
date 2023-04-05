@@ -1,0 +1,10 @@
+Department: LLED
+Course Number: 601
+Section: 061
+Pre-reqs: (Admission to the Ph.D. program in LLED.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Ponderosa, Room: Commons
+Instructor: GUNDERSON, LEE PAUL
+

@@ -1,0 +1,10 @@
+Department: EOSC
+Course Number: 534
+Section: 201
+Description: Consult the credit exclusion list in the Faculty of Science section of the Calendar. http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414#4978
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Chemistry, Room: D200
+Instructor: MCDOUGALL, SCOTT
+

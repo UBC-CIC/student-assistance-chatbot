@@ -1,0 +1,29 @@
+Department: PSYC
+Course Number: 208
+Section: 003
+Description: A focus on the interpretation of contemporary research in social, developmental, personality, and clinical psychology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: KING, DAVID
+
+Department: PSYC
+Course Number: 208
+Section: 202
+Description: A focus on the interpretation of contemporary research in social, developmental, personality, and clinical psychology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PSYC
+Course Number: 208
+Section: 992
+Description: A focus on the interpretation of contemporary research in social, developmental, personality, and clinical psychology.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:30
+Instructor: KING, DAVID
+

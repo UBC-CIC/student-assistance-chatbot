@@ -1,0 +1,22 @@
+Department: MECH
+Course Number: 280
+Section: 201
+Description: Fluid properties; statics; kinematics, dynamics, energy, and momentum principles for control volumes; dimensional analysis and similarity; laminar and turbulent flow; pipe flow; principles of centrifugal pumps.
+Pre-reqs: All of MATH 152, PHYS 170 and one of MATH 217, MATH 253; and either (a) PHYS 131 and one of PHYS 108, PHYS 118; or (b) PHYS 153 or (c) all of PHYS 157, PHYS 158, PHYS 159.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Forest, Room: Sciences
+Instructor: FRIGAARD, IAN
+
+Department: MECH
+Course Number: 280
+Section: T2A
+Description: Fluid properties; statics; kinematics, dynamics, energy, and momentum principles for control volumes; dimensional analysis and similarity; laminar and turbulent flow; pipe flow; principles of centrifugal pumps.
+Pre-reqs: All of MATH 152, PHYS 170 and one of MATH 217, MATH 253; and either (a) PHYS 131 and one of PHYS 108, PHYS 118; or (b) PHYS 153 or (c) all of PHYS 157, PHYS 158, PHYS 159.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Fri, Start Time: 11:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: FRIGAARD, IAN
+

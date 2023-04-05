@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 412
+Section: 001
+Description: Features and evolution of major pre-Chinese poetry from the 11th century B.C.E. to the 10th century C.E.; analytical reading of signature poems by selected poets in English translation in the pre-modern Chinese poetic tradition during this historical period.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Leon, Room: and
+Instructor: DUFFY, KAY JANE
+
+Department: ASIA
+Course Number: 412
+Section: W01
+Description: Features and evolution of major pre-Chinese poetry from the 11th century B.C.E. to the 10th century C.E.; analytical reading of signature poems by selected poets in English translation in the pre-modern Chinese poetic tradition during this historical period.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: To, Room: Be
+Instructor: DUFFY, KAY JANE
+

@@ -1,0 +1,11 @@
+Department: FREN
+Course Number: 409
+Section: 101
+Description: Aesthetic and ideological trends of seventeenth-century French literature in their historical context.
+Pre-reqs: One of FREN 321, FREN 328, FREN 329 and one of FREN 225, FREN 402.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: B209
+Instructor: PIECHOCKI, KATHARINA
+

@@ -1,0 +1,11 @@
+Department: SOCI
+Course Number: 495D
+Section: 101
+Description: An intensive examination of selected topics in Sociology. Consult the department for this year's offerings.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 13:00, Building: Buchanan, Room: B218
+Instructor: HUYSER, KIMBERLY
+

@@ -22,10 +22,7 @@ REQUIRES_IN_PERSON_ATTENDANCE_REGEX = "Requires In-Person Attendance: (.*)"
 DATE_BUILDING_REGEX = "((?:1|2) (?:Mon|Tue|Wed|Thu|Fri|Sat|Sun).*)"
 INSTRUCTOR_REGEX = "Instructor: (.*)"
 
-load_dotenv()
-# Set up S3 client
-session = boto3.Session(profile_name=os.getenv("PROFILE_NAME"))
-s3 = session.client('s3')
+
     
 class DateBuilding():
     def __init__(self,term,days,startTime,endTime,building,room):
@@ -157,7 +154,7 @@ def generateMetadata(department,courseNumber, sourceURI):
     return json_object
 
 
-def scrape(url,parentUrl,prereq,coreq,bucketName,driver):
+def scrape(url,parentUrl,prereq,coreq,bucketName,driver,s3):
     driver.get(url)
     subjBox = driver.find_elements(By.CSS_SELECTOR, SELECTOR)
     if not prereq:
@@ -180,7 +177,7 @@ def scrape(url,parentUrl,prereq,coreq,bucketName,driver):
             
     if len(urls) != 0:
         for innerUrl in urls:
-            scrape(innerUrl,url,prereq,coreq,bucketName,driver)
+            scrape(innerUrl,url,prereq,coreq,bucketName,driver,s3)
     else:
         
         courseMain = driver.find_element(By.XPATH, "//*[@role='main']").text.replace("Save To Worklist","")
@@ -210,25 +207,15 @@ def scrape(url,parentUrl,prereq,coreq,bucketName,driver):
             print(f"File uploaded to s3://{bucketName}/{directory+filename}")
         except ClientError as e:
             print(f"Error uploading file to S3: {e}")
-        # os.makedirs(os.path.dirname(directory),exist_ok=True)
-        # with open(directory + filename, "a+", encoding="utf-8") as f:
-        #     f.write(formatted + "\n")
-        # json_object = generateMetadata(department,courseNumber,parentUrl)
-        # with open(directory + filename + ".metadata.json", "w") as m:
-        #     m.write(json_object)
 
 
 
-def beginScraper(bucketName):
+def beginScraper(bucket_name,profile_name):
     
-    # Using firefox instead of chrome because I can't run headless in chrome
     URL = "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea"
-    # chrome_options = Options()
-    # chrome_options.add_argument("--no-sandbox")
-    # chrome_options.add_argument("--window-size=1920,1080")
-    # chrome_options.add_argument("--headless")
-    #driver = uc.Chrome(options=chrome_options)
     options = Options()
     options.headless = True
     driver = webdriver.Firefox(options=options,executable_path=GeckoDriverManager().install())
-    scrape(URL,None,None,None,bucketName,driver)
+    session = boto3.Session(profile_name)
+    s3 = session.client('s3')
+    scrape(URL,None,None,None,bucket_name,driver,s3)

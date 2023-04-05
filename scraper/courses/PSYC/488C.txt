@@ -1,0 +1,9 @@
+Department: PSYC
+Course Number: 488C
+Section: 002
+Description: Directed investigation of an experimental problem in Behavioural Neuroscience requiring a written report of the findings. Requires the supervising faculty member's permission. See the Department's website for more information.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

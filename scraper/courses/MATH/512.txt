@@ -1,0 +1,10 @@
+Department: MATH
+Course Number: 512
+Section: 101
+Description: Quantum Theory
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Mathematics, Room: 225
+Instructor: BACHMANN, SVEN
+

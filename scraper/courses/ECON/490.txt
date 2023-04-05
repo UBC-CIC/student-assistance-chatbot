@@ -1,0 +1,132 @@
+Department: ECON
+Course Number: 490
+Section: 002
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: B307
+Instructor: DOUGLAS, CATHERINE
+
+Department: ECON
+Course Number: 490
+Section: 003
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: B219
+Instructor: VANEY, MICHAEL
+
+Department: ECON
+Course Number: 490
+Section: 005
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: D222
+Instructor: GRAVES, JONATHAN
+
+Department: ECON
+Course Number: 490
+Section: 006
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Iona, Room: Building
+Instructor: KONG, WAI-CHING ALFRED
+
+Department: ECON
+Course Number: 490
+Section: 011
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Buchanan, Room: B219
+Instructor: MOON, SEOK MIN
+
+Department: ECON
+Course Number: 490
+Section: 012
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 18:00, End Time: 19:00, Building: Buchanan, Room: B219
+Instructor: MAHMOUD, CHOWDHURY
+
+Department: ECON
+Course Number: 490
+Section: 013
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:00, End Time: 13:30, Building: Buchanan, Room: B219
+Instructor: GALLIPOLI, GIOVANNI
+
+Department: ECON
+Course Number: 490
+Section: 014
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Anthropology, Room: and
+Instructor: GRAVES, JONATHAN
+
+Department: ECON
+Course Number: 490
+Section: 015
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B219
+Instructor: SAGGIO, RAFFAELE
+
+Department: ECON
+Course Number: 490
+Section: 016
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 16:00, End Time: 17:30, Building: Buchanan, Room: B310
+Instructor: VANEY, MICHAEL
+
+Department: ECON
+Course Number: 490
+Section: 017
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B219
+Instructor: KONG, WAI-CHING ALFRED
+
+Department: ECON
+Course Number: 490
+Section: 018
+Description: Seminar in Applied Economics
+Pre-reqs: All of ECON 325, ECON 326 and one of ECON 301, ECON 304 and one of ECON 302, ECON 305. (For additional possible prerequisites see individual course descriptions on the School's website.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 114
+Instructor: ADSHADE, MARINA
+

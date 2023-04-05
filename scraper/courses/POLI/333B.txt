@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 333B
+Section: 001
+Description: Issues in Comparative Politics - ISSUES COMP PLTC
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B313
+Instructor: WEAVER, MICHAEL
+

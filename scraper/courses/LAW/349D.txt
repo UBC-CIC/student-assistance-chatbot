@@ -1,0 +1,27 @@
+Department: LAW
+Course Number: 349D
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Allard, Room: Hall
+Instructor: SIGURDSON, JON
+
+Department: LAW
+Course Number: 349D
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: JOSHI, YUVRAJ
+
+Department: LAW
+Course Number: 349D
+Section: 003
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Allard, Room: Hall
+Instructor: BAKAN, JOEL CONRAD
+

@@ -1,0 +1,10 @@
+Department: DES
+Course Number: 322A
+Section: WL1
+Pre-reqs: DES 320.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: To, Room: Be
+Instructor: TBA
+

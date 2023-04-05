@@ -1,0 +1,18 @@
+Department: RHSC
+Course Number: 509
+Section: 001
+Description: Facilitating Learning in Rehabilitation Contexts
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: DYKS, TRACEY
+
+Department: RHSC
+Course Number: 509
+Section: 002
+Description: Facilitating Learning in Rehabilitation Contexts
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DURAN, LESLIE
+

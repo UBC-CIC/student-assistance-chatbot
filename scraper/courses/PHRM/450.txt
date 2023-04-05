@@ -1,0 +1,9 @@
+Department: PHRM
+Course Number: 450
+Section: 001
+Description: Seminar course about current and potential roles for pharmacists. Students will also deliver an individual and a group seminar. Pass/Fail.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PAMMETT, ROBERT
+

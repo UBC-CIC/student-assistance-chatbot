@@ -1,0 +1,19 @@
+Department: EDCP
+Course Number: 210
+Section: 301
+Description: Role of music education in schools and society, including historical, philosophical, psychological, and sociological perspectives. Includes guided class observations and practice music teaching in elementary and secondary schools. Criminal Record Check required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: LEE, KAREN
+
+Department: EDCP
+Course Number: 210
+Section: W01
+Description: Role of music education in schools and society, including historical, philosophical, psychological, and sociological perspectives. Includes guided class observations and practice music teaching in elementary and secondary schools. Criminal Record Check required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

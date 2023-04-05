@@ -1,0 +1,11 @@
+Department: CAPS
+Course Number: 426
+Section: 001
+Description: An integrated study of the structural and functional organization of the central nervous system with special emphasis on neurophysiological mechanisms.
+Pre-reqs: (A cumulative average of 75% over at least 90 credits attempted in the first three years of a student's program and a minimum mark of 75% in CAPS 301 or PHYL 301. Permission of the course director is also required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:00, End Time: 11:00
+Instructor: ACCILI, ERIC
+

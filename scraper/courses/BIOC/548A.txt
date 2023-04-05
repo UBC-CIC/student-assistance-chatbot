@@ -1,0 +1,9 @@
+Department: BIOC
+Course Number: 548A
+Section: 004
+Description: In special cases, with approval of the department head, advanced courses may be arranged for graduate students in attendance.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

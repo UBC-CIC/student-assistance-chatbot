@@ -1,0 +1,10 @@
+Department: FNH
+Course Number: 415
+Section: 001
+Pre-reqs: (At least third-year standing in the Faculty of Land and Food Systems.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Food,, Room: Nutrition
+Instructor: TAYLOR, KAREN
+

@@ -1,0 +1,9 @@
+Department: MATH
+Course Number: 600D
+Section: 101
+Description: Topics in Algebra - TOPICS IN ALGBRA
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: REICHSTEIN, ZINOVY
+

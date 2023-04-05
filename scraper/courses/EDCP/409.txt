@@ -1,0 +1,11 @@
+Department: EDCP
+Course Number: 409
+Section: 301
+Description: Pass/Fail.
+Pre-reqs: (Art education as a major or minor and completion of a practicum in Art Education.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:00, End Time: 10:30, Building: Neville, Room: Scarfe
+Instructor: BERARD, MARIE-FRANCE
+

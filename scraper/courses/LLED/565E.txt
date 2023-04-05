@@ -1,0 +1,10 @@
+Department: LLED
+Course Number: 565E
+Section: 061
+Description: Courses in various subject matter fields designed to bring teachers up to date in recent findings in each field.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:30, End Time: 19:30, Building: Ponderosa, Room: Commons
+Instructor: GLADWIN, DEREK
+

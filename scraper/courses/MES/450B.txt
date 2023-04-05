@@ -1,0 +1,11 @@
+Department: MES
+Course Number: 450B
+Section: 001
+Description: Projects that provide essential knowledge and skills for academic and/or community engagement in Middle East Studies. May include academic works or presentations, community projects, and/or digital initiatives.
+Pre-reqs: MES 300. (and permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: BASHEER, NESRINE
+

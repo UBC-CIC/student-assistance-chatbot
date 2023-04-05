@@ -1,0 +1,17 @@
+Department: ETEC
+Course Number: 542
+Section: 64A
+Description: Culture and Communication in Virtual Learning Environments
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KIM, HYOSHIN
+
+Department: ETEC
+Course Number: 542
+Section: W4A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

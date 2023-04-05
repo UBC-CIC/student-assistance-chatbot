@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 337
+Section: 001
+Description: The transformation of Korea from a Confucian state into an industrial nation. The rise of nationalism and modern ideologies in Korea. Cultural, social and economic changes Korea has undergone as it has entered the modern world.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Leon, Room: and
+Instructor: BAKER, DONALD LESLIE
+
+Department: ASIA
+Course Number: 337
+Section: W01
+Description: The transformation of Korea from a Confucian state into an industrial nation. The rise of nationalism and modern ideologies in Korea. Cultural, social and economic changes Korea has undergone as it has entered the modern world.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00
+Instructor: BAKER, DONALD LESLIE
+

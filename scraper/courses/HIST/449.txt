@@ -1,0 +1,8 @@
+Department: HIST
+Course Number: 449
+Section: 001
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MILLER, BRADLEY
+

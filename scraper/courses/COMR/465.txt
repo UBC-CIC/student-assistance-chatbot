@@ -1,0 +1,55 @@
+Department: COMR
+Course Number: 465
+Section: 101
+Description: Basic considerations affecting the domestic and international marketing of goods and services. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 296.
+Co-reqs: Either (a) all of ECON 101, ECON 102 or (b) ECON 100 or (c) all of ECON 310, ECON 311 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: VAUGHAN, JARRETT
+
+Department: COMR
+Course Number: 465
+Section: 102
+Description: Basic considerations affecting the domestic and international marketing of goods and services. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 296.
+Co-reqs: Either (a) all of ECON 101, ECON 102 or (b) ECON 100 or (c) all of ECON 310, ECON 311 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 18:00, End Time: 21:00, Building: Henry, Room: Angus
+Instructor: BURKE, PHAEDRA
+
+Department: COMR
+Course Number: 465
+Section: 201
+Description: Basic considerations affecting the domestic and international marketing of goods and services. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 296.
+Co-reqs: Either (a) all of ECON 101, ECON 102 or (b) ECON 100 or (c) all of ECON 310, ECON 311 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: BASTO DA SILVA, RUI JORGE
+
+Department: COMR
+Course Number: 465
+Section: 202
+Description: Basic considerations affecting the domestic and international marketing of goods and services. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 296.
+Co-reqs: Either (a) all of ECON 101, ECON 102 or (b) ECON 100 or (c) all of ECON 310, ECON 311 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: BASTO DA SILVA, RUI JORGE
+
+Department: COMR
+Course Number: 465
+Section: 203
+Description: Basic considerations affecting the domestic and international marketing of goods and services. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 296.
+Co-reqs: Either (a) all of ECON 101, ECON 102 or (b) ECON 100 or (c) all of ECON 310, ECON 311 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 18:00, End Time: 21:00, Building: Henry, Room: Angus
+Instructor: VAUGHAN, JARRETT
+

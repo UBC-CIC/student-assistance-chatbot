@@ -1,0 +1,75 @@
+Department: PSYC
+Course Number: 308A
+Section: 001
+Description: Theory and research of individual social behaviour; social motivation; attitudes; group interaction; socialization; prejudice.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Irving, Room: K
+Instructor: DUNN, ELIZABETH
+
+Department: PSYC
+Course Number: 308A
+Section: 002
+Description: Theory and research of individual social behaviour; social motivation; attitudes; group interaction; socialization; prejudice.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Irving, Room: K
+Instructor: DUNN, ELIZABETH
+
+Department: PSYC
+Course Number: 308A
+Section: 003
+Description: Theory and research of individual social behaviour; social motivation; attitudes; group interaction; socialization; prejudice.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: West, Room: Mall
+Instructor: RIVERS, ANDREW
+
+Department: PSYC
+Course Number: 308A
+Section: 004
+Description: Theory and research of individual social behaviour; social motivation; attitudes; group interaction; socialization; prejudice.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PSYC
+Course Number: 308A
+Section: 005
+Description: Theory and research of individual social behaviour; social motivation; attitudes; group interaction; socialization; prejudice.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PSYC
+Course Number: 308A
+Section: 901
+Description: Theory and research of individual social behaviour; social motivation; attitudes; group interaction; socialization; prejudice.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 20:00, Building: Buchanan, Room: A201
+Instructor: DE SOUZA, LUCILLE
+
+Department: PSYC
+Course Number: 308A
+Section: 902
+Description: Theory and research of individual social behaviour; social motivation; attitudes; group interaction; socialization; prejudice.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 19:30, Building: Buchanan, Room: A101
+Instructor: ENGSTROM, HOLLY
+

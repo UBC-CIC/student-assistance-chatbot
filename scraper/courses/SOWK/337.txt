@@ -1,0 +1,10 @@
+Department: SOWK
+Course Number: 337
+Section: 002
+Description: Culture and Race in Social Work Practice
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 13:00, Building: Jack, Room: Bell
+Instructor: LEE, BARBARA
+

@@ -1,0 +1,60 @@
+Department: COMR
+Course Number: 493
+Section: 101
+Description: A conceptual and practical introduction to the major areas of business strategy with an integrative perspective on managing a business. Includes the analysis of a business and its environment, the development and evaluation of strategic alternatives, and implementation of change (For non-Commerce students only in fourth year). Not for students with credit for, or exemption from, COMM 491.
+Pre-reqs: One of COMM 293, COMM 457, COMR 457 and either (a) all of ECON 101, ECON 102 or (b) all of ECON 310, ECON 311 or (c) ECON 100 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.
+Co-reqs: One of COMM 329, COMR 329 and one of COMM 465, COMR 465 and one of COMM 473, COMR 473.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: KHMELNITSKAYA, EKATERINA
+
+Department: COMR
+Course Number: 493
+Section: 102
+Description: A conceptual and practical introduction to the major areas of business strategy with an integrative perspective on managing a business. Includes the analysis of a business and its environment, the development and evaluation of strategic alternatives, and implementation of change (For non-Commerce students only in fourth year). Not for students with credit for, or exemption from, COMM 491.
+Pre-reqs: One of COMM 293, COMM 457, COMR 457 and either (a) all of ECON 101, ECON 102 or (b) all of ECON 310, ECON 311 or (c) ECON 100 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.
+Co-reqs: One of COMM 329, COMR 329 and one of COMM 465, COMR 465 and one of COMM 473, COMR 473.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: KHMELNITSKAYA, EKATERINA
+
+Department: COMR
+Course Number: 493
+Section: 201
+Description: A conceptual and practical introduction to the major areas of business strategy with an integrative perspective on managing a business. Includes the analysis of a business and its environment, the development and evaluation of strategic alternatives, and implementation of change (For non-Commerce students only in fourth year). Not for students with credit for, or exemption from, COMM 491.
+Pre-reqs: One of COMM 293, COMM 457, COMR 457 and either (a) all of ECON 101, ECON 102 or (b) all of ECON 310, ECON 311 or (c) ECON 100 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.
+Co-reqs: One of COMM 329, COMR 329 and one of COMM 465, COMR 465 and one of COMM 473, COMR 473.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: FANG, LIMIN
+
+Department: COMR
+Course Number: 493
+Section: 202
+Description: A conceptual and practical introduction to the major areas of business strategy with an integrative perspective on managing a business. Includes the analysis of a business and its environment, the development and evaluation of strategic alternatives, and implementation of change (For non-Commerce students only in fourth year). Not for students with credit for, or exemption from, COMM 491.
+Pre-reqs: One of COMM 293, COMM 457, COMR 457 and either (a) all of ECON 101, ECON 102 or (b) all of ECON 310, ECON 311 or (c) ECON 100 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.
+Co-reqs: One of COMM 329, COMR 329 and one of COMM 465, COMR 465 and one of COMM 473, COMR 473.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: FANG, LIMIN
+
+Department: COMR
+Course Number: 493
+Section: 203
+Description: A conceptual and practical introduction to the major areas of business strategy with an integrative perspective on managing a business. Includes the analysis of a business and its environment, the development and evaluation of strategic alternatives, and implementation of change (For non-Commerce students only in fourth year). Not for students with credit for, or exemption from, COMM 491.
+Pre-reqs: One of COMM 293, COMM 457, COMR 457 and either (a) all of ECON 101, ECON 102 or (b) all of ECON 310, ECON 311 or (c) ECON 100 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310.
+Co-reqs: One of COMM 329, COMR 329 and one of COMM 465, COMR 465 and one of COMM 473, COMR 473.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Henry, Room: Angus
+Instructor: FANG, LIMIN
+

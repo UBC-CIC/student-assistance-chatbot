@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 492B
+Section: 774
+Description: Private instruction, vocal or instrumental.
+Pre-reqs: (One of MUSC 371-395.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: THRONESS, DALE
+

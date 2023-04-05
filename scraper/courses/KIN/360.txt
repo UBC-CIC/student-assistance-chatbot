@@ -1,0 +1,21 @@
+Department: KIN
+Course Number: 360
+Section: 001
+Description: Relationships that sport and leisure have with peace, conflict, and social inequality in Canada and internationally.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 19:00, Building: Hennings, Room: 202
+Instructor: WILSON, BRIAN
+
+Department: KIN
+Course Number: 360
+Section: 0W1
+Description: Relationships that sport and leisure have with peace, conflict, and social inequality in Canada and internationally.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

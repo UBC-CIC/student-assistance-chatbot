@@ -1,0 +1,22 @@
+Department: MINE
+Course Number: 491
+Section: 001
+Description: Mining Engineering design project from scope definition to final design and project feasibility. Based on a problem from industry and/or research.
+Pre-reqs: All of MINE 302, MINE 303, MINE 304, MINE 310, MINE 331, MINE 333, MINE 350, MINE 396. (Fourth-year standing in Mining Engineering is required.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: WELCH, ANTONINA
+
+Department: MINE
+Course Number: 491
+Section: L1A
+Description: Mining Engineering design project from scope definition to final design and project feasibility. Based on a problem from industry and/or research.
+Pre-reqs: All of MINE 302, MINE 303, MINE 304, MINE 310, MINE 331, MINE 333, MINE 350, MINE 396. (Fourth-year standing in Mining Engineering is required.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: WELCH, ANTONINA
+

@@ -1,0 +1,27 @@
+Department: CHBE
+Course Number: 596
+Section: 001
+Description: For M.Eng. students. Carry out a literature review, conduct a research or design project and prepare an engineering report under the supervision of a faculty member.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LAU, ANTHONY K
+
+Department: CHBE
+Course Number: 596
+Section: 101
+Description: For M.Eng. students. Carry out a literature review, conduct a research or design project and prepare an engineering report under the supervision of a faculty member.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LAU, ANTHONY K
+
+Department: CHBE
+Course Number: 596
+Section: 201
+Description: For M.Eng. students. Carry out a literature review, conduct a research or design project and prepare an engineering report under the supervision of a faculty member.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LAU, ANTHONY K
+

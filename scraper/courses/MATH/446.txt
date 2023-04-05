@@ -1,0 +1,11 @@
+Department: MATH
+Course Number: 446
+Section: 101
+Description: Historical development of concepts and techniques in areas chosen from Geometry, Number Theory, Algebra, Calculus, Probability, Analysis. The focus is on historically significant writings of important contributors and on famous problems of Mathematics.
+Pre-reqs: (21 credits of MATH.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Mathematics, Room: 203
+Instructor: PICCOLO, COSTANZA
+

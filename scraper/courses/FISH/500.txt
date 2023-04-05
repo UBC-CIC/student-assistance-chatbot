@@ -1,0 +1,9 @@
+Department: FISH
+Course Number: 500
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Aquatic, Room: Ecosystems
+Instructor: REYGONDEAU, GABRIEL
+

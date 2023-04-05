@@ -1,0 +1,10 @@
+Department: PATH
+Course Number: 501
+Section: 001
+Description: Microscopic anatomy of human tissues and organs in health and disease. Principles of histological analysis and applications in pathology.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: BUSH, JONATHAN
+

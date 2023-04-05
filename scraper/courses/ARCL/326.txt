@@ -1,0 +1,11 @@
+Department: ARCL
+Course Number: 326
+Section: 200
+Description: A comprehensive survey of primates, with emphasis on evolution, ecology, social organization, social behaviour, and field studies.
+Pre-reqs: ARCL 140.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B208
+Instructor: ROBERTSON, HEATHER
+

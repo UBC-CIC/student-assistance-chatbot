@@ -1,0 +1,30 @@
+Department: CENS
+Course Number: 202
+Section: 001
+Description: Great Works of Literature from Central, Eastern and Northern Europe (in English).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: D217
+Instructor: MALAKAJ, ERVIN
+
+Department: CENS
+Course Number: 202
+Section: 002
+Description: Great Works of Literature from Central, Eastern and Northern Europe (in English).
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: B215
+Instructor: HALLENSLEBEN, MARKUS
+
+Department: CENS
+Course Number: 202
+Section: 005
+Description: Great Works of Literature from Central, Eastern and Northern Europe (in English).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Earth, Room: and
+Instructor: PAILER, GABY
+

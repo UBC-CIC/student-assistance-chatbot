@@ -1,0 +1,18 @@
+Department: PSYT
+Course Number: 550B
+Section: 003
+Description: Reading and study in particular fields of study and research in psychiatry.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PSYT
+Course Number: 550B
+Section: 006
+Description: Reading and study in particular fields of study and research in psychiatry.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TAYLOR, STEVEN
+

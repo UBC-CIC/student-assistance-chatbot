@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 556
+Section: 001
+Pre-reqs: THTR 555.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 11:00, Building: Frederic, Room: Wood
+Instructor: POWERS, BRADLEY
+

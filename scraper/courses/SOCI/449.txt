@@ -1,0 +1,21 @@
+Department: SOCI
+Course Number: 449
+Section: 301
+Description: Requires the presentation of at least one research paper. Restricted to students in the Sociology Honours program.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri
+Instructor: ROBINSON, ORAL
+
+Department: SOCI
+Course Number: 449
+Section: 302
+Description: Requires the presentation of at least one research paper. Restricted to students in the Sociology Honours program.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ROBINSON, ORAL
+

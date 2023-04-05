@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 317A
+Section: 002
+Description: Linguistic Anthropology - LINGUISTIC ANTH
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: B213
+Instructor: GAMBARAGE, JOASH
+

@@ -1,0 +1,10 @@
+Department: DANI
+Course Number: 200
+Section: 001
+Description: Intermediate Danish I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B209
+Instructor: HAVEMOSE, ANN-KATHRINE
+

@@ -1,0 +1,20 @@
+Department: LARC
+Course Number: 542
+Section: 001
+Description: Analysis and planning of landscapes to communicate sustainability and to inform public awareness and design by exploring the relationship between aesthetics and sustainability.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 18:00, Building: Forest, Room: Sciences
+Instructor: CAMPBELL, DAVID CAMERON
+
+Department: LARC
+Course Number: 542
+Section: WL1
+Description: Analysis and planning of landscapes to communicate sustainability and to inform public awareness and design by exploring the relationship between aesthetics and sustainability.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed
+Instructor: CAMPBELL, DAVID CAMERON
+

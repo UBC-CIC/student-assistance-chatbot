@@ -1,0 +1,22 @@
+Department: SPPH
+Course Number: 604
+Section: 001
+Description: Statistical approaches for confounding, "missingness", and complex surveys, the development of analysis plans, the analysis and interpretation of real-world epidemiologic data, and the communication of findings.
+Pre-reqs: All of SPPH 400, SPPH 500, SPPH 502 and one of SPPH 503, SPPH 506, SPPH 519, SPPH 530.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: School, Room: of
+Instructor: KARIM, MOHAMMAD EHSANUL
+
+Department: SPPH
+Course Number: 604
+Section: T01
+Description: Statistical approaches for confounding, "missingness", and complex surveys, the development of analysis plans, the analysis and interpretation of real-world epidemiologic data, and the communication of findings.
+Pre-reqs: All of SPPH 400, SPPH 500, SPPH 502 and one of SPPH 503, SPPH 506, SPPH 519, SPPH 530.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: School, Room: of
+Instructor: TBA
+

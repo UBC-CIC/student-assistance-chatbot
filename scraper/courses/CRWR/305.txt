@@ -1,0 +1,32 @@
+Department: CRWR
+Course Number: 305
+Section: 002
+Description: An exploration of and practice in the writing of creative non-fiction, covering four of the more basic forms of this genre: memoir, profile, commentary, and exposition. Manuscript submission is not required for admission.
+Pre-reqs: CRWR 205.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CATRON, MANDY
+
+Department: CRWR
+Course Number: 305
+Section: LS1
+Description: An exploration of and practice in the writing of creative non-fiction, covering four of the more basic forms of this genre: memoir, profile, commentary, and exposition. Manuscript submission is not required for admission.
+Pre-reqs: CRWR 205.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Buchanan, Room: D205
+Instructor: TBA
+
+Department: CRWR
+Course Number: 305
+Section: LS2
+Description: An exploration of and practice in the writing of creative non-fiction, covering four of the more basic forms of this genre: memoir, profile, commentary, and exposition. Manuscript submission is not required for admission.
+Pre-reqs: CRWR 205.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Buchanan, Room: D307
+Instructor: TBA
+

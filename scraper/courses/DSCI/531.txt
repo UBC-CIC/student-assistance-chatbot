@@ -1,0 +1,33 @@
+Department: DSCI
+Course Number: 531
+Section: 001
+Description: Descriptive plots using statistical and programming software. Basics, mechanics, and principles of data visualization.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: Earth, Room: Sciences
+Instructor: OSTBLOM, JOEL
+
+Department: DSCI
+Course Number: 531
+Section: L01
+Description: Descriptive plots using statistical and programming software. Basics, mechanics, and principles of data visualization.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: OSTBLOM, JOEL
+
+Department: DSCI
+Course Number: 531
+Section: L02
+Description: Descriptive plots using statistical and programming software. Basics, mechanics, and principles of data visualization.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: OSTBLOM, JOEL
+

@@ -1,0 +1,11 @@
+Department: PSYC
+Course Number: 361
+Section: 002
+Description: Experimental analysis of hunger, thirst, exploratory and curiosity behaviour, maternal and reproductive behaviour, fixed action patterns, and complex processes involved in social motivation with emphasis on the biological basis of motivation.
+Pre-reqs: One of NSCI 201, PSYC 260, PSYC 270, PSYC 304, PSYC 360, PSYC 370.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: A102
+Instructor: WINSTANLEY, CATHARINE
+

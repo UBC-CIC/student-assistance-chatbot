@@ -1,0 +1,11 @@
+Department: PCTH
+Course Number: 402
+Section: 001
+Description: A series of demonstrated, group, and individual laboratory experiments designed to illustrate the concepts and hypotheses of pharmacology. The course is restricted to Honours students in Pharmacology, but may be taken by others with permission of the department head.
+Pre-reqs: PCTH 300.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 18:00, Building: Medical, Room: Sciences
+Instructor: HORNE, ANDREW
+

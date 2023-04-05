@@ -1,0 +1,62 @@
+Department: LATN
+Course Number: 102
+Section: 001
+Description: Classical Latin, Part II.
+Pre-reqs: LATN 101.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: DWYER, JUSTIN
+
+Department: LATN
+Course Number: 102
+Section: 002
+Description: Classical Latin, Part II.
+Pre-reqs: LATN 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D322
+Instructor: GORRIE, CHARMAINE
+
+Department: LATN
+Course Number: 102
+Section: 003
+Description: Classical Latin, Part II.
+Pre-reqs: LATN 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Neville, Room: Scarfe
+Instructor: LOUGHEED, CHRISTOPHER
+
+Department: LATN
+Course Number: 102
+Section: WL1
+Description: Classical Latin, Part II.
+Pre-reqs: LATN 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: LATN
+Course Number: 102
+Section: WL2
+Description: Classical Latin, Part II.
+Pre-reqs: LATN 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GORRIE, CHARMAINE
+
+Department: LATN
+Course Number: 102
+Section: WL3
+Description: Classical Latin, Part II.
+Pre-reqs: LATN 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

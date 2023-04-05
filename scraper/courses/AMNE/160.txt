@@ -1,0 +1,54 @@
+Department: AMNE
+Course Number: 160
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B211
+Instructor: YOO, PHILIP
+
+Department: AMNE
+Course Number: 160
+Section: L1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B211
+Instructor: TBA
+
+Department: AMNE
+Course Number: 160
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:00, End Time: 13:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: AMNE
+Course Number: 160
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B211
+Instructor: YOO, PHILIP
+
+Department: AMNE
+Course Number: 160
+Section: L1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B211
+Instructor: TBA
+
+Department: AMNE
+Course Number: 160
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:00, End Time: 13:00, Building: To, Room: Be
+Instructor: TBA
+

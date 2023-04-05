@@ -1,0 +1,317 @@
+Department: ELEC
+Course Number: 342
+Section: 101
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Hennings, Room: 202
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 342
+Section: L1B
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Tue*, End Time: 14:30, Building: 17:30, Room: MacLeod
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 342
+Section: L1C
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Fri*, End Time: 14:00, Building: 17:00, Room: MacLeod
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 342
+Section: L1D
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Thu*, End Time: 9:00, Building: 12:00, Room: MacLeod
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 342
+Section: L1E
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Tue*, End Time: 9:00, Building: 12:00, Room: MacLeod
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 342
+Section: LWB
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: LWC
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: LWD
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: T1A
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Hugh, Room: Dempster
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 342
+Section: T1W
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: 1W1
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: LWB
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: LWC
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: LWD
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: T1W
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: 201
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Forest, Room: Sciences
+
+Department: ELEC
+Course Number: 342
+Section: L2B
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Fri*, End Time: 14:00, Building: 17:00, Room: MacLeod
+
+Department: ELEC
+Course Number: 342
+Section: L2C
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Tue*, End Time: 11:00, Building: 14:00, Room: MacLeod
+
+Department: ELEC
+Course Number: 342
+Section: L2D
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Fri*, End Time: 8:00, Building: 11:00, Room: MacLeod
+
+Department: ELEC
+Course Number: 342
+Section: LW2
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: LW3
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: LW4
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: T2A
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Hugh, Room: Dempster
+
+Department: ELEC
+Course Number: 342
+Section: T2W
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: 2W1
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: LW1
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: LW2
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: LW3
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: LW4
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: T2W
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 342
+Section: L2A
+Description: Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors.
+Pre-reqs: All of PHYS 170, ELEC 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Wed*, End Time: 9:00, Building: 12:00, Room: MacLeod
+Instructor: TBA
+

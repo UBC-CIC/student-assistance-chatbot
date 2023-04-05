@@ -1,0 +1,33 @@
+Department: COMM
+Course Number: 307
+Section: 101
+Description: Evaluation of investment in real estate assets; proforma analysis, property and asset management, equity securitization, appraisal, and international real estate investment.
+Pre-reqs: One of COMM 295, ECON 201, ECON 301 and one of COMM 297, COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: SOMERVILLE, CRAIG TSURIEL
+
+Department: COMM
+Course Number: 307
+Section: 102
+Description: Evaluation of investment in real estate assets; proforma analysis, property and asset management, equity securitization, appraisal, and international real estate investment.
+Pre-reqs: One of COMM 295, ECON 201, ECON 301 and one of COMM 297, COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: SOMERVILLE, CRAIG TSURIEL
+
+Department: COMM
+Course Number: 307
+Section: 103
+Description: Evaluation of investment in real estate assets; proforma analysis, property and asset management, equity securitization, appraisal, and international real estate investment.
+Pre-reqs: One of COMM 295, ECON 201, ECON 301 and one of COMM 297, COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: SOMERVILLE, CRAIG TSURIEL
+

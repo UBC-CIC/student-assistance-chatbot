@@ -1,0 +1,60 @@
+Department: MTRL
+Course Number: 466
+Section: 101
+Description: Design projects to illustrate the full spectrum of design encountered in Metals and Materials Engineering including the design of components, structures and processes used to manufacture materials.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 8:00, End Time: 9:00, Building: Frank, Room: Forward
+Instructor: DREISINGER, DAVID
+
+Department: MTRL
+Course Number: 466
+Section: L1A
+Description: Design projects to illustrate the full spectrum of design encountered in Metals and Materials Engineering including the design of components, structures and processes used to manufacture materials.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Frank, Room: Forward
+Instructor: DREISINGER, DAVID
+
+Department: MTRL
+Course Number: 466
+Section: T1A
+Description: Design projects to illustrate the full spectrum of design encountered in Metals and Materials Engineering including the design of components, structures and processes used to manufacture materials.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 17:00, End Time: 20:00, Building: Frank, Room: Forward
+Instructor: DREISINGER, DAVID
+
+Department: MTRL
+Course Number: 466
+Section: 201
+Description: Design projects to illustrate the full spectrum of design encountered in Metals and Materials Engineering including the design of components, structures and processes used to manufacture materials.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 9:00, Building: Frank, Room: Forward
+Instructor: ABDIN, YASMINE
+
+Department: MTRL
+Course Number: 466
+Section: L2A
+Description: Design projects to illustrate the full spectrum of design encountered in Metals and Materials Engineering including the design of components, structures and processes used to manufacture materials.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:30, End Time: 18:30, Building: Orchard, Room: Commons
+Instructor: ABDIN, YASMINE
+
+Department: MTRL
+Course Number: 466
+Section: T2A
+Description: Design projects to illustrate the full spectrum of design encountered in Metals and Materials Engineering including the design of components, structures and processes used to manufacture materials.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 16:00, End Time: 19:00, Building: MacMillan, Room: 158
+Instructor: ABDIN, YASMINE
+

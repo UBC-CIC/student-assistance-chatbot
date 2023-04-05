@@ -1,0 +1,24 @@
+Department: CHBE
+Course Number: 251
+Section: 201
+Description: Fluid Mechanics. Momentum-transfer in fluids in laminar and turbulent flow; microscopic and macroscopic material; momentum and energy balances; rheology; dimensional analysis; flow in conduits; pumps; fluid metering.
+Pre-reqs: PHYS 170.
+Co-reqs: MATH 256.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: UBC, Room: Life
+Instructor: MARTINEZ, MARK
+
+Department: CHBE
+Course Number: 251
+Section: T2A
+Description: Fluid Mechanics. Momentum-transfer in fluids in laminar and turbulent flow; microscopic and macroscopic material; momentum and energy balances; rheology; dimensional analysis; flow in conduits; pumps; fluid metering.
+Pre-reqs: PHYS 170.
+Co-reqs: MATH 256.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Thu*, End Time: 12:00, Building: 14:00, Room: Chemistry
+Instructor: MARTINEZ, MARK
+

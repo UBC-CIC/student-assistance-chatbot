@@ -1,0 +1,50 @@
+Department: HIST
+Course Number: 100
+Section: 101
+Description: The discipline of history through the study of questions, sources, methods, and controversies. Includes case studies of key turning points in world history to examine what historians do and why it matters.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B315
+Instructor: FRENCH, WILLIAM EARL
+
+Department: HIST
+Course Number: 100
+Section: L1A
+Description: The discipline of history through the study of questions, sources, methods, and controversies. Includes case studies of key turning points in world history to examine what historians do and why it matters.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D209
+Instructor: FRENCH, WILLIAM EARL
+
+Department: HIST
+Course Number: 100
+Section: L1B
+Description: The discipline of history through the study of questions, sources, methods, and controversies. Includes case studies of key turning points in world history to examine what historians do and why it matters.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B319
+Instructor: FRENCH, WILLIAM EARL
+
+Department: HIST
+Course Number: 100
+Section: L1C
+Description: The discipline of history through the study of questions, sources, methods, and controversies. Includes case studies of key turning points in world history to examine what historians do and why it matters.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D319
+Instructor: FRENCH, WILLIAM EARL
+
+Department: HIST
+Course Number: 100
+Section: L1D
+Description: The discipline of history through the study of questions, sources, methods, and controversies. Includes case studies of key turning points in world history to examine what historians do and why it matters.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B316
+Instructor: FRENCH, WILLIAM EARL
+

@@ -1,0 +1,9 @@
+Department: LIBE
+Course Number: 477B
+Section: 63A
+Description: In-depth study of selected topics in library education.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MCNEE, DARCY
+

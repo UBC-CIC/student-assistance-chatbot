@@ -1,0 +1,20 @@
+Department: BUSI
+Course Number: 445
+Section: 001
+Description: Real estate development process from the project idea to the cursory feasibility stage. Steps in development planning, including analysis, design and evaluation. Evaluating development potential, land acquisition, and site planning.
+Pre-reqs: All of BUSI 330, BUSI 331.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BUSI
+Course Number: 445
+Section: 002
+Description: Real estate development process from the project idea to the cursory feasibility stage. Steps in development planning, including analysis, design and evaluation. Evaluating development potential, land acquisition, and site planning.
+Pre-reqs: All of BUSI 330, BUSI 331.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

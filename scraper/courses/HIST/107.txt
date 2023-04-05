@@ -1,0 +1,50 @@
+Department: HIST
+Course Number: 107
+Section: 201
+Description: An introduction to the experiences of Indigenous peoples and the nature of colonialisms around the world since 1500, and an introduction to historical practices and perspectives.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: B215
+Instructor: THRUSH, COLL
+
+Department: HIST
+Course Number: 107
+Section: L01
+Description: An introduction to the experiences of Indigenous peoples and the nature of colonialisms around the world since 1500, and an introduction to historical practices and perspectives.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Irving, Room: K
+Instructor: THRUSH, COLL
+
+Department: HIST
+Course Number: 107
+Section: L02
+Description: An introduction to the experiences of Indigenous peoples and the nature of colonialisms around the world since 1500, and an introduction to historical practices and perspectives.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D214
+Instructor: THRUSH, COLL
+
+Department: HIST
+Course Number: 107
+Section: L03
+Description: An introduction to the experiences of Indigenous peoples and the nature of colonialisms around the world since 1500, and an introduction to historical practices and perspectives.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D209
+Instructor: THRUSH, COLL
+
+Department: HIST
+Course Number: 107
+Section: L04
+Description: An introduction to the experiences of Indigenous peoples and the nature of colonialisms around the world since 1500, and an introduction to historical practices and perspectives.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D228
+Instructor: THRUSH, COLL
+

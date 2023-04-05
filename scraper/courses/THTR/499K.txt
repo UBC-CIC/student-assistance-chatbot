@@ -1,0 +1,11 @@
+Department: THTR
+Course Number: 499K
+Section: 001
+Description: Assigned projects in Theatre or Film design and production.
+Pre-reqs: THTR 399.
+Co-reqs: One of THTR 405, THTR 406, THTR 407, THTR 408, THTR 450, THTR 452, THTR 454, THTR 456, THTR 470.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: REIMER, CHRISTINE
+

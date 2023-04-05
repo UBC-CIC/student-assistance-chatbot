@@ -1,0 +1,10 @@
+Department: EPSE
+Course Number: 519
+Section: 074
+Pre-reqs: EPSE 521. (LING 320 is recommended.)
+Co-reqs: EPSE 521.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SQUIRES, BONITA
+

@@ -1,0 +1,18 @@
+Department: FNIS
+Course Number: 501F
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 14:00, Building: Buchanan, Room: D228
+Instructor: GAERTNER, DAVID
+
+Department: FNIS
+Course Number: 501F
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 14:00
+Instructor: GAERTNER, DAVID
+

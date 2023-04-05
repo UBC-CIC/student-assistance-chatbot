@@ -1,0 +1,8 @@
+Department: EDCP
+Course Number: 471E
+Section: 005
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

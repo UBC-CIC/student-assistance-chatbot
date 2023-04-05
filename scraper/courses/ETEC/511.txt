@@ -1,0 +1,80 @@
+Department: ETEC
+Course Number: 511
+Section: 64A
+Description: Foundations of Educational Technology
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SATOR, ANDREA
+
+Department: ETEC
+Course Number: 511
+Section: 64B
+Description: Foundations of Educational Technology
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MCCREADY, SAMUEL
+
+Department: ETEC
+Course Number: 511
+Section: 64C
+Description: Foundations of Educational Technology
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MCCREADY, SAMUEL
+
+Department: ETEC
+Course Number: 511
+Section: 65A
+Description: Foundations of Educational Technology
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: JENSON, JENNIFER
+
+Department: ETEC
+Course Number: 511
+Section: 65B
+Description: Foundations of Educational Technology
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MACFADYEN, LEAH
+
+Department: ETEC
+Course Number: 511
+Section: 65C
+Description: Foundations of Educational Technology
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SATOR, ANDREA
+
+Department: ETEC
+Course Number: 511
+Section: 65D
+Description: Foundations of Educational Technology
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SATOR, ANDREA
+
+Department: ETEC
+Course Number: 511
+Section: W4A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: ETEC
+Course Number: 511
+Section: W5A
+Description: Foundations of Educational Technology
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

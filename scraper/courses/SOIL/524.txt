@@ -1,0 +1,10 @@
+Department: SOIL
+Course Number: 524
+Section: 002
+Description: The theory, design and evaluation of instrumentation for biometeorological research.
+Pre-reqs: (Permission of the instructor is required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BLACK, THOMAS ANDREW
+

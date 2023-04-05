@@ -1,0 +1,11 @@
+Department: THTR
+Course Number: 440B
+Section: 001
+Description: An examination in depth of a selected area of theatre history, theory or practice. Topics will change from year to year. May be repeated for credit when topics differ.
+Pre-reqs: (6 credits of THTR at the 300-level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Orchard, Room: Commons
+Instructor: GAGNON, OLIVIA MICHIKO
+

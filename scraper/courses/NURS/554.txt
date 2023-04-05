@@ -1,0 +1,19 @@
+Department: NURS
+Course Number: 554
+Section: 002
+Pre-reqs: All of NURS 580, NURS 548, NURS 549.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: UBC, Room: Hospital
+Instructor: HOWARD, AMANDA
+
+Department: NURS
+Course Number: 554
+Section: 02W
+Pre-reqs: All of NURS 580, NURS 548, NURS 549.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: No
+Instructor: TBA
+

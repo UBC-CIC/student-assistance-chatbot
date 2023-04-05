@@ -1,0 +1,11 @@
+Department: ECON
+Course Number: 374
+Section: 001
+Description: Economic analysis applied to problems of land use. Rent theory. Land valuation. Land conservation. Techniques for assessing economic efficiency of land use. Effects of institutions and public policies on land use.
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: West, Room: Mall
+Instructor: NOACK, FREDERIK
+

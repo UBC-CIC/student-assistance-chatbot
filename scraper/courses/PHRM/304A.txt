@@ -1,0 +1,8 @@
+Department: PHRM
+Course Number: 304A
+Section: 001
+Description: Individual assignments involving library and scholarly inquiry related to pharmacy education.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

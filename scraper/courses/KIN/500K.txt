@@ -1,0 +1,9 @@
+Department: KIN
+Course Number: 500K
+Section: 001
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 19:00, Building: West, Room: Mall
+Instructor: MACDONALD, KERRY
+

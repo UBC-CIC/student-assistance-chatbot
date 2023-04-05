@@ -1,0 +1,18 @@
+Department: ETEC
+Course Number: 543
+Section: 64A
+Description: Understanding Learning Analytics
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MACFADYEN, LEAH
+
+Department: ETEC
+Course Number: 543
+Section: W4A
+Description: Understanding Learning Analytics
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 504B
+Section: 001
+Description: Topics in Canadian Politics - TOPS CDN POLITCS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00
+Instructor: DOBERSTEIN, CAREY
+

@@ -1,0 +1,27 @@
+Department: PLAN
+Course Number: 549C
+Section: 001
+Description: Master's Thesis - MASTERS THESIS
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 549C
+Section: 002
+Description: Master's Thesis - MASTERS THESIS
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 549C
+Section: 003
+Description: Master's Thesis - MASTERS THESIS
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,116 @@
+Department: ARCH
+Course Number: 540
+Section: 001
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Fri, Start Time: 13:30, End Time: 18:00
+Instructor: TBA
+
+Department: ARCH
+Course Number: 540
+Section: 004
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SATTERFIELD, BLAIR
+
+Department: ARCH
+Course Number: 540
+Section: 005
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: OH, YOUNG-TACK
+
+Department: ARCH
+Course Number: 540
+Section: 006
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HEMSWORTH, JOHN
+
+Department: ARCH
+Course Number: 540
+Section: 007
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Fri, Start Time: 13:30, End Time: 18:00
+Instructor: SHEN, SHIRLEY
+
+Department: ARCH
+Course Number: 540
+Section: 008
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: JALALI, GOLNOUSH
+
+Department: ARCH
+Course Number: 540
+Section: 009
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Fri, Start Time: 13:30, End Time: 18:00
+Instructor: TBA
+
+Department: ARCH
+Course Number: 540
+Section: 010
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Fri, Start Time: 13:30, End Time: 18:00, Building: To, Room: Be
+Instructor: SOULES, MATTHEW
+
+Department: ARCH
+Course Number: 540
+Section: 011
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Fri, Start Time: 13:30, End Time: 18:00
+Instructor: MACDONALD, CHRISTOPHER
+
+Department: ARCH
+Course Number: 540
+Section: 012
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Fri, Start Time: 13:30, End Time: 18:00
+Instructor: JALALI, GOLNOUSH
+
+Department: ARCH
+Course Number: 540
+Section: 013
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Fri, Start Time: 13:30, End Time: 18:00
+Instructor: GOODARZI, NILOUFAR
+
+Department: ARCH
+Course Number: 540
+Section: 101
+Pre-reqs: ARCH 521.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Fri, Start Time: 13:30, End Time: 18:00
+Instructor: GRADY, MATTHIEU
+

@@ -1,0 +1,87 @@
+Department: CHEM
+Course Number: 135
+Section: 2W1
+Description: An introduction to the principles and techniques of the chemistry laboratory.
+Pre-reqs: One of CHEM 111, CHEM 115, CHEM 121.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CHEM
+Course Number: 135
+Section: L02
+Description: An introduction to the principles and techniques of the chemistry laboratory.
+Pre-reqs: One of CHEM 111, CHEM 115, CHEM 121.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 135
+Section: L03
+Description: An introduction to the principles and techniques of the chemistry laboratory.
+Pre-reqs: One of CHEM 111, CHEM 115, CHEM 121.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 135
+Section: L05
+Description: An introduction to the principles and techniques of the chemistry laboratory.
+Pre-reqs: One of CHEM 111, CHEM 115, CHEM 121.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 135
+Section: L06
+Description: An introduction to the principles and techniques of the chemistry laboratory.
+Pre-reqs: One of CHEM 111, CHEM 115, CHEM 121.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 135
+Section: L07
+Description: An introduction to the principles and techniques of the chemistry laboratory.
+Pre-reqs: One of CHEM 111, CHEM 115, CHEM 121.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 135
+Section: L08
+Description: An introduction to the principles and techniques of the chemistry laboratory.
+Pre-reqs: One of CHEM 111, CHEM 115, CHEM 121.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 135
+Section: L09
+Description: An introduction to the principles and techniques of the chemistry laboratory.
+Pre-reqs: One of CHEM 111, CHEM 115, CHEM 121.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: THOMAS, ANNE
+

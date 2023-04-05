@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 489
+Section: 001
+Description: Students work with the Creative Destruction Lab team to help start-ups that are focused on science and emerging technology. Students support real companies with market analysis, customer development, financial analysis, and will see how investors make decisions.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 18:00, End Time: 21:00, Building: Henry, Room: Angus
+Instructor: KOPKE, DARRELL
+

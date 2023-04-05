@@ -1,0 +1,54 @@
+Department: ITAL
+Course Number: 102
+Section: 201
+Description: Continuation of foundational elements of Italian language. Development of listening, reading, speaking and writing skills in the context of everyday situations in the present and past tenses. Aligned with CEFR level A1 objectives.
+Pre-reqs: ITAL 101.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: FALANGOLA, CHIARA
+
+Department: ITAL
+Course Number: 102
+Section: 202
+Description: Continuation of foundational elements of Italian language. Development of listening, reading, speaking and writing skills in the context of everyday situations in the present and past tenses. Aligned with CEFR level A1 objectives.
+Pre-reqs: ITAL 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D204
+Instructor: LISCIO GORDON, MONICA
+
+Department: ITAL
+Course Number: 102
+Section: 203
+Description: Continuation of foundational elements of Italian language. Development of listening, reading, speaking and writing skills in the context of everyday situations in the present and past tenses. Aligned with CEFR level A1 objectives.
+Pre-reqs: ITAL 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D301
+Instructor: LISCIO GORDON, MONICA
+
+Department: ITAL
+Course Number: 102
+Section: 204
+Description: Continuation of foundational elements of Italian language. Development of listening, reading, speaking and writing skills in the context of everyday situations in the present and past tenses. Aligned with CEFR level A1 objectives.
+Pre-reqs: ITAL 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: D201
+Instructor: LISCIO GORDON, MONICA
+
+Department: ITAL
+Course Number: 102
+Section: W02
+Description: Continuation of foundational elements of Italian language. Development of listening, reading, speaking and writing skills in the context of everyday situations in the present and past tenses. Aligned with CEFR level A1 objectives.
+Pre-reqs: ITAL 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 8:00, End Time: 9:00, Building: To, Room: Be
+Instructor: TBA
+

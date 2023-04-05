@@ -1,0 +1,9 @@
+Department: ECED
+Course Number: 580C
+Section: 051
+Description: Investigation and report of a problem.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ANDERSON, ANN
+

@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 461
+Section: 101
+Description: Principles and practice of personal selling and leadership of teams: strategy, tactics, and implementation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 17:30, End Time: 19:00, Building: Henry, Room: Angus
+Instructor: MAHAFFY, DARREN
+

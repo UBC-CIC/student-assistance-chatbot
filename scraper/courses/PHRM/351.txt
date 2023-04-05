@@ -1,0 +1,10 @@
+Department: PHRM
+Course Number: 351
+Section: 001
+Description: Application of management and leadership principles and skills to pharmacy operations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Pharmaceutical, Room: Sciences
+Instructor: XIA, JANE MENG
+

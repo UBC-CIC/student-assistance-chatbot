@@ -1,0 +1,22 @@
+Department: CPSC
+Course Number: 416
+Section: 201
+Description: Concepts and design of distributed systems. Communication architecture and models for interprocess communication. Process migration, naming, distributed file systems, fault tolerance, and concurrency control.
+Pre-reqs: One of CPSC 313, CPEN 331 and one of CPSC 317, ELEC 331.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Hugh, Room: Dempster
+Instructor: MASON, WILLIAM
+
+Department: CPSC
+Course Number: 416
+Section: 2W1
+Description: Concepts and design of distributed systems. Communication architecture and models for interprocess communication. Process migration, naming, distributed file systems, fault tolerance, and concurrency control.
+Pre-reqs: One of CPSC 313, CPEN 331 and one of CPSC 317, ELEC 331.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: To, Room: Be
+Instructor: MASON, WILLIAM
+

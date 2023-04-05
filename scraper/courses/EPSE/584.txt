@@ -1,0 +1,17 @@
+Department: EPSE
+Course Number: 584
+Section: 074
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: PERRY, NANCY
+
+Department: EPSE
+Course Number: 584
+Section: W74
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

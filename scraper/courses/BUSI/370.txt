@@ -1,0 +1,44 @@
+Department: BUSI
+Course Number: 370
+Section: 101
+Description: Business Finance
+Pre-reqs: BUSI 293. (or equivalent.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 18:30, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: RAJWANI, AZIZ
+
+Department: BUSI
+Course Number: 370
+Section: 102
+Description: Business Finance
+Pre-reqs: BUSI 293. (or equivalent.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue, Start Time: 18:30, End Time: 21:30
+Instructor: AHRESTANI, PERSIS
+
+Department: BUSI
+Course Number: 370
+Section: 201
+Description: Business Finance
+Pre-reqs: BUSI 293. (or equivalent.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 18:30, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: RAJWANI, AZIZ
+
+Department: BUSI
+Course Number: 370
+Section: 202
+Description: An introduction to the basic principles of financial valuation and an examination of corporate enterprise decisions including working capital management; capital budgeting; capital structures and dividend policy.
+Pre-reqs: BUSI 293. (or equivalent.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 18:30, End Time: 21:30
+Instructor: AHRESTANI, PERSIS
+

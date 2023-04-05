@@ -1,0 +1,9 @@
+Department: EOSC
+Course Number: 528
+Section: 201
+Description: The origin and character of coal and associated strata. Petrology, chemistry and physical properties of coal. Sedimentology of peat, biochemical and geochemical stages of coalification and oxidation of coal. Use of organic matter as a geothermometer and inbasinal analysis. Structural analysis and character of coal deposits. Analytical methods applied to coal.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

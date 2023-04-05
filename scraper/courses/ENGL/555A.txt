@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 555A
+Section: 001
+Description: Studies in Literature and the Other Arts - STDIES LIT/ARTS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:30, End Time: 16:30, Building: Buchanan, Room: Tower
+Instructor: BURGESS, MIRANDA
+
+Department: ENGL
+Course Number: 555A
+Section: 01W
+Description: Studies in Literature and the Other Arts - STDIES LIT/ARTS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

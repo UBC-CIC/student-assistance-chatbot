@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 381C
+Section: BL1
+Description: By seminar and directed readings, certain topics of current interest are explored in depth.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: P., Room: A.
+Instructor: WEINBERGER, KATE REBECCA
+

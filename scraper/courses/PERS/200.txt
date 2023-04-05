@@ -1,0 +1,22 @@
+Department: PERS
+Course Number: 200
+Section: 001
+Description: Reading of simple texts with emphasis on reading and writing, conversation skills, grammar, and syntax.
+Pre-reqs: One of PERS 101, PERS 104.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: D323
+Instructor: DEHGHANI, HESSAM
+
+Department: PERS
+Course Number: 200
+Section: W01
+Description: Reading of simple texts with emphasis on reading and writing, conversation skills, grammar, and syntax.
+Pre-reqs: One of PERS 101, PERS 104.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:00
+Instructor: DEHGHANI, HESSAM
+

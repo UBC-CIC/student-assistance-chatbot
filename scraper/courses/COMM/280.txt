@@ -1,0 +1,60 @@
+Department: COMM
+Course Number: 280
+Section: 101
+Description: Entrepreneurial essentials from creating viable opportunities through building a founding team, strategic planning, going to market, fleshing out an organization and planning the future of the business.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: David, Room: Lam
+Instructor: POGUE, FRASER
+
+Department: COMM
+Course Number: 280
+Section: 102
+Description: Entrepreneurial essentials from creating viable opportunities through building a founding team, strategic planning, going to market, fleshing out an organization and planning the future of the business.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: David, Room: Lam
+Instructor: MILLER, DAVID
+
+Department: COMM
+Course Number: 280
+Section: 103
+Description: Entrepreneurial essentials from creating viable opportunities through building a founding team, strategic planning, going to market, fleshing out an organization and planning the future of the business.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: David, Room: Lam
+Instructor: MILLER, DAVID
+
+Department: COMM
+Course Number: 280
+Section: 201
+Description: Entrepreneurial essentials from creating viable opportunities through building a founding team, strategic planning, going to market, fleshing out an organization and planning the future of the business.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: David, Room: Lam
+Instructor: CLOUGH, DAVID
+
+Department: COMM
+Course Number: 280
+Section: 202
+Description: Entrepreneurial essentials from creating viable opportunities through building a founding team, strategic planning, going to market, fleshing out an organization and planning the future of the business.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: David, Room: Lam
+Instructor: CLOUGH, DAVID
+
+Department: COMM
+Course Number: 280
+Section: 203
+Description: Entrepreneurial essentials from creating viable opportunities through building a founding team, strategic planning, going to market, fleshing out an organization and planning the future of the business.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: David, Room: Lam
+Instructor: POGUE, FRASER
+

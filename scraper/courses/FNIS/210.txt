@@ -1,0 +1,20 @@
+Department: FNIS
+Course Number: 210
+Section: 001
+Pre-reqs: (FNIS 100 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: COULTHARD, GLEN
+
+Department: FNIS
+Course Number: 210
+Section: WL1
+Pre-reqs: (FNIS 100 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu
+Instructor: COULTHARD, GLEN
+

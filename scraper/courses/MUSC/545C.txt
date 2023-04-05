@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 545C
+Section: 001
+Description: Advanced study of conducting techniques and of representative major compositions and literature (later historical periods). Emphasis on knowledge and conducting skills that can communicate a thorough understanding of genre, idiom, form, texture, and style, in rehearsal and performance.
+Pre-reqs: (Restricted to M.Mus. Conducting (Choral, Orchestral, Wind) or permission of the instructor.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:30, End Time: 15:30
+Instructor: TAYLOR, ROBERT
+

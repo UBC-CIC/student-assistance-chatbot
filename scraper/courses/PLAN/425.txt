@@ -1,0 +1,38 @@
+Department: PLAN
+Course Number: 425
+Section: 001
+Description: Evolution, practice and future of urban planning and development, with emphasis on institutional arrangements, housing, transportation, urban design and development control. For third- and fourth-year undergraduate students interested in urban planning.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: YEO, SU-JAN
+
+Department: PLAN
+Course Number: 425
+Section: 002
+Description: Evolution, practice and future of urban planning and development, with emphasis on institutional arrangements, housing, transportation, urban design and development control. For third- and fourth-year undergraduate students interested in urban planning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Frederic, Room: Lasserre
+Instructor: YEO, SU-JAN
+
+Department: PLAN
+Course Number: 425
+Section: 0W1
+Description: Evolution, practice and future of urban planning and development, with emphasis on institutional arrangements, housing, transportation, urban design and development control. For third- and fourth-year undergraduate students interested in urban planning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: YEO, SU-JAN
+
+Department: PLAN
+Course Number: 425
+Section: 0W2
+Description: Evolution, practice and future of urban planning and development, with emphasis on institutional arrangements, housing, transportation, urban design and development control. For third- and fourth-year undergraduate students interested in urban planning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: YEO, SU-JAN
+

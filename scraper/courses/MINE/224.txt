@@ -1,0 +1,10 @@
+Department: MINE
+Course Number: 224
+Section: 101
+Description: Fundamentals of the rock and minerals formation. Exploring main techniques used to understand implications of mineralogy in mining and mineral processing.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu
+Instructor: WELCH, ANTONINA
+

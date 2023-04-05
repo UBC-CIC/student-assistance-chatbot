@@ -1,0 +1,11 @@
+Department: RUSS
+Course Number: 408A
+Section: 001
+Description: See Department for further details.
+Pre-reqs: RUSS 300.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: Tower
+Instructor: PRYKHODKO, DARIYA
+

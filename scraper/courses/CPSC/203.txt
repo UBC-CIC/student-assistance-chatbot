@@ -1,0 +1,66 @@
+Department: CPSC
+Course Number: 203
+Section: 201
+Description: Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221.
+Pre-reqs: One of CPSC 103, CPSC 110, EOSC 211, MATH 210, PHYS 210, COMM 337.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: UBC, Room: Life
+Instructor: HEEREN, CINDA
+
+Department: CPSC
+Course Number: 203
+Section: L2A
+Description: Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221.
+Pre-reqs: One of CPSC 103, CPSC 110, EOSC 211, MATH 210, PHYS 210, COMM 337.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 203
+Section: L2B
+Description: Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221.
+Pre-reqs: One of CPSC 103, CPSC 110, EOSC 211, MATH 210, PHYS 210, COMM 337.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 203
+Section: L2C
+Description: Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221.
+Pre-reqs: One of CPSC 103, CPSC 110, EOSC 211, MATH 210, PHYS 210, COMM 337.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 203
+Section: L2D
+Description: Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221.
+Pre-reqs: One of CPSC 103, CPSC 110, EOSC 211, MATH 210, PHYS 210, COMM 337.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 203
+Section: 2W1
+Description: Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221.
+Pre-reqs: One of CPSC 103, CPSC 110, EOSC 211, MATH 210, PHYS 210, COMM 337.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: To, Room: Be
+Instructor: HEEREN, CINDA
+

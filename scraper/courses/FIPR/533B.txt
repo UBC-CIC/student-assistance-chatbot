@@ -1,0 +1,10 @@
+Department: FIPR
+Course Number: 533B
+Section: 001
+Description: Problems in directing narrative film. Explores problems in scripting, performance, shot design, and editing through seminars, workshops with acting students, and production exercises.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: Theatre-Film, Room: Production
+Instructor: DRLJACA, IGOR
+

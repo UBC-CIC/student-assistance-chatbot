@@ -1,0 +1,18 @@
+Department: MANU
+Course Number: 400C
+Section: 201
+Pre-reqs: (TBD)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:30, End Time: 18:30, Building: Frank, Room: Forward
+
+Department: MANU
+Course Number: 400C
+Section: T2A
+Pre-reqs: (TBD)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,24 @@
+Department: WOOD
+Course Number: 491
+Section: 201
+Description: Introduction to pneumatic and hydraulic power, design and selection of waste recycling systems, boilers, energy generation and environmental legislation.
+Pre-reqs: All of WOOD 225, WOOD 464.
+Co-reqs: WOOD 499.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:00, End Time: 13:30, Building: Forest, Room: Sciences
+Instructor: TU, QINGSHI
+
+Department: WOOD
+Course Number: 491
+Section: L01
+Description: Introduction to pneumatic and hydraulic power, design and selection of waste recycling systems, boilers, energy generation and environmental legislation.
+Pre-reqs: All of WOOD 225, WOOD 464.
+Co-reqs: WOOD 499.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: TU, QINGSHI
+

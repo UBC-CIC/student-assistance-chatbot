@@ -1,0 +1,33 @@
+Department: CIVL
+Course Number: 231
+Section: 201
+Description: Deflection of beams and structural systems; analysis of determinate structures; combined axial load and bending; beam- columns; buckling (stability); biaxial stresses and strains; construction and testing of model structures.
+Pre-reqs: All of MATH 152, CIVL 203, CIVL 230.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: P., Room: A.
+Instructor: YANG, TSUNG-YUAN
+
+Department: CIVL
+Course Number: 231
+Section: T2A
+Description: Deflection of beams and structural systems; analysis of determinate structures; combined axial load and bending; beam- columns; buckling (stability); biaxial stresses and strains; construction and testing of model structures.
+Pre-reqs: All of MATH 152, CIVL 203, CIVL 230.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: YANG, TSUNG-YUAN
+
+Department: CIVL
+Course Number: 231
+Section: T2B
+Description: Deflection of beams and structural systems; analysis of determinate structures; combined axial load and bending; beam- columns; buckling (stability); biaxial stresses and strains; construction and testing of model structures.
+Pre-reqs: All of MATH 152, CIVL 203, CIVL 230.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: YANG, TSUNG-YUAN
+

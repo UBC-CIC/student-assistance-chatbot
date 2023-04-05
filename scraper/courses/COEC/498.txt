@@ -1,0 +1,9 @@
+Department: COEC
+Course Number: 498
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Iona, Room: Building
+Instructor: KIKKAWA, AYUMU
+

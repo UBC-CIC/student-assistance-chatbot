@@ -1,0 +1,22 @@
+Department: GRSJ
+Course Number: 326
+Section: 101
+Description: Investigation of historical and contemporary scholarship on the diversity of families, focusing on differences of gender, sexuality, race/ethnicity, and social class within and across national borders.
+Pre-reqs: All of GRSJ 101, GRSJ 102. (or third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: West, Room: Mall
+Instructor: BANDALI, ALIFA
+
+Department: GRSJ
+Course Number: 326
+Section: WL1
+Description: Investigation of historical and contemporary scholarship on the diversity of families, focusing on differences of gender, sexuality, race/ethnicity, and social class within and across national borders.
+Pre-reqs: All of GRSJ 101, GRSJ 102. (or third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: To, Room: Be
+Instructor: TBA
+

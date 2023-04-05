@@ -1,0 +1,11 @@
+Department: APBI
+Course Number: 410
+Section: 002
+Description: Application of physiology and pathology principles to health and disease of domestic animals.
+Pre-reqs: BIOL 201 and one of APBI 311, CAPS 301.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: MacMillan, Room: 158
+Instructor: CERRI, RONALDO
+

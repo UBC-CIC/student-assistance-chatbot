@@ -1,0 +1,19 @@
+Department: BIOC
+Course Number: 403
+Section: 00W
+Pre-reqs: BIOC 402. (A minimum standing of 65% is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BIOC
+Course Number: 403
+Section: 201
+Pre-reqs: BIOC 402. (A minimum standing of 65% is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: P., Room: A.
+Instructor: BROMME, DIETER
+

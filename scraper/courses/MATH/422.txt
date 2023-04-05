@@ -1,0 +1,11 @@
+Department: MATH
+Course Number: 422
+Section: 101
+Description: Fields and Galois Theory
+Pre-reqs: MATH 323.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: West, Room: Mall
+Instructor: RAMDORAI, SUJATHA
+

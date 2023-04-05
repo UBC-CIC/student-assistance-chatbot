@@ -1,0 +1,11 @@
+Department: PHIL
+Course Number: 432A
+Section: 001
+Description: Classic or contemporary works in ethical theory.
+Pre-reqs: (9 credits of PHIL at the 200-level or above; PHIL 230 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Irving, Room: K
+Instructor: AYARS, ALISABETH
+

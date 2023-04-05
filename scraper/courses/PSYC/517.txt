@@ -1,0 +1,9 @@
+Department: PSYC
+Course Number: 517
+Section: 001
+Description: Not offered each year; consult Department of Psychology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: WINSTANLEY, CATHARINE
+

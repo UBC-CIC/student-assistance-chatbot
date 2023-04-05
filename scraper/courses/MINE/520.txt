@@ -1,0 +1,9 @@
+Department: MINE
+Course Number: 520
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:00, End Time: 10:00, Building: Frank, Room: Forward
+Instructor: PAWLIK, MAREK
+

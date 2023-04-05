@@ -1,0 +1,27 @@
+Department: EPSE
+Course Number: 426
+Section: 63C
+Description: An introductory course focused on supporting the academic and social inclusion of students who are d/Deaf or hard of hearing in the general education setting.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KWON, EUN YOUNG
+
+Department: EPSE
+Course Number: 426
+Section: 63D
+Description: An introductory course focused on supporting the academic and social inclusion of students who are d/Deaf or hard of hearing in the general education setting.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: FINLEY, ALAYNA
+
+Department: EPSE
+Course Number: 426
+Section: W3C
+Description: An introductory course focused on supporting the academic and social inclusion of students who are d/Deaf or hard of hearing in the general education setting.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

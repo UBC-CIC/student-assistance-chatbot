@@ -1,0 +1,9 @@
+Department: EDCP
+Course Number: 542
+Section: 62A
+Description: Pedagogy as construed by teacher-researchers, curriculum thinkers, indigenous scholars, educational philosophers, and cultural theorists.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KOZAK, DONNA
+

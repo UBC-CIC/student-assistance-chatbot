@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 202A
+Section: 201
+Description: Problems and themes of medieval European History through the close study of the people and cultures that produced them.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu, Start Time: 10:00, End Time: 11:00, Building: Ponderosa, Room: Commons
+Instructor: EFFROS, BONNIE
+

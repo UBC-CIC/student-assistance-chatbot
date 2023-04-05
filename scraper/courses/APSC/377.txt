@@ -1,0 +1,21 @@
+Department: APSC
+Course Number: 377
+Section: 101
+Description: The evolution and contemporary significance of nuclear weapons and arms control policy and technology from the perspective of the physical and life sciences and the social sciences and humanities.
+Pre-reqs: (Third-year standing in B.A. or B.Sc. programs, or second-year standing in B.A.Sc. program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Irving, Room: K
+Instructor: SENS, ALLEN
+
+Department: APSC
+Course Number: 377
+Section: 1W1
+Description: The evolution and contemporary significance of nuclear weapons and arms control policy and technology from the perspective of the physical and life sciences and the social sciences and humanities.
+Pre-reqs: (Third-year standing in B.A. or B.Sc. programs, or second-year standing in B.A.Sc. program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

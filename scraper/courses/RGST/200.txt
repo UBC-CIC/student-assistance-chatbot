@@ -1,0 +1,10 @@
+Department: RGST
+Course Number: 200
+Section: 001
+Description: Study of religion through a comparative, cross-cultural, and interdisciplinary approach to humans' engagement with the sacred. Examines religions as complex systems that share certain fundamental common features.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: Mathematics, Room: 100
+Instructor: KINGSBURY, KATE
+

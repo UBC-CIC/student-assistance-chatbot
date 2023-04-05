@@ -1,0 +1,10 @@
+Department: CIVL
+Course Number: 541
+Section: 201
+Description: Analysis of density stratified flows with application to water quality problems in inland and coastal waters.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: Civil, Room: and
+Instructor: LAWRENCE, GREGORY
+

@@ -1,0 +1,9 @@
+Department: RMST
+Course Number: 305
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: B313
+Instructor: SANTOS, ALESSANDRA
+

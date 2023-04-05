@@ -1,0 +1,32 @@
+Department: CHEM
+Course Number: 404
+Section: 101
+Description: Application of numerical techniques to study chemical systems; molecular simulation. Prior computer programming experience is not required.
+Pre-reqs: Either (a) SCIE 001 or (b) one of CHEM 123, CHEM 130, CHEM 154 and one of PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 170 and one of MATH 101, MATH 103, MATH 105, MATH 121. (and Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 304
+Instructor: THACHUK, MARK
+
+Department: CHEM
+Course Number: 404
+Section: T01
+Description: Application of numerical techniques to study chemical systems; molecular simulation. Prior computer programming experience is not required.
+Pre-reqs: Either (a) SCIE 001 or (b) one of CHEM 123, CHEM 130, CHEM 154 and one of PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 170 and one of MATH 101, MATH 103, MATH 105, MATH 121. (and Third-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Hennings, Room: 304
+Instructor: THACHUK, MARK
+
+Department: CHEM
+Course Number: 404
+Section: 1W1
+Description: Application of numerical techniques to study chemical systems; molecular simulation. Prior computer programming experience is not required.
+Pre-reqs: Either (a) SCIE 001 or (b) one of CHEM 123, CHEM 130, CHEM 154 and one of PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 170 and one of MATH 101, MATH 103, MATH 105, MATH 121. (and Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

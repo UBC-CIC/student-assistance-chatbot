@@ -1,0 +1,20 @@
+Department: APSC
+Course Number: 541
+Section: 201
+Description: A broad introduction to the entrepreneurial process, for engineers who would like to form or grow a technology company, and those with a general interest in the field. Key factors of new venture creation are identified and evaluated.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 18:00, End Time: 21:30, Building: David, Room: Lam
+Instructor: COOPE, ROBIN
+
+Department: APSC
+Course Number: 541
+Section: 202
+Description: A broad introduction to the entrepreneurial process, for engineers who would like to form or grow a technology company, and those with a general interest in the field. Key factors of new venture creation are identified and evaluated.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 18:00, End Time: 21:30, Building: David, Room: Lam
+Instructor: COOPE, ROBIN
+

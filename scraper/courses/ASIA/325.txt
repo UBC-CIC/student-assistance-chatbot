@@ -1,0 +1,60 @@
+Department: ASIA
+Course Number: 325
+Section: 001
+Description: Hong Kong Cinema
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Buchanan, Room: D222
+Instructor: WU, HELENA
+
+Department: ASIA
+Course Number: 325
+Section: 002
+Description: A survey of the cinema of Hong Kong from the post-war period to the present. The influence of Hong Kong on global cinema, and the forces (artists, studios, audiences, etc.) that have given rise to filmmaking styles and genres perceived as "distinctively Hong Kong."
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:30, Building: Buchanan, Room: A202
+Instructor: WU, HELENA
+
+Department: ASIA
+Course Number: 325
+Section: 003
+Description: A survey of the cinema of Hong Kong from the post-war period to the present. The influence of Hong Kong on global cinema, and the forces (artists, studios, audiences, etc.) that have given rise to filmmaking styles and genres perceived as "distinctively Hong Kong."
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D219
+Instructor: YANG, RENREN
+
+Department: ASIA
+Course Number: 325
+Section: W01
+Description: A survey of the cinema of Hong Kong from the post-war period to the present. The influence of Hong Kong on global cinema, and the forces (artists, studios, audiences, etc.) that have given rise to filmmaking styles and genres perceived as "distinctively Hong Kong."
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00
+Instructor: WU, HELENA
+
+Department: ASIA
+Course Number: 325
+Section: W02
+Description: A survey of the cinema of Hong Kong from the post-war period to the present. The influence of Hong Kong on global cinema, and the forces (artists, studios, audiences, etc.) that have given rise to filmmaking styles and genres perceived as "distinctively Hong Kong."
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:30
+Instructor: WU, HELENA
+
+Department: ASIA
+Course Number: 325
+Section: W03
+Description: A survey of the cinema of Hong Kong from the post-war period to the present. The influence of Hong Kong on global cinema, and the forces (artists, studios, audiences, etc.) that have given rise to filmmaking styles and genres perceived as "distinctively Hong Kong."
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00
+Instructor: YANG, RENREN
+

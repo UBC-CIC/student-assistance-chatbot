@@ -1,0 +1,11 @@
+Department: MATH
+Course Number: 426
+Section: 101
+Description: Introduction to Topology
+Pre-reqs: A score of 68% or higher in all of MATH 321, MATH 322.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Geography, Room: 242
+Instructor: WILLIAMS, THOMAS
+

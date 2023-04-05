@@ -1,0 +1,40 @@
+Department: EOSC
+Course Number: 110
+Section: 101
+Description: The Solid Earth: A Dynamic Planet
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Earth, Room: Sciences
+Instructor: GILLEY, BRETT
+
+Department: EOSC
+Course Number: 110
+Section: 201
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Earth, Room: Sciences
+Instructor: GILLEY, BRETT
+
+Department: EOSC
+Course Number: 110
+Section: V01
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: MacMillan, Room: 160
+Instructor: PETE, SHANDIN
+
+Department: EOSC
+Course Number: 110
+Section: W-L
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

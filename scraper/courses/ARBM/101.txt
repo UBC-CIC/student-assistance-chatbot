@@ -1,0 +1,38 @@
+Department: ARBM
+Course Number: 101
+Section: 001
+Description: Basic listening, speaking, reading and writing skills in Modern Standard Arabic at the Beginning Elementary level.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:00, End Time: 11:00, Building: Buchanan, Room: B218
+Instructor: BASHEER, NESRINE
+
+Department: ARBM
+Course Number: 101
+Section: 002
+Description: Basic listening, speaking, reading and writing skills in Modern Standard Arabic at the Beginning Elementary level.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: BASHEER, NESRINE
+
+Department: ARBM
+Course Number: 101
+Section: W01
+Description: Basic listening, speaking, reading and writing skills in Modern Standard Arabic at the Beginning Elementary level.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:00, End Time: 11:00
+
+Department: ARBM
+Course Number: 101
+Section: W02
+Description: Basic listening, speaking, reading and writing skills in Modern Standard Arabic at the Beginning Elementary level.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 16:00
+

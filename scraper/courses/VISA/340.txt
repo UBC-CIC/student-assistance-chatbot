@@ -1,0 +1,44 @@
+Department: VISA
+Course Number: 340
+Section: 001
+Description: An investigation of approaches to photography and its meaning in the context of contemporary art. The term theme will be determined by the instructor. B and W, colour and digital production.
+Pre-reqs: One of VISA 240, VISA 241.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: PINA BALDOQUIN, MANUEL
+
+Department: VISA
+Course Number: 340
+Section: 002
+Description: An investigation of approaches to photography and its meaning in the context of contemporary art. The term theme will be determined by the instructor. B and W, colour and digital production.
+Pre-reqs: One of VISA 240, VISA 241.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: B.C., Room: Binnings
+Instructor: MITCHELL, KARICE
+
+Department: VISA
+Course Number: 340
+Section: 01W
+Description: An investigation of approaches to photography and its meaning in the context of contemporary art. The term theme will be determined by the instructor. B and W, colour and digital production.
+Pre-reqs: One of VISA 240, VISA 241.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00
+Instructor: TBA
+
+Department: VISA
+Course Number: 340
+Section: 02W
+Description: An investigation of approaches to photography and its meaning in the context of contemporary art. The term theme will be determined by the instructor. B and W, colour and digital production.
+Pre-reqs: One of VISA 240, VISA 241.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+

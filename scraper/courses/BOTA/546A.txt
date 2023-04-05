@@ -1,0 +1,24 @@
+Department: BOTA
+Course Number: 546A
+Section: 001
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BOTA
+Course Number: 546A
+Section: 101
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BOTA
+Course Number: 546A
+Section: 201
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

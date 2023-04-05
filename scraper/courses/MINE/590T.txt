@@ -1,0 +1,10 @@
+Department: MINE
+Course Number: 590T
+Section: 101
+Description: A special advanced course may be arranged upon the approval of the department head.
+Pre-reqs: (Permission of instructor is required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KLEIN, BERN(Coordinator)
+

@@ -1,0 +1,44 @@
+Department: COMM
+Course Number: 436
+Section: 101
+Description: The process of information systems development; modern techniques and tools for systems analysis and design.
+Pre-reqs: One of COMM 335, CPSC 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: David, Room: Lam
+Instructor: MAHDIZADEH, HARVEY
+
+Department: COMM
+Course Number: 436
+Section: 102
+Description: The process of information systems development; modern techniques and tools for systems analysis and design.
+Pre-reqs: One of COMM 335, CPSC 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: David, Room: Lam
+Instructor: HUI, JONATHAN
+
+Department: COMM
+Course Number: 436
+Section: 201
+Description: The process of information systems development; modern techniques and tools for systems analysis and design.
+Pre-reqs: One of COMM 335, CPSC 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: David, Room: Lam
+Instructor: HUI, JONATHAN
+
+Department: COMM
+Course Number: 436
+Section: 202
+Description: The process of information systems development; modern techniques and tools for systems analysis and design.
+Pre-reqs: One of COMM 335, CPSC 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: David, Room: Lam
+Instructor: MAHDIZADEH, HARVEY
+

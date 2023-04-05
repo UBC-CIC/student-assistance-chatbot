@@ -1,0 +1,20 @@
+Department: APSC
+Course Number: 496E
+Section: 001
+Description: Interdisciplinary Engineering Design Project - INTER ENG PRJECT
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 18:00, End Time: 21:00, Building: David, Room: Lam
+Instructor: LUSINA, PAUL
+
+Department: APSC
+Course Number: 496E
+Section: 002
+Description: Interdisciplinary Engineering Design Project - INTER ENG PRJECT
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 18:00, End Time: 21:00, Building: Henry, Room: Angus
+Instructor: MILLER, DAVID
+

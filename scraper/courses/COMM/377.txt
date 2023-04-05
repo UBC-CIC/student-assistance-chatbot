@@ -1,0 +1,20 @@
+Department: COMM
+Course Number: 377
+Section: 101
+Pre-reqs: All of COMM 370, COMM 371.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: LAZRAK, ALI
+
+Department: COMM
+Course Number: 377
+Section: 102
+Pre-reqs: All of COMM 370, COMM 371.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: LAZRAK, ALI
+

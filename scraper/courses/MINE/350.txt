@@ -1,0 +1,22 @@
+Department: MINE
+Course Number: 350
+Section: 101
+Description: Methods for determining the behaviour of large scale industrial systems and their application to the design and analysis of such systems.
+Pre-reqs: STAT 251.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:00, End Time: 13:00, Building: Frank, Room: Forward
+Instructor: DUNBAR, W SCOTT
+
+Department: MINE
+Course Number: 350
+Section: L1A
+Description: Methods for determining the behaviour of large scale industrial systems and their application to the design and analysis of such systems.
+Pre-reqs: STAT 251.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: DUNBAR, W SCOTT
+

@@ -1,0 +1,16 @@
+Department: LLED
+Course Number: 558
+Section: 62A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KENDRICK, MAUREEN
+
+Department: LLED
+Course Number: 558
+Section: 62B
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KENDRICK, MAUREEN
+

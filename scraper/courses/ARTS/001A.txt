@@ -1,0 +1,54 @@
+Department: ARTS
+Course Number: 001A
+Section: 00A
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 12:00, Building: Geography, Room: 200
+Instructor: CRAWFORD, ROBERT
+
+Department: ARTS
+Course Number: 001A
+Section: LA1
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 11:00, End Time: 12:30, Building: Irving, Room: K
+Instructor: PAUL, JOSEPH
+
+Department: ARTS
+Course Number: 001A
+Section: LA2
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:00, End Time: 11:30, Building: Buchanan, Room: B219
+Instructor: KONOVAL, MICHAEL BRANDON
+
+Department: ARTS
+Course Number: 001A
+Section: LA3
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: D306
+Instructor: SIDDIQUI, HASAN ZAHID
+
+Department: ARTS
+Course Number: 001A
+Section: LA4
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 13:00, End Time: 14:30, Building: Irving, Room: K
+Instructor: DIXON, JOY
+
+Department: ARTS
+Course Number: 001A
+Section: LA5
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: B319
+Instructor: CRAWFORD, ROBERT
+

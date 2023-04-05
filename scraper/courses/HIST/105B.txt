@@ -1,0 +1,70 @@
+Department: HIST
+Course Number: 105B
+Section: 201
+Description: Places issues and problems of current relevance such as disease, terrorism, drugs, or ethnic conflict in historical perspective. Each section will explore a single theme. Check with department for course offerings.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: A202
+Instructor: UNWALLA, PHEROZE
+
+Department: HIST
+Course Number: 105B
+Section: L1A
+Description: Places issues and problems of current relevance such as disease, terrorism, drugs, or ethnic conflict in historical perspective. Each section will explore a single theme. Check with department for course offerings.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Ponderosa, Room: Commons
+Instructor: UNWALLA, PHEROZE
+
+Department: HIST
+Course Number: 105B
+Section: L1B
+Description: Places issues and problems of current relevance such as disease, terrorism, drugs, or ethnic conflict in historical perspective. Each section will explore a single theme. Check with department for course offerings.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: UNWALLA, PHEROZE
+
+Department: HIST
+Course Number: 105B
+Section: L1C
+Description: Places issues and problems of current relevance such as disease, terrorism, drugs, or ethnic conflict in historical perspective. Each section will explore a single theme. Check with department for course offerings.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Ponderosa, Room: Commons
+Instructor: UNWALLA, PHEROZE
+
+Department: HIST
+Course Number: 105B
+Section: L1D
+Description: Places issues and problems of current relevance such as disease, terrorism, drugs, or ethnic conflict in historical perspective. Each section will explore a single theme. Check with department for course offerings.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Ponderosa, Room: Commons
+Instructor: UNWALLA, PHEROZE
+
+Department: HIST
+Course Number: 105B
+Section: L1E
+Description: Places issues and problems of current relevance such as disease, terrorism, drugs, or ethnic conflict in historical perspective. Each section will explore a single theme. Check with department for course offerings.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Ponderosa, Room: Commons
+Instructor: UNWALLA, PHEROZE
+
+Department: HIST
+Course Number: 105B
+Section: L1F
+Description: Places issues and problems of current relevance such as disease, terrorism, drugs, or ethnic conflict in historical perspective. Each section will explore a single theme. Check with department for course offerings.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Ponderosa, Room: Commons
+Instructor: UNWALLA, PHEROZE
+

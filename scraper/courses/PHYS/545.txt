@@ -1,0 +1,10 @@
+Department: PHYS
+Course Number: 545
+Section: 201
+Description: Restricted to graduate students in the M.Sc. (Medical Physics) Specialization.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:30, Building: Irving, Room: K
+Instructor: FORD, NANCY
+

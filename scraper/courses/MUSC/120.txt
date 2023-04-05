@@ -1,0 +1,20 @@
+Department: MUSC
+Course Number: 120
+Section: 001
+Description: History of Music I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Music, Room: 201
+Instructor: FISHER, ALEXANDER JOHN
+
+Department: MUSC
+Course Number: 120
+Section: 1W1
+Description: An overview of Western music from antiquity through the Middle Ages and Renaissance, providing a framework for understanding musical styles and practices, and examining selected compositions in greater analytical and historical depth.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: FISHER, ALEXANDER JOHN
+

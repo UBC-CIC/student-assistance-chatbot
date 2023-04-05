@@ -1,0 +1,24 @@
+Department: LAW
+Course Number: 379B
+Section: 001
+Description: Students work for an approved organization, supervised by a Faculty-approved mentor and a faculty member. Consult the Faculty for full eligibility criteria.
+Pre-reqs: LAW 476 and either (a) one of LAW 359, LAW 400 or (b) one of LAW 469, LAW 387, LAW 392, LAW 459. (or other studies that provide adequate preparation for the program.)
+Co-reqs: LAW 380.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 8:30, End Time: 11:30, Building: Allard, Room: Hall
+Instructor: BLACK, RYAN
+
+Department: LAW
+Course Number: 379B
+Section: 002
+Description: Students work for an approved organization, supervised by a Faculty-approved mentor and a faculty member. Consult the Faculty for full eligibility criteria.
+Pre-reqs: LAW 476 and either (a) one of LAW 359, LAW 400 or (b) one of LAW 469, LAW 387, LAW 392, LAW 459. (or other studies that provide adequate preparation for the program.)
+Co-reqs: LAW 380.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 8:30, End Time: 11:30, Building: Allard, Room: Hall
+Instructor: BLACK, RYAN
+

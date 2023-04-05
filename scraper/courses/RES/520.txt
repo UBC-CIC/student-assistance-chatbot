@@ -1,0 +1,10 @@
+Department: RES
+Course Number: 520
+Section: 101
+Description: Interdisciplinary science of climate change and its impacts; options for mitigation and adaptation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: KANDLIKAR, MILIND
+

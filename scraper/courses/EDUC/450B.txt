@@ -1,0 +1,178 @@
+Department: EDUC
+Course Number: 450B
+Section: 305
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: EDWARDS, ANTHONY
+
+Department: EDUC
+Course Number: 450B
+Section: 306
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: EDWARDS, ANTHONY
+
+Department: EDUC
+Course Number: 450B
+Section: 307
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: RYOO, ANNA
+
+Department: EDUC
+Course Number: 450B
+Section: 308
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: BIGLOO, FAY
+
+Department: EDUC
+Course Number: 450B
+Section: 309
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: LEE, KAREN
+
+Department: EDUC
+Course Number: 450B
+Section: 311
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: SCOTT, SANDRA
+
+Department: EDUC
+Course Number: 450B
+Section: 312
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: ADLER, JAMES DOUGLAS
+
+Department: EDUC
+Course Number: 450B
+Section: 320
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: GEORGE, NICOLE
+
+Department: EDUC
+Course Number: 450B
+Section: 640
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FLICK, DENISE
+
+Department: EDUC
+Course Number: 450B
+Section: 641
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FLICK, DENISE
+
+Department: EDUC
+Course Number: 450B
+Section: S14
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: MCGINLEY, STEPHEN
+
+Department: EDUC
+Course Number: 450B
+Section: S17
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: LEONE, HELENE
+
+Department: EDUC
+Course Number: 450B
+Section: S18
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: HEER, KALBIR
+
+Department: EDUC
+Course Number: 450B
+Section: S19
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: ANDERSON REDMOND, STEPHANIE
+
+Department: EDUC
+Course Number: 450B
+Section: S21
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: STEMO, CHRIS
+
+Department: EDUC
+Course Number: 450B
+Section: S22
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: NG, MAY
+
+Department: EDUC
+Course Number: 450B
+Section: S23
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: MACKIE, ANNE
+
+Department: EDUC
+Course Number: 450B
+Section: S24
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 12:00, End Time: 15:00, Building: Ponderosa, Room: Commons
+Instructor: MERALLI, FARAH
+

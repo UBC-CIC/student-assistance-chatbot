@@ -1,0 +1,22 @@
+Department: PHTH
+Course Number: 580
+Section: 001
+Description: Restricted to students in the Graduate Certificate in Orthopaedic Manipulative Physical Therapy program.
+Pre-reqs: RHSC 501.
+Co-reqs: PHTH 581.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KENNEDY, CAROLYN
+
+Department: PHTH
+Course Number: 580
+Section: 002
+Description: Restricted to students in the Graduate Certificate in Orthopaedic Manipulative Physical Therapy program.
+Pre-reqs: RHSC 501.
+Co-reqs: PHTH 581.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

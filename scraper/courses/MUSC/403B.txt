@@ -1,0 +1,19 @@
+Department: MUSC
+Course Number: 403B
+Section: 001
+Description: See School of Music schedule for description and prerequisites. Restricted to B. Mus. and B.A. in Music students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:30, Building: Music, Room: 475
+Instructor: METZER, DAVID
+
+Department: MUSC
+Course Number: 403B
+Section: 1W1
+Description: See School of Music schedule for description and prerequisites. Restricted to B. Mus. and B.A. in Music students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: METZER, DAVID
+

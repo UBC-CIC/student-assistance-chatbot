@@ -1,0 +1,11 @@
+Department: CIVL
+Course Number: 300
+Section: 201
+Description: Project delivery systems: traditional; construction management; turnkey; project management. Network planning methods. Activity planning, including construction methods selection. Estimating, bidding and bonding. Project control tools and procedures. Human resources, including equity considerations; occupational health and safety and quality control.
+Pre-reqs: CIVL 203.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: P., Room: A.
+Instructor: SWEI, OMAR
+

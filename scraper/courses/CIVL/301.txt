@@ -1,0 +1,22 @@
+Department: CIVL
+Course Number: 301
+Section: 101
+Description: Introduction to systems engineering; applications of decision-making, modelling, and programming, including probabilistic analyses and optimization, to civil engineering projects; review of numerical methods
+Pre-reqs: All of MATH 152, CIVL 201, STAT 251.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Chemical, Room: and
+Instructor: LENCE, BARBARA JEAN
+
+Department: CIVL
+Course Number: 301
+Section: T1A
+Description: Introduction to systems engineering; applications of decision-making, modelling, and programming, including probabilistic analyses and optimization, to civil engineering projects; review of numerical methods
+Pre-reqs: All of MATH 152, CIVL 201, STAT 251.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Pharmaceutical, Room: Sciences
+Instructor: LENCE, BARBARA JEAN
+

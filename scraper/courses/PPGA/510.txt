@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 510
+Section: 001
+Description: Analysis of professional practice in policy and global affairs, including potential alignment with personal values, strengths, and education. Development of essential professional skills including teamwork and project management.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: C., Room: K.
+Instructor: COOKSON, TARA
+

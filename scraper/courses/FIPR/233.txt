@@ -1,0 +1,10 @@
+Department: FIPR
+Course Number: 233
+Section: 001
+Description: Camera operation, lighting, sounds, and editing for film and media production.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Theatre-Film, Room: Production
+Instructor: PROST, BRENDAN
+

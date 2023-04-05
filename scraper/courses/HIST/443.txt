@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 443
+Section: 201
+Description: Children's history from settler days to the present. Topics include education, work and play, ideologies of childhood and adolescence, children's material and popular culture, and differences of identity based on region, class, race, and gender.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: MYERS, TAMARA
+

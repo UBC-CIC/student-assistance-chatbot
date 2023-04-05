@@ -1,0 +1,24 @@
+Department: CHBE
+Course Number: 220
+Section: 101
+Description: Introduction to Chemical and Biological Engineering profession and the physical sciences that form the founding principles of the discipline.
+Pre-reqs: All of CHEM 154, MATH 101.
+Co-reqs: CHBE 201.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Forest, Room: Sciences
+Instructor: POTVIN, GABRIEL
+
+Department: CHBE
+Course Number: 220
+Section: T1A
+Description: Introduction to Chemical and Biological Engineering profession and the physical sciences that form the founding principles of the discipline.
+Pre-reqs: All of CHEM 154, MATH 101.
+Co-reqs: CHBE 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Hugh, Room: Dempster
+Instructor: POTVIN, GABRIEL
+

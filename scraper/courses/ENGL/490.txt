@@ -1,0 +1,80 @@
+Department: ENGL
+Course Number: 490
+Section: 001
+Description: Literature Majors Seminar
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: D325
+Instructor: SAUNDERS, MARY ANN
+
+Department: ENGL
+Course Number: 490
+Section: 002
+Description: Literature Majors Seminar
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B304
+Instructor: DEER, GLENN
+
+Department: ENGL
+Course Number: 490
+Section: 003
+Description: Literature Majors Seminar
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Buchanan, Room: D306
+Instructor: GOODING, RICHARD
+
+Department: ENGL
+Course Number: 490
+Section: 004
+Description: Literature Majors Seminar
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Buchanan, Room: D325
+Instructor: MCNEILLY, KEVIN
+
+Department: ENGL
+Course Number: 490
+Section: 005
+Description: Literature Majors Seminar
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: B312
+Instructor: BADIR, PATRICIA
+
+Department: ENGL
+Course Number: 490
+Section: 006
+Description: Literature Majors Seminar
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: D315
+Instructor: POTTER, TIFFANY
+
+Department: ENGL
+Course Number: 490
+Section: 007
+Description: Literature Majors Seminar
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: B306
+Instructor: HODGSON, ELIZABETH
+
+Department: ENGL
+Course Number: 490
+Section: 008
+Description: Literature Majors Seminar
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: D306
+Instructor: MOTA, MIGUEL
+

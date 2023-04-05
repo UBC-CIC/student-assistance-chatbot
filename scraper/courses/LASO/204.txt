@@ -1,0 +1,147 @@
+Department: LASO
+Course Number: 204
+Section: 101
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 16:30, Building: Hennings, Room: 201
+Instructor: HARRIS, MARK
+
+Department: LASO
+Course Number: 204
+Section: L1A
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: D325
+Instructor: HARRIS, MARK
+
+Department: LASO
+Course Number: 204
+Section: L1B
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: A103
+
+Department: LASO
+Course Number: 204
+Section: L1C
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B219
+
+Department: LASO
+Course Number: 204
+Section: L1D
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Frederic, Room: Lasserre
+
+Department: LASO
+Course Number: 204
+Section: L1E
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: A104
+
+Department: LASO
+Course Number: 204
+Section: L1F
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: A202
+
+Department: LASO
+Course Number: 204
+Section: L1G
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: A101
+
+Department: LASO
+Course Number: 204
+Section: 102
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Aquatic, Room: Ecosystems
+Instructor: FITZPATRICK, BRENDA
+
+Department: LASO
+Course Number: 204
+Section: L2A
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: B312
+
+Department: LASO
+Course Number: 204
+Section: L2B
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B219
+
+Department: LASO
+Course Number: 204
+Section: L2C
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D219
+
+Department: LASO
+Course Number: 204
+Section: L2D
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B141
+
+Department: LASO
+Course Number: 204
+Section: L2E
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D219
+
+Department: LASO
+Course Number: 204
+Section: L2F
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D317
+
+Department: LASO
+Course Number: 204
+Section: L2G
+Description: Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: D315
+

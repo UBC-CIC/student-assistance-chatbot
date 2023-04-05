@@ -1,0 +1,10 @@
+Department: ECON
+Course Number: 495
+Section: 003
+Description: Reports and group discussions of selected topics for fourth-year Honours students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: D221
+Instructor: FORTIN, NICOLE
+

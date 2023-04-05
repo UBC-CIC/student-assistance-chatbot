@@ -1,0 +1,9 @@
+Department: MEDD
+Course Number: 431
+Section: 001
+Description: Core experiences across the breadth of medicine through clinical and academic learning opportunities in ambulatory, hospital-based, and rural/remote settings. Interactions with patients under supervision. Pass/Fail.
+Credits: 48
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

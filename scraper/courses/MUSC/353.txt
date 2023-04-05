@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 353
+Section: 001
+Description: History of Renaissance Music
+Pre-reqs: MUSC 120.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Music, Room: 475
+Instructor: FISHER, ALEXANDER JOHN
+

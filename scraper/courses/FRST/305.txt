@@ -1,0 +1,22 @@
+Department: FRST
+Course Number: 305
+Section: 101
+Description: Silviculture concepts and principles; stand dynamics; artificial and natural regeneration; cultural techniques for forest stand establishment and stand tending; silvicultural systems; decision making and development of prescriptions; connections to forest planning.
+Pre-reqs: FRST 201 and one of FRST 350, FRST 351, UFOR 400.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:00, End Time: 13:30, Building: Forest, Room: Sciences
+Instructor: MONTWE, DAVID
+
+Department: FRST
+Course Number: 305
+Section: L01
+Description: Silviculture concepts and principles; stand dynamics; artificial and natural regeneration; cultural techniques for forest stand establishment and stand tending; silvicultural systems; decision making and development of prescriptions; connections to forest planning.
+Pre-reqs: FRST 201 and one of FRST 350, FRST 351, UFOR 400.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:30, End Time: 14:30, Building: Forest, Room: Sciences
+Instructor: MONTWE, DAVID
+

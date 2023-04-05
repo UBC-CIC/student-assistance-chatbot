@@ -1,0 +1,11 @@
+Department: SPPH
+Course Number: 567
+Section: 002
+Description: Determinants of exposure, sampling strategies.
+Pre-reqs: (Introductory statistics.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: School, Room: of
+Instructor: COKER, ERIC
+

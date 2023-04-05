@@ -1,0 +1,40 @@
+Department: PHIL
+Course Number: 260A
+Section: 001
+Description: An introduction to the historical development, conceptual foundations, and cultural significance of contemporary science. Themes will vary from year to year.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue Thu, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B208
+Instructor: KOJEVNIKOV, ALEXEI
+
+Department: PHIL
+Course Number: 260A
+Section: L01
+Description: An introduction to the historical development, conceptual foundations, and cultural significance of contemporary science. Themes will vary from year to year.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B312
+Instructor: KOJEVNIKOV, ALEXEI
+
+Department: PHIL
+Course Number: 260A
+Section: L02
+Description: An introduction to the historical development, conceptual foundations, and cultural significance of contemporary science. Themes will vary from year to year.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B312
+Instructor: KOJEVNIKOV, ALEXEI
+
+Department: PHIL
+Course Number: 260A
+Section: L03
+Description: An introduction to the historical development, conceptual foundations, and cultural significance of contemporary science. Themes will vary from year to year.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B312
+Instructor: KOJEVNIKOV, ALEXEI
+

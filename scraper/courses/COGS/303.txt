@@ -1,0 +1,66 @@
+Department: COGS
+Course Number: 303
+Section: 001
+Description: Examination and comparison of the research methodologies of different disciplines relevant to cognitive systems.
+Pre-reqs: COGS 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: SAUNDERS, DANIEL
+
+Department: COGS
+Course Number: 303
+Section: 002
+Description: Examination and comparison of the research methodologies of different disciplines relevant to cognitive systems.
+Pre-reqs: COGS 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 14:00, Building: Mathematics, Room: 104
+Instructor: NEELS, GERRIT
+
+Department: COGS
+Course Number: 303
+Section: 003
+Description: Examination and comparison of the research methodologies of different disciplines relevant to cognitive systems.
+Pre-reqs: COGS 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: SAUNDERS, DANIEL
+
+Department: COGS
+Course Number: 303
+Section: WL1
+Description: Examination and comparison of the research methodologies of different disciplines relevant to cognitive systems.
+Pre-reqs: COGS 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:30
+Instructor: TBA
+
+Department: COGS
+Course Number: 303
+Section: WL2
+Description: Examination and comparison of the research methodologies of different disciplines relevant to cognitive systems.
+Pre-reqs: COGS 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 14:00
+Instructor: TBA
+
+Department: COGS
+Course Number: 303
+Section: WL3
+Description: Examination and comparison of the research methodologies of different disciplines relevant to cognitive systems.
+Pre-reqs: COGS 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:30
+Instructor: TBA
+

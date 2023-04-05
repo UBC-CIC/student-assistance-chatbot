@@ -1,0 +1,11 @@
+Department: LASO
+Course Number: 309
+Section: 201
+Description: Competing approaches to law and legal authority shaped by conflicts over historical and contemporary inequalities, including the exercise of and challenges to coercive law enforcement and claims made for legal redress.
+Pre-reqs: LASO 204.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: HARRIS, MARK
+

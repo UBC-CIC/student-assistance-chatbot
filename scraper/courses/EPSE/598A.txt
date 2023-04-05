@@ -1,0 +1,18 @@
+Department: EPSE
+Course Number: 598A
+Section: 075
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EPSE
+Course Number: 598A
+Section: 076
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

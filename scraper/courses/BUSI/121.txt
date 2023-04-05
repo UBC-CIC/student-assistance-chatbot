@@ -1,0 +1,20 @@
+Department: BUSI
+Course Number: 121
+Section: 001
+Description: Introduction to mathematics of real estate finance and statistical measures and methods and their application to practical real estate concepts.
+Pre-reqs: (Algebra 12 strongly recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BUSI
+Course Number: 121
+Section: 002
+Description: Introduction to mathematics of real estate finance and statistical measures and methods and their application to practical real estate concepts.
+Pre-reqs: (Algebra 12 strongly recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

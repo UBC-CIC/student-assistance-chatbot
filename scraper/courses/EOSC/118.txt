@@ -1,0 +1,18 @@
+Department: EOSC
+Course Number: 118
+Section: 99A
+Description: Earth's Treasures: Gold and Gems
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: EVANS, ROBERT JAMES
+
+Department: EOSC
+Course Number: 118
+Section: 99C
+Description: Earth's Treasures: Gold and Gems
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: EVANS, ROBERT JAMES
+

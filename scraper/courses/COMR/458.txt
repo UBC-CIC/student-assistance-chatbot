@@ -1,0 +1,41 @@
+Department: COMR
+Course Number: 458
+Section: 201
+Description: Use of accounting data in decision making by businesses; financial statement analysis; cash flows; cost behaviour patterns; methods of accounting for costs. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 294.
+Pre-reqs: One of COMM 293, COMM 457, COMR 457.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: Aquatic, Room: Ecosystems
+Instructor: CHONG, MARY
+
+Department: COMR
+Course Number: 458
+Section: T01
+Description: Use of accounting data in decision making by businesses; financial statement analysis; cash flows; cost behaviour patterns; methods of accounting for costs. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 294.
+Pre-reqs: One of COMM 293, COMM 457, COMR 457.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+
+Department: COMR
+Course Number: 458
+Section: T02
+Description: Use of accounting data in decision making by businesses; financial statement analysis; cash flows; cost behaviour patterns; methods of accounting for costs. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 294.
+Pre-reqs: One of COMM 293, COMM 457, COMR 457.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+
+Department: COMR
+Course Number: 458
+Section: T03
+Description: Use of accounting data in decision making by businesses; financial statement analysis; cash flows; cost behaviour patterns; methods of accounting for costs. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 294.
+Pre-reqs: One of COMM 293, COMM 457, COMR 457.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+

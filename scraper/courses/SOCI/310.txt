@@ -1,0 +1,44 @@
+Department: SOCI
+Course Number: 310
+Section: 101
+Description: Social organization of Canadian society: relationships between social institutions and social processes (e.g., economics, education, family, law, media, and politics); including issues of ancestry, ethnicity, gender, region, and social class.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Anthropology, Room: and
+Instructor: WILKES, RIMA
+
+Department: SOCI
+Course Number: 310
+Section: 102
+Description: Social organization of Canadian society: relationships between social institutions and social processes (e.g., economics, education, family, law, media, and politics); including issues of ancestry, ethnicity, gender, region, and social class.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Anthropology, Room: and
+Instructor: WILKES, RIMA
+
+Department: SOCI
+Course Number: 310
+Section: 202
+Description: Social organization of Canadian society: relationships between social institutions and social processes (e.g., economics, education, family, law, media, and politics); including issues of ancestry, ethnicity, gender, region, and social class.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: MacMillan, Room: 166
+Instructor: WAINER, RAFAEL
+
+Department: SOCI
+Course Number: 310
+Section: 208
+Description: Social organization of Canadian society: relationships between social institutions and social processes (e.g., economics, education, family, law, media, and politics); including issues of ancestry, ethnicity, gender, region, and social class.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 18:30, Building: Buchanan, Room: A203
+Instructor: MEADOWS, CRAIG
+

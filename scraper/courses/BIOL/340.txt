@@ -1,0 +1,55 @@
+Department: BIOL
+Course Number: 340
+Section: 201
+Description: Experiments using unicellular eukaryotes or prokaryotes with emphasis on techniques in microscopy and cell biology.
+Pre-reqs: (BIOL 200 and at least 3rd-year standing in Science and one of (a) BIOL 180 (or BIOL 140), or (b) SCIE 001, or (c) 3rd-year standing in Combined Honours Biophysics.)
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Food,, Room: Nutrition
+Instructor: MOUSSAVI, MARYAM
+
+Department: BIOL
+Course Number: 340
+Section: L12
+Description: Experiments using unicellular eukaryotes or prokaryotes with emphasis on techniques in microscopy and cell biology.
+Pre-reqs: (BIOL 200 and at least 3rd-year standing in Science and one of (a) BIOL 180 (or BIOL 140), or (b) SCIE 001, or (c) 3rd-year standing in Combined Honours Biophysics.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 340
+Section: L13
+Description: Experiments using unicellular eukaryotes or prokaryotes with emphasis on techniques in microscopy and cell biology.
+Pre-reqs: (BIOL 200 and at least 3rd-year standing in Science and one of (a) BIOL 180 (or BIOL 140), or (b) SCIE 001, or (c) 3rd-year standing in Combined Honours Biophysics.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 340
+Section: L14
+Description: Experiments using unicellular eukaryotes or prokaryotes with emphasis on techniques in microscopy and cell biology.
+Pre-reqs: (BIOL 200 and at least 3rd-year standing in Science and one of (a) BIOL 180 (or BIOL 140), or (b) SCIE 001, or (c) 3rd-year standing in Combined Honours Biophysics.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 340
+Section: 2W1
+Description: Experiments using unicellular eukaryotes or prokaryotes with emphasis on techniques in microscopy and cell biology.
+Pre-reqs: (BIOL 200 and at least 3rd-year standing in Science and one of (a) BIOL 180 (or BIOL 140), or (b) SCIE 001, or (c) 3rd-year standing in Combined Honours Biophysics.)
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: To, Room: Be
+Instructor: TBA
+

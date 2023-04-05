@@ -1,0 +1,20 @@
+Department: ECON
+Course Number: 514
+Section: 001
+Description: Information and Incentives
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: Iona, Room: Building
+Instructor: PETERS, MICHAEL
+
+Department: ECON
+Course Number: 514
+Section: WL1
+Description: Information and Incentives
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 8:30, End Time: 10:00
+Instructor: TBA
+

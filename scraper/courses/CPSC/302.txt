@@ -1,0 +1,22 @@
+Department: CPSC
+Course Number: 302
+Section: 101
+Description: Numerical techniques for basic mathematical processes involving no discretization, and their analysis. Solution of linear systems, including analysis of round-off errors; norms and condition number; introduction to iterative techniques in linear algebra, including eigenvalue problems; solution to nonlinear equations.
+Pre-reqs: One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Friedman, Room: Building
+Instructor: GREIF, CHEN
+
+Department: CPSC
+Course Number: 302
+Section: 1W1
+Description: Numerical techniques for basic mathematical processes involving no discretization, and their analysis. Solution of linear systems, including analysis of round-off errors; norms and condition number; introduction to iterative techniques in linear algebra, including eigenvalue problems; solution to nonlinear equations.
+Pre-reqs: One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: To, Room: Be
+Instructor: GREIF, CHEN
+

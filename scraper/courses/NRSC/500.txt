@@ -1,0 +1,10 @@
+Department: NRSC
+Course Number: 500
+Section: 001
+Description: Comprehensive multidisciplinary course with lectures, seminars, and laboratory demonstrations encompassing molecular, cellular, systemic, and behavioural approaches to the study of nervous systems. Emphasis is on the physiology, pharmacology, and biochemistry of excitable cells and their synaptic interactions. Permission of Neuroscience Chair is required. Normally to be taken in conjunction with NRSC 501.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 8:30, End Time: 10:30
+Instructor: CIERNIA, ANNIE
+

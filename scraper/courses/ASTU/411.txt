@@ -1,0 +1,20 @@
+Department: ASTU
+Course Number: 411
+Section: 101
+Description: Optional extra work placement. Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term report.
+Pre-reqs: ASTU 410.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ASTU
+Course Number: 411
+Section: 201
+Description: Optional extra work placement. Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term report.
+Pre-reqs: ASTU 410.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

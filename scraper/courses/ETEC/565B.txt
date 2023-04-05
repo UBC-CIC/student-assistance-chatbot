@@ -1,0 +1,18 @@
+Department: ETEC
+Course Number: 565B
+Section: 64A
+Description: Special Course in Subject Matter Field - SC SUB MAT FIELD
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: JENSON, JENNIFER
+
+Department: ETEC
+Course Number: 565B
+Section: W4A
+Description: Special Course in Subject Matter Field - SC SUB MAT FIELD
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

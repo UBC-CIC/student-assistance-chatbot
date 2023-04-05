@@ -1,0 +1,30 @@
+Department: SOWK
+Course Number: 315
+Section: 001
+Description: Practicum I
+Pre-reqs: SOWK 310.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: COULOMBE, ANTOINE
+
+Department: SOWK
+Course Number: 315
+Section: 002
+Description: Practicum I
+Pre-reqs: SOWK 310.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: PALOMINO, OLIVIA
+
+Department: SOWK
+Course Number: 315
+Section: 003
+Description: Practicum I
+Pre-reqs: SOWK 310.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MONTGOMERY, HARPELL
+

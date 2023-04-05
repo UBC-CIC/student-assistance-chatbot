@@ -1,0 +1,10 @@
+Department: FIPR
+Course Number: 338
+Section: 001
+Description: An introduction to the technique and aesthetics of creating production and post-production sound for film and media.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 18:00, Building: Theatre-Film, Room: Production
+Instructor: BREMNER-THOMPSON, CAISHA LEA
+

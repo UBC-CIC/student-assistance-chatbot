@@ -1,0 +1,298 @@
+Department: LFS
+Course Number: 250
+Section: 001
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: 6
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00
+Instructor: MITCHELL, MATTHEW
+
+Department: LFS
+Course Number: 250
+Section: L01
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 15:30
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T01
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: West, Room: Mall
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T02
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: West, Room: Mall
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T03
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: West, Room: Mall
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T04
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T05
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T06
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: West, Room: Mall
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T07
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T08
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T09
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T10
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T11
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T12
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: 002
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: 6
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: L01
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 15:30
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T01
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: West, Room: Mall
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T02
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: West, Room: Mall
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T03
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: West, Room: Mall
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T04
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T05
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T06
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: West, Room: Mall
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T07
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T08
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T09
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T10
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T11
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: T12
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:00
+Instructor: LEWIS, DELISA
+
+Department: LFS
+Course Number: 250
+Section: 0W1
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: LFS
+Course Number: 250
+Section: 0W2
+Description: Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

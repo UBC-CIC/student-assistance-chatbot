@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 374
+Section: 001
+Description: The municipality as a legal entity; its creation, operation and powers; by-laws and their validity; contractual liability; judicial review; business regulation; expropriation and land use control.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:30, Building: Allard, Room: Hall
+Instructor: MANHAS, SUKHBIR
+

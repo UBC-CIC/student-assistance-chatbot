@@ -1,0 +1,218 @@
+Department: FNH
+Course Number: 330
+Section: 001
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 16:00, End Time: 17:00, Building: Chemical, Room: and
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L1A
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 256
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L1B
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 258
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L1C
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 260
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L1D
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 160
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L1E
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 160
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L1F
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 258
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L1G
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 260
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L1H
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 256
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: 002
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:00, End Time: 17:00, Building: Earth, Room: Sciences
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L2A
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 260
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L2B
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 258
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L2C
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 160
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L2D
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 256
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L2E
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 260
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L2F
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 258
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L2G
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 160
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: L2H
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: MacMillan, Room: 256
+Instructor: MARTINIUK, JONATHAN
+
+Department: FNH
+Course Number: 330
+Section: 0W1
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FNH
+Course Number: 330
+Section: 0W2
+Description: Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation.
+Pre-reqs: (Third-year standing or higher.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

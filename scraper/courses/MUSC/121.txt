@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 121
+Section: 001
+Description: The development of Western music from circa 1600 to circa 1800.
+Pre-reqs: MUSC 120. (Or permission of the instructor)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Music, Room: 201
+Instructor: LAW, SIN YAN HEDY
+

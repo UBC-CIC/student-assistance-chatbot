@@ -1,0 +1,10 @@
+Department: MECH
+Course Number: 431
+Section: 201
+Description: Discounted cash flows. Sources of funds, cost of capital. Effects of depreciation, taxes, inflation. Evaluation and comparison of economic models for engineering projects. Replacement decisions. Public project analysis. Risk analysis. Project control, inventory analysis, simulation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: Civil, Room: and
+Instructor: WINKELMAN, PAUL
+

@@ -1,0 +1,20 @@
+Department: PHYS
+Course Number: 498
+Section: 610
+Description: Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Normally taken during the fall term of the fourth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Physics.
+Pre-reqs: PHYS 399.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 498
+Section: 612
+Description: Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Normally taken during the fall term of the fourth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Physics.
+Pre-reqs: PHYS 399.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

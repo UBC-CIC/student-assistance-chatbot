@@ -1,0 +1,10 @@
+Department: GERM
+Course Number: 531B
+Section: 001
+Description: Special Topics - SPECIAL TOPICS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: D301
+Instructor: GRAMLING, DAVID
+

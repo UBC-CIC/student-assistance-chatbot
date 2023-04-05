@@ -1,0 +1,50 @@
+Department: DES
+Course Number: 211
+Section: 002
+Pre-reqs: One of DES 110, VISA 180.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:30, Building: Hebb, Room: 114
+Instructor: BAECHLER, RILEY
+
+Department: DES
+Course Number: 211
+Section: L01
+Pre-reqs: One of DES 110, VISA 180.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:30, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: BAECHLER, RILEY
+
+Department: DES
+Course Number: 211
+Section: L02
+Pre-reqs: One of DES 110, VISA 180.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:30, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: BAECHLER, RILEY
+
+Department: DES
+Course Number: 211
+Section: L03
+Pre-reqs: One of DES 110, VISA 180.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:30, Building: Orchard, Room: Commons
+Instructor: BAECHLER, RILEY
+
+Department: DES
+Course Number: 211
+Section: L04
+Pre-reqs: One of DES 110, VISA 180.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:30, Building: Orchard, Room: Commons
+Instructor: BAECHLER, RILEY
+

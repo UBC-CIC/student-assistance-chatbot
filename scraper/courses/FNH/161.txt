@@ -1,0 +1,21 @@
+Department: FNH
+Course Number: 161
+Section: 201
+Description: Basic principles in human physiology, including function of the cardiovascular, immune, respiratory, urinary and reproductive systems, integration across systems, maintenance of homeostasis, and application to human nutrition.
+Pre-reqs: FNH 160. (FNH 160 and 161 together are credit-excluded with BIOL 153 and 155.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Aquatic, Room: Ecosystems
+Instructor: NOVAK, ELIZABETH
+
+Department: FNH
+Course Number: 161
+Section: 2W1
+Description: Basic principles in human physiology, including function of the cardiovascular, immune, respiratory, urinary and reproductive systems, integration across systems, maintenance of homeostasis, and application to human nutrition.
+Pre-reqs: FNH 160. (FNH 160 and 161 together are credit-excluded with BIOL 153 and 155.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

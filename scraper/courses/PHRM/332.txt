@@ -1,0 +1,8 @@
+Department: PHRM
+Course Number: 332
+Section: WL1
+Description: Principles and methods of collecting epidemiological and economic evidence used to assess the value of pharmaceuticals and services provided by pharmacists.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

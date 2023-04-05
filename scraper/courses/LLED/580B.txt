@@ -1,0 +1,9 @@
+Department: LLED
+Course Number: 580B
+Section: 062
+Description: Investigation and report of a problem.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

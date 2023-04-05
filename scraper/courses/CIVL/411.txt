@@ -1,0 +1,11 @@
+Department: CIVL
+Course Number: 411
+Section: 201
+Description: Aspects of Geotechnical Engineering. Design considerations illustrated by case histories pertinent to BC. Topics include: site investigation, terrain analyses, in situ testing, groundwater problems, deep foundations, tie back walls and bracing, tailings impoundments, Northern construction, ground ice, dikes and dams engineering. Many case histories presented in part by prominent consulting engineers in BC.
+Pre-reqs: CIVL 311.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Civil, Room: and
+Instructor: NAZHAT, YAHYA
+

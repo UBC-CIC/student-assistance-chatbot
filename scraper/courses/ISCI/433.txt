@@ -1,0 +1,21 @@
+Department: ISCI
+Course Number: 433
+Section: 101
+Description: Theoretical and practical consideration of ethics in the practice, reporting, public impact and accountability of science.
+Pre-reqs: (Third-year standing in any faculty.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: Leonard, Room: S.
+Instructor: AHMAD, RANA
+
+Department: ISCI
+Course Number: 433
+Section: 1W1
+Description: Theoretical and practical consideration of ethics in the practice, reporting, public impact and accountability of science.
+Pre-reqs: (Third-year standing in any faculty.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

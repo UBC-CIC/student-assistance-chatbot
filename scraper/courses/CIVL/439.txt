@@ -1,0 +1,10 @@
+Department: CIVL
+Course Number: 439
+Section: 201
+Pre-reqs: One of CIVL 331, WOOD 386.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Chemistry, Room: D200
+Instructor: LOSS, CRISTIANO
+

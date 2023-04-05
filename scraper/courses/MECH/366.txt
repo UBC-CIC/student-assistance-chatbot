@@ -1,0 +1,54 @@
+Department: MECH
+Course Number: 366
+Section: 101
+Description: Modelling of mechanical, electrical, thermal, fluid elements and mixed mechatronic systems. Signal processing, signal conditioning. Sensors, data acquisition systems, actuators.
+Pre-reqs: All of MECH 220, MECH 223, MECH 224, MECH 225.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 18:00, Building: P., Room: A.
+Instructor: SIELMANN, CHRISTOPH
+
+Department: MECH
+Course Number: 366
+Section: L1A
+Description: Modelling of mechanical, electrical, thermal, fluid elements and mixed mechatronic systems. Signal processing, signal conditioning. Sensors, data acquisition systems, actuators.
+Pre-reqs: All of MECH 220, MECH 223, MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 18:00
+Instructor: SIELMANN, CHRISTOPH
+
+Department: MECH
+Course Number: 366
+Section: L1B
+Description: Modelling of mechanical, electrical, thermal, fluid elements and mixed mechatronic systems. Signal processing, signal conditioning. Sensors, data acquisition systems, actuators.
+Pre-reqs: All of MECH 220, MECH 223, MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 18:00, Building: Forest, Room: Sciences
+Instructor: SIELMANN, CHRISTOPH
+
+Department: MECH
+Course Number: 366
+Section: T1B
+Description: Modelling of mechanical, electrical, thermal, fluid elements and mixed mechatronic systems. Signal processing, signal conditioning. Sensors, data acquisition systems, actuators.
+Pre-reqs: All of MECH 220, MECH 223, MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: SIELMANN, CHRISTOPH
+
+Department: MECH
+Course Number: 366
+Section: WL1
+Description: Modelling of mechanical, electrical, thermal, fluid elements and mixed mechatronic systems. Signal processing, signal conditioning. Sensors, data acquisition systems, actuators.
+Pre-reqs: All of MECH 220, MECH 223, MECH 224, MECH 225.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

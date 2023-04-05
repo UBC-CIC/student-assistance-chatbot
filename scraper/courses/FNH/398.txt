@@ -1,0 +1,32 @@
+Department: FNH
+Course Number: 398
+Section: 001
+Description: Process of research; principles and processes in utilizing research. Restricted to students in majors in the FNH program.
+Pre-reqs: FNH 250 and either (a) LFS 252 or (b) BIOL 300 or (c) EPSE 482 or (d) FRST 231 or (e) STAT 200.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: West, Room: Mall
+Instructor: JESSRI, MAHSA
+
+Department: FNH
+Course Number: 398
+Section: T01
+Description: Process of research; principles and processes in utilizing research. Restricted to students in majors in the FNH program.
+Pre-reqs: FNH 250 and either (a) LFS 252 or (b) BIOL 300 or (c) EPSE 482 or (d) FRST 231 or (e) STAT 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 18:30, Building: Neville, Room: Scarfe
+Instructor: JESSRI, MAHSA
+
+Department: FNH
+Course Number: 398
+Section: 0W1
+Description: Process of research; principles and processes in utilizing research. Restricted to students in majors in the FNH program.
+Pre-reqs: FNH 250 and either (a) LFS 252 or (b) BIOL 300 or (c) EPSE 482 or (d) FRST 231 or (e) STAT 200.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

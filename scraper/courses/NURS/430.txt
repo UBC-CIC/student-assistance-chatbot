@@ -1,0 +1,12 @@
+Department: NURS
+Course Number: 430
+Section: 002
+Description: Consolidation of fundamental theories, concepts, evidence, and competencies pertaining to nursing practice across the life-span and care context.
+Pre-reqs: All of NURS 300, NURS 301, NURS 303, NURS 310, NURS 321, NURS 322, NURS 323, NURS 330, NURS 331, NURS 345, NURS 346, NURS 350, NURS 351, NURS 352, NURS 353, NURS 354, NURS 360, NURS 361, NURS 362, NURS 363, NURS 365, NURS 366, NURS 401.
+Co-reqs: All of NURS 344, NURS 402.
+Credits: 2
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 16:00
+Instructor: ADHAMI, NASSIM
+

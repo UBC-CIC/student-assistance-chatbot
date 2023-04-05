@@ -1,0 +1,18 @@
+Department: ARTC
+Course Number: 450
+Section: 01F
+Pre-reqs: ARTC 445.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARTC
+Course Number: 450
+Section: 01W
+Pre-reqs: ARTC 445.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

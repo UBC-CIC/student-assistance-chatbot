@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 399M
+Section: 001
+Description: Assigned projects in theatre design and production.
+Co-reqs: One of THTR 305, THTR 306, THTR 307, THTR 308, THTR 350, THTR 352, THTR 354, THTR 356.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MCLAUGHLIN, INGA
+

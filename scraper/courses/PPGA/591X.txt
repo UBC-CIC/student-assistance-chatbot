@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 591X
+Section: 001
+Description: Special Topics in Public Policy - GB ECN & ENV GOV
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: TIBERGHIEN, YVES
+

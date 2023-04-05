@@ -1,0 +1,20 @@
+Department: MECH
+Course Number: 503
+Section: 201
+Description: Stress and strain in three dimensions, fundamental field equations of linear elasticity; equilibrium, compatibility, Hooke's law; Papkovitch-Neuber solution, plane stress and plane strain; torsion, torsion of thin-walled members with warping restraint; plate theory.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: P., Room: A.
+Instructor: PONGA DE LA TORRE, MAURICIO
+
+Department: MECH
+Course Number: 503
+Section: T2A
+Description: Stress and strain in three dimensions, fundamental field equations of linear elasticity; equilibrium, compatibility, Hooke's law; Papkovitch-Neuber solution, plane stress and plane strain; torsion, torsion of thin-walled members with warping restraint; plate theory.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 9:00, Building: School, Room: of
+Instructor: TBA
+

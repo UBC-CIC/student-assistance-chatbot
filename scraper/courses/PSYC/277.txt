@@ -1,0 +1,40 @@
+Department: PSYC
+Course Number: 277
+Section: 001
+Pre-reqs: (Second-year standing in a Behavioural Neuroscience or Neuroscience specialization.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: A104
+Instructor: ORUC, IPEK
+
+Department: PSYC
+Course Number: 277
+Section: L01
+Pre-reqs: (Second-year standing in a Behavioural Neuroscience or Neuroscience specialization.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: B213
+Instructor: ORUC, IPEK
+
+Department: PSYC
+Course Number: 277
+Section: L02
+Pre-reqs: (Second-year standing in a Behavioural Neuroscience or Neuroscience specialization.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 18:00, Building: Buchanan, Room: B215
+Instructor: ORUC, IPEK
+
+Department: PSYC
+Course Number: 277
+Section: L03
+Pre-reqs: (Second-year standing in a Behavioural Neuroscience or Neuroscience specialization.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: West, Room: Mall
+Instructor: ORUC, IPEK
+

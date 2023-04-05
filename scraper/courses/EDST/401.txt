@@ -1,0 +1,217 @@
+Department: EDST
+Course Number: 401
+Section: 001
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:00, End Time: 10:30, Building: Ponderosa, Room: Commons
+Instructor: XIAO, YAO
+
+Department: EDST
+Course Number: 401
+Section: 002
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:00, End Time: 10:30, Building: Neville, Room: Scarfe
+Instructor: FRATTURA-KAMPSCHROER, ADDYSON
+
+Department: EDST
+Course Number: 401
+Section: 003
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: EDWARDS, MARK
+
+Department: EDST
+Course Number: 401
+Section: 004
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: GLEASON, MONA
+
+Department: EDST
+Course Number: 401
+Section: 005
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:30, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: OPINI, BATHSEBA
+
+Department: EDST
+Course Number: 401
+Section: 006
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Neville, Room: Scarfe
+Instructor: GLEASON, MONA
+
+Department: EDST
+Course Number: 401
+Section: 007
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Neville, Room: Scarfe
+Instructor: ANDERSON, JEDIDIAH
+
+Department: EDST
+Course Number: 401
+Section: 008
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Ponderosa, Room: Commons
+Instructor: OPINI, BATHSEBA
+
+Department: EDST
+Course Number: 401
+Section: 009
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Ponderosa, Room: Commons
+Instructor: ROBERTSON, SCOTT
+
+Department: EDST
+Course Number: 401
+Section: 010
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Ponderosa, Room: Commons
+Instructor: FALLON, GERALD
+
+Department: EDST
+Course Number: 401
+Section: 101
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:30, End Time: 11:30, Building: Neville, Room: Scarfe
+Instructor: ABDI, ALI
+
+Department: EDST
+Course Number: 401
+Section: 102
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: WANG, FEI
+
+Department: EDST
+Course Number: 401
+Section: 103
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:30, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: XIAO, YAO
+
+Department: EDST
+Course Number: 401
+Section: 104
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 16:30, Building: Ponderosa, Room: Commons
+Instructor: WEBB, PHILIP
+
+Department: EDST
+Course Number: 401
+Section: 105
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: LEONE, HELENE
+
+Department: EDST
+Course Number: 401
+Section: 107
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:30, End Time: 11:30, Building: Neville, Room: Scarfe
+Instructor: MIKULAN, PETRA
+
+Department: EDST
+Course Number: 401
+Section: 108
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: OPINI, BATHSEBA
+
+Department: EDST
+Course Number: 401
+Section: 109
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 16:30, Building: Ponderosa, Room: Commons
+Instructor: ABDI, ALI
+
+Department: EDST
+Course Number: 401
+Section: 110
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: MIKULAN, PETRA
+
+Department: EDST
+Course Number: 401
+Section: 623
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KOVACH, MARGARET
+
+Department: EDST
+Course Number: 401
+Section: 640
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HEER, KALBIR
+
+Department: EDST
+Course Number: 401
+Section: 641
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HEER, KALBIR
+

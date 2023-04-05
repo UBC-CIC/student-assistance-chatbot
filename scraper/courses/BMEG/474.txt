@@ -1,0 +1,21 @@
+Department: BMEG
+Course Number: 474
+Section: 201
+Description: Biology and applications of stem cells in regenerative medicine. Modelling human biology and disease in vitro and in vivo. Regulatory and commercialization pathways for regenerative medicine innovations.
+Pre-reqs: All of BMEG 245, BMEG 250, BMEG 350.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: ROSSI, FABIO
+
+Department: BMEG
+Course Number: 474
+Section: WL1
+Description: Biology and applications of stem cells in regenerative medicine. Modelling human biology and disease in vitro and in vivo. Regulatory and commercialization pathways for regenerative medicine innovations.
+Pre-reqs: All of BMEG 245, BMEG 250, BMEG 350.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

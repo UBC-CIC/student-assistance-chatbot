@@ -1,0 +1,21 @@
+Department: PHYS
+Course Number: 348
+Section: 101
+Description: Frontiers in Physics and Astronomy
+Pre-reqs: (Third-year standing in a physics honours program or fourth-year standing in a physics or astronomy major program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Hennings, Room: 304
+Instructor: ZHOU, FEI
+
+Department: PHYS
+Course Number: 348
+Section: 10W
+Description: Frontiers in Physics and Astronomy
+Pre-reqs: (Third-year standing in a physics honours program or fourth-year standing in a physics or astronomy major program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

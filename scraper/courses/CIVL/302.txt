@@ -1,0 +1,109 @@
+Department: CIVL
+Course Number: 302
+Section: 201
+Description: The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year.
+Pre-reqs: CIVL 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:30, End Time: 16:00, Building: P., Room: A.
+Instructor: ETMANNSKI, TAMARA
+
+Department: CIVL
+Course Number: 302
+Section: T2A
+Description: The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year.
+Pre-reqs: CIVL 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:30, Building: Hebb, Room: 114
+Instructor: ETMANNSKI, TAMARA
+
+Department: CIVL
+Course Number: 302
+Section: T2B
+Description: The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year.
+Pre-reqs: CIVL 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:30, Building: Hebb, Room: 114
+Instructor: ETMANNSKI, TAMARA
+
+Department: CIVL
+Course Number: 302
+Section: T2C
+Description: The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year.
+Pre-reqs: CIVL 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:30, Building: Hebb, Room: 114
+Instructor: ETMANNSKI, TAMARA
+
+Department: CIVL
+Course Number: 302
+Section: T2D
+Description: The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year.
+Pre-reqs: CIVL 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CIVL
+Course Number: 302
+Section: T2E
+Description: The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year.
+Pre-reqs: CIVL 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 17:30, Building: MacMillan, Room: 160
+Instructor: ETMANNSKI, TAMARA
+
+Department: CIVL
+Course Number: 302
+Section: T2F
+Description: The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year.
+Pre-reqs: CIVL 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 17:30, Building: MacMillan, Room: 160
+Instructor: ETMANNSKI, TAMARA
+
+Department: CIVL
+Course Number: 302
+Section: T2G
+Description: The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year.
+Pre-reqs: CIVL 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: MacLeod, Room: 2002
+Instructor: ETMANNSKI, TAMARA
+
+Department: CIVL
+Course Number: 302
+Section: T2H
+Description: The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year.
+Pre-reqs: CIVL 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: MacLeod, Room: 2002
+Instructor: ETMANNSKI, TAMARA
+
+Department: CIVL
+Course Number: 302
+Section: T2I
+Description: The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year.
+Pre-reqs: CIVL 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: MacLeod, Room: 2002
+Instructor: ETMANNSKI, TAMARA
+

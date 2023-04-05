@@ -1,0 +1,40 @@
+Department: FNH
+Course Number: 355
+Section: 001
+Description: Conceptualization and scientific analyses of global problems in food and nutrition; complexities of food habits and malnutrition in various cultures around the world.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30
+Instructor: RIDEOUT, CANDICE
+
+Department: FNH
+Course Number: 355
+Section: 002
+Description: Conceptualization and scientific analyses of global problems in food and nutrition; complexities of food habits and malnutrition in various cultures around the world.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: RIDEOUT, CANDICE
+
+Department: FNH
+Course Number: 355
+Section: 0W1
+Description: Conceptualization and scientific analyses of global problems in food and nutrition; complexities of food habits and malnutrition in various cultures around the world.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 8:00, End Time: 9:00, Building: To, Room: Be
+Instructor: RIDEOUT, CANDICE
+
+Department: FNH
+Course Number: 355
+Section: 0W2
+Description: Conceptualization and scientific analyses of global problems in food and nutrition; complexities of food habits and malnutrition in various cultures around the world.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 8:00, End Time: 9:00, Building: To, Room: Be
+Instructor: RIDEOUT, CANDICE
+

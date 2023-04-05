@@ -1,0 +1,44 @@
+Department: VISA
+Course Number: 310
+Section: 001
+Description: Exploring issues and topics in interactive digital media and culture through the creation of critical contemporary art. Includes technical instruction with a focus on the development of individual and group projects.
+Pre-reqs: One of VISA 210, VISA 287, FINA 287.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: B204
+Instructor: BILLINGS, SCOTT
+
+Department: VISA
+Course Number: 310
+Section: 002
+Description: Exploring issues and topics in interactive digital media and culture through the creation of critical contemporary art. Includes technical instruction with a focus on the development of individual and group projects.
+Pre-reqs: One of VISA 210, VISA 287, FINA 287.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: BILLINGS, SCOTT
+
+Department: VISA
+Course Number: 310
+Section: 01W
+Description: Exploring issues and topics in interactive digital media and culture through the creation of critical contemporary art. Includes technical instruction with a focus on the development of individual and group projects.
+Pre-reqs: One of VISA 210, VISA 287, FINA 287.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+
+Department: VISA
+Course Number: 310
+Section: 02W
+Description: Exploring issues and topics in interactive digital media and culture through the creation of critical contemporary art. Includes technical instruction with a focus on the development of individual and group projects.
+Pre-reqs: One of VISA 210, VISA 287, FINA 287.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00
+Instructor: TBA
+

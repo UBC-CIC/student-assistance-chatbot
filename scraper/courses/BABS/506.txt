@@ -1,0 +1,20 @@
+Department: BABS
+Course Number: 506
+Section: BA1
+Description: Probability and models that incorporate uncertainty; working with data and extracting information to provide input for predictive and prescriptive analytic models within the Master of Business Analytics program.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 16:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: ZHANG, HAO
+
+Department: BABS
+Course Number: 506
+Section: BA2
+Description: Probability and models that incorporate uncertainty; working with data and extracting information to provide input for predictive and prescriptive analytic models within the Master of Business Analytics program.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: ZHANG, HAO
+

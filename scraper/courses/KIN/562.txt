@@ -1,0 +1,10 @@
+Department: KIN
+Course Number: 562
+Section: 001
+Description: Basic energy systems of the human body; primarily concentrating on the bioenergetics of the skeletal muscle cell, recovery from muscular work, substrate utilization, muscle fiber types, strength, endurance and the physiological assessment of maximal performance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: War, Room: Memorial
+Instructor: BOUSHEL, ROBERT
+

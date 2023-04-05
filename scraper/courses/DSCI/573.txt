@@ -1,0 +1,33 @@
+Department: DSCI
+Course Number: 573
+Section: 001
+Description: Performance of a classification model. Generalization error, overfitting of training data. Shrinkage, feature selection, Akaike Information Criterion, Bayesian Information Criterion. k-fold cross validation. Bootstrapping. Receiver Operating Characteristic curve. Elastic nets, regularization.
+Pre-reqs: DSCI 571.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: Earth, Room: Sciences
+Instructor: KOLHATKAR, VARADA
+
+Department: DSCI
+Course Number: 573
+Section: L01
+Description: Performance of a classification model. Generalization error, overfitting of training data. Shrinkage, feature selection, Akaike Information Criterion, Bayesian Information Criterion. k-fold cross validation. Bootstrapping. Receiver Operating Characteristic curve. Elastic nets, regularization.
+Pre-reqs: DSCI 571.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: OSTBLOM, JOEL
+
+Department: DSCI
+Course Number: 573
+Section: L02
+Description: Performance of a classification model. Generalization error, overfitting of training data. Shrinkage, feature selection, Akaike Information Criterion, Bayesian Information Criterion. k-fold cross validation. Bootstrapping. Receiver Operating Characteristic curve. Elastic nets, regularization.
+Pre-reqs: DSCI 571.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: OSTBLOM, JOEL
+

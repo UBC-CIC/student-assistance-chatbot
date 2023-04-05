@@ -1,0 +1,18 @@
+Department: EOSC
+Course Number: 398
+Section: 101
+Description: Approved and supervised technical work experience in an industrial, university or government setting for a minimum of 14 weeks. Normally taken in the Summer Session (Terms 1 and 2) following second year. Technical report required. Restricted to students admitted to the Co-operative Education Option in Earth, Ocean and Atmospheric Sciences.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 398
+Section: 201
+Description: Approved and supervised technical work experience in an industrial, university or government setting for a minimum of 14 weeks. Normally taken in the Summer Session (Terms 1 and 2) following second year. Technical report required. Restricted to students admitted to the Co-operative Education Option in Earth, Ocean and Atmospheric Sciences.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

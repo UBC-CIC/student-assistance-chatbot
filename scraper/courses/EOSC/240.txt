@@ -1,0 +1,24 @@
+Department: EOSC
+Course Number: 240
+Section: 201
+Description: Theory and practice of site investigation for geological engineers, including background studies, field work, remote sensing, development of ground models, importance of geological variability and uncertainty. Impacts on design, project risk and decision making.
+Pre-reqs: EOSC 210.
+Co-reqs: CIVL 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Earth, Room: and
+Instructor: HOLLINGSHEAD, SUSAN
+
+Department: EOSC
+Course Number: 240
+Section: L2A
+Description: Theory and practice of site investigation for geological engineers, including background studies, field work, remote sensing, development of ground models, importance of geological variability and uncertainty. Impacts on design, project risk and decision making.
+Pre-reqs: EOSC 210.
+Co-reqs: CIVL 210.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: HOLLINGSHEAD, SUSAN
+

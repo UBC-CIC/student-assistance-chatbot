@@ -1,0 +1,10 @@
+Department: LAST
+Course Number: 201
+Section: 201
+Description: Popular Culture in Latin America
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: B218
+Instructor: VICTORIANO, RAMON ANTONIO
+

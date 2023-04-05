@@ -1,0 +1,10 @@
+Department: NURS
+Course Number: 310
+Section: 001
+Description: Basic principles of pharmacology and the basic structure and function of each body system will be explored to demonstrate how drug interactions occur within systems.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: West, Room: Mall
+Instructor: ADHAMI, NASSIM
+

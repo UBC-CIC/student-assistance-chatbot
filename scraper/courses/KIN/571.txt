@@ -1,0 +1,10 @@
+Department: KIN
+Course Number: 571
+Section: 001
+Description: Theoretical, methodological, and ethical debates about and approaches to qualitative methods; issues in and approaches to qualitative inquiry.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:30, End Time: 12:30, Building: Ponderosa, Room: Commons
+Instructor: BENNETT, ERICA
+

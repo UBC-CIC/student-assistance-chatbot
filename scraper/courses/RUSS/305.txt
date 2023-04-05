@@ -1,0 +1,11 @@
+Department: RUSS
+Course Number: 305
+Section: 001
+Description: Texts are selected from 19th-, 20th-, and 21st-century sources.
+Pre-reqs: One of RUSS 200, RUSS 202.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: Tower
+Instructor: CHITNEV, VETA
+

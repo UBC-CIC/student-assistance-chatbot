@@ -1,0 +1,30 @@
+Department: SOWK
+Course Number: 416
+Section: 001
+Description: Advanced Integrative Seminar in Social Work Theory, Policy and Practice
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 13:00, Building: Ponderosa, Room: Commons
+Instructor: DEL VECCHIO, RHEA
+
+Department: SOWK
+Course Number: 416
+Section: 002
+Description: Advanced Integrative Seminar in Social Work Theory, Policy and Practice
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 13:00, Building: Neville, Room: Scarfe
+Instructor: COULOMBE, ANTOINE
+
+Department: SOWK
+Course Number: 416
+Section: 003
+Description: Advanced Integrative Seminar in Social Work Theory, Policy and Practice
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 13:00, Building: Neville, Room: Scarfe
+Instructor: KYBA, NADIA
+

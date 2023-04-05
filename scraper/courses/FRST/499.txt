@@ -1,0 +1,9 @@
+Department: FRST
+Course Number: 499
+Section: 101
+Description: An independent study or research project on an approved topic, developed under the guidance of a Faculty member. Available only to students in their graduating year.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ROESER, DOMINIK
+

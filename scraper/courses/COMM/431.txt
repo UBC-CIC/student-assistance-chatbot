@@ -1,0 +1,11 @@
+Department: COMM
+Course Number: 431
+Section: 201
+Description: Statutory provisions and case law that regulate the creation and governance of sole proprietorships, partnerships, corporations, joint ventures, and franchises in British Columbia. Fiduciary duties of partners, directors and officers are also examined.
+Pre-reqs: COMM 393.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: FESTINGER, JONATHAN
+

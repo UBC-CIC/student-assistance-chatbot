@@ -1,0 +1,9 @@
+Department: AUDI
+Course Number: 402
+Section: 99C
+Pre-reqs: (As indicated on the website at www.audiospeech.ubc.ca or by permission of the instructor.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TSANG, CLINTON YIN HANG
+

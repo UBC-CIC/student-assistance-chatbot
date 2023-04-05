@@ -1,0 +1,22 @@
+Department: AFST
+Course Number: 352A
+Section: 002
+Description: Major issues and theoretical approaches.
+Co-reqs: AFST 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: B218
+Instructor: GBOLONYO, JUSTICE
+
+Department: AFST
+Course Number: 352A
+Section: 002
+Description: Major issues and theoretical approaches.
+Co-reqs: AFST 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: B218
+Instructor: GBOLONYO, JUSTICE
+

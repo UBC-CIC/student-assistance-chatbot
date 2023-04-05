@@ -1,0 +1,20 @@
+Department: EDUC
+Course Number: 496I
+Section: 301
+Description: Pass/Fail.
+Pre-reqs: (Recent completion of secondary teaching methods courses in the subjects to be taught.)
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDUC
+Course Number: 496I
+Section: 618
+Description: Pass/Fail.
+Pre-reqs: (Recent completion of secondary teaching methods courses in the subjects to be taught.)
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

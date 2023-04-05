@@ -1,0 +1,11 @@
+Department: SPAN
+Course Number: 401
+Section: 101
+Description: Strengthening fluency and accuracy in spoken and written communication. Emphasis on mediation, interpretation, and metalinguistic competencies through translation and comparative stylistics. Aligned with CEFR level B2 objectives.
+Pre-reqs: SPAN 302. (or equivalent expertise in written and spoken Spanish.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B303
+Instructor: ESCOBAR TRUJILLO, MARIA ADELAIDA
+

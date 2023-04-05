@@ -1,0 +1,9 @@
+Department: VISA
+Course Number: 583A
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: B.C., Room: Binnings
+Instructor: JAMES, GARETH
+

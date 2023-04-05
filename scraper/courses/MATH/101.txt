@@ -1,0 +1,898 @@
+Department: MATH
+Course Number: 101
+Section: 2A1
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 10:00, Building: Centre, Room: for
+Instructor: SHMERKIN, PABLO
+
+Department: MATH
+Course Number: 101
+Section: A11
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Mathematics, Room: 102
+Instructor: GARROTE LOPEZ, MARINA
+
+Department: MATH
+Course Number: 101
+Section: A12
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Mathematics, Room: 102
+Instructor: MITISHITA, RODRIGO
+
+Department: MATH
+Course Number: 101
+Section: A13
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Mathematics, Room: 102
+Instructor: GARROTE LOPEZ, MARINA
+
+Department: MATH
+Course Number: 101
+Section: A14
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Mathematics, Room: 102
+Instructor: SCHRAVEN, SEVERIN
+
+Department: MATH
+Course Number: 101
+Section: A15
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: A16
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 8:00, End Time: 9:00, Building: Mathematics, Room: 102
+Instructor: VENTRE, ELIAS
+
+Department: MATH
+Course Number: 101
+Section: A17
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 8:00, End Time: 9:00, Building: Geography, Room: 147
+Instructor: BOYLE, KEEGAN
+
+Department: MATH
+Course Number: 101
+Section: A18
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Mathematics, Room: 102
+Instructor: VENTRE, ELIAS
+
+Department: MATH
+Course Number: 101
+Section: 2A2
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: P., Room: A.
+Instructor: WALJI, NAHID
+
+Department: MATH
+Course Number: 101
+Section: A21
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Mathematics, Room: 102
+Instructor: SCHRAVEN, SEVERIN
+
+Department: MATH
+Course Number: 101
+Section: A22
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Mathematics, Room: 102
+Instructor: BOYLE, KEEGAN
+
+Department: MATH
+Course Number: 101
+Section: A23
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Mathematics, Room: 102
+Instructor: BODON, EMANUELE
+
+Department: MATH
+Course Number: 101
+Section: A24
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Geography, Room: 212
+Instructor: MITISHITA, RODRIGO
+
+Department: MATH
+Course Number: 101
+Section: A25
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Mathematics, Room: 102
+Instructor: GARROTE LOPEZ, MARINA
+
+Department: MATH
+Course Number: 101
+Section: A26
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 10:00, Building: Orchard, Room: Commons
+Instructor: BODON, EMANUELE
+
+Department: MATH
+Course Number: 101
+Section: A27
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: BODON, EMANUELE
+
+Department: MATH
+Course Number: 101
+Section: A28
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Geography, Room: 101
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: A29
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 10:00, Building: Geography, Room: 101
+Instructor: MITISHITA, RODRIGO
+
+Department: MATH
+Course Number: 101
+Section: 2A3
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: P., Room: A.
+Instructor: SHMERKIN, PABLO
+
+Department: MATH
+Course Number: 101
+Section: A31
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Mathematics, Room: 102
+Instructor: BOYLE, KEEGAN
+
+Department: MATH
+Course Number: 101
+Section: A32
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: A33
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: Mathematics, Room: 102
+Instructor: BODON, EMANUELE
+
+Department: MATH
+Course Number: 101
+Section: A34
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 9:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: A35
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: A36
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: A37
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: A39
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Mathematics, Room: 102
+Instructor: BOYLE, KEEGAN
+
+Department: MATH
+Course Number: 101
+Section: 2A4
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Earth, Room: Sciences
+Instructor: WALJI, NAHID
+
+Department: MATH
+Course Number: 101
+Section: A41
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Mathematics, Room: 102
+Instructor: SCHRAVEN, SEVERIN
+
+Department: MATH
+Course Number: 101
+Section: A42
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: A43
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Mathematics, Room: 102
+Instructor: VENTRE, ELIAS
+
+Department: MATH
+Course Number: 101
+Section: A44
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 13:30, Building: Geography, Room: 147
+Instructor: MITISHITA, RODRIGO
+
+Department: MATH
+Course Number: 101
+Section: A45
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 8:00, End Time: 9:00, Building: Mathematics, Room: 102
+Instructor: SCHRAVEN, SEVERIN
+
+Department: MATH
+Course Number: 101
+Section: A46
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Mathematics, Room: 102
+Instructor: VENTRE, ELIAS
+
+Department: MATH
+Course Number: 101
+Section: 2AR
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 12:00
+Instructor: LOEWEN, PHILIP
+
+Department: MATH
+Course Number: 101
+Section: AR2
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Leonard, Room: S.
+Instructor: GARROTE LOPEZ, MARINA
+
+Department: MATH
+Course Number: 101
+Section: AR3
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Leonard, Room: S.
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: AR5
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Leonard, Room: S.
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: AR6
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Frank, Room: Forward
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: 2B1
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: P., Room: A.
+Instructor: HARRINGTON, PETER
+
+Department: MATH
+Course Number: 101
+Section: B11
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Leonard, Room: S.
+Instructor: HARRINGTON, PETER
+
+Department: MATH
+Course Number: 101
+Section: B12
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 9:00, Building: Geography, Room: 212
+Instructor: HARRINGTON, PETER
+
+Department: MATH
+Course Number: 101
+Section: B13
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Leonard, Room: S.
+Instructor: HARRINGTON, PETER
+
+Department: MATH
+Course Number: 101
+Section: B14
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: Leonard, Room: S.
+Instructor: HUANG, YIFENG
+
+Department: MATH
+Course Number: 101
+Section: B15
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Geography, Room: 212
+Instructor: HUANG, YIFENG
+
+Department: MATH
+Course Number: 101
+Section: B16
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 8:00, End Time: 9:00, Building: Geography, Room: 147
+Instructor: ROUSE, NICHOLAS
+
+Department: MATH
+Course Number: 101
+Section: B17
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 10:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: B18
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Mathematics, Room: 102
+Instructor: ROUSE, NICHOLAS
+
+Department: MATH
+Course Number: 101
+Section: 2B2
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 14:00, Building: Wesbrook, Room: 100
+Instructor: DEMIRBAS, SECKIN
+
+Department: MATH
+Course Number: 101
+Section: B21
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Leonard, Room: S.
+Instructor: HARRINGTON, PETER
+
+Department: MATH
+Course Number: 101
+Section: B22
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Leonard, Room: S.
+Instructor: DEB, NABARUN
+
+Department: MATH
+Course Number: 101
+Section: B23
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Leonard, Room: S.
+Instructor: DEB, NABARUN
+
+Department: MATH
+Course Number: 101
+Section: B24
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Leonard, Room: S.
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: B25
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Leonard, Room: S.
+Instructor: ROUSE, NICHOLAS
+
+Department: MATH
+Course Number: 101
+Section: B26
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Geography, Room: 212
+Instructor: DEB, NABARUN
+
+Department: MATH
+Course Number: 101
+Section: 2B3
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Wesbrook, Room: 100
+Instructor: PICCOLO, COSTANZA
+
+Department: MATH
+Course Number: 101
+Section: B31
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Mathematics, Room: 102
+Instructor: HUANG, YIFENG
+
+Department: MATH
+Course Number: 101
+Section: B32
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Leonard, Room: S.
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: B33
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Leonard, Room: S.
+Instructor: ROUSE, NICHOLAS
+
+Department: MATH
+Course Number: 101
+Section: B34
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Leonard, Room: S.
+Instructor: DEB, NABARUN
+
+Department: MATH
+Course Number: 101
+Section: B35
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Leonard, Room: S.
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: B36
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 16:00, End Time: 17:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: 2C1
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: P., Room: A.
+Instructor: YEAGER, ELYSE
+
+Department: MATH
+Course Number: 101
+Section: C11
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Geography, Room: 147
+Instructor: SPINKA, YINON
+
+Department: MATH
+Course Number: 101
+Section: C12
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 9:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: C13
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Mathematics, Room: 102
+Instructor: CORSO, EMILIO
+
+Department: MATH
+Course Number: 101
+Section: C14
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: C15
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: C16
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: C17
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: B215
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: C18
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: 2C2
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: P., Room: A.
+Instructor: MACDONALD, COLIN
+
+Department: MATH
+Course Number: 101
+Section: C21
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Geography, Room: 147
+Instructor: SPINKA, YINON
+
+Department: MATH
+Course Number: 101
+Section: C22
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Geography, Room: 147
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: C23
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 9:00, Building: Geography, Room: 147
+Instructor: CORSO, EMILIO
+
+Department: MATH
+Course Number: 101
+Section: C24
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Geography, Room: 147
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: C25
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 9:00, Building: Geography, Room: 147
+Instructor: CORSO, EMILIO
+
+Department: MATH
+Course Number: 101
+Section: C26
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Geography, Room: 147
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: C27
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Geography, Room: 147
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: C28
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Geography, Room: 147
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: 2C3
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Earth, Room: Sciences
+Instructor: YEAGER, ELYSE
+
+Department: MATH
+Course Number: 101
+Section: C31
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Geography, Room: 147
+Instructor: WU, CHENGYU
+
+Department: MATH
+Course Number: 101
+Section: C32
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Geography, Room: 147
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: C33
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Geography, Room: 147
+Instructor: SPINKA, YINON
+
+Department: MATH
+Course Number: 101
+Section: C34
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Geography, Room: 147
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: C35
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Geography, Room: 147
+Instructor: WU, CHENGYU
+
+Department: MATH
+Course Number: 101
+Section: C36
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Geography, Room: 147
+Instructor: WU, CHENGYU
+
+Department: MATH
+Course Number: 101
+Section: 9AR
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MATH
+Course Number: 101
+Section: 9WA
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

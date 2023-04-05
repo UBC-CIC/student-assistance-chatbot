@@ -1,0 +1,18 @@
+Department: EDCP
+Course Number: 362D
+Section: 377
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: LEDDY, SHANNON
+
+Department: EDCP
+Course Number: 362D
+Section: 624
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 17:00, End Time: 19:00
+Instructor: KAISER, KEVIN
+

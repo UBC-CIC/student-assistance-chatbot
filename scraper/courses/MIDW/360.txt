@@ -1,0 +1,11 @@
+Department: MIDW
+Course Number: 360
+Section: 001
+Description: Theoretical course in preparation for global clinical placement. Pass/Fail.
+Pre-reqs: MIDW 240.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Wed Thu Fri, Start Time: 9:00, End Time: 12:00, Building: To, Room: Be
+Instructor: BACON, ALIX
+

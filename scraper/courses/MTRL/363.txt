@@ -1,0 +1,22 @@
+Department: MTRL
+Course Number: 363
+Section: 101
+Description: Diffusion and mass transfer with chemical reaction; gas-liquid, gas-solid and liquid-liquid systems; analysis of mass transfer processes in metallurgical operations; mixing in continuous and batch processes.
+Pre-reqs: All of MTRL 263, MTRL 264.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Frank, Room: Forward
+Instructor: XIA, GUANGRUI
+
+Department: MTRL
+Course Number: 363
+Section: T1A
+Description: Diffusion and mass transfer with chemical reaction; gas-liquid, gas-solid and liquid-liquid systems; analysis of mass transfer processes in metallurgical operations; mixing in continuous and batch processes.
+Pre-reqs: All of MTRL 263, MTRL 264.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: MacMillan, Room: 160
+Instructor: XIA, GUANGRUI
+

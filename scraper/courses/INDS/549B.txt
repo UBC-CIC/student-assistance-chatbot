@@ -1,0 +1,24 @@
+Department: INDS
+Course Number: 549B
+Section: 001
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: INDS
+Course Number: 549B
+Section: 002
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: INDS
+Course Number: 549B
+Section: 003
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

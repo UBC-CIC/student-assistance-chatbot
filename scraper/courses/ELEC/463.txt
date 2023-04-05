@@ -1,0 +1,126 @@
+Department: ELEC
+Course Number: 463
+Section: 101
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: School, Room: of
+Instructor: CHROSTOWSKI, LUKAS
+
+Department: ELEC
+Course Number: 463
+Section: L1A
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CHROSTOWSKI, LUKAS
+
+Department: ELEC
+Course Number: 463
+Section: L1B
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CHROSTOWSKI, LUKAS
+
+Department: ELEC
+Course Number: 463
+Section: L1C
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CHROSTOWSKI, LUKAS
+
+Department: ELEC
+Course Number: 463
+Section: L1D
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: ELEC
+Course Number: 463
+Section: LWA
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 463
+Section: LWB
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 463
+Section: LWC
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 463
+Section: LWD
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 463
+Section: 1W1
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 463
+Section: LWA
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 463
+Section: LWB
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 463
+Section: LWC
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 463
+Section: LWD
+Description: Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

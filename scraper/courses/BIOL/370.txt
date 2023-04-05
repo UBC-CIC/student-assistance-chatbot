@@ -1,0 +1,22 @@
+Department: BIOL
+Course Number: 370
+Section: 101
+Description: Introduction to the structure and function of the muscular system, metabolism and energetics from a comparative perspective across vertebrates and invertebrates.
+Pre-reqs: BIOL 200 and BIOL 260.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Chemistry, Room: D200
+Instructor: RICHARDS, JEFFREY
+
+Department: BIOL
+Course Number: 370
+Section: 1W1
+Description: Introduction to the structure and function of the muscular system, metabolism and energetics from a comparative perspective across vertebrates and invertebrates.
+Pre-reqs: BIOL 200 and BIOL 260.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30
+Instructor: TBA
+

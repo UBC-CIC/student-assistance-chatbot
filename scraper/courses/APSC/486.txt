@@ -1,0 +1,20 @@
+Department: APSC
+Course Number: 486
+Section: 001
+Description: Teams comprising students in APSC 486 and COMM 486 create a business plan and a prototype or engineering solution of a novel product, process, or process component.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 18:00, End Time: 21:00, Building: David, Room: Lam
+Instructor: LUSINA, PAUL
+
+Department: APSC
+Course Number: 486
+Section: 002
+Description: Teams comprising students in APSC 486 and COMM 486 create a business plan and a prototype or engineering solution of a novel product, process, or process component.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 18:00, End Time: 21:00, Building: Henry, Room: Angus
+Instructor: MILLER, DAVID
+

@@ -1,0 +1,22 @@
+Department: FRST
+Course Number: 495
+Section: 201
+Description: Principles, problems, and practices of managing natural habitats for biological diversity; current issues in biological diversity important to researchers, policymakers, and the general public.
+Pre-reqs: All of FRST 201, FRST 395.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Chemical, Room: and
+Instructor: BETT, NOLAN
+
+Department: FRST
+Course Number: 495
+Section: T01
+Description: Principles, problems, and practices of managing natural habitats for biological diversity; current issues in biological diversity important to researchers, policymakers, and the general public.
+Pre-reqs: All of FRST 201, FRST 395.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:00, Building: Forest, Room: Sciences
+Instructor: BETT, NOLAN
+

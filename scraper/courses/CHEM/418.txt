@@ -1,0 +1,10 @@
+Department: CHEM
+Course Number: 418
+Section: 209
+Pre-reqs: CHEM 318.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Chemistry, Room: D215
+Instructor: SCHAFER, LAUREL
+

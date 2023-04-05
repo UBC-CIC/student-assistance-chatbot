@@ -1,0 +1,33 @@
+Department: GERM
+Course Number: 200
+Section: 001
+Description: Intermediate German I
+Pre-reqs: Either (a) GERM 110 or (b) GERM 12.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: West, Room: Mall
+Instructor: NIJDAM, ELIZABETH
+
+Department: GERM
+Course Number: 200
+Section: 002
+Description: Intermediate German I
+Pre-reqs: Either (a) GERM 110 or (b) GERM 12.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D216
+Instructor: KUMAR, UMA
+
+Department: GERM
+Course Number: 200
+Section: 003
+Description: Intermediate German I
+Pre-reqs: Either (a) GERM 110 or (b) GERM 12.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B211
+Instructor: FALLER, FLORIAN
+

@@ -1,0 +1,11 @@
+Department: LATN
+Course Number: 401A
+Section: 001
+Description: Studies in history, oratory and/or philosophy. May be repeated for up to 12 credits. It is recommended that the corequisite course be completed prior to LATN 401.
+Co-reqs: Either (a) LATN 350 or (b) LATN 351.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D216
+Instructor: MULDER, TARA
+

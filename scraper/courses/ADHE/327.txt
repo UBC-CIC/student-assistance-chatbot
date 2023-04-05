@@ -1,0 +1,126 @@
+Department: ADHE
+Course Number: 327
+Section: 63A
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: JARVIS, SHARON
+
+Department: ADHE
+Course Number: 327
+Section: 63B
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: REGMI, KAPIL
+
+Department: ADHE
+Course Number: 327
+Section: 63C
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MAESTRINI, GABRIELLA
+
+Department: ADHE
+Course Number: 327
+Section: 63D
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: JARVIS, SHARON
+
+Department: ADHE
+Course Number: 327
+Section: 63E
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SEN, VICHETH
+
+Department: ADHE
+Course Number: 327
+Section: 63F
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SEN, VICHETH
+
+Department: ADHE
+Course Number: 327
+Section: W3D
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: ADHE
+Course Number: 327
+Section: 63A
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: JARVIS, SHARON
+
+Department: ADHE
+Course Number: 327
+Section: 63B
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: REGMI, KAPIL
+
+Department: ADHE
+Course Number: 327
+Section: 63C
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MAESTRINI, GABRIELLA
+
+Department: ADHE
+Course Number: 327
+Section: 63D
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: JARVIS, SHARON
+
+Department: ADHE
+Course Number: 327
+Section: 63E
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SEN, VICHETH
+
+Department: ADHE
+Course Number: 327
+Section: 63F
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SEN, VICHETH
+
+Department: ADHE
+Course Number: 327
+Section: W3D
+Description: Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 698
+Section: 001
+Description: Current topics in chemical and biological engineering research. Pass/fail.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Chemical, Room: and
+Instructor: LAU, ANTHONY K
+

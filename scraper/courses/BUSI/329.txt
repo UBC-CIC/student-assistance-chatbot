@@ -1,0 +1,20 @@
+Department: BUSI
+Course Number: 329
+Section: 103
+Description: An introductory examination of work organizations and the behaviour of individuals within them. Phenomena to be studied include organizational structure, environments, group processes, motivation and leadership.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 18:30, Building: Henry, Room: Angus
+Instructor: ROBINSON, SANDRA
+
+Department: BUSI
+Course Number: 329
+Section: 202
+Description: An introductory examination of work organizations and the behaviour of individuals within them. Phenomena to be studied include organizational structure, environments, group processes, motivation and leadership.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: David, Room: Lam
+Instructor: GURTON, TRACEY
+

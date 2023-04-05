@@ -1,0 +1,64 @@
+Department: ENPH
+Course Number: 353
+Section: 101
+Description: Engineering project planning, execution and reporting. The course involves carrying out an open-ended Engineering project to meet specific performance metrics on an industry relevant topic selected by instructors. Reporting on progress is both oral and written.
+Pre-reqs: All of ENPH 253, CPEN 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 116
+Instructor: ISBASESCU, IOAN
+
+Department: ENPH
+Course Number: 353
+Section: L1A
+Description: Engineering project planning, execution and reporting. The course involves carrying out an open-ended Engineering project to meet specific performance metrics on an industry relevant topic selected by instructors. Reporting on progress is both oral and written.
+Pre-reqs: All of ENPH 253, CPEN 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 20:00, Building: Hebb, Room: 216
+Instructor: ISBASESCU, IOAN
+
+Department: ENPH
+Course Number: 353
+Section: 201
+Description: Engineering project planning, execution and reporting. The course involves carrying out an open-ended Engineering project to meet specific performance metrics on an industry relevant topic selected by instructors. Reporting on progress is both oral and written.
+Pre-reqs: All of ENPH 253, CPEN 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 116
+Instructor: ISBASESCU, IOAN
+
+Department: ENPH
+Course Number: 353
+Section: L2A
+Description: Engineering project planning, execution and reporting. The course involves carrying out an open-ended Engineering project to meet specific performance metrics on an industry relevant topic selected by instructors. Reporting on progress is both oral and written.
+Pre-reqs: All of ENPH 253, CPEN 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 15:00, Building: Hebb, Room: 316
+Instructor: ISBASESCU, IOAN
+
+Department: ENPH
+Course Number: 353
+Section: WL1
+Description: Engineering project planning, execution and reporting. The course involves carrying out an open-ended Engineering project to meet specific performance metrics on an industry relevant topic selected by instructors. Reporting on progress is both oral and written.
+Pre-reqs: All of ENPH 253, CPEN 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ENPH
+Course Number: 353
+Section: WL2
+Description: Engineering project planning, execution and reporting. The course involves carrying out an open-ended Engineering project to meet specific performance metrics on an industry relevant topic selected by instructors. Reporting on progress is both oral and written.
+Pre-reqs: All of ENPH 253, CPEN 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

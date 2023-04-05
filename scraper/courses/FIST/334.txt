@@ -1,0 +1,10 @@
+Department: FIST
+Course Number: 334
+Section: 001
+Description: An analysis of the representational strategies and ethics of the form.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 18:00, End Time: 20:30, Building: Chan, Room: Centre
+Instructor: BIRKS, CHELSEA
+

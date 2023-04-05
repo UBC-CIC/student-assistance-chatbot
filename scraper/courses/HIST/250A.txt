@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 250A
+Section: 201
+Description: Exploring themes of colonialism, indigenous life, national imaginaries, dictatorships and transitions to democracy through different forms of telling Latin American history. Includes epistolary writing, maps, eyewitness accounts, chronicles, actions, novels, films, built environment and city plans, testimonios, and plays.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: D314
+Instructor: SHARON, TUCKER
+

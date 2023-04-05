@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 308
+Section: 001
+Description: Audio design and production.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: Dorothy, Room: Somerset
+Instructor: PENNEFATHER, PATRICK
+

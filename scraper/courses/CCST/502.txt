@@ -1,0 +1,10 @@
+Department: CCST
+Course Number: 502
+Section: 001
+Description: A case study approach to analyzing museum and gallery exhibitions that are historically significant either because they raised issues and stimulated public debate, or because of radical features that proved influential on subsequent exhibitions. Course not offered every year.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Frederic, Room: Lasserre
+Instructor: SHELTON, ANTHONY
+

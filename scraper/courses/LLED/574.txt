@@ -1,0 +1,10 @@
+Department: LLED
+Course Number: 574
+Section: 062
+Pre-reqs: (Admission into the TESL Graduate Program or permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: KOWKABI, NASRIN
+

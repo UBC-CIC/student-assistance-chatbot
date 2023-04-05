@@ -1,0 +1,10 @@
+Department: PHAR
+Course Number: 180
+Section: 001
+Description: Current topics in the Pharmaceutical Sciences and basic skills for a short presentation on a biological science topic.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Pharmaceutical, Room: Sciences
+Instructor: RODRIGUES, BRIAN
+

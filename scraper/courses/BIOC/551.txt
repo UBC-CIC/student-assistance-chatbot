@@ -1,0 +1,11 @@
+Department: BIOC
+Course Number: 551
+Section: 001
+Description: Discussions based on topics in the current literature.
+Pre-reqs: One of BIOC 410, BIOC 510.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:30, End Time: 11:00, Building: School, Room: of
+Instructor: CIERNIA, ANNIE
+

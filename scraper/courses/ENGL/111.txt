@@ -1,0 +1,180 @@
+Department: ENGL
+Course Number: 111
+Section: 001
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:00, Building: West, Room: Mall
+Instructor: MCNEILL, LAURIE
+
+Department: ENGL
+Course Number: 111
+Section: L05
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B318
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: L06
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D322
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: L07
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D312
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: L08
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D323
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: 002
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B141
+Instructor: HILL, IAN
+
+Department: ENGL
+Course Number: 111
+Section: 003
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: B141
+Instructor: SHARPE, JILLIAN
+
+Department: ENGL
+Course Number: 111
+Section: 005
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: A104
+Instructor: EARLE, BO
+
+Department: ENGL
+Course Number: 111
+Section: L20
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B308
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: L21
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B307
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: L22
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B302
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: L23
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D313
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: 006
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Geography, Room: 214
+Instructor: STICKLES, ELISE
+
+Department: ENGL
+Course Number: 111
+Section: WL1
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: WL2
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: WL3
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: WL5
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 111
+Section: WL6
+Description: Study of selected communication genres from a language-based perspective: examples may include non-fiction, science writing, business discourse, journalism, language of the internet, podcasts, and other media. Essays are required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30
+Instructor: TBA
+

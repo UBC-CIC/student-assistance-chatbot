@@ -1,0 +1,40 @@
+Department: LAW
+Course Number: 211
+Section: 001
+Description: Historical development; formation and enforceability of contracts; parties; contractual terms; changes of circumstances; remedies for breach.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 11:00, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: MACDOUGALL, BRUCE
+
+Department: LAW
+Course Number: 211
+Section: 002
+Description: Historical development; formation and enforceability of contracts; parties; contractual terms; changes of circumstances; remedies for breach.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:30, Building: Allard, Room: Hall
+Instructor: MOORE, MARCUS
+
+Department: LAW
+Course Number: 211
+Section: 003
+Description: Historical development; formation and enforceability of contracts; parties; contractual terms; changes of circumstances; remedies for breach.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 11:00, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: ALONI, EREZ
+
+Department: LAW
+Course Number: 211
+Section: 004
+Description: Historical development; formation and enforceability of contracts; parties; contractual terms; changes of circumstances; remedies for breach.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 11:00, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: BAKAN, JOEL CONRAD
+

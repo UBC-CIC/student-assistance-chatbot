@@ -1,0 +1,11 @@
+Department: BEST
+Course Number: 201
+Section: 101
+Description: Introduction to plant biology, with special emphasis on growth and development, highlighting the biological mechanisms of radiation energy capture, and water and nutrient acquisition in the production of plant biomass.
+Pre-reqs: One of BIOL 111, BIOL 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Forest, Room: Sciences
+Instructor: UNDA, FARIDE
+

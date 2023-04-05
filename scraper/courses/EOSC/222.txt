@@ -1,0 +1,76 @@
+Department: EOSC
+Course Number: 222
+Section: 201
+Pre-reqs: (Second-year standing in Science. One of EOSC 1**, EOSC 210, GEOB 103 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:00, Building: Frank, Room: Forward
+Instructor: SUTHERLAND, STUART
+
+Department: EOSC
+Course Number: 222
+Section: L2A
+Pre-reqs: (Second-year standing in Science. One of EOSC 1**, EOSC 210, GEOB 103 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 222
+Section: L2B
+Pre-reqs: (Second-year standing in Science. One of EOSC 1**, EOSC 210, GEOB 103 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 222
+Section: L2C
+Pre-reqs: (Second-year standing in Science. One of EOSC 1**, EOSC 210, GEOB 103 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 222
+Section: 2AW
+Pre-reqs: (Second-year standing in Science. One of EOSC 1**, EOSC 210, GEOB 103 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 222
+Section: 2BW
+Pre-reqs: (Second-year standing in Science. One of EOSC 1**, EOSC 210, GEOB 103 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 222
+Section: 2CW
+Pre-reqs: (Second-year standing in Science. One of EOSC 1**, EOSC 210, GEOB 103 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 222
+Section: WL1
+Pre-reqs: (Second-year standing in Science. One of EOSC 1**, EOSC 210, GEOB 103 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

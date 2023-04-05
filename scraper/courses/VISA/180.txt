@@ -1,0 +1,150 @@
+Department: VISA
+Course Number: 180
+Section: 001
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 13:00
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L01
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 20:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L02
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L03
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L04
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L05
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L06
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L07
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: 002
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L08
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L09
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L10
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 20:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L11
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L12
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+
+Department: VISA
+Course Number: 180
+Section: L13
+Description: Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Dorothy, Room: Somerset
+Instructor: PURSCHWITZ, NATALIE
+

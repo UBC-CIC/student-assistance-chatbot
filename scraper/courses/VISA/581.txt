@@ -1,0 +1,9 @@
+Department: VISA
+Course Number: 581
+Section: 001
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Ponderosa, Room: Commons
+Instructor: PINA BALDOQUIN, MANUEL
+

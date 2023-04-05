@@ -1,0 +1,9 @@
+Department: PPGA
+Course Number: 591Y
+Section: 001
+Description: Special Topics in Public Policy - TOPS PUBLIC PLCY
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HECHT, CATHERINE(Coordinator)
+

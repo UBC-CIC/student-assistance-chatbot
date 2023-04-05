@@ -1,0 +1,16 @@
+Department: ETEC
+Course Number: 565P
+Section: 64A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MACFADYEN, LEAH
+
+Department: ETEC
+Course Number: 565P
+Section: 65A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MACFADYEN, LEAH
+

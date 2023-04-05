@@ -1,0 +1,17 @@
+Department: BMEG
+Course Number: 456
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 19:00, Building: Earth, Room: Sciences
+Instructor: FINDLAY, JUDY
+
+Department: BMEG
+Course Number: 456
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

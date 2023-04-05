@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 332
+Section: 001
+Description: Canadian maritime law and admiralty practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: Allard, Room: Hall
+Instructor: HAWKINS, TOM
+

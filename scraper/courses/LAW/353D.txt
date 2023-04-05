@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 353D
+Section: 001
+Description: Rights of Aboriginal people stemming from their aboriginal status and from treaties. Not offered each year, consult Faculty.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Allard, Room: Hall
+Instructor: JACKSON, MICHAEL A.
+

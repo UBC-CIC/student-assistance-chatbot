@@ -1,0 +1,21 @@
+Department: MUSC
+Course Number: 310
+Section: 001
+Description: The study of orchestration through the analysis of orchestral works, listening and scoring projects. Activities also include choral arranging and scoring for stage band and wind ensemble.
+Pre-reqs: MUSC 309.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Music, Room: 113
+Instructor: TOP, SIEMON EDWARD
+
+Department: MUSC
+Course Number: 310
+Section: 1W1
+Description: The study of orchestration through the analysis of orchestral works, listening and scoring projects. Activities also include choral arranging and scoring for stage band and wind ensemble.
+Pre-reqs: MUSC 309.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

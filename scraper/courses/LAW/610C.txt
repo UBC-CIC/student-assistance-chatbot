@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 610C
+Section: 001
+Description: Including law and feminism, Marxism, post-modernism, social theory, law and the state; legal liberalism and its critics, and other jurisprudential discourses.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: SARFATY, GALIT
+

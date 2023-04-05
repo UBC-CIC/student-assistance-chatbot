@@ -1,0 +1,364 @@
+Department: JAPN
+Course Number: 100
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D313
+Instructor: EL-KHOURY, MASUMI ABE
+
+Department: JAPN
+Course Number: 100
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D323
+Instructor: KAWADA, NORIYUKI
+
+Department: JAPN
+Course Number: 100
+Section: 003
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D229
+Instructor: EL-KHOURY, MASUMI ABE
+
+Department: JAPN
+Course Number: 100
+Section: 004
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D229
+Instructor: TAKAHASHI-TAUCAR, HARUYO
+
+Department: JAPN
+Course Number: 100
+Section: 005
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B306
+Instructor: KIM, IHHWA
+
+Department: JAPN
+Course Number: 100
+Section: 006
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: D313
+Instructor: HALL, NICHOLAS
+
+Department: JAPN
+Course Number: 100
+Section: 007
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B304
+Instructor: KAZAMA, MISUZU
+
+Department: JAPN
+Course Number: 100
+Section: 008
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D205
+Instructor: TANAKA, KAORI
+
+Department: JAPN
+Course Number: 100
+Section: 009
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: D207
+Instructor: KAZAMA, MISUZU
+
+Department: JAPN
+Course Number: 100
+Section: 010
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D221
+Instructor: SUZUKI, MICHIKO
+
+Department: JAPN
+Course Number: 100
+Section: 011
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 16:00, End Time: 18:00, Building: Buchanan, Room: D313
+Instructor: TANAKA, KAORI
+
+Department: JAPN
+Course Number: 100
+Section: 012
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 16:00, Building: Anthropology, Room: and
+Instructor: MATSUMOTO, YASUKO
+
+Department: JAPN
+Course Number: 100
+Section: 021
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D307
+Instructor: EL-KHOURY, MASUMI ABE
+
+Department: JAPN
+Course Number: 100
+Section: 023
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 10:00, End Time: 11:00, Building: Leon, Room: and
+Instructor: SUZUKI, MICHIKO
+
+Department: JAPN
+Course Number: 100
+Section: 024
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B303
+Instructor: EL-KHOURY, MASUMI ABE
+
+Department: JAPN
+Course Number: 100
+Section: 025
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 11:00, End Time: 12:00, Building: Leon, Room: and
+Instructor: TANAKA, KAORI
+
+Department: JAPN
+Course Number: 100
+Section: 026
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 19:00, Building: Buchanan, Room: D313
+
+Department: JAPN
+Course Number: 100
+Section: 027
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: D205
+Instructor: TAKAHASHI-TAUCAR, HARUYO
+
+Department: JAPN
+Course Number: 100
+Section: 99A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HALL, NICHOLAS
+
+Department: JAPN
+Course Number: 100
+Section: 99C
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KIM, IHHWA
+
+Department: JAPN
+Course Number: 100
+Section: W01
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 9:00, End Time: 10:00
+Instructor: EL-KHOURY, MASUMI ABE
+
+Department: JAPN
+Course Number: 100
+Section: W02
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 10:00, End Time: 11:00
+Instructor: KAWADA, NORIYUKI
+
+Department: JAPN
+Course Number: 100
+Section: W03
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 11:00, End Time: 12:00
+Instructor: EL-KHOURY, MASUMI ABE
+
+Department: JAPN
+Course Number: 100
+Section: W04
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 12:00, End Time: 13:00
+Instructor: TAKAHASHI-TAUCAR, HARUYO
+
+Department: JAPN
+Course Number: 100
+Section: W05
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 14:00, End Time: 15:00
+Instructor: KIM, IHHWA
+
+Department: JAPN
+Course Number: 100
+Section: W06
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 16:00
+Instructor: HALL, NICHOLAS
+
+Department: JAPN
+Course Number: 100
+Section: W07
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 14:00, End Time: 15:00
+Instructor: KAZAMA, MISUZU
+
+Department: JAPN
+Course Number: 100
+Section: W08
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 13:00, End Time: 14:00
+Instructor: TANAKA, KAORI
+
+Department: JAPN
+Course Number: 100
+Section: W09
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:00
+Instructor: KAZAMA, MISUZU
+
+Department: JAPN
+Course Number: 100
+Section: W10
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 13:00, End Time: 14:00
+Instructor: SUZUKI, MICHIKO
+
+Department: JAPN
+Course Number: 100
+Section: W11
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 16:00, End Time: 18:00
+Instructor: TANAKA, KAORI
+
+Department: JAPN
+Course Number: 100
+Section: W12
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 16:00, End Time: 18:00
+Instructor: MATSUMOTO, YASUKO
+
+Department: JAPN
+Course Number: 100
+Section: W21
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 13:00, End Time: 14:00
+Instructor: EL-KHOURY, MASUMI ABE
+
+Department: JAPN
+Course Number: 100
+Section: W22
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 14:00, End Time: 15:00
+Instructor: TBA
+
+Department: JAPN
+Course Number: 100
+Section: W23
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 10:00, End Time: 11:00
+Instructor: SUZUKI, MICHIKO
+
+Department: JAPN
+Course Number: 100
+Section: W24
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 14:00, End Time: 15:00
+Instructor: EL-KHOURY, MASUMI ABE
+
+Department: JAPN
+Course Number: 100
+Section: W25
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 11:00, End Time: 12:00
+Instructor: TANAKA, KAORI
+
+Department: JAPN
+Course Number: 100
+Section: W26
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 19:00
+Instructor: TBA
+
+Department: JAPN
+Course Number: 100
+Section: W27
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:00
+Instructor: TAKAHASHI-TAUCAR, HARUYO
+
+Department: JAPN
+Course Number: 100
+Section: W9A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HALL, NICHOLAS
+
+Department: JAPN
+Course Number: 100
+Section: W9C
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KIM, IHHWA
+

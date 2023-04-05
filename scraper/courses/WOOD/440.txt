@@ -1,0 +1,22 @@
+Department: WOOD
+Course Number: 440
+Section: 101
+Description: Use of engineering economics to evaluate investment proposals of an engineering nature, including decision making processes, time value of money, cash flow analysis, comparison methods, depreciation, replacement analysis, taxes, inflation and sensitivity analysis.
+Pre-reqs: WOOD 330.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:00, Building: Forest, Room: Sciences
+Instructor: SOWLATI, TARANEH
+
+Department: WOOD
+Course Number: 440
+Section: L01
+Description: Use of engineering economics to evaluate investment proposals of an engineering nature, including decision making processes, time value of money, cash flow analysis, comparison methods, depreciation, replacement analysis, taxes, inflation and sensitivity analysis.
+Pre-reqs: WOOD 330.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Forest, Room: Sciences
+Instructor: SOWLATI, TARANEH
+

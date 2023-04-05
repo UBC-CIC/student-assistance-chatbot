@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 352
+Section: 001
+Description: Survey of the history and present status of the legal relationships between Canada's Aboriginal peoples and the state.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:30, Building: Allard, Room: Hall
+Instructor: CHRISTIE, GORDON
+

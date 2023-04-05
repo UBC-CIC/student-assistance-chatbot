@@ -1,0 +1,88 @@
+Department: LING
+Course Number: 311
+Section: 001
+Description: Introduction to phonological analysis and theory, with a strong emphasis on description and analysis of data from a wide variety of languages.
+Pre-reqs: LING 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Forest, Room: Sciences
+Instructor: PULLEYBLANK, DOUGLAS
+
+Department: LING
+Course Number: 311
+Section: TU1
+Description: Introduction to phonological analysis and theory, with a strong emphasis on description and analysis of data from a wide variety of languages.
+Pre-reqs: LING 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: LING
+Course Number: 311
+Section: TU2
+Description: Introduction to phonological analysis and theory, with a strong emphasis on description and analysis of data from a wide variety of languages.
+Pre-reqs: LING 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: LING
+Course Number: 311
+Section: TU5
+Description: Introduction to phonological analysis and theory, with a strong emphasis on description and analysis of data from a wide variety of languages.
+Pre-reqs: LING 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: LING
+Course Number: 311
+Section: 002
+Description: Introduction to phonological analysis and theory, with a strong emphasis on description and analysis of data from a wide variety of languages.
+Pre-reqs: LING 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Civil, Room: and
+Instructor: PULLEYBLANK, DOUGLAS
+
+Department: LING
+Course Number: 311
+Section: TU3
+Description: Introduction to phonological analysis and theory, with a strong emphasis on description and analysis of data from a wide variety of languages.
+Pre-reqs: LING 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: LING
+Course Number: 311
+Section: TU4
+Description: Introduction to phonological analysis and theory, with a strong emphasis on description and analysis of data from a wide variety of languages.
+Pre-reqs: LING 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: LING
+Course Number: 311
+Section: TU6
+Description: Introduction to phonological analysis and theory, with a strong emphasis on description and analysis of data from a wide variety of languages.
+Pre-reqs: LING 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Orchard, Room: Commons
+Instructor: TBA
+

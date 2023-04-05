@@ -1,0 +1,33 @@
+Department: FNH
+Course Number: 490
+Section: 001
+Description: Analysis and interpretation of current issues in food, nutrition and health.
+Pre-reqs: (3rd year standing or higher.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: DEE, DEREK
+
+Department: FNH
+Course Number: 490
+Section: DY5
+Description: Analysis and interpretation of current issues in food, nutrition and health.
+Pre-reqs: (3rd year standing or higher.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Mon Tue Wed Thu Fri, Start Time: 9:00, End Time: 17:00
+Instructor: BROWES, ALISON
+
+Department: FNH
+Course Number: 490
+Section: OF2
+Description: Analysis and interpretation of current issues in food, nutrition and health.
+Pre-reqs: (3rd year standing or higher.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Mon Tue Wed Thu Fri, Start Time: 9:00, End Time: 17:00
+Instructor: BROWES, ALISON
+

@@ -1,0 +1,9 @@
+Department: ASIA
+Course Number: 476Z
+Section: 001
+Pre-reqs: (Restricted to students with 2nd year standing or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SATHAYE, ADHEESH
+

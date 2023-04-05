@@ -1,0 +1,20 @@
+Department: PPGA
+Course Number: 509
+Section: 001
+Description: The role of media, especially new media, in effectively communicating policy to stakeholders. Focus on communications formats including written, oral, and multimedia policy communications. Examples include policy briefs, presentations, and intercultural communications.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:30, End Time: 13:00, Building: C., Room: K.
+Instructor: EVANS, HEIDI
+
+Department: PPGA
+Course Number: 509
+Section: 002
+Description: The role of media, especially new media, in effectively communicating policy to stakeholders. Focus on communications formats including written, oral, and multimedia policy communications. Examples include policy briefs, presentations, and intercultural communications.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:30, End Time: 15:00, Building: C., Room: K.
+Instructor: EVANS, HEIDI
+

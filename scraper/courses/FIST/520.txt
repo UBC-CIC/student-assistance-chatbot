@@ -1,0 +1,10 @@
+Department: FIST
+Course Number: 520
+Section: 001
+Description: Film and media criticism, with detailed interrogation of conceptual foundations and contemporary case-studies.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Irving, Room: K
+Instructor: BROWN, WILLIAM
+

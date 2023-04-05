@@ -1,0 +1,42 @@
+Department: ELEC
+Course Number: 311
+Section: 101
+Description: Waves and propagation; Maxwell's equations; applications including transmission lines; impedance matching and Smith charts; reflection and refraction; waveguides and antennas.
+Pre-reqs: ELEC 211 and either (a) all of MATH 101, MATH 263, MATH 265, MATH 267 or (b) all of MATH 101, MATH 253, MATH 264, MATH 265, MATH 267 or (c) all of MATH 101, MATH 253, MATH 256, MATH 264.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 11:00, End Time: 13:00, Building: Civil, Room: and
+Instructor: MICHELSON, DAVID
+
+Department: ELEC
+Course Number: 311
+Section: 1W1
+Description: Waves and propagation; Maxwell's equations; applications including transmission lines; impedance matching and Smith charts; reflection and refraction; waveguides and antennas.
+Pre-reqs: ELEC 211 and either (a) all of MATH 101, MATH 263, MATH 265, MATH 267 or (b) all of MATH 101, MATH 253, MATH 264, MATH 265, MATH 267 or (c) all of MATH 101, MATH 253, MATH 256, MATH 264.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 311
+Section: 201
+Description: Waves and propagation; Maxwell's equations; applications including transmission lines; impedance matching and Smith charts; reflection and refraction; waveguides and antennas.
+Pre-reqs: ELEC 211 and either (a) all of MATH 101, MATH 263, MATH 265, MATH 267 or (b) all of MATH 101, MATH 253, MATH 264, MATH 265, MATH 267 or (c) all of MATH 101, MATH 253, MATH 256, MATH 264.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 13:00, Building: MacLeod, Room: 3018
+Instructor: YEDLIN, MATTHEW
+
+Department: ELEC
+Course Number: 311
+Section: 2W1
+Description: Waves and propagation; Maxwell's equations; applications including transmission lines; impedance matching and Smith charts; reflection and refraction; waveguides and antennas.
+Pre-reqs: ELEC 211 and either (a) all of MATH 101, MATH 263, MATH 265, MATH 267 or (b) all of MATH 101, MATH 253, MATH 264, MATH 265, MATH 267 or (c) all of MATH 101, MATH 253, MATH 256, MATH 264.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

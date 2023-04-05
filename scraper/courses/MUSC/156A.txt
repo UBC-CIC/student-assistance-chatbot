@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 156A
+Section: 001
+Description: Vocal Chamber Ensembles - WOMEN'S CHOIR
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 19:00, End Time: 21:30, Building: Music, Room: 201
+Instructor: LANGAGER, GRAEME
+

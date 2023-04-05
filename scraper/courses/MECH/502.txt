@@ -1,0 +1,19 @@
+Department: MECH
+Course Number: 502
+Section: 101
+Description: Governing equations; viscous incompressible flow, incompressible potential flow; incompressible boundary layers, stability and turbulence; compressible potential flow.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Civil, Room: and
+Instructor: ELFRING, GWYNN
+
+Department: MECH
+Course Number: 502
+Section: WL1
+Description: Governing equations; viscous incompressible flow, incompressible potential flow; incompressible boundary layers, stability and turbulence; compressible potential flow.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

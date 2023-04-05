@@ -1,0 +1,11 @@
+Department: MECH
+Course Number: 588
+Section: 201
+Description: Selected advanced topics in CFD, typically chosen from: Finite volume methods on curvilinear meshes and structured mesh generation. Finite volume methods on unstructured meshes. Multigrid methods for elliptic PDE's. Reynolds-averaged form of the Navier-Stokes equations and turbulence modelling. Three-dimensional flows. Compressible flows.
+Pre-reqs: One of MECH 510, MECH 587.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: MacLeod, Room: 2014
+Instructor: OLLIVIER-GOOCH, CARL
+

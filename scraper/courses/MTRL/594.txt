@@ -1,0 +1,20 @@
+Department: MTRL
+Course Number: 594
+Section: 101
+Description: Processing and properties of advanced polymer based composite materials with emphasis on analysis, design, and manufacturing.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: POURSARTIP, ANOSHIRAVAN
+
+Department: MTRL
+Course Number: 594
+Section: T1A
+Description: Processing and properties of advanced polymer based composite materials with emphasis on analysis, design, and manufacturing.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Orchard, Room: Commons
+Instructor: POURSARTIP, ANOSHIRAVAN
+

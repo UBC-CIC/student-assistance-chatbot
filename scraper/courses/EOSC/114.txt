@@ -1,0 +1,64 @@
+Department: EOSC
+Course Number: 114
+Section: 101
+Description: The Catastrophic Earth: Natural Disasters
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: Earth, Room: Sciences
+Instructor: DARCY, MITCHALL
+
+Department: EOSC
+Course Number: 114
+Section: 102
+Description: The Catastrophic Earth: Natural Disasters
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: West, Room: Mall
+Instructor: DARCY, MITCHALL
+
+Department: EOSC
+Course Number: 114
+Section: 201
+Description: The Catastrophic Earth: Natural Disasters
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: GILLEY, BRETT
+
+Department: EOSC
+Course Number: 114
+Section: 202
+Description: Introduction to causes and physical characteristics of disasters such as volcanic eruptions, earthquakes, tsunamis, hurricanes, storm surge, thunderstorms, tornadoes, landslides, wind waves, meteor impacts, mass extinctions.
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Neville, Room: Scarfe
+Instructor: GILLEY, BRETT
+
+Department: EOSC
+Course Number: 114
+Section: 99A
+Description: The Catastrophic Earth: Natural Disasters
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: VER, LEAH MAY
+
+Department: EOSC
+Course Number: 114
+Section: 99C
+Description: The Catastrophic Earth: Natural Disasters
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: VER, LEAH MAY
+

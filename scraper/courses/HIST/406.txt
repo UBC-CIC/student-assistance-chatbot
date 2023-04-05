@@ -1,0 +1,11 @@
+Department: HIST
+Course Number: 406
+Section: 101
+Description: Precursors and consequences of the war; military, political, cultural, social, and economic histories of how the war shaped and reflected its global context. Themes include totalitarianism, genocide, and imperialism and decolonization.
+Pre-reqs: (Recommended: 3 credits of any HISTcourse.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 19:00, Building: Orchard, Room: Commons
+Instructor: BORYS, DAVID
+

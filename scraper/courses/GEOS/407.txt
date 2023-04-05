@@ -1,0 +1,32 @@
+Department: GEOS
+Course Number: 407
+Section: 201
+Description: Investigation of vegetation dynamics integrating theory and research to address contemporary issues of global environmental change. Students will conduct fieldwork and learn to analyze data and interpret results.
+Pre-reqs: One of BIOL 230, GEOB 207, GEOS 207, FRST 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:00, Building: Geography, Room: 201
+Instructor: WILLIAMS, JENNIFER
+
+Department: GEOS
+Course Number: 407
+Section: L2A
+Description: Investigation of vegetation dynamics integrating theory and research to address contemporary issues of global environmental change. Students will conduct fieldwork and learn to analyze data and interpret results.
+Pre-reqs: One of BIOL 230, GEOB 207, GEOS 207, FRST 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Geography, Room: 201
+Instructor: WILLIAMS, JENNIFER
+
+Department: GEOS
+Course Number: 407
+Section: WL2
+Description: Investigation of vegetation dynamics integrating theory and research to address contemporary issues of global environmental change. Students will conduct fieldwork and learn to analyze data and interpret results.
+Pre-reqs: One of BIOL 230, GEOB 207, GEOS 207, FRST 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

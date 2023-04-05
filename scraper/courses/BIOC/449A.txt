@@ -1,0 +1,9 @@
+Department: BIOC
+Course Number: 449A
+Section: 101
+Description: Honours Thesis - HONOURS THESIS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, LINDSAY
+

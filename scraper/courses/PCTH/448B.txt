@@ -1,0 +1,18 @@
+Department: PCTH
+Course Number: 448B
+Section: 001
+Description: Advanced investigation of a specific topic in Pharmacology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PCTH
+Course Number: 448B
+Section: 201
+Description: Advanced investigation of a specific topic in Pharmacology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,22 @@
+Department: FREN
+Course Number: 330
+Section: 101
+Description: Survey of representative literary texts from Quebec viewed in their historical, social, and cultural contexts.
+Pre-reqs: One of FREN 220, FREN 221, FREN 311 and one of FREN 224, FREN 401.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D204
+Instructor: ROCHELEAU, ALAIN-MICHEL
+
+Department: FREN
+Course Number: 330
+Section: WL1
+Description: Survey of representative literary texts from Quebec viewed in their historical, social, and cultural contexts.
+Pre-reqs: One of FREN 220, FREN 221, FREN 311 and one of FREN 224, FREN 401.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00
+Instructor: TBA
+

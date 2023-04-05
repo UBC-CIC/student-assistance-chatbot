@@ -1,0 +1,54 @@
+Department: PLAN
+Course Number: 341
+Section: 001
+Description: Rapid transformation of cities by information technology and socio-economic innovation; growth in citizen-generated data and the internet of things; emerging theory, methods, and frameworks for understanding "Smart Cities".
+Pre-reqs: (Third-year standing or above in any program. Second year students may be admitted with permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 15:30, Building: Forest, Room: Sciences
+Instructor: TRAN, MARTINO
+
+Department: PLAN
+Course Number: 341
+Section: 0T1
+Description: Rapid transformation of cities by information technology and socio-economic innovation; growth in citizen-generated data and the internet of things; emerging theory, methods, and frameworks for understanding "Smart Cities".
+Pre-reqs: (Third-year standing or above in any program. Second year students may be admitted with permission of instructor.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 15:30, Building: Neville, Room: Scarfe
+Instructor: TBA
+
+Department: PLAN
+Course Number: 341
+Section: 0T2
+Description: Rapid transformation of cities by information technology and socio-economic innovation; growth in citizen-generated data and the internet of things; emerging theory, methods, and frameworks for understanding "Smart Cities".
+Pre-reqs: (Third-year standing or above in any program. Second year students may be admitted with permission of instructor.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 15:30, Building: Neville, Room: Scarfe
+Instructor: TBA
+
+Department: PLAN
+Course Number: 341
+Section: 0T3
+Description: Rapid transformation of cities by information technology and socio-economic innovation; growth in citizen-generated data and the internet of things; emerging theory, methods, and frameworks for understanding "Smart Cities".
+Pre-reqs: (Third-year standing or above in any program. Second year students may be admitted with permission of instructor.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 15:30, Building: Neville, Room: Scarfe
+Instructor: TBA
+
+Department: PLAN
+Course Number: 341
+Section: 0W1
+Description: Rapid transformation of cities by information technology and socio-economic innovation; growth in citizen-generated data and the internet of things; emerging theory, methods, and frameworks for understanding "Smart Cities".
+Pre-reqs: (Third-year standing or above in any program. Second year students may be admitted with permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

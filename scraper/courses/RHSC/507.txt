@@ -1,0 +1,9 @@
+Department: RHSC
+Course Number: 507
+Section: 011
+Description: Developing Effective Rehabilitation Programs
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HURTUBISE, KAREN
+

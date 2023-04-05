@@ -1,0 +1,190 @@
+Department: EOSC
+Course Number: 111
+Section: L1A
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 14:00, Building: Earth, Room: and
+Instructor: TORTELL, PHILIPPE
+
+Department: EOSC
+Course Number: 111
+Section: L1B
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TORTELL, PHILIPPE
+
+Department: EOSC
+Course Number: 111
+Section: L1C
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TORTELL, PHILIPPE
+
+Department: EOSC
+Course Number: 111
+Section: L1D
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 14:00, Building: Earth, Room: and
+Instructor: TORTELL, PHILIPPE
+
+Department: EOSC
+Course Number: 111
+Section: L1E
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 8:00, End Time: 11:00, Building: Earth, Room: and
+Instructor: TORTELL, PHILIPPE
+
+Department: EOSC
+Course Number: 111
+Section: L2A
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 14:00
+Instructor: TORTELL, PHILIPPE
+
+Department: EOSC
+Course Number: 111
+Section: L2B
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 11:00
+Instructor: TORTELL, PHILIPPE
+
+Department: EOSC
+Course Number: 111
+Section: L2C
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 14:00
+Instructor: TORTELL, PHILIPPE
+
+Department: EOSC
+Course Number: 111
+Section: L2D
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: TORTELL, PHILIPPE
+
+Department: EOSC
+Course Number: 111
+Section: L2E
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: TORTELL, PHILIPPE
+
+Department: EOSC
+Course Number: 111
+Section: W2A
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 111
+Section: W2B
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 111
+Section: W2C
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 111
+Section: W2D
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 111
+Section: W2E
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 111
+Section: WLA
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 111
+Section: WLB
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 111
+Section: WLC
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 111
+Section: WLD
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 111
+Section: WLE
+Description: An examination of the processes that shape and change the planet earth. This laboratory course is an appropriate complement to EOSC 110, EOSC 112, EOSC 114, EOSC 116 but can also be taken independently.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

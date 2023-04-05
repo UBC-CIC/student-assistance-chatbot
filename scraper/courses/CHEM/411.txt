@@ -1,0 +1,10 @@
+Department: CHEM
+Course Number: 411
+Section: 201
+Pre-reqs: CHEM 460.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Chemistry, Room: D215
+Instructor: DAKE, GREGORY
+

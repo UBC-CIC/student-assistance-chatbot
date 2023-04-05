@@ -1,0 +1,9 @@
+Department: FOPE
+Course Number: 505
+Section: 201
+Description: The ecological processes found in tropical humid and dry forests, including a series of case studies drawn from tropical forests around the world.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SUNDERLAND, TERENCE
+

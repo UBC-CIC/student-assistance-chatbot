@@ -1,0 +1,40 @@
+Department: BAMA
+Course Number: 505
+Section: 001
+Description: Study of business development as a tool for creating long-term value from clients, markets and relationships.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: ARNEY, NATHANAEL
+
+Department: BAMA
+Course Number: 505
+Section: DD1
+Description: Study of business development as a tool for creating long-term value from clients, markets and relationships.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: ARNEY, NATHANAEL
+
+Department: BAMA
+Course Number: 505
+Section: DD2
+Description: Study of business development as a tool for creating long-term value from clients, markets and relationships.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: ARNEY, NATHANAEL
+
+Department: BAMA
+Course Number: 505
+Section: MM1
+Description: Study of business development as a tool for creating long-term value from clients, markets and relationships.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 16:00, Building: David, Room: Lam
+Instructor: WONG, JACQUELINE
+

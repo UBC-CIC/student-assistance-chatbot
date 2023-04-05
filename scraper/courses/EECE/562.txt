@@ -1,0 +1,17 @@
+Department: EECE
+Course Number: 562
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 17:00, End Time: 18:30, Building: Civil, Room: and
+Instructor: WANG, ZHEN
+
+Department: EECE
+Course Number: 562
+Section: 1W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

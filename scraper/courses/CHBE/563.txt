@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 563
+Section: 201
+Description: Techniques for characterizing catalysts and their surfaces. Commercial methods of preparing catalysts. Chemistry of catalytic reactions and the impact of catalyst properties, mechanisms and kinetics on reactor engineering. Applications of catalytic oxidations, hydrogenations, C-C bond formation and cracking.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: UPHAM, DAVID CHESTER
+

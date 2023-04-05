@@ -1,0 +1,18 @@
+Department: ASTU
+Course Number: 502
+Section: 101
+Pre-reqs: ASTU 501.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ASTU
+Course Number: 502
+Section: 201
+Pre-reqs: ASTU 501.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

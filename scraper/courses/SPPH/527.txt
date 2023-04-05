@@ -1,0 +1,20 @@
+Department: SPPH
+Course Number: 527
+Section: BL1
+Description: Foundational thinking giving rise to the concept of population health. Overview of the current state of research.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 1, Start Time: Wed^, End Time: 9:00, Building: 12:00, Room: School
+Instructor: PALIS, HEATHER
+
+Department: SPPH
+Course Number: 527
+Section: BL2
+Description: Foundational thinking giving rise to the concept of population health. Overview of the current state of research.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Wed, Start Time: 9:30, End Time: 12:30
+Instructor: FRANK, ERICA
+

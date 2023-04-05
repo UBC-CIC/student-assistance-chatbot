@@ -1,0 +1,11 @@
+Department: PCTH
+Course Number: 201
+Section: 001
+Description: Introductory principles of drug action. Historical and present day medical and non-medical use of drugs.
+Pre-reqs: (One of Biology 12, BIOL 111, BIOL 112, BIOL 153, BIOL 155, or SCIE 001. Second-year standing is required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Wesbrook, Room: 100
+Instructor: BERNATCHEZ, PASCAL
+

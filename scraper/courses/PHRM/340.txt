@@ -1,0 +1,11 @@
+Department: PHRM
+Course Number: 340
+Section: 001
+Description: Basic mechanisms and the clinical management of acute and chronic pain.
+Pre-reqs: (Third Year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: VERMA, ARUN
+

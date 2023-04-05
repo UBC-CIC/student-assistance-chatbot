@@ -1,0 +1,9 @@
+Department: PATH
+Course Number: 415
+Section: 001
+Description: Immunological events causing tissue injury.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Thu, Start Time: 11:00, End Time: 12:00, Building: UBC, Room: Hospital
+

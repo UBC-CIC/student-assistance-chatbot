@@ -1,0 +1,48 @@
+Department: LFS
+Course Number: 100
+Section: 001
+Description: Orientation to the programs, learning environment and core values of the Faculty of Land and Food Systems; career programs; survey of professional opportunities and requirements.
+Credits: 1
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00
+Instructor: KESLER, RAELANI
+
+Department: LFS
+Course Number: 100
+Section: 002
+Description: Orientation to the programs, learning environment and core values of the Faculty of Land and Food Systems; career programs; survey of professional opportunities and requirements.
+Credits: 1
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00
+Instructor: KESLER, RAELANI
+
+Department: LFS
+Course Number: 100
+Section: 003
+Description: Orientation to the programs, learning environment and core values of the Faculty of Land and Food Systems; career programs; survey of professional opportunities and requirements.
+Credits: 1
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00
+Instructor: KESLER, RAELANI
+
+Department: LFS
+Course Number: 100
+Section: WXT
+Description: Orientation to the programs, learning environment and core values of the Faculty of Land and Food Systems; career programs; survey of professional opportunities and requirements.
+Credits: 1
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Instructor: TBA
+
+Department: LFS
+Course Number: 100
+Section: XMT
+Description: Orientation to the programs, learning environment and core values of the Faculty of Land and Food Systems; career programs; survey of professional opportunities and requirements.
+Credits: 1
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Instructor: TBA
+

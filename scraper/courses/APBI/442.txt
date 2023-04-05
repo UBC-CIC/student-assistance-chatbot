@@ -1,0 +1,10 @@
+Department: APBI
+Course Number: 442
+Section: 001
+Pre-reqs: All of BIOL 112, BIOL 121 and one of BIOL 200, BIOL 201, APBI 210, BIOL 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: CASTELLARIN, SIMONE
+

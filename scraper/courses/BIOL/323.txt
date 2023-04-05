@@ -1,0 +1,77 @@
+Department: BIOL
+Course Number: 323
+Section: 101
+Description: The evolutionary diversity of the fungi as shown by their morphology and reproductive biology.
+Pre-reqs: BIOL 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 116
+Instructor: BERBEE, MARY
+
+Department: BIOL
+Course Number: 323
+Section: L11
+Description: The evolutionary diversity of the fungi as shown by their morphology and reproductive biology.
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 323
+Section: L12
+Description: The evolutionary diversity of the fungi as shown by their morphology and reproductive biology.
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 323
+Section: T01
+Description: The evolutionary diversity of the fungi as shown by their morphology and reproductive biology.
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 323
+Section: T02
+Description: The evolutionary diversity of the fungi as shown by their morphology and reproductive biology.
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 323
+Section: T03
+Description: The evolutionary diversity of the fungi as shown by their morphology and reproductive biology.
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 323
+Section: 1W1
+Description: The evolutionary diversity of the fungi as shown by their morphology and reproductive biology.
+Pre-reqs: BIOL 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:00
+Instructor: TBA
+

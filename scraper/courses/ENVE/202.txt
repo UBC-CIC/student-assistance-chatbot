@@ -1,0 +1,22 @@
+Department: ENVE
+Course Number: 202
+Section: 201
+Description: Analysis of integrated environmental systems, quantification of fundamental chemical and biological processes, systems design, evaluation of environmental impact, future trends.
+Pre-reqs: All of CHEM 154, CIVL 204, CHBE 241, ENVE 200.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Neville, Room: Scarfe
+Instructor: BAALBAKI, ZEINA
+
+Department: ENVE
+Course Number: 202
+Section: L2A
+Description: Analysis of integrated environmental systems, quantification of fundamental chemical and biological processes, systems design, evaluation of environmental impact, future trends.
+Pre-reqs: All of CHEM 154, CIVL 204, CHBE 241, ENVE 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Frank, Room: Forward
+Instructor: BAALBAKI, ZEINA
+

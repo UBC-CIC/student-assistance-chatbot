@@ -1,0 +1,20 @@
+Department: PHAR
+Course Number: 497B
+Section: 001
+Description: Individual assignments involving library and laboratory investigation in an area of pharmaceutical research.
+Pre-reqs: PHAR 204.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DE VERA, MARY
+
+Department: PHAR
+Course Number: 497B
+Section: 002
+Description: Individual assignments involving library and laboratory investigation in an area of pharmaceutical research.
+Pre-reqs: PHAR 204.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MAHARAJ, ANIL
+

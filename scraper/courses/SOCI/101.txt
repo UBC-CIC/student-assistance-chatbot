@@ -1,0 +1,297 @@
+Department: SOCI
+Course Number: 101
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Chemistry, Room: B150
+Instructor: MACKENZIE, CHRISTOPHER
+
+Department: SOCI
+Course Number: 101
+Section: A11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Leon, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: B11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D304
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: C11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: D11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Leon, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: E11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D229
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: F11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: G11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: H11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 16:00, End Time: 17:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: I11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: J11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Mathematics, Room: 203
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: 102
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: A101
+Instructor: SILVA, TONY
+
+Department: SOCI
+Course Number: 101
+Section: A12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D307
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: B12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B304
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: C12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B307
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: D12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: E12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D322
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: F12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: G12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: H12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: I12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: J12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: A101
+Instructor: MACKENZIE, CHRISTOPHER
+
+Department: SOCI
+Course Number: 101
+Section: A21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D221
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: B21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: C21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: D21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D207
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: E21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: F21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B315
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: G21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D322
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: H21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Leon, Room: and
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: I21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Mathematics, Room: 203
+Instructor: TBA
+
+Department: SOCI
+Course Number: 101
+Section: J21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Anthropology, Room: and
+Instructor: TBA
+

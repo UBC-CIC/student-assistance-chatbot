@@ -1,0 +1,18 @@
+Department: MINE
+Course Number: 547
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:30, End Time: 9:30, Building: Frank, Room: Forward
+Instructor: MISKOVIC, ILIJA
+
+Department: MINE
+Course Number: 547
+Section: L1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 11:30
+Instructor: MISKOVIC, ILIJA
+

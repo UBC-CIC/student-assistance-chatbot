@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 336
+Section: 001
+Description: Sufi and Bhakti thought and tradition in South Asia through literary works in translation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 19:00, Building: Buchanan, Room: D322
+Instructor: KUMAR BHATT, SUNIL
+
+Department: ASIA
+Course Number: 336
+Section: W01
+Description: Sufi and Bhakti thought and tradition in South Asia through literary works in translation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 19:00
+Instructor: KUMAR BHATT, SUNIL
+

@@ -1,0 +1,19 @@
+Department: EOSC
+Course Number: 478
+Section: 201
+Description: An introduction to the ecology and management of freshwater and marine fisheries. Topics include: population dynamics, species interactions, communities, environmental influences, stock assessment, economics and sociology of fisheries. Laboratories will consist of numerical analyses and simulations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Friedman, Room: Building
+Instructor: PAKHOMOV, YEVHENII
+
+Department: EOSC
+Course Number: 478
+Section: WL1
+Description: An introduction to the ecology and management of freshwater and marine fisheries. Topics include: population dynamics, species interactions, communities, environmental influences, stock assessment, economics and sociology of fisheries. Laboratories will consist of numerical analyses and simulations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

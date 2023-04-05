@@ -1,0 +1,21 @@
+Department: MUSC
+Course Number: 409D
+Section: 001
+Description: Jazz scales, chord relationships, substitutions, orchestration, listening, and score analysis. Restricted to B.Mus. and B.A. in Music students.
+Pre-reqs: MUSC 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:30, End Time: 10:00, Building: Music, Room: 338
+Instructor: STRIDE, FREDERICK
+
+Department: MUSC
+Course Number: 409D
+Section: 1W1
+Description: Jazz scales, chord relationships, substitutions, orchestration, listening, and score analysis. Restricted to B.Mus. and B.A. in Music students.
+Pre-reqs: MUSC 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: STRIDE, FREDERICK
+

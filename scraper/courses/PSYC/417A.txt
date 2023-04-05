@@ -1,0 +1,22 @@
+Department: PSYC
+Course Number: 417A
+Section: 001
+Description: Intensive examination of selected topics and issues in psychology.
+Pre-reqs: Either (a) one of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 278; or (b) PSYC 366.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: West, Room: Mall
+Instructor: RIGHTS, JASON
+
+Department: PSYC
+Course Number: 417A
+Section: 002
+Description: Intensive examination of selected topics and issues in psychology.
+Pre-reqs: Either (a) one of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 278; or (b) PSYC 366.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: HEINE, STEVEN
+

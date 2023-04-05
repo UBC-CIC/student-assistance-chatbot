@@ -1,0 +1,20 @@
+Department: CPSC
+Course Number: 532S
+Section: 101
+Description: Topics in Artificial Intelligence - VISION&LANGUAGE
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Institute, Room: for
+Instructor: SIGAL, LEONID
+
+Department: CPSC
+Course Number: 532S
+Section: 1W1
+Description: Topics in Artificial Intelligence - VISION&LANGUAGE
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: To, Room: Be
+Instructor: SIGAL, LEONID
+

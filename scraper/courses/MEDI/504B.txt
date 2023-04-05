@@ -1,0 +1,10 @@
+Department: MEDI
+Course Number: 504B
+Section: 201
+Description: Restricted to students in one of: Master of Science in Experimental Medicine or Doctor of Philosophy in Experimental Medicine.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 15:00
+Instructor: TALHOUK, ALINE(Coordinator)
+

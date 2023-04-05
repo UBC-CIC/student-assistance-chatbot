@@ -1,0 +1,30 @@
+Department: MTRL
+Course Number: 382
+Section: 201
+Description: Fundamentals of engineering ceramics focusing on raw materials, forming, sintering and properties, characterization, and design with ceramics.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: ZANG, ANDREW
+
+Department: MTRL
+Course Number: 382
+Section: L2A
+Description: Fundamentals of engineering ceramics focusing on raw materials, forming, sintering and properties, characterization, and design with ceramics.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Frank, Room: Forward
+Instructor: ZANG, ANDREW
+
+Department: MTRL
+Course Number: 382
+Section: L2B
+Description: Fundamentals of engineering ceramics focusing on raw materials, forming, sintering and properties, characterization, and design with ceramics.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Frank, Room: Forward
+Instructor: ZANG, ANDREW
+

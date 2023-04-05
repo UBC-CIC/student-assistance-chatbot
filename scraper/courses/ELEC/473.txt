@@ -1,0 +1,19 @@
+Department: ELEC
+Course Number: 473
+Section: 101
+Description: Principles of sensors, actuators, microfluidics, biotechnology and nanotechnology, with applications in probing, detection, assaying and drug delivery.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: West, Room: Mall
+Instructor: CHEUNG, KAREN
+
+Department: ELEC
+Course Number: 473
+Section: 1W1
+Description: Principles of sensors, actuators, microfluidics, biotechnology and nanotechnology, with applications in probing, detection, assaying and drug delivery.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

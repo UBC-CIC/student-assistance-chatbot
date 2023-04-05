@@ -1,0 +1,10 @@
+Department: RHSC
+Course Number: 506A
+Section: 001
+Description: Current Topics in Rehabilitation - CUR TPCS REHAB
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30
+Instructor: TETZLAFF, WOLFRAM
+

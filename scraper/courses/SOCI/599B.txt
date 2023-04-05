@@ -1,0 +1,10 @@
+Department: SOCI
+Course Number: 599B
+Section: 195
+Description: Special Topics Seminar - ECONOMIC SOCI
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 13:00, Building: Buchanan, Room: B218
+Instructor: HUYSER, KIMBERLY
+

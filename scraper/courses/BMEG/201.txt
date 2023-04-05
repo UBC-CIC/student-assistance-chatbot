@@ -1,0 +1,39 @@
+Department: BMEG
+Course Number: 201
+Section: 201
+Pre-reqs: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: BAYAT, SHARAREH
+
+Department: BMEG
+Course Number: 201
+Section: 202
+Pre-reqs: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Neville, Room: Scarfe
+Instructor: BAYAT, SHARAREH
+
+Department: BMEG
+Course Number: 201
+Section: 203
+Pre-reqs: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Food,, Room: Nutrition
+Instructor: BAYAT, SHARAREH
+
+Department: BMEG
+Course Number: 201
+Section: WL1
+Pre-reqs: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

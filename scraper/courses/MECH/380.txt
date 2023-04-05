@@ -1,0 +1,33 @@
+Department: MECH
+Course Number: 380
+Section: 201
+Description: Review of principles, compressible flow, potential flow, simple laminar viscous flow, boundary layers, flow around bluff bodies.
+Pre-reqs: Either (a) MECH 225 or (b) MATH 255 and one of CHBE 251, CIVL 215, MECH 280 and one of CHBE 241, ENPH 257, PHYS 203.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: UBC, Room: Life
+Instructor: JAIMAN, RAJEEV
+
+Department: MECH
+Course Number: 380
+Section: T2A
+Description: Review of principles, compressible flow, potential flow, simple laminar viscous flow, boundary layers, flow around bluff bodies.
+Pre-reqs: Either (a) MECH 225 or (b) MATH 255 and one of CHBE 251, CIVL 215, MECH 280 and one of CHBE 241, ENPH 257, PHYS 203.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: MacLeod, Room: 3018
+Instructor: JAIMAN, RAJEEV
+
+Department: MECH
+Course Number: 380
+Section: T2B
+Description: Review of principles, compressible flow, potential flow, simple laminar viscous flow, boundary layers, flow around bluff bodies.
+Pre-reqs: Either (a) MECH 225 or (b) MATH 255 and one of CHBE 251, CIVL 215, MECH 280 and one of CHBE 241, ENPH 257, PHYS 203.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: MacLeod, Room: 3002
+Instructor: JAIMAN, RAJEEV
+

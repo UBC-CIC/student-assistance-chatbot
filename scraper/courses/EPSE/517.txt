@@ -1,0 +1,10 @@
+Department: EPSE
+Course Number: 517
+Section: 075
+Pre-reqs: AUDI 598.
+Co-reqs: AUDI 598.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SEWELL, CHERI-LEIGH
+

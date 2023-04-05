@@ -1,0 +1,21 @@
+Department: CAPS
+Course Number: 301
+Section: 01D
+Description: Organ systems function with particular reference to mammalian and human physiology. See credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414
+Pre-reqs: Either (a) SCIE 001 or (b) all of BIOL 112, BIOL 121 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 100, PHYS 101, PHYS 107, PHYS 117 and one of CHEM 203, CHEM 233, CHEM 260.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: P., Room: A.
+Instructor: ACCILI, ERIC
+
+Department: CAPS
+Course Number: 301
+Section: 01W
+Description: Organ systems function with particular reference to mammalian and human physiology. See credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414
+Pre-reqs: Either (a) SCIE 001 or (b) all of BIOL 112, BIOL 121 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 100, PHYS 101, PHYS 107, PHYS 117 and one of CHEM 203, CHEM 233, CHEM 260.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,440 @@
+Department: BIOL
+Course Number: 155
+Section: 001
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: BALLAGH, IRENE
+
+Department: BIOL
+Course Number: 155
+Section: T01
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T02
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T03
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T04
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T05
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T06
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T07
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T08
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T09
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T10
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T11
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T12
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T13
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T14
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T15
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T16
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T17
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T18
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T19
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T20
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: 002
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: UBC, Room: Life
+Instructor: BALLAGH, IRENE
+
+Department: BIOL
+Course Number: 155
+Section: T01
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T02
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T03
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T04
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T05
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T06
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T07
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T08
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T09
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T10
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T11
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T12
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T13
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T14
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T15
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T16
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T17
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T18
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T19
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: T20
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: 0W1
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: TBA
+
+Department: BIOL
+Course Number: 155
+Section: 0W2
+Pre-reqs: One of CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, BIOL 12, BIOL 111.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00
+Instructor: TBA
+

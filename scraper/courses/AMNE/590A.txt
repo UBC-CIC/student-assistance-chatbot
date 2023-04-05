@@ -1,0 +1,10 @@
+Department: AMNE
+Course Number: 590A
+Section: 001
+Description: A maximum of 12 credits will be granted for AMNE 590 or CNRS 505. Students should consult the AMNE Graduate Advisor before registering.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Buchanan, Room: D325
+Instructor: HUEMOELLER, KATHARINE
+

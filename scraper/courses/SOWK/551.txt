@@ -1,0 +1,19 @@
+Department: SOWK
+Course Number: 551
+Section: 001
+Description: Health and Social Care Praxis
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ROBITAILLE, TERESA
+
+Department: SOWK
+Course Number: 551
+Section: 002
+Description: Health and Social Care Praxis
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 13:00, Building: Jack, Room: Bell
+Instructor: CARTER, CATHERINE
+

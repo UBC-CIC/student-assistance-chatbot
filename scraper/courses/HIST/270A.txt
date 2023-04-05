@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 270A
+Section: 101
+Description: The history of China in a global context, from the earliest times to the most recent past; how China has changed the world and how engagement with the world has changed China.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 19:00, Building: Buchanan, Room: B213
+Instructor: TONG, CLEMENT
+

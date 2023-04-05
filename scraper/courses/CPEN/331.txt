@@ -1,0 +1,84 @@
+Department: CPEN
+Course Number: 331
+Section: 101
+Description: Operating Systems
+Pre-reqs: One of CPSC 261, CPEN 212 and CPEN 221.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Earth, Room: Sciences
+Instructor: FEDOROVA, ALEXANDRA
+
+Department: CPEN
+Course Number: 331
+Section: L1A
+Description: Operating Systems
+Pre-reqs: One of CPSC 261, CPEN 212 and CPEN 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:30, End Time: 17:30, Building: MacLeod, Room: 4002
+Instructor: FEDOROVA, ALEXANDRA
+
+Department: CPEN
+Course Number: 331
+Section: L1C
+Description: Operating Systems
+Pre-reqs: One of CPSC 261, CPEN 212 and CPEN 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:30, End Time: 20:30, Building: MacLeod, Room: 4002
+Instructor: FEDOROVA, ALEXANDRA
+
+Department: CPEN
+Course Number: 331
+Section: L1D
+Description: Operating Systems
+Pre-reqs: One of CPSC 261, CPEN 212 and CPEN 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:30, End Time: 17:30, Building: MacLeod, Room: 4006
+Instructor: FEDOROVA, ALEXANDRA
+
+Department: CPEN
+Course Number: 331
+Section: 1W1
+Description: Operating Systems
+Pre-reqs: One of CPSC 261, CPEN 212 and CPEN 221.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 331
+Section: LWA
+Description: Operating Systems
+Pre-reqs: One of CPSC 261, CPEN 212 and CPEN 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 331
+Section: LWC
+Description: Operating Systems
+Pre-reqs: One of CPSC 261, CPEN 212 and CPEN 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 331
+Section: LWD
+Description: Operating Systems
+Pre-reqs: One of CPSC 261, CPEN 212 and CPEN 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

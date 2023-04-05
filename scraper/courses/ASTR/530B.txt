@@ -1,0 +1,8 @@
+Department: ASTR
+Course Number: 530B
+Section: 102
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

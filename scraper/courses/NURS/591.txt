@@ -1,0 +1,9 @@
+Department: NURS
+Course Number: 591
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: UBC, Room: Hospital
+Instructor: BURROWS, MARLENE
+

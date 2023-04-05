@@ -1,0 +1,33 @@
+Department: APBI
+Course Number: 499
+Section: 001
+Description: Design and execution of an experimental/analytical research project leading to the preparation of a thesis.
+Pre-reqs: (Approval of a program advisor; consult before the end of classes in third year.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:30
+Instructor: KRZIC, MAJA
+
+Department: APBI
+Course Number: 499
+Section: 101
+Description: Design and execution of an experimental/analytical research project leading to the preparation of a thesis.
+Pre-reqs: (Approval of a program advisor; consult before the end of classes in third year.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:30
+Instructor: KRZIC, MAJA
+
+Department: APBI
+Course Number: 499
+Section: 102
+Description: Design and execution of an experimental/analytical research project leading to the preparation of a thesis.
+Pre-reqs: (Approval of a program advisor; consult before the end of classes in third year.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:30
+Instructor: KRZIC, MAJA
+

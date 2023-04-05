@@ -1,0 +1,9 @@
+Department: SOCI
+Course Number: 501
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: ABRUTYN, SETH
+

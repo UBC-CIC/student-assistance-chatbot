@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 370E
+Section: 001
+Description: Issues in International Conflict Management - IS INTCNFT MNGT
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00
+Instructor: COLLETT, NEEKOO
+

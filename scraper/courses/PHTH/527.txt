@@ -1,0 +1,9 @@
+Department: PHTH
+Course Number: 527
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Fri, Start Time: 8:00, End Time: 11:00
+Instructor: GUENETTE, JORDAN
+

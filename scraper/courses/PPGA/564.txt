@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 564
+Section: 001
+Description: Asian state policies on security threats that impact their national and human security including: civil-military relations, intrastate conflict, transnational crime, spread of disease, and environmental and natural disasters, geo-political power shift, defence modernization, resurgent nationalism, and historical legacies.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: LIU, Room: 130
+Instructor: M. V., RAMANA
+

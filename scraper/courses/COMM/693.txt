@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 693
+Section: 001
+Description: Seminar in Research Methodology I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 18:30, Building: Henry, Room: Angus
+Instructor: HEAD, C KEITH
+

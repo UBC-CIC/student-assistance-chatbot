@@ -1,0 +1,71 @@
+Department: CHBE
+Course Number: 362
+Section: 101
+Description: Experiments to illustrate and use material presented in 200 and 300-level CHBE courses. Field trips may be required.
+Pre-reqs: All of CHBE 201, CHBE 241, CHBE 251, CHBE 264.
+Co-reqs: All of CHBE 370, CHBE 352.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2018
+Instructor: GYENGE, ELOD LAJOS
+
+Department: CHBE
+Course Number: 362
+Section: L1A
+Description: Experiments to illustrate and use material presented in 200 and 300-level CHBE courses. Field trips may be required.
+Pre-reqs: All of CHBE 201, CHBE 241, CHBE 251, CHBE 264.
+Co-reqs: All of CHBE 370, CHBE 352.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 18:00, Building: Chemical, Room: and
+Instructor: GYENGE, ELOD LAJOS
+
+Department: CHBE
+Course Number: 362
+Section: L1B
+Description: Experiments to illustrate and use material presented in 200 and 300-level CHBE courses. Field trips may be required.
+Pre-reqs: All of CHBE 201, CHBE 241, CHBE 251, CHBE 264.
+Co-reqs: All of CHBE 370, CHBE 352.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 18:00, Building: Chemical, Room: and
+Instructor: GYENGE, ELOD LAJOS
+
+Department: CHBE
+Course Number: 362
+Section: L1A
+Description: Experiments to illustrate and use material presented in 200 and 300-level CHBE courses. Field trips may be required.
+Pre-reqs: All of CHBE 201, CHBE 241, CHBE 251, CHBE 264.
+Co-reqs: All of CHBE 370, CHBE 352.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 18:00, Building: Chemical, Room: and
+Instructor: GYENGE, ELOD LAJOS
+
+Department: CHBE
+Course Number: 362
+Section: 101
+Description: Experiments to illustrate and use material presented in 200 and 300-level CHBE courses. Field trips may be required.
+Pre-reqs: All of CHBE 201, CHBE 241, CHBE 251, CHBE 264.
+Co-reqs: All of CHBE 370, CHBE 352.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 2018
+Instructor: GYENGE, ELOD LAJOS
+
+Department: CHBE
+Course Number: 362
+Section: WL1
+Description: Experiments to illustrate and use material presented in 200 and 300-level CHBE courses. Field trips may be required.
+Pre-reqs: All of CHBE 201, CHBE 241, CHBE 251, CHBE 264.
+Co-reqs: All of CHBE 370, CHBE 352.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

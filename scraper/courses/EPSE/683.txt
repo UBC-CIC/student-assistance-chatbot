@@ -1,0 +1,10 @@
+Department: EPSE
+Course Number: 683
+Section: 075
+Pre-reqs: All of EPSE 528, EPSE 592, EPSE 596.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: KROC, EDWARD
+

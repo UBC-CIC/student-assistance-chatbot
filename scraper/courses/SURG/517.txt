@@ -1,0 +1,8 @@
+Department: SURG
+Course Number: 517
+Section: 999
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MULPURI, KISHORE
+

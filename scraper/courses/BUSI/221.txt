@@ -1,0 +1,21 @@
+Department: BUSI
+Course Number: 221
+Section: 001
+Description: History, function and mechanics of Canadian mortgage markets.
+Pre-reqs: BUSI 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 8:00, End Time: 17:00
+Instructor: TBA
+
+Department: BUSI
+Course Number: 221
+Section: 002
+Description: History, function and mechanics of Canadian mortgage markets.
+Pre-reqs: BUSI 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

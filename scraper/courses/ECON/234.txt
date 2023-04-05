@@ -1,0 +1,10 @@
+Department: ECON
+Course Number: 234
+Section: 004
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 19:00, Building: Hebb, Room: 100
+Instructor: DOUGLAS, CATHERINE
+

@@ -1,0 +1,11 @@
+Department: CIVL
+Course Number: 402
+Section: 101
+Description: The Professional Governance Act; professional ethics, conflicts of interest, confidentiality and accountability; health and safety; sustainable development and environmental stewardship; equity considerations; design and construction contracts, specifications and tendering; labour and employment law; dispute resolution; evidence and expert witnesses; torts and legal liability.
+Pre-reqs: (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Leonard, Room: S.
+Instructor: ISAACSON, MICHAEL
+

@@ -1,0 +1,23 @@
+Department: THTR
+Course Number: 499C
+Section: 001
+Description: Assigned projects in Theatre or Film design and production.
+Pre-reqs: THTR 399.
+Co-reqs: One of THTR 405, THTR 406, THTR 407, THTR 408, THTR 450, THTR 452, THTR 454, THTR 456, THTR 470.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FIRKINS, JACQUELINE
+
+Department: THTR
+Course Number: 499C
+Section: PM1
+Description: Assigned projects in Theatre or Film design and production.
+Pre-reqs: THTR 399.
+Co-reqs: One of THTR 405, THTR 406, THTR 407, THTR 408, THTR 450, THTR 452, THTR 454, THTR 456, THTR 470.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:00, End Time: 13:00, Building: Frederic, Room: Wood
+Instructor: TBA
+

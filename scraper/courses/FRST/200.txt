@@ -1,0 +1,87 @@
+Department: FRST
+Course Number: 200
+Section: 101
+Description: Forest Plant Biology I
+Pre-reqs: BIOL 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Forest, Room: Sciences
+Instructor: GUY, ROBERT
+
+Department: FRST
+Course Number: 200
+Section: L01
+Description: Forest Plant Biology I
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: MCKOWN, ATHENA
+
+Department: FRST
+Course Number: 200
+Section: L02
+Description: Forest Plant Biology I
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: MCKOWN, ATHENA
+
+Department: FRST
+Course Number: 200
+Section: L03
+Description: Forest Plant Biology I
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: GUY, ROBERT
+
+Department: FRST
+Course Number: 200
+Section: L04
+Description: Forest Plant Biology I
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 8:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: MCKOWN, ATHENA
+
+Department: FRST
+Course Number: 200
+Section: L05
+Description: Forest Plant Biology I
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: MCKOWN, ATHENA
+
+Department: FRST
+Course Number: 200
+Section: L06
+Description: Forest Plant Biology I
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: GUY, ROBERT
+
+Department: FRST
+Course Number: 200
+Section: WL1
+Description: Forest Plant Biology I
+Pre-reqs: BIOL 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

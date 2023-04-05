@@ -1,0 +1,10 @@
+Department: MEDI
+Course Number: 590
+Section: 001
+Description: Cytokines and signal transduction mechanisms in the growth and differentiation of germ line, haemopoietic and other eukaryotic cells; actions of oncogene and tumor-suppressor gene products; molecular concepts derived from experimental model systems; molecular strategies of cytokine therapy.
+Pre-reqs: One of MICB 302, BIOC 402, BIOC 403. (Permission of course coordinator is also acceptable.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: PELECH, STEVEN DANIEL
+

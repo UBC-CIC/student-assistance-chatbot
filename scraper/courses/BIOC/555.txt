@@ -1,0 +1,9 @@
+Department: BIOC
+Course Number: 555
+Section: 001
+Description: Principles, regulation and dynamics of epigenetics.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HOWE, LEANN
+

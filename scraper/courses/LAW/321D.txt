@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 321D
+Section: 001
+Description: The legal basis for armed conflict or military operations; the rights and obligations of combatants and civilians in a region of armed conflict; war crimes.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 20:00, Building: Allard, Room: Hall
+Instructor: MACKINNON, EMILY
+

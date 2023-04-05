@@ -1,0 +1,66 @@
+Department: COMM
+Course Number: 362
+Section: 101
+Description: The use of consumer research and theory in marketing and policy decisions. Psychological, sociological and economic theory and research relevant to consumer behaviour are considered.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: PARK, JEN
+
+Department: COMM
+Course Number: 362
+Section: 102
+Description: The use of consumer research and theory in marketing and policy decisions. Psychological, sociological and economic theory and research relevant to consumer behaviour are considered.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: PARK, JEN
+
+Department: COMM
+Course Number: 362
+Section: 103
+Description: The use of consumer research and theory in marketing and policy decisions. Psychological, sociological and economic theory and research relevant to consumer behaviour are considered.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: PARK, JEN
+
+Department: COMM
+Course Number: 362
+Section: 201
+Description: The use of consumer research and theory in marketing and policy decisions. Psychological, sociological and economic theory and research relevant to consumer behaviour are considered.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: SOUTH, CLUNY
+
+Department: COMM
+Course Number: 362
+Section: 202
+Description: The use of consumer research and theory in marketing and policy decisions. Psychological, sociological and economic theory and research relevant to consumer behaviour are considered.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: SOUTH, CLUNY
+
+Department: COMM
+Course Number: 362
+Section: 203
+Description: The use of consumer research and theory in marketing and policy decisions. Psychological, sociological and economic theory and research relevant to consumer behaviour are considered.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: SOUTH, CLUNY
+

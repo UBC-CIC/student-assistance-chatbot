@@ -1,0 +1,50 @@
+Department: MECH
+Course Number: 358
+Section: 201
+Pre-reqs: All of MECH 224, MECH 225.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Mathematics, Room: Annex
+Instructor: ELFRING, GWYNN
+
+Department: MECH
+Course Number: 358
+Section: L2A
+Pre-reqs: All of MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00
+Instructor: TBA
+
+Department: MECH
+Course Number: 358
+Section: L2B
+Pre-reqs: All of MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00
+Instructor: TBA
+
+Department: MECH
+Course Number: 358
+Section: L2C
+Pre-reqs: All of MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00
+Instructor: TBA
+
+Department: MECH
+Course Number: 358
+Section: L2D
+Pre-reqs: All of MECH 224, MECH 225.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00
+Instructor: TBA
+

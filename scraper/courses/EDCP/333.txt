@@ -1,0 +1,20 @@
+Department: EDCP
+Course Number: 333
+Section: 301
+Description: Contemporary Issues in Social Studies: Secondary
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: ROSS, E. WAYNE
+
+Department: EDCP
+Course Number: 333
+Section: 302
+Description: Contemporary Issues in Social Studies: Secondary
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:30, End Time: 20:00, Building: Neville, Room: Scarfe
+Instructor: ROSS, E. WAYNE
+

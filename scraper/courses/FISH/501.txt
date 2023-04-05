@@ -1,0 +1,10 @@
+Department: FISH
+Course Number: 501
+Section: 001
+Description: Issues in Fisheries Research: Ecosystem Modelling
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:00, End Time: 11:00, Building: Aquatic, Room: Ecosystems
+Instructor: CHRISTENSEN, VILLY
+

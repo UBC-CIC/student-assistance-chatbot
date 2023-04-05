@@ -1,0 +1,20 @@
+Department: BUSI
+Course Number: 499
+Section: 001
+Description: The income property appraisal process, focusing both on valuation techniques as well as general research and report writing skills.
+Pre-reqs: All of BUSI 330, BUSI 331, BUSI 442, BUSI 452.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BUSI
+Course Number: 499
+Section: 002
+Description: The income property appraisal process, focusing both on valuation techniques as well as general research and report writing skills.
+Pre-reqs: All of BUSI 330, BUSI 331, BUSI 442, BUSI 452.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

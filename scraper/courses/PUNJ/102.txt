@@ -1,0 +1,40 @@
+Department: PUNJ
+Course Number: 102
+Section: 001
+Description: Spoken and written Punjabi. As of 2011W, credit will be granted for only one of PUNJ 100/101 or PUNJ 102. Students who have taken Punjabi 11 in high school cannot take PUNJ 102 for credit.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:00, End Time: 14:00, Building: Leon, Room: and
+Instructor: MANN, GURINDERPAL
+
+Department: PUNJ
+Course Number: 102
+Section: 002
+Description: Spoken and written Punjabi. As of 2011W, credit will be granted for only one of PUNJ 100/101 or PUNJ 102. Students who have taken Punjabi 11 in high school cannot take PUNJ 102 for credit.
+Credits: 6
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu, Start Time: 9:00, End Time: 11:00, Building: Leon, Room: and
+Instructor: JOHAL, RANBIR
+
+Department: PUNJ
+Course Number: 102
+Section: W01
+Description: Spoken and written Punjabi. As of 2011W, credit will be granted for only one of PUNJ 100/101 or PUNJ 102. Students who have taken Punjabi 11 in high school cannot take PUNJ 102 for credit.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:00, End Time: 14:00, Building: To, Room: Be
+Instructor: MANN, GURINDERPAL
+
+Department: PUNJ
+Course Number: 102
+Section: W02
+Description: Spoken and written Punjabi. As of 2011W, credit will be granted for only one of PUNJ 100/101 or PUNJ 102. Students who have taken Punjabi 11 in high school cannot take PUNJ 102 for credit.
+Credits: 6
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu, Start Time: 9:00, End Time: 11:00
+Instructor: JOHAL, RANBIR
+

@@ -1,0 +1,11 @@
+Department: APBI
+Course Number: 214
+Section: 002
+Description: History, philosophy, and current practices of animal shelters and companion animal support services, with a focus on emerging issues from a One Health/One Welfare perspective.
+Pre-reqs: (Second-year standing or higher.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: MacMillan, Room: 158
+Instructor: PROTOPOPOVA, ALEXANDRA
+

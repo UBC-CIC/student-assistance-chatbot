@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 591J
+Section: 001
+Description: Special Topics in Public Policy - TOPS PUBLIC PLCY
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 10:30, Building: C., Room: K.
+Instructor: DICARLO, JESSICA
+

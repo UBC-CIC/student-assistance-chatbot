@@ -1,0 +1,8 @@
+Department: CPSC
+Course Number: 549B
+Section: 002
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

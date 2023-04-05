@@ -1,0 +1,18 @@
+Department: PHRM
+Course Number: 270
+Section: 001
+Description: Service learning activities with external community partner sites and members. Pass/Fail.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 17:00, Building: To, Room: Be
+
+Department: PHRM
+Course Number: 270
+Section: 002
+Description: Service learning activities with external community partner sites and members. Pass/Fail.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 17:00, Building: Pharmaceutical, Room: Sciences
+

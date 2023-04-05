@@ -1,0 +1,10 @@
+Department: SOWK
+Course Number: 305C
+Section: 001
+Description: Examinations of the foundation, knowledge and competencies underlying various topics in generalist social work practice. Enrolment is limited to students in the B.S.W. program
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Jack, Room: Bell
+Instructor: BAINES, DONNA
+

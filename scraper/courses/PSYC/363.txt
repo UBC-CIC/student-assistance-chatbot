@@ -1,0 +1,11 @@
+Department: PSYC
+Course Number: 363
+Section: 002
+Description: Introduction to basic theories of non-associative learning, classical and operant conditioning. Experimental findings from behavioural and biological analyses with animals and humans.
+Pre-reqs: One of BIOL 260, BIOL 361, BIOL 455, BIOL 458, CAPS 301, NSCI 201, PSYC 260, PSYC 263, PSYC 270, PSYC 304.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 201
+Instructor: RANKIN, CATHARINE
+

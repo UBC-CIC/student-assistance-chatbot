@@ -1,0 +1,27 @@
+Department: EDST
+Course Number: 590
+Section: 081
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDST
+Course Number: 590
+Section: 082
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDST
+Course Number: 590
+Section: 083
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

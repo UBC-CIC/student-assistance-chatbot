@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 102
+Section: 001
+Description: An interdisciplinary study of pregnancy and childbirth drawing on and integrating the disciplines of psychology, sociology, philosophy of science, anthropology, women's studies, and cultural studies.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 16:00, Building: To, Room: Be
+Instructor: CAMPBELL, ALLISON
+

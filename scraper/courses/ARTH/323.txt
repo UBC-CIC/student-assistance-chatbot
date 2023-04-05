@@ -1,0 +1,20 @@
+Department: ARTH
+Course Number: 323
+Section: 001
+Description: Early Modern painting, sculpture, and the graphic arts from the great devotional triptychs, through the Reformation, to the emergence of a secular art (1400-1600).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: Frederic, Room: Lasserre
+Instructor: MONTEYNE, JOSEPH
+
+Department: ARTH
+Course Number: 323
+Section: 01W
+Description: Early Modern painting, sculpture, and the graphic arts from the great devotional triptychs, through the Reformation, to the emergence of a secular art (1400-1600).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:30
+Instructor: TBA
+

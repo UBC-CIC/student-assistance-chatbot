@@ -1,0 +1,19 @@
+Department: MUSC
+Course Number: 122
+Section: 001
+Description: Group instruction in music performance. Restricted to B.Mus. students.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:00, Building: Music, Room: 301
+Instructor: CHIANG, INGRID
+
+Department: MUSC
+Course Number: 122
+Section: 1W1
+Description: Group instruction in music performance. Restricted to B.Mus. students.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CHIANG, INGRID
+

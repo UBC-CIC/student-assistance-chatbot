@@ -1,0 +1,100 @@
+Department: MATH
+Course Number: 180
+Section: 101
+Description: Differential Calculus with Applications
+Pre-reqs: (A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 18:00, Building: P., Room: A.
+Instructor: LEUNG, FOK-SHUEN
+
+Department: MATH
+Course Number: 180
+Section: DF1
+Pre-reqs: (A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+
+Department: MATH
+Course Number: 180
+Section: DF2
+Pre-reqs: (A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 14:00, Building: Mathematics, Room: 102
+Instructor: TBA
+
+Department: MATH
+Course Number: 180
+Section: DM1
+Pre-reqs: (A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 12:00, Building: Geography, Room: 212
+Instructor: TBA
+
+Department: MATH
+Course Number: 180
+Section: DM2
+Pre-reqs: (A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 14:00, Building: Jack, Room: Bell
+Instructor: TBA
+
+Department: MATH
+Course Number: 180
+Section: DT1
+Pre-reqs: (A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Chemistry, Room: C126
+Instructor: TBA
+
+Department: MATH
+Course Number: 180
+Section: DT2
+Pre-reqs: (A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 17:30, Building: Forest, Room: Sciences
+Instructor: TBA
+
+Department: MATH
+Course Number: 180
+Section: DW1
+Pre-reqs: (A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: Geography, Room: 212
+Instructor: TBA
+
+Department: MATH
+Course Number: 180
+Section: DW2
+Pre-reqs: (A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Geography, Room: 147
+Instructor: TBA
+
+Department: MATH
+Course Number: 180
+Section: 9WA
+Pre-reqs: (A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

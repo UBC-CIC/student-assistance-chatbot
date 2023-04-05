@@ -1,0 +1,10 @@
+Department: GERM
+Course Number: 408
+Section: 001
+Description: Selected Issues in German Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: Tower
+Instructor: GASSNER, FLORIAN
+

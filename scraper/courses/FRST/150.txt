@@ -1,0 +1,80 @@
+Department: FRST
+Course Number: 150
+Section: 101
+Description: Communicating concepts of forestry and links to human and environmental activities through writing, elements of argumentation, evaluating evidence, and searching for and citing references to back up claims; small-class experience.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: MacMillan, Room: 260
+Instructor: ROBERTS, DUFF
+
+Department: FRST
+Course Number: 150
+Section: 102
+Description: Communicating concepts of forestry and links to human and environmental activities through writing, elements of argumentation, evaluating evidence, and searching for and citing references to back up claims; small-class experience.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: ROBERTS, DUFF
+
+Department: FRST
+Course Number: 150
+Section: 103
+Description: Communicating concepts of forestry and links to human and environmental activities through writing, elements of argumentation, evaluating evidence, and searching for and citing references to back up claims; small-class experience.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: BROOKS, CARELLIN
+
+Department: FRST
+Course Number: 150
+Section: 104
+Description: Communicating concepts of forestry and links to human and environmental activities through writing, elements of argumentation, evaluating evidence, and searching for and citing references to back up claims; small-class experience.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Forest, Room: Sciences
+Instructor: BROOKS, CARELLIN
+
+Department: FRST
+Course Number: 150
+Section: 201
+Description: Communicating concepts of forestry and links to human and environmental activities through writing, elements of argumentation, evaluating evidence, and searching for and citing references to back up claims; small-class experience.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:00, Building: Forest, Room: Sciences
+Instructor: CUFF, LINDSAY
+
+Department: FRST
+Course Number: 150
+Section: T01
+Description: Communicating concepts of forestry and links to human and environmental activities through writing, elements of argumentation, evaluating evidence, and searching for and citing references to back up claims; small-class experience.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Forest, Room: Sciences
+Instructor: CUFF, LINDSAY
+
+Department: FRST
+Course Number: 150
+Section: 203
+Description: Communicating concepts of forestry and links to human and environmental activities through writing, elements of argumentation, evaluating evidence, and searching for and citing references to back up claims; small-class experience.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: MacMillan, Room: 256
+Instructor: CUFF, LINDSAY
+
+Department: FRST
+Course Number: 150
+Section: 204
+Description: Communicating concepts of forestry and links to human and environmental activities through writing, elements of argumentation, evaluating evidence, and searching for and citing references to back up claims; small-class experience.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Forest, Room: Sciences
+Instructor: BROOKS, CARELLIN
+

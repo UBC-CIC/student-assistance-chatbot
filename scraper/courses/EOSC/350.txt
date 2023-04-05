@@ -1,0 +1,43 @@
+Department: EOSC
+Course Number: 350
+Section: 101
+Description: Environmental, Geotechnical, and Exploration Geophysics I
+Pre-reqs: One of MATH 200, MATH 253. (and third-year standing or higher in Science or Applied Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Neville, Room: Scarfe
+Instructor: HEAGY, LINDSEY
+
+Department: EOSC
+Course Number: 350
+Section: L1A
+Description: Principles of geophysical survey design, data acquisition, processing and interpretation with emphasis on near-surface problems. Magnetic, seismic reflection/refraction, electromagnetic and ground penetrating radar surveys. Case history analysis of environmental and geotechnical problems.
+Pre-reqs: One of MATH 200, MATH 253. (and third-year standing or higher in Science or Applied Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 350
+Section: L1B
+Description: Principles of geophysical survey design, data acquisition, processing and interpretation with emphasis on near-surface problems. Magnetic, seismic reflection/refraction, electromagnetic and ground penetrating radar surveys. Case history analysis of environmental and geotechnical problems.
+Pre-reqs: One of MATH 200, MATH 253. (and third-year standing or higher in Science or Applied Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 17:30, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 350
+Section: WL1
+Description: Principles of geophysical survey design, data acquisition, processing and interpretation with emphasis on near-surface problems. Magnetic, seismic reflection/refraction, electromagnetic and ground penetrating radar surveys. Case history analysis of environmental and geotechnical problems.
+Pre-reqs: One of MATH 200, MATH 253. (and third-year standing or higher in Science or Applied Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

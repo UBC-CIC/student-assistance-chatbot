@@ -1,0 +1,11 @@
+Department: PHIL
+Course Number: 455A
+Section: 001
+Description: Philosophical topics in the cognitive sciences, such as empiricism vs. nativism, consciousness, mental representation, cognitive architecture, language and thought, and situated cognition.
+Pre-reqs: (PHIL 441 (Philosophy of Perception), or PHIL 451 (Philosophy of Mind), or 6 credits of Philosophy at the 200-level or above (excluding PHIL 220 and PHIL 320).)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B310
+Instructor: HENRY, AARON
+

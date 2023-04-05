@@ -1,0 +1,20 @@
+Department: COMM
+Course Number: 314
+Section: 101
+Description: Tools to apply sustainable and responsible decision making through individual, organizational, and structural lenses. Topics include diversity and group think, the circular economy, and climate change adaptation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: David, Room: Lam
+Instructor: BULL, JUSTIN
+
+Department: COMM
+Course Number: 314
+Section: 201
+Description: Tools to apply sustainable and responsible decision making through individual, organizational, and structural lenses. Topics include diversity and group think, the circular economy, and climate change adaptation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: David, Room: Lam
+Instructor: BULL, JUSTIN
+

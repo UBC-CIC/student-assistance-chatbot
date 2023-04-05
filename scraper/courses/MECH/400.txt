@@ -1,0 +1,44 @@
+Department: MECH
+Course Number: 400
+Section: 201
+Description: Professionalism, ethical frameworks, decolonization, equity, diversity, inclusion, law. Obligations of the engineer.
+Pre-reqs: (Fourth-year standing in B.A.Sc.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 18:00, Building: Orchard, Room: Commons
+Instructor: SIELMANN, CHRISTOPH
+
+Department: MECH
+Course Number: 400
+Section: T2A
+Description: Professionalism, ethical frameworks, decolonization, equity, diversity, inclusion, law. Obligations of the engineer.
+Pre-reqs: (Fourth-year standing in B.A.Sc.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:30, End Time: 15:00, Building: MacLeod, Room: 2014
+Instructor: SIELMANN, CHRISTOPH
+
+Department: MECH
+Course Number: 400
+Section: T2C
+Description: Professionalism, ethical frameworks, decolonization, equity, diversity, inclusion, law. Obligations of the engineer.
+Pre-reqs: (Fourth-year standing in B.A.Sc.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: MacLeod, Room: 2014
+Instructor: SIELMANN, CHRISTOPH
+
+Department: MECH
+Course Number: 400
+Section: T2D
+Description: Professionalism, ethical frameworks, decolonization, equity, diversity, inclusion, law. Obligations of the engineer.
+Pre-reqs: (Fourth-year standing in B.A.Sc.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Food,, Room: Nutrition
+Instructor: SIELMANN, CHRISTOPH
+

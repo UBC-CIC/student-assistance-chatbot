@@ -1,0 +1,19 @@
+Department: KIN
+Course Number: 140
+Section: 002
+Description: A lifespan approach to motor development that examines underlying factors affecting physical growth, physical activity behaviour, and human motor performance, while highlighting contemporary issues and trends in society.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30
+Instructor: BREDIN, SHANNON
+
+Department: KIN
+Course Number: 140
+Section: 0W2
+Description: A lifespan approach to motor development that examines underlying factors affecting physical growth, physical activity behaviour, and human motor performance, while highlighting contemporary issues and trends in society.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

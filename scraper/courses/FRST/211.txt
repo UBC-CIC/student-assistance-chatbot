@@ -1,0 +1,66 @@
+Department: FRST
+Course Number: 211
+Section: 201
+Description: Forest classification and the application of silvics in forest management, including world forest classification systems, the Biogeoclimactic Ecosystem Classification system, and ecosystem diagnosis in the field.
+Pre-reqs: FRST 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: West, Room: Mall
+Instructor: DANIELS, LORI
+
+Department: FRST
+Course Number: 211
+Section: L01
+Description: Forest classification and the application of silvics in forest management, including world forest classification systems, the Biogeoclimactic Ecosystem Classification system, and ecosystem diagnosis in the field.
+Pre-reqs: FRST 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: DANIELS, LORI
+
+Department: FRST
+Course Number: 211
+Section: L02
+Description: Forest classification and the application of silvics in forest management, including world forest classification systems, the Biogeoclimactic Ecosystem Classification system, and ecosystem diagnosis in the field.
+Pre-reqs: FRST 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: DANIELS, LORI
+
+Department: FRST
+Course Number: 211
+Section: L03
+Description: Forest classification and the application of silvics in forest management, including world forest classification systems, the Biogeoclimactic Ecosystem Classification system, and ecosystem diagnosis in the field.
+Pre-reqs: FRST 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: DANIELS, LORI
+
+Department: FRST
+Course Number: 211
+Section: L04
+Description: Forest classification and the application of silvics in forest management, including world forest classification systems, the Biogeoclimactic Ecosystem Classification system, and ecosystem diagnosis in the field.
+Pre-reqs: FRST 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Forest, Room: Sciences
+Instructor: DANIELS, LORI
+
+Department: FRST
+Course Number: 211
+Section: L05
+Description: Forest classification and the application of silvics in forest management, including world forest classification systems, the Biogeoclimactic Ecosystem Classification system, and ecosystem diagnosis in the field.
+Pre-reqs: FRST 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 18:00, Building: Forest, Room: Sciences
+Instructor: DANIELS, LORI
+

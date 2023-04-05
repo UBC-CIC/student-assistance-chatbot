@@ -1,0 +1,10 @@
+Department: EDCP
+Course Number: 508B
+Section: 031
+Description: Studies of recent research bearing on education practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: GOUZOUASIS, PETER
+

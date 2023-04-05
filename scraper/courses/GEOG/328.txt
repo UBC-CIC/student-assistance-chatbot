@@ -1,0 +1,10 @@
+Department: GEOG
+Course Number: 328
+Section: 201
+Description: The construction of Canadian political space after Confederation, aboriginal-newcomer relations, regional development and conflict, industrialization, urbanization, and war.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 12:30, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: VALADARES, DESIREE
+

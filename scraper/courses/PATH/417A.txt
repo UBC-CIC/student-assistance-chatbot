@@ -1,0 +1,10 @@
+Department: PATH
+Course Number: 417A
+Section: 002
+Description: Students acquire content relating to the virulence factors of the bacteria and the pathophysiology of the host while working through case scenarios on their own and in online groups. Students taking this course must be willing to engage in both self-directed and small-group learning.
+Pre-reqs: MICB 202. (Or equivalent.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SEKIROV, INNA
+

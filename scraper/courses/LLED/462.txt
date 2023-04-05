@@ -1,0 +1,8 @@
+Department: LLED
+Course Number: 462
+Section: 63A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: DELVECCHIO, JENNIFER
+

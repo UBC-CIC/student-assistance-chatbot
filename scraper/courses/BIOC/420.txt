@@ -1,0 +1,22 @@
+Department: BIOC
+Course Number: 420
+Section: 101
+Description: Multi-week experiments in areas of contemporary biochemistry research using classical and modern techniques. Emphasis on experimental design, technique, critical analysis of data, and scientific communication skills. Restricted to Honours students in Biochemistry and others with permission of the instructor.
+Co-reqs: One of BIOC 404, FSCT 480.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:30, End Time: 17:30, Building: Biological, Room: Sciences
+Instructor: COVEY, SCOTT
+
+Department: BIOC
+Course Number: 420
+Section: 102
+Description: Multi-week experiments in areas of contemporary biochemistry research using classical and modern techniques. Emphasis on experimental design, technique, critical analysis of data, and scientific communication skills. Restricted to Honours students in Biochemistry and others with permission of the instructor.
+Co-reqs: One of BIOC 404, FSCT 480.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 8:30, End Time: 17:30, Building: Biological, Room: Sciences
+Instructor: COVEY, SCOTT
+

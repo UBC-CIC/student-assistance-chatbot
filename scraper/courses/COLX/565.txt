@@ -1,0 +1,31 @@
+Department: COLX
+Course Number: 565
+Section: 001
+Description: Data crawling, annotation, evaluation, and modelling lexical information.
+Pre-reqs: COLX 563.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:30, End Time: 10:00, Building: Earth, Room: and
+Instructor: NICOLAI, GARRETT
+
+Department: COLX
+Course Number: 565
+Section: L01
+Description: Data crawling, annotation, evaluation, and modelling lexical information.
+Pre-reqs: COLX 563.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+
+Department: COLX
+Course Number: 565
+Section: L02
+Description: Data crawling, annotation, evaluation, and modelling lexical information.
+Pre-reqs: COLX 563.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 18:00, Building: Orchard, Room: Commons
+

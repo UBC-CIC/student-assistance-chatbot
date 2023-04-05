@@ -1,0 +1,12 @@
+Department: BIOC
+Course Number: 304
+Section: 001
+Description: Exploration of the breadth and importance of biochemical research to present day challenges in medicine and biotechnology. Detailed experimental research case studies of novel biochemical methods used to address pressing and ongoing biochemical issues.
+Pre-reqs: CHEM 213.
+Co-reqs: BIOC 303.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Chemistry, Room: D300
+Instructor: GREENBLATT, ETHAN
+

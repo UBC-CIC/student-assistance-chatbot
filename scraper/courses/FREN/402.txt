@@ -1,0 +1,43 @@
+Department: FREN
+Course Number: 402
+Section: 201
+Description: A continuation of FREN 401. This course is aligned with level B2 objectives of the CEFR.
+Pre-reqs: One of FREN 224, FREN 401. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B211
+Instructor: DELAGE-BELAND, ISABELLE
+
+Department: FREN
+Course Number: 402
+Section: 202
+Description: A continuation of FREN 401. This course is aligned with level B2 objectives of the CEFR.
+Pre-reqs: One of FREN 224, FREN 401. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D201
+Instructor: DELAGE-BELAND, ISABELLE
+
+Department: FREN
+Course Number: 402
+Section: 203
+Description: A continuation of FREN 401. This course is aligned with level B2 objectives of the CEFR.
+Pre-reqs: One of FREN 224, FREN 401. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: D322
+Instructor: PIECHOCKI, KATHARINA
+
+Department: FREN
+Course Number: 402
+Section: W02
+Description: A continuation of FREN 401. This course is aligned with level B2 objectives of the CEFR.
+Pre-reqs: One of FREN 224, FREN 401. (or assignment based on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

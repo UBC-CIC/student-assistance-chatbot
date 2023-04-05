@@ -1,0 +1,21 @@
+Department: PHYS
+Course Number: 405
+Section: 101
+Description: Physical and chemical interactions of ionizing radiations and their biological effects at the cellular, tissue and whole-animal levels.
+Pre-reqs: One of PHYS 102, PHYS 108, PHYS 118, PHYS 153, PHYS 158, SCIE 001. (and third year standing in Science or Applied Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Hennings, Room: 302
+Instructor: BAKER, JENNIFER
+
+Department: PHYS
+Course Number: 405
+Section: 10W
+Description: Physical and chemical interactions of ionizing radiations and their biological effects at the cellular, tissue and whole-animal levels.
+Pre-reqs: One of PHYS 102, PHYS 108, PHYS 118, PHYS 153, PHYS 158, SCIE 001. (and third year standing in Science or Applied Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

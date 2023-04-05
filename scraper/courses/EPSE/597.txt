@@ -1,0 +1,10 @@
+Department: EPSE
+Course Number: 597
+Section: 075
+Pre-reqs: EPSE 596.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: WU, AMERY
+

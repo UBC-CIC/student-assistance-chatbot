@@ -1,0 +1,11 @@
+Department: MATH
+Course Number: 401
+Section: 201
+Description: Green's Functions and Variational Methods
+Pre-reqs: Either (a) a score of 80% or higher in one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312 or (b) MATH 400.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Geography, Room: 147
+Instructor: WETTON, BRIAN
+

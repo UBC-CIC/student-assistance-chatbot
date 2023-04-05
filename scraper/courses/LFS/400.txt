@@ -1,0 +1,22 @@
+Department: LFS
+Course Number: 400
+Section: 001
+Description: Adopts a journalistic framework to communicate powerful stories and present academic content in new ways through the use of audio and podcasting technology.
+Pre-reqs: (Third-year standing or higher.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: MacMillan, Room: 258
+Instructor: CARRILLO, JULI
+
+Department: LFS
+Course Number: 400
+Section: L01
+Description: Adopts a journalistic framework to communicate powerful stories and present academic content in new ways through the use of audio and podcasting technology.
+Pre-reqs: (Third-year standing or higher.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: MacMillan, Room: 258
+Instructor: CARRILLO, JULI
+

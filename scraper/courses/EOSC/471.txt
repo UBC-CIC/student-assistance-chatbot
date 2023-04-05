@@ -1,0 +1,32 @@
+Department: EOSC
+Course Number: 471
+Section: 101
+Description: Use of observations, theory and model results to solve physical oceanographic problems including applications to transport and mixing of pollutants or nutrients.
+Pre-reqs: EOSC 211 and one of ATSC 201, EOSC 372, GEOB 200 and one of SCIE 001, PHYS 101, PHYS 107, PHYS 117, PHYS 153, PHYS 157.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Earth, Room: and
+Instructor: ALLEN, SUSAN ELIZABETH
+
+Department: EOSC
+Course Number: 471
+Section: TU1
+Description: Use of observations, theory and model results to solve physical oceanographic problems including applications to transport and mixing of pollutants or nutrients.
+Pre-reqs: EOSC 211 and one of ATSC 201, EOSC 372, GEOB 200 and one of SCIE 001, PHYS 101, PHYS 107, PHYS 117, PHYS 153, PHYS 157.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 14:30, Building: Earth, Room: and
+Instructor: ALLEN, SUSAN ELIZABETH
+
+Department: EOSC
+Course Number: 471
+Section: WL1
+Description: Use of observations, theory and model results to solve physical oceanographic problems including applications to transport and mixing of pollutants or nutrients.
+Pre-reqs: EOSC 211 and one of ATSC 201, EOSC 372, GEOB 200 and one of SCIE 001, PHYS 101, PHYS 107, PHYS 117, PHYS 153, PHYS 157.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

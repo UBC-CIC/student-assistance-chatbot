@@ -1,0 +1,20 @@
+Department: MUSC
+Course Number: 169A
+Section: 001
+Description: Intensive coaching in chamber ensemble for advanced players. Performance of works prepared is expected.
+Co-reqs: (Any small ensemble (MUSC 156-166) and permission of the instructor.)
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MUSC
+Course Number: 169A
+Section: 002
+Description: Intensive coaching in chamber ensemble for advanced players. Performance of works prepared is expected.
+Co-reqs: (Any small ensemble (MUSC 156-166) and permission of the instructor.)
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

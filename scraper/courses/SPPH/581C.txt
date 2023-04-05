@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 581C
+Section: 002
+Description: By seminar and directed readings, certain topics of current interest are explored in depth.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 12:00, Building: School, Room: of
+Instructor: SUTHERLAND, JASON
+

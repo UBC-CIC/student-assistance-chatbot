@@ -1,0 +1,11 @@
+Department: MATH
+Course Number: 341
+Section: 101
+Description: Introduction to ideas and methods of discrete mathematics and their application.
+Pre-reqs: One of MATH 220, MATH 223, MATH 226, CPSC 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: A103
+Instructor: SOLYMOSI, JOZSEF
+

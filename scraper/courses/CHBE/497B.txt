@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 497B
+Section: 201
+Description: Seminar or lecture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 19:00, Building: Hugh, Room: Dempster
+Instructor: HILL, JANE
+

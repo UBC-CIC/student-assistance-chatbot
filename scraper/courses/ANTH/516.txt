@@ -1,0 +1,20 @@
+Department: ANTH
+Course Number: 516
+Section: 001
+Description: A discussion of selected methods used to observe, describe, and interpret cultural phenomena and social organization, including participant observation, interviewing, ethnographic semantics, life histories, componential analysis, and photography. Attention will also be given to ethics in anthropological research and writing and to such analytic matters as the nature of description, conceptualization, generalization, and content analysis.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Anthropology, Room: and
+Instructor: MOORE, PATRICK
+
+Department: ANTH
+Course Number: 516
+Section: 002
+Description: A discussion of selected methods used to observe, describe, and interpret cultural phenomena and social organization, including participant observation, interviewing, ethnographic semantics, life histories, componential analysis, and photography. Attention will also be given to ethics in anthropological research and writing and to such analytic matters as the nature of description, conceptualization, generalization, and content analysis.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Irving, Room: K
+Instructor: GUSTERSON, HUGH PHILLIMORE
+

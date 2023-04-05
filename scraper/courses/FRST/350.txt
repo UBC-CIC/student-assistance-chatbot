@@ -1,0 +1,9 @@
+Department: FRST
+Course Number: 350
+Section: 101
+Pre-reqs: FRST 201.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CULBERT, PATRICK
+

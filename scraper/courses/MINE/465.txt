@@ -1,0 +1,11 @@
+Department: MINE
+Course Number: 465
+Section: 101
+Description: Knowledge and understanding of equipment used in mining operations, including diesel, electro-mechanical, hydraulic and pneumatic equipment as well as conveyors, load-haul-dump trucks and pumps.
+Pre-reqs: One of MINE 302, MINE 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: MacMillan, Room: 160
+Instructor: GHOREISHI-MADISEH, SEYED
+

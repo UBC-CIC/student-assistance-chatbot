@@ -1,0 +1,9 @@
+Department: FRE
+Course Number: 531
+Section: 002
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: MacMillan, Room: 154
+Instructor: MARGULIS, MATIAS
+

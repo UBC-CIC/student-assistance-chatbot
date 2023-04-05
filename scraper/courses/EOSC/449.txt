@@ -1,0 +1,9 @@
+Department: EOSC
+Course Number: 449
+Section: 001
+Description: Original research work under the direction of a faculty member. Required of all honours students. Open to major students with a satisfactory standing, appropriate background courses and permission of the course instructor and the directing faculty member.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: VER, LEAH MAY
+

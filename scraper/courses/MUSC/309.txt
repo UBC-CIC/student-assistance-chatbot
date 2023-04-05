@@ -1,0 +1,21 @@
+Department: MUSC
+Course Number: 309
+Section: 001
+Description: Instrumentation
+Pre-reqs: One of MUSC 111, MUSC 200. (and completion of the second-year piano requirement.)
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: Music, Room: 462
+Instructor: CHANG BORTOLUSSI, DOROTHY
+
+Department: MUSC
+Course Number: 309
+Section: 1W1
+Description: The study of string, woodwind, brass and percussion instruments; orchestral sections and scoring for various small ensembles. Activities include demonstrations of instruments, scoring projects, analysis and listening. For credit towards the B.Mus. and the B.A. in Music; not open to other students.
+Pre-reqs: One of MUSC 111, MUSC 200. (and completion of the second-year piano requirement.)
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CHANG BORTOLUSSI, DOROTHY
+

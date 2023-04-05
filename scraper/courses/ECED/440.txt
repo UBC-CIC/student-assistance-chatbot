@@ -1,0 +1,9 @@
+Department: ECED
+Course Number: 440
+Section: 63C
+Description: Supporting Social and Communication Development in Infants and Young Children with Special Needs
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: WOOLDRIDGE, MICHAELA
+

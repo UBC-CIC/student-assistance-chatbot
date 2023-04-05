@@ -1,0 +1,17 @@
+Department: ETEC
+Course Number: 540
+Section: 65A
+Description: Text Technologies: The Changing Spaces of Reading and Writing
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PENA ALONSO, ERNESTO
+
+Department: ETEC
+Course Number: 540
+Section: W5A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

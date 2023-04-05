@@ -1,0 +1,19 @@
+Department: BMEG
+Course Number: 591E
+Section: 201
+Description: Topics in Biomedical Engineering - GNM INFRMTCS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 3014
+Instructor: DE BOER, CARL
+
+Department: BMEG
+Course Number: 591E
+Section: WL1
+Description: Topics in Biomedical Engineering - GNM INFRMTCS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

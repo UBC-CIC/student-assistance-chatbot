@@ -1,0 +1,33 @@
+Department: DSCI
+Course Number: 524
+Section: 001
+Description: Software life cycle. Unit testing. Continuous integration. Submission to a relevant repository for distribution. Packaging for installation and use by others. Software licenses. Classes and abstraction.
+Pre-reqs: DSCI 522.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: P., Room: A.
+Instructor: CHEN, DANIEL
+
+Department: DSCI
+Course Number: 524
+Section: L01
+Description: Software life cycle. Unit testing. Continuous integration. Submission to a relevant repository for distribution. Packaging for installation and use by others. Software licenses. Classes and abstraction.
+Pre-reqs: DSCI 522.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: D' ANDREA, MARIA FLORENCIA
+
+Department: DSCI
+Course Number: 524
+Section: L02
+Description: Software life cycle. Unit testing. Continuous integration. Submission to a relevant repository for distribution. Packaging for installation and use by others. Software licenses. Classes and abstraction.
+Pre-reqs: DSCI 522.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: D' ANDREA, MARIA FLORENCIA
+

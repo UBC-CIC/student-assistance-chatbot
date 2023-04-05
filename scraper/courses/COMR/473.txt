@@ -1,0 +1,48 @@
+Department: COMR
+Course Number: 473
+Section: 101
+Description: Introduction to managerial finance, including the role and functioning of financial markets, procurement of funds and financing strategies, dividend policy, capital budgeting and financial analysis and planning. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 298.
+Pre-reqs: Either (a) all of ECON 101, ECON 102 or (b) ECON 100 or (c) all of ECON 310, ECON 311 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310; and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of COMM 293, COMM 457, COMR 457.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: Henry, Room: Angus
+Instructor: DEGRAAF, DARREN
+
+Department: COMR
+Course Number: 473
+Section: 102
+Description: Introduction to managerial finance, including the role and functioning of financial markets, procurement of funds and financing strategies, dividend policy, capital budgeting and financial analysis and planning. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 298.
+Pre-reqs: Either (a) all of ECON 101, ECON 102 or (b) ECON 100 or (c) all of ECON 310, ECON 311 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310; and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of COMM 293, COMM 457, COMR 457.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 18:00, End Time: 21:00, Building: Henry, Room: Angus
+Instructor: LOMBARD, CAREN
+
+Department: COMR
+Course Number: 473
+Section: 201
+Description: Introduction to managerial finance, including the role and functioning of financial markets, procurement of funds and financing strategies, dividend policy, capital budgeting and financial analysis and planning. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 298.
+Pre-reqs: Either (a) all of ECON 101, ECON 102 or (b) ECON 100 or (c) all of ECON 310, ECON 311 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310; and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of COMM 293, COMM 457, COMR 457.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: DEGRAAF, DARREN
+
+Department: COMR
+Course Number: 473
+Section: 202
+Description: Introduction to managerial finance, including the role and functioning of financial markets, procurement of funds and financing strategies, dividend policy, capital budgeting and financial analysis and planning. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 298.
+Pre-reqs: Either (a) all of ECON 101, ECON 102 or (b) ECON 100 or (c) all of ECON 310, ECON 311 or (d) all of ECON 101, ECON 311 or (e) all of ECON 102, ECON 310; and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of COMM 293, COMM 457, COMR 457.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 18:00, End Time: 21:00, Building: Henry, Room: Angus
+Instructor: LOMBARD, CAREN
+

@@ -1,0 +1,220 @@
+Department: APBI
+Course Number: 200
+Section: 001
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Earth, Room: Sciences
+Instructor: KRZIC, MAJA
+
+Department: APBI
+Course Number: 200
+Section: L01
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L02
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L03
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 10:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L04
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L05
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L06
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L07
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L08
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L09
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L10
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: 002
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Earth, Room: Sciences
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L01
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L02
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L03
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 10:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L04
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L05
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L06
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L07
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L08
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L09
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+
+Department: APBI
+Course Number: 200
+Section: L10
+Description: Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: MacMillan, Room: 102A
+Instructor: BROWN, SANDRA
+

@@ -1,0 +1,9 @@
+Department: AUDI
+Course Number: 547A
+Section: 001
+Description: May be taken more than once.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: COLOZZO, PAOLA
+

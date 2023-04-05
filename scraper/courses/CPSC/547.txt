@@ -1,0 +1,20 @@
+Department: CPSC
+Course Number: 547
+Section: 101
+Description: Information Visualization
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 18:00, Building: Forest, Room: Sciences
+Instructor: MUNZNER, TAMARA
+
+Department: CPSC
+Course Number: 547
+Section: 1W1
+Description: Information Visualization
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 18:00, Building: To, Room: Be
+Instructor: MUNZNER, TAMARA
+

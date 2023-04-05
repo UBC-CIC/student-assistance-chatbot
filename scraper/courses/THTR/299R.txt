@@ -1,0 +1,11 @@
+Department: THTR
+Course Number: 299R
+Section: 001
+Description: Assigned projects in theatre production.
+Co-reqs: One of THTR 205, THTR 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Frederic, Room: Wood
+Instructor: POWERS, BRADLEY
+

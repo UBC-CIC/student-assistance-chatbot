@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 514
+Section: 001
+Description: Research design principles and ethics. Methods for qualitative data collection and analysis to inform policy decision making. Focus on participant-observation, interviewing, focus groups, content and gender-based analysis.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:30, End Time: 11:30, Building: C., Room: K.
+Instructor: YEKTA, ATIEH
+

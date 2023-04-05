@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 165D
+Section: 001
+Description: Training on traditional instruments and their techniques, with emphasis on ensemble performance. Different sections focus on the music of different cultures, e.g., Bali, China, Ghana, Korea. May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music, or when permitted in other programs.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:30, End Time: 19:00, Building: Asian, Room: Centre
+Instructor: GBOLONYO, JUSTICE
+

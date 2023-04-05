@@ -1,0 +1,19 @@
+Department: LLED
+Course Number: 572A
+Section: 061
+Pre-reqs: (Admission into the TESL Graduate Program or permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:30, End Time: 19:30, Building: Ponderosa, Room: Commons
+Instructor: EARLY, MARGARET
+
+Department: LLED
+Course Number: 572A
+Section: 62A
+Pre-reqs: (Admission into the TESL Graduate Program or permission of instructor.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: CERVATIUC, ANDREEA
+

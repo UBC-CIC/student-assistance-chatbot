@@ -1,0 +1,9 @@
+Department: SURG
+Course Number: 500
+Section: 201
+Description: Lectures and seminars dealing with the selected application of surgical techniques in biological investigation.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

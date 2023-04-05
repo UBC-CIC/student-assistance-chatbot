@@ -1,0 +1,114 @@
+Department: CPEN
+Course Number: 391
+Section: 201
+Description: Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations.
+Pre-reqs: All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Chemical, Room: and
+Instructor: LEMIEUX, GUY
+
+Department: CPEN
+Course Number: 391
+Section: L2A
+Description: Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations.
+Pre-reqs: All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:00, End Time: 12:00, Building: MacLeod, Room: 4018
+Instructor: LEMIEUX, GUY
+
+Department: CPEN
+Course Number: 391
+Section: L2B
+Description: Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations.
+Pre-reqs: All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 15:30, Building: MacLeod, Room: 4018
+Instructor: LEMIEUX, GUY
+
+Department: CPEN
+Course Number: 391
+Section: L2C
+Description: Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations.
+Pre-reqs: All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:00, End Time: 19:00, Building: MacLeod, Room: 4018
+Instructor: LEMIEUX, GUY
+
+Department: CPEN
+Course Number: 391
+Section: LWA
+Description: Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations.
+Pre-reqs: All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 391
+Section: LWB
+Description: Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations.
+Pre-reqs: All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 391
+Section: LWC
+Description: Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations.
+Pre-reqs: All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 391
+Section: 2W1
+Description: Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations.
+Pre-reqs: All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 391
+Section: LWA
+Description: Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations.
+Pre-reqs: All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 391
+Section: LWB
+Description: Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations.
+Pre-reqs: All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 391
+Section: LWC
+Description: Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations.
+Pre-reqs: All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

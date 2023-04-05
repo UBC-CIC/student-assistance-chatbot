@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 442C
+Section: 001
+Description: Interpretation and performance practice of Art Song repertoire for voice and piano collaborations. Restricted to MMus and BMus in Piano Performance, Opera, Voice Performance, and students in the Diploma in Collaborative Piano Studies program.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:30, End Time: 18:00
+Instructor: SHARON, RENA
+

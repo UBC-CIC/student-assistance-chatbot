@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 201
+Section: 001
+Description: Anthropological critiques of racism, colonialism and ongoing structural inequalities.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Hennings, Room: 202
+Instructor: RYNIKER, DAVID
+

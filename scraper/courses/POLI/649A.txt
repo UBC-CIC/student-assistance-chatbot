@@ -1,0 +1,8 @@
+Department: POLI
+Course Number: 649A
+Section: 001
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

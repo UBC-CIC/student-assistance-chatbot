@@ -1,0 +1,24 @@
+Department: LIBE
+Course Number: 467
+Section: 63C
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BEAUDRY, RICHARD
+
+Department: LIBE
+Course Number: 467
+Section: 63D
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: OXLEY, KRISTIE
+
+Department: LIBE
+Course Number: 467
+Section: W3C
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

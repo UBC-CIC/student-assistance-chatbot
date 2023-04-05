@@ -1,0 +1,30 @@
+Department: APBI
+Course Number: 498
+Section: 001
+Description: Preparation of a comprehensive and analytical review of an approved topic under the supervision of a faculty member. Consultation with a program advisor is required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:30
+Instructor: KRZIC, MAJA
+
+Department: APBI
+Course Number: 498
+Section: 101
+Description: Preparation of a comprehensive and analytical review of an approved topic under the supervision of a faculty member. Consultation with a program advisor is required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:30
+Instructor: KRZIC, MAJA
+
+Department: APBI
+Course Number: 498
+Section: 102
+Description: Preparation of a comprehensive and analytical review of an approved topic under the supervision of a faculty member. Consultation with a program advisor is required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:30
+Instructor: KRZIC, MAJA
+

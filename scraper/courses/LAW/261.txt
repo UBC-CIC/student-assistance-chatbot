@@ -1,0 +1,40 @@
+Department: LAW
+Course Number: 261
+Section: 001
+Description: Introduction to principles of public and private international law and research methods for international legal materials.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: AFFOLDER, NATASHA
+
+Department: LAW
+Course Number: 261
+Section: 002
+Description: Introduction to principles of public and private international law and research methods for international legal materials.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: LAZARUS, LIORA
+
+Department: LAW
+Course Number: 261
+Section: 003
+Description: Introduction to principles of public and private international law and research methods for international legal materials.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: GHEBREMUSSE, SARA
+
+Department: LAW
+Course Number: 261
+Section: 004
+Description: Introduction to principles of public and private international law and research methods for international legal materials.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: JOSHI, YUVRAJ
+

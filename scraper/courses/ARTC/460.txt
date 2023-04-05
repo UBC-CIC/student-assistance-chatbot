@@ -1,0 +1,18 @@
+Department: ARTC
+Course Number: 460
+Section: 01F
+Pre-reqs: ARTC 456.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARTC
+Course Number: 460
+Section: 01W
+Pre-reqs: ARTC 456.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,630 @@
+Department: POLI
+Course Number: 100
+Section: 001
+Description: Introduction to Politics
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: West, Room: Mall
+Instructor: BAUM, BRUCE
+
+Department: POLI
+Course Number: 100
+Section: L1A
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L1B
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D306
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L1C
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L1D
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L1E
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D228
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L1F
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D306
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L1G
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L1H
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L1I
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L1J
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L1K
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: 002
+Description: Introduction to Politics
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: A104
+Instructor: BAUM, BRUCE
+
+Department: POLI
+Course Number: 100
+Section: L2A
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L2B
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L2C
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L2D
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 16:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L2E
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: D306
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L2F
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L2G
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L2H
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: D306
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L2I
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D209
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: 003
+Description: Introduction to Politics
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Mathematics, Room: 100
+Instructor: TURAN, SERBULENT
+
+Department: POLI
+Course Number: 100
+Section: L3A
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L3B
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D214
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L3C
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 16:30, Building: Buchanan, Room: D228
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L3D
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 13:30, Building: Buchanan, Room: D216
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L3E
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L3H
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 13:30, Building: Buchanan, Room: D216
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L3I
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L3K
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L3L
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: 004
+Description: Introduction to Politics
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Mathematics, Room: 100
+Instructor: DOGAH, DENIS
+
+Department: POLI
+Course Number: 100
+Section: L4A
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B316
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L4B
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 10:30, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L4C
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L4D
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L4E
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L4F
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L4G
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L4H
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L4I
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 16:30, Building: Auditorium, Room: Annex
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L4J
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L4K
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B316
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L4L
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D214
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: 005
+Description: Introduction to Politics
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Mon Wed, Start Time: 18:30, End Time: 20:00
+Instructor: TURAN, SERBULENT
+
+Department: POLI
+Course Number: 100
+Section: L5A
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Mon, Start Time: 21:00, End Time: 22:00
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L5B
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Wed, Start Time: 21:00, End Time: 22:00
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: L5C
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 10:00
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: 227
+Description: Introduction to Politics
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Hennings, Room: 201
+Instructor: MICHAUD-OUELLET, JOELLE
+
+Department: POLI
+Course Number: 100
+Section: LZ1
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: LZ2
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: LZ3
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:30, End Time: 12:30, Building: Buchanan, Room: D306
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: LZ4
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D214
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: LZ5
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: LZ6
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: 228
+Description: Introduction to Politics
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: A203
+Instructor: MICHAUD-OUELLET, JOELLE
+
+Department: POLI
+Course Number: 100
+Section: LX1
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: LX2
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: LX3
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: LX4
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: LX5
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:30, End Time: 16:30, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: POLI
+Course Number: 100
+Section: LX6
+Description: Introduction to Politics
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Irving, Room: K
+Instructor: TBA
+

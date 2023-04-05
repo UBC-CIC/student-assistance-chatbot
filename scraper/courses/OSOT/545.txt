@@ -1,0 +1,8 @@
+Department: OSOT
+Course Number: 545
+Section: 001
+Description: A 3-term course, builds upon year 1 to further develop professional reasoning skills, synthesize theory and practice approaches in occupational therapy, and provide opportunities to acquire assessment and intervention skills according to the competencies required to enter occupational therapy practice.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

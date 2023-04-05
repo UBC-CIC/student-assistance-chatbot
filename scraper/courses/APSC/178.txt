@@ -1,0 +1,36 @@
+Department: APSC
+Course Number: 178
+Section: VE1
+Description: Coulomb's law, electric field, Gauss' law, electric potential, conductors, capacitance, electric currents, resistance, DC circuits, magnetic fields and forces, sources of magnetic fields, electromagnetic induction, mechanical waves, electromagnetic waves, light propagation, geometrical optics.
+Pre-reqs: APSC 172.
+Co-reqs: APSC 173.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Chemistry, Room: C126
+Instructor: NAJARIAN, SIAMAK
+
+Department: APSC
+Course Number: 178
+Section: VT1
+Description: Coulomb's law, electric field, Gauss' law, electric potential, conductors, capacitance, electric currents, resistance, DC circuits, magnetic fields and forces, sources of magnetic fields, electromagnetic induction, mechanical waves, electromagnetic waves, light propagation, geometrical optics.
+Pre-reqs: APSC 172.
+Co-reqs: APSC 173.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: APSC
+Course Number: 178
+Section: VT2
+Description: Coulomb's law, electric field, Gauss' law, electric potential, conductors, capacitance, electric currents, resistance, DC circuits, magnetic fields and forces, sources of magnetic fields, electromagnetic induction, mechanical waves, electromagnetic waves, light propagation, geometrical optics.
+Pre-reqs: APSC 172.
+Co-reqs: APSC 173.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: West, Room: Mall
+Instructor: TBA
+

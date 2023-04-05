@@ -1,0 +1,26 @@
+Department: MECH
+Course Number: 514
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: P., Room: A.
+Instructor: BACCA, MATTIA
+
+Department: MECH
+Course Number: 514
+Section: L1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 18:30, Building: P., Room: A.
+Instructor: BACCA, MATTIA
+
+Department: MECH
+Course Number: 514
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

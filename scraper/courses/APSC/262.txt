@@ -1,0 +1,117 @@
+Department: APSC
+Course Number: 262
+Section: 101
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: Chemical, Room: and
+Instructor: VAEZ GHAEMI, ROZA
+
+Department: APSC
+Course Number: 262
+Section: 102
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: Chemical, Room: and
+Instructor: VAEZ GHAEMI, ROZA
+
+Department: APSC
+Course Number: 262
+Section: 103
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: VAEZ GHAEMI, ROZA
+
+Department: APSC
+Course Number: 262
+Section: 104
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: Chemical, Room: and
+Instructor: VAEZ GHAEMI, ROZA
+
+Department: APSC
+Course Number: 262
+Section: 105
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Hugh, Room: Dempster
+Instructor: WINKELMAN, PAUL
+
+Department: APSC
+Course Number: 262
+Section: 106
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: MacMillan, Room: 158
+Instructor: VAEZ GHAEMI, ROZA
+
+Department: APSC
+Course Number: 262
+Section: 1W1
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: APSC
+Course Number: 262
+Section: 202
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 9:30, Building: Chemical, Room: and
+Instructor: POTVIN, GABRIEL
+
+Department: APSC
+Course Number: 262
+Section: 203
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 9:30, Building: Chemical, Room: and
+Instructor: KANNANGARA, DHANESHWARIE
+
+Department: APSC
+Course Number: 262
+Section: 204
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 9:30, Building: Chemical, Room: and
+Instructor: POTVIN, GABRIEL
+
+Department: APSC
+Course Number: 262
+Section: 205
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 9:30, Building: Chemical, Room: and
+Instructor: POTVIN, GABRIEL
+
+Department: APSC
+Course Number: 262
+Section: 2W1
+Description: The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

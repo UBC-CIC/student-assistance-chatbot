@@ -1,0 +1,19 @@
+Department: CEEN
+Course Number: 596
+Section: 005
+Description: For M.Eng. students. Carry out a project and prepare an engineering report under the supervision of a faculty member.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00
+Instructor: PRODANOVIC, VLADAN
+
+Department: CEEN
+Course Number: 596
+Section: 305
+Description: For M.Eng. students. Carry out a project and prepare an engineering report under the supervision of a faculty member.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: PRODANOVIC, VLADAN
+

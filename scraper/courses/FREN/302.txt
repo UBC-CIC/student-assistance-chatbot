@@ -1,0 +1,65 @@
+Department: FREN
+Course Number: 302
+Section: 201
+Description: A continuation of FREN 301. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 122, FREN 301. (or assignment based on placement.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B303
+Instructor: BLANC, MAGALI
+
+Department: FREN
+Course Number: 302
+Section: 202
+Description: A continuation of FREN 301. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 122, FREN 301. (or assignment based on placement.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D201
+Instructor: BLANC, MAGALI
+
+Department: FREN
+Course Number: 302
+Section: 203
+Description: A continuation of FREN 301. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 122, FREN 301. (or assignment based on placement.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B313
+Instructor: LUBERT, JOYCE
+
+Department: FREN
+Course Number: 302
+Section: 204
+Description: A continuation of FREN 301. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 122, FREN 301. (or assignment based on placement.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: B209
+Instructor: LEBREC, CAROLINE
+
+Department: FREN
+Course Number: 302
+Section: 205
+Description: A continuation of FREN 301. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 122, FREN 301. (or assignment based on placement.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: B141
+Instructor: LEBREC, CAROLINE
+
+Department: FREN
+Course Number: 302
+Section: W02
+Description: A continuation of FREN 301. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 122, FREN 301. (or assignment based on placement.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,11 @@
+Department: LLED
+Course Number: 325A
+Section: 105
+Description: Taught in French. Strategies, theoretical foundations, and approaches related to teaching elementary French (Immersion, Core, Intensive) programs. Pass/Fail.
+Pre-reqs: (A completed concentration in French or permission of the Head.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Neville, Room: Scarfe
+Instructor: NAVARRO, LIZA
+

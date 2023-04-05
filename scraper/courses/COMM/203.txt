@@ -1,0 +1,132 @@
+Department: COMM
+Course Number: 203
+Section: 101
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: ATWAL, PERDIP
+
+Department: COMM
+Course Number: 203
+Section: 102
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: KIM, SU KYUNG
+
+Department: COMM
+Course Number: 203
+Section: 103
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: RAWCLIFFE, WAYNE
+
+Department: COMM
+Course Number: 203
+Section: 104
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: PALUCH, REBECCA MEE KYUNG
+
+Department: COMM
+Course Number: 203
+Section: 105
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: PALUCH, REBECCA MEE KYUNG
+
+Department: COMM
+Course Number: 203
+Section: 201
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: ATWAL, PERDIP
+
+Department: COMM
+Course Number: 203
+Section: 202
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: SAJJADIANI, SIMA
+
+Department: COMM
+Course Number: 203
+Section: 203
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: SAJJADIANI, SIMA
+
+Department: COMM
+Course Number: 203
+Section: 204
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: RAWCLIFFE, WAYNE
+
+Department: COMM
+Course Number: 203
+Section: 205
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: RAWCLIFFE, WAYNE
+
+Department: COMM
+Course Number: 203
+Section: 206
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: KIM, SU KYUNG
+
+Department: COMM
+Course Number: 203
+Section: 207
+Description: The role of employment relations in enterprise performance. Managing employees under statutory law, collective bargaining, and progressive human resource management. Key issues in forming, developing, and maintaining a work force.
+Pre-reqs: One of COMM 192, COMM 292 and either (a) all of ECON 101, ECON 102 or (b) ECON 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: KIM, SU KYUNG
+

@@ -1,0 +1,35 @@
+Department: BMEG
+Course Number: 220
+Section: 201
+Description: Electromagnetic phenomena in the body; bioinstrumentation; electrostatic and electromagnetic fields, forces, capacitance and inductance; bio-effects of electromagnetic fields; and modelling electrical components of physiological and biomedical systems.
+Pre-reqs: All of PHYS 158, MATH 253, MATH 256.
+Co-reqs: MATH 264.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: MOHAGHEGH HARANDI, NEGAR
+
+Department: BMEG
+Course Number: 220
+Section: T2A
+Description: Electromagnetic phenomena in the body; bioinstrumentation; electrostatic and electromagnetic fields, forces, capacitance and inductance; bio-effects of electromagnetic fields; and modelling electrical components of physiological and biomedical systems.
+Pre-reqs: All of PHYS 158, MATH 253, MATH 256.
+Co-reqs: MATH 264.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Wed^, End Time: 14:00, Building: 16:00, Room: Neville
+Instructor: MOHAGHEGH HARANDI, NEGAR
+
+Department: BMEG
+Course Number: 220
+Section: WL1
+Description: Electromagnetic phenomena in the body; bioinstrumentation; electrostatic and electromagnetic fields, forces, capacitance and inductance; bio-effects of electromagnetic fields; and modelling electrical components of physiological and biomedical systems.
+Pre-reqs: All of PHYS 158, MATH 253, MATH 256.
+Co-reqs: MATH 264.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

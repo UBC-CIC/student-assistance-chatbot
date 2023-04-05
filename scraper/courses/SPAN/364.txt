@@ -1,0 +1,11 @@
+Department: SPAN
+Course Number: 364
+Section: 101
+Description: Spanish colonialism in the Americas from the Conquest to the 1820's and the dawn of Independence. Includes coloniality, hybridity, subalternity, and autonomy.
+Pre-reqs: SPAN 221. (; and SPAN 301 or equivalent expertise in written and spoken Spanish.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: D204
+Instructor: BEASLEY-MURRAY, JONATHAN
+

@@ -1,0 +1,8 @@
+Department: RHSC
+Course Number: 581A
+Section: 011
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

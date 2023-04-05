@@ -1,0 +1,10 @@
+Department: BIOL
+Course Number: 347
+Section: 201
+Description: Principles and Methodology in Biological Research
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Food,, Room: Nutrition
+Instructor: AULD, VANESSA
+

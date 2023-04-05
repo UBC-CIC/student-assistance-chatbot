@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 320
+Section: 001
+Description: Clinical education experiences with the preventative and therapeutic midwifery care of pregnancy, birth, and the puerperium. Emphasis on the recognition and management of variations of normal and findings outside normal. A 10-week practicum in locations around the province. Pass/Fail.
+Credits: 11
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Wed Thu Fri, Start Time: 9:00, End Time: 16:00
+Instructor: JOHNSON, NATALIE
+

@@ -1,0 +1,8 @@
+Department: LIBE
+Course Number: 465
+Section: 61A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BEAUDRY, RICHARD
+

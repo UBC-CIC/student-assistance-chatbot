@@ -1,0 +1,10 @@
+Department: FRST
+Course Number: 452
+Section: 201
+Description: Site diagnosis and preparation of management options in coastal forests. Extrasessional course; fees will be assessed to meet expenses.
+Pre-reqs: (Third or fourth year-standing in the B.S.F. program.)
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ROESER, DOMINIK
+

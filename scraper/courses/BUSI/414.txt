@@ -1,0 +1,22 @@
+Department: BUSI
+Course Number: 414
+Section: 102
+Description: Descriptive analytics including data analysis and visualization. Predictive analytics including forecasting and various statistical techniques. Predictive analytics including optimization, Monte Carlo simulation, decision trees, and discrete event simulation.
+Pre-reqs: All of BUSI 291, BUSI 335.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Mon, Start Time: 18:30, End Time: 21:30
+Instructor: AMLANI, ALYM
+
+Department: BUSI
+Course Number: 414
+Section: 202
+Description: Descriptive analytics including data analysis and visualization. Predictive analytics including forecasting and various statistical techniques. Predictive analytics including optimization, Monte Carlo simulation, decision trees, and discrete event simulation.
+Pre-reqs: All of BUSI 291, BUSI 335.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Wed, Start Time: 18:30, End Time: 21:30
+Instructor: AMLANI, ALYM
+

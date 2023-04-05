@@ -1,0 +1,18 @@
+Department: GRS
+Course Number: 397B
+Section: 003
+Description: Participating students may be assessed a fee.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LAVKULICH, LESLIE
+
+Department: GRS
+Course Number: 397B
+Section: 004
+Description: Participating students may be assessed a fee.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LAVKULICH, LESLIE
+

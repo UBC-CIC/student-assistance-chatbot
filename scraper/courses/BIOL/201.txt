@@ -1,0 +1,520 @@
+Department: BIOL
+Course Number: 201
+Section: 201
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: CHEUNG, STEPHANIE
+
+Department: BIOL
+Course Number: 201
+Section: T01
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T02
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T03
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T04
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T05
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T06
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T07
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T08
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T09
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T10
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T11
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T12
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T13
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T14
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T15
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T16
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T17
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T18
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T19
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T20
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T21
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T22
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T23
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T24
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: 202
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: CHEUNG, STEPHANIE
+
+Department: BIOL
+Course Number: 201
+Section: T01
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T02
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T03
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T04
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T05
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T06
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T07
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T08
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T09
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T10
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T11
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T12
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T13
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T14
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T15
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T16
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T17
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T18
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T19
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T20
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T21
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T22
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T23
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: T24
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: 2W1
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: TBA
+
+Department: BIOL
+Course Number: 201
+Section: 2W2
+Pre-reqs: BIOL 200 and one of CHEM 233, CHEM 260. (; or BIOL 200 and a corequisite of CHEM 213; or a corequisite of either CHEM 313 or CHEM 330.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00
+Instructor: TBA
+

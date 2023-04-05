@@ -1,0 +1,11 @@
+Department: THTR
+Course Number: 521
+Section: 001
+Description: An advanced course in directing; detailed study of the major styles in the history of production.
+Pre-reqs: THTR 520.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: MORRIS, LEORA
+

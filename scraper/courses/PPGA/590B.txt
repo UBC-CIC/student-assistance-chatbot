@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 590B
+Section: 001
+Description: Professional team-based project that incorporates training, feedback on project proposals, possible field work, engagement with client organizations, data gathering and analysis, and a major deliverable such as a policy report.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 12:30, Building: LIU, Room: 130
+Instructor: REIMER, ANDREA
+

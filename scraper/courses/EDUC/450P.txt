@@ -1,0 +1,10 @@
+Department: EDUC
+Course Number: 450P
+Section: 63A
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 12:00
+Instructor: MACKIE, ANNE
+

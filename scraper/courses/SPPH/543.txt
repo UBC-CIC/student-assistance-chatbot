@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 543
+Section: 002
+Description: This course is an advanced program evaluation course.
+Pre-reqs: Either (a) HCEP 502 or (b) SPPH 502.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

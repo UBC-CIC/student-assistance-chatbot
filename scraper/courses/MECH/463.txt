@@ -1,0 +1,106 @@
+Department: MECH
+Course Number: 463
+Section: 101
+Description: Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis.
+Pre-reqs: One of MECH 224, MECH 260.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Earth, Room: Sciences
+Instructor: SCHAJER, GARY
+
+Department: MECH
+Course Number: 463
+Section: L1A
+Description: Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis.
+Pre-reqs: One of MECH 224, MECH 260.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MECH
+Course Number: 463
+Section: T1A
+Description: Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis.
+Pre-reqs: One of MECH 224, MECH 260.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Chemical, Room: and
+Instructor: SCHAJER, GARY
+
+Department: MECH
+Course Number: 463
+Section: T1B
+Description: Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis.
+Pre-reqs: One of MECH 224, MECH 260.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Food,, Room: Nutrition
+Instructor: SCHAJER, GARY
+
+Department: MECH
+Course Number: 463
+Section: 102
+Description: Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis.
+Pre-reqs: One of MECH 224, MECH 260.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: P., Room: A.
+Instructor: MOHAMMADPANAH FOROUTAGHE, AHMAD
+
+Department: MECH
+Course Number: 463
+Section: L1B
+Description: Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis.
+Pre-reqs: One of MECH 224, MECH 260.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MECH
+Course Number: 463
+Section: T1C
+Description: Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis.
+Pre-reqs: One of MECH 224, MECH 260.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Chemical, Room: and
+Instructor: TBA
+
+Department: MECH
+Course Number: 463
+Section: T1D
+Description: Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis.
+Pre-reqs: One of MECH 224, MECH 260.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Frank, Room: Forward
+Instructor: MOHAMMADPANAH FOROUTAGHE, AHMAD
+
+Department: MECH
+Course Number: 463
+Section: 1W1
+Description: Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis.
+Pre-reqs: One of MECH 224, MECH 260.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MECH
+Course Number: 463
+Section: 1W2
+Description: Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis.
+Pre-reqs: One of MECH 224, MECH 260.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

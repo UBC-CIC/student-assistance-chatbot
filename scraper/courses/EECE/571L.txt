@@ -1,0 +1,18 @@
+Department: EECE
+Course Number: 571L
+Section: 209
+Description: Electrical Engineering Seminar and Special Problems - DP LRNG DG MEDIA
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 20:00, Building: Civil, Room: and
+Instructor: NASIOPOULOS, PANOS
+
+Department: EECE
+Course Number: 571L
+Section: 2W9
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

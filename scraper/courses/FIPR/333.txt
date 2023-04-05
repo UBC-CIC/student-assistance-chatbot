@@ -1,0 +1,12 @@
+Department: FIPR
+Course Number: 333
+Section: 001
+Description: Intermediate film and media production. Open only to students in the Film Production BFA Program. Students who have not already completed FIPR 337, FIPR 338 must complete them at the same time as FIPR 333.
+Pre-reqs: FIPR 233.
+Co-reqs: All of FIPR 337, FIPR 338.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Theatre-Film, Room: Production
+Instructor: BOURGES, ANTOINE
+

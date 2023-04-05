@@ -1,0 +1,58 @@
+Department: ASTU
+Course Number: 101
+Section: P01
+Description: Analysis of and practice in academic writing and reading in the social sciences and the humanities. Restricted to students in the Coordinated Arts Program.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Hennings, Room: 301
+Instructor: STEWART, ANNE
+
+Department: ASTU
+Course Number: 101
+Section: P02
+Description: Analysis of and practice in academic writing and reading in the social sciences and the humanities. Restricted to students in the Coordinated Arts Program.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Irving, Room: K
+Instructor: MAURO, EVAN
+
+Department: ASTU
+Course Number: 101
+Section: P03
+Description: Analysis of and practice in academic writing and reading in the social sciences and the humanities. Restricted to students in the Coordinated Arts Program.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00
+Instructor: GOHEEN, ERIN
+
+Department: ASTU
+Course Number: 101
+Section: P04
+Description: Analysis of and practice in academic writing and reading in the social sciences and the humanities. Restricted to students in the Coordinated Arts Program.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00
+Instructor: HUSAIN, KASIM
+
+Department: ASTU
+Course Number: 101
+Section: P05
+Description: Analysis of and practice in academic writing and reading in the social sciences and the humanities. Restricted to students in the Coordinated Arts Program.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ASTU
+Course Number: 101
+Section: WL1
+Description: Analysis of and practice in academic writing and reading in the social sciences and the humanities. Restricted to students in the Coordinated Arts Program.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

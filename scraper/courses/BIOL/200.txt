@@ -1,0 +1,755 @@
+Department: BIOL
+Course Number: 200
+Section: 000
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LAM, VIVIENNE(Coordinator)
+
+Department: BIOL
+Course Number: 200
+Section: 101
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: CHEN, LIANE
+
+Department: BIOL
+Course Number: 200
+Section: 102
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Neville, Room: Scarfe
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: 103
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Wesbrook, Room: 100
+Instructor: WONG, DONALD
+
+Department: BIOL
+Course Number: 200
+Section: 104
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: CHEN, LIANE
+
+Department: BIOL
+Course Number: 200
+Section: 1W1
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: BIOL
+Course Number: 200
+Section: 1W2
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30
+Instructor: TBA
+
+Department: BIOL
+Course Number: 200
+Section: 1W3
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30
+Instructor: TBA
+
+Department: BIOL
+Course Number: 200
+Section: 1W4
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: BIOL
+Course Number: 200
+Section: T01
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T02
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T03
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T04
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T05
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T06
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T07
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T08
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T09
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T10
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T11
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T12
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T13
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T14
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T15
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T16
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T17
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T18
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T19
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T20
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T21
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T22
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T23
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T24
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T25
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T26
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T27
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T28
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T29
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T30
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T31
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T32
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T33
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T34
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T35
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T36
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T37
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T38
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T39
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T40
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T41
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T42
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T43
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T44
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T45
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T46
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T47
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T48
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: 0W0
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: BIOL
+Course Number: 200
+Section: 201
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Chemistry, Room: B150
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T60
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T61
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T62
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T63
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T64
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T65
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T66
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T67
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: T68
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 200
+Section: 2W1
+Description: Structure and function of plant and animal cells; membrane models, cytoplasmic organelles, biological information from gene to protein, the endomembrane system, secretion, intracellular digestion, endocytosis, transport processes, cytoskeleton and cell motility.
+Pre-reqs: Either (a) BIOL 112 and one of CHEM 123, CHEM 130; or (b) SCIE 001. (or (c) 8 transfer credits of first-year BIOL and 6 credits of first-year CHEM or (d) one of BIOL 112 or BIOL 121 and a corequisite of one of CHEM 203 or CHEM 223.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00
+

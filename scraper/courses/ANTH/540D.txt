@@ -1,0 +1,9 @@
+Department: ANTH
+Course Number: 540D
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Buchanan, Room: D306
+Instructor: ROBERTSON, LESLIE
+

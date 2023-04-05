@@ -1,0 +1,22 @@
+Department: CPSC
+Course Number: 312
+Section: 201
+Description: Principles of symbolic computing, using languages based upon first-order logic and the lambda calculus. Algorithms for implementing such languages. Applications to artificial intelligence and knowledge representation.
+Pre-reqs: One of CPSC 210, CPEN 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Friedman, Room: Building
+Instructor: POOLE, DAVID
+
+Department: CPSC
+Course Number: 312
+Section: 2W1
+Description: Principles of symbolic computing, using languages based upon first-order logic and the lambda calculus. Algorithms for implementing such languages. Applications to artificial intelligence and knowledge representation.
+Pre-reqs: One of CPSC 210, CPEN 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: To, Room: Be
+Instructor: POOLE, DAVID
+

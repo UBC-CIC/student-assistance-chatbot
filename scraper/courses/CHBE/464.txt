@@ -1,0 +1,11 @@
+Department: CHBE
+Course Number: 464
+Section: 001
+Description: Experiments in unit operations relating to process, environmental and biological engineering. Experiments are designed to provide experience in instrumentation and control. Field trips may be required.
+Pre-reqs: All of CHBE 345, CHBE 355, CHBE 356, CHBE 362 and one of CHBE 365, CHBE 366.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 18:30, Building: Chemical, Room: and
+Instructor: POTVIN, GABRIEL
+

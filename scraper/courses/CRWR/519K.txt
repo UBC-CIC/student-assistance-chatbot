@@ -1,0 +1,10 @@
+Department: CRWR
+Course Number: 519K
+Section: D01
+Description: Advanced writing of speculative fiction, including fantasy, science fiction, magical realism, horror, folk tales, and weird stories. Emphasis on reading examples from the subgenres and peer feedback.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Thu Fri
+Instructor: POHL-WEARY, EMILY
+

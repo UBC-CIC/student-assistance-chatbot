@@ -1,0 +1,32 @@
+Department: MUSC
+Course Number: 649
+Section: 001
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MUSC
+Course Number: 649
+Section: 002
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MUSC
+Course Number: 649
+Section: 003
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MUSC
+Course Number: 649
+Section: 004
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CARRABRE, THOMAS
+

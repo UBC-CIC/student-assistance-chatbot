@@ -1,0 +1,63 @@
+Department: CNPS
+Course Number: 364
+Section: 63A
+Description: Examination of current theories and practices in family education and consultation.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HORWITZ, ERIKA
+
+Department: CNPS
+Course Number: 364
+Section: 63B
+Description: Examination of current theories and practices in family education and consultation.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HORWITZ, ERIKA
+
+Department: CNPS
+Course Number: 364
+Section: 63C
+Description: Examination of current theories and practices in family education and consultation.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HORWITZ, ERIKA
+
+Department: CNPS
+Course Number: 364
+Section: 63D
+Description: Examination of current theories and practices in family education and consultation.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HORWITZ, ERIKA
+
+Department: CNPS
+Course Number: 364
+Section: 63E
+Description: Examination of current theories and practices in family education and consultation.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HORWITZ, ERIKA
+
+Department: CNPS
+Course Number: 364
+Section: W3A
+Description: Examination of current theories and practices in family education and consultation.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: CNPS
+Course Number: 364
+Section: W3C
+Description: Examination of current theories and practices in family education and consultation.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

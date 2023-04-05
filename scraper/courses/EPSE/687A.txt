@@ -1,0 +1,30 @@
+Department: EPSE
+Course Number: 687A
+Section: PH4
+Description: Pass/Fail
+Pre-reqs: (Admission to the School and Applied Child Psychology or Counselling Psychology Ph.D. Program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EPSE
+Course Number: 687A
+Section: PH5
+Description: Pass/Fail
+Pre-reqs: (Admission to the School and Applied Child Psychology or Counselling Psychology Ph.D. Program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EPSE
+Course Number: 687A
+Section: PH6
+Description: Pass/Fail
+Pre-reqs: (Admission to the School and Applied Child Psychology or Counselling Psychology Ph.D. Program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

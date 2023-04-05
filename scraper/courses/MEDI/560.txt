@@ -1,0 +1,9 @@
+Department: MEDI
+Course Number: 560
+Section: 001
+Description: Same as PATH 518.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

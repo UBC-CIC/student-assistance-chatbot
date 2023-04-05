@@ -1,0 +1,50 @@
+Department: LAW
+Course Number: 474
+Section: 001
+Description: Techniques of advocacy in civil and criminal cases including interviewing, pre-trial preparation, tactical analysis, development of facts, direct and cross examination and various ethical considerations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 18:00, Building: Allard, Room: Hall
+Instructor: SUTHERLAND, JAMES
+
+Department: LAW
+Course Number: 474
+Section: L01
+Description: Techniques of advocacy in civil and criminal cases including interviewing, pre-trial preparation, tactical analysis, development of facts, direct and cross examination and various ethical considerations.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Allard, Room: Hall
+Instructor: CORBETT, JONATHAN
+
+Department: LAW
+Course Number: 474
+Section: L02
+Description: Techniques of advocacy in civil and criminal cases including interviewing, pre-trial preparation, tactical analysis, development of facts, direct and cross examination and various ethical considerations.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:30, End Time: 19:30, Building: Allard, Room: Hall
+Instructor: RHODES, BRIAN
+
+Department: LAW
+Course Number: 474
+Section: L03
+Description: Techniques of advocacy in civil and criminal cases including interviewing, pre-trial preparation, tactical analysis, development of facts, direct and cross examination and various ethical considerations.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 18:00, End Time: 20:00, Building: Allard, Room: Hall
+Instructor: JETTE, MARK
+
+Department: LAW
+Course Number: 474
+Section: L04
+Description: Techniques of advocacy in civil and criminal cases including interviewing, pre-trial preparation, tactical analysis, development of facts, direct and cross examination and various ethical considerations.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:30, End Time: 19:30, Building: Allard, Room: Hall
+Instructor: DUNCAN, EMMET
+

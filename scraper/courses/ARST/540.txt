@@ -1,0 +1,18 @@
+Department: ARST
+Course Number: 540
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 18:00, End Time: 21:00, Building: Buchanan, Room: B302
+Instructor: DOUGLAS, JENNIFER
+
+Department: ARST
+Course Number: 540
+Section: WL2
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 18:00, End Time: 21:00
+Instructor: TBA
+

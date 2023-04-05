@@ -1,0 +1,19 @@
+Department: MICB
+Course Number: 407
+Section: 101
+Pre-reqs: MICB 306.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 11:00, End Time: 12:30, Building: Food,, Room: Nutrition
+Instructor: HORWITZ, MARC
+
+Department: MICB
+Course Number: 407
+Section: WL1
+Pre-reqs: MICB 306.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

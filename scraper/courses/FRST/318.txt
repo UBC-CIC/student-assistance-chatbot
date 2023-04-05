@@ -1,0 +1,44 @@
+Department: FRST
+Course Number: 318
+Section: 201
+Description: Practical problem solving of economic issues related to forestry and conservation, touching on investment analysis, capital budgeting, non-timber economics, ecosystem services, and forest certification. Completion of FRST 232 or intermediate knowledge of MS Excel essential.
+Pre-reqs: ECON 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 18:00, End Time: 19:30, Building: Pharmaceutical, Room: Sciences
+Instructor: NIQUIDET, KURT
+
+Department: FRST
+Course Number: 318
+Section: L01
+Description: Practical problem solving of economic issues related to forestry and conservation, touching on investment analysis, capital budgeting, non-timber economics, ecosystem services, and forest certification. Completion of FRST 232 or intermediate knowledge of MS Excel essential.
+Pre-reqs: ECON 101.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: NIQUIDET, KURT
+
+Department: FRST
+Course Number: 318
+Section: L02
+Description: Practical problem solving of economic issues related to forestry and conservation, touching on investment analysis, capital budgeting, non-timber economics, ecosystem services, and forest certification. Completion of FRST 232 or intermediate knowledge of MS Excel essential.
+Pre-reqs: ECON 101.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Chemical, Room: and
+Instructor: NIQUIDET, KURT
+
+Department: FRST
+Course Number: 318
+Section: L03
+Description: Practical problem solving of economic issues related to forestry and conservation, touching on investment analysis, capital budgeting, non-timber economics, ecosystem services, and forest certification. Completion of FRST 232 or intermediate knowledge of MS Excel essential.
+Pre-reqs: ECON 101.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: NIQUIDET, KURT
+

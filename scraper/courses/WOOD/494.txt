@@ -1,0 +1,22 @@
+Department: WOOD
+Course Number: 494
+Section: 101
+Description: Wood cutting fundamentals, chip formation, cutting conditions, cutting edge maintenance, sawing, planing and molding, veneer cutting, chipping, turning.
+Pre-reqs: WOOD 356.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: COOL, JULIE
+
+Department: WOOD
+Course Number: 494
+Section: L01
+Description: Wood cutting fundamentals, chip formation, cutting conditions, cutting edge maintenance, sawing, planing and molding, veneer cutting, chipping, turning.
+Pre-reqs: WOOD 356.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: COOL, JULIE
+

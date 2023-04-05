@@ -1,0 +1,109 @@
+Department: KIN
+Course Number: 335
+Section: 001
+Description: Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise.
+Pre-reqs: (Third-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: West, Room: Mall
+Instructor: SHEEL, WILLIAM
+
+Department: KIN
+Course Number: 335
+Section: 0W1
+Description: Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 335
+Section: 901
+Description: Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:00, End Time: 19:00, Building: Chemistry, Room: C126
+Instructor: KIPP, SHALAYA
+
+Department: KIN
+Course Number: 335
+Section: 9W1
+Description: Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:00, End Time: 19:00
+Instructor: TBA
+
+Department: KIN
+Course Number: 335
+Section: L1A
+Description: Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Robert, Room: F.
+Instructor: SHEEL, WILLIAM
+
+Department: KIN
+Course Number: 335
+Section: L1B
+Description: Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Robert, Room: F.
+Instructor: SHEEL, WILLIAM
+
+Department: KIN
+Course Number: 335
+Section: L1C
+Description: Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:00, End Time: 14:00, Building: Robert, Room: F.
+Instructor: SHEEL, WILLIAM
+
+Department: KIN
+Course Number: 335
+Section: L1D
+Description: Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 18:00, Building: Robert, Room: F.
+Instructor: SHEEL, WILLIAM
+
+Department: KIN
+Course Number: 335
+Section: L1E
+Description: Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 18:00, Building: Robert, Room: F.
+Instructor: SHEEL, WILLIAM
+
+Department: KIN
+Course Number: 335
+Section: L1F
+Description: Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:30, End Time: 16:30, Building: Robert, Room: F.
+Instructor: SHEEL, WILLIAM
+

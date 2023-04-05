@@ -1,0 +1,10 @@
+Department: SOWK
+Course Number: 400
+Section: 001
+Description: Canadian Social Policy
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Jack, Room: Bell
+Instructor: CARAGATA, LEA
+

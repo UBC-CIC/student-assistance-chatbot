@@ -1,0 +1,9 @@
+Department: AQUA
+Course Number: 506
+Section: 001
+Credits: 2
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00
+Instructor: MUELLER, OLIVER
+

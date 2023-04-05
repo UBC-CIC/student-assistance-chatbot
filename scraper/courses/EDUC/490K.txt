@@ -1,0 +1,10 @@
+Department: EDUC
+Course Number: 490K
+Section: 102
+Description: Topics not covered in a course. A pilot course may be offered under this name for only one year and with permission of the Associate Dean (Teacher Education).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:30, End Time: 10:00, Building: Ponderosa, Room: Commons
+Instructor: FENTON, MEREDITH
+

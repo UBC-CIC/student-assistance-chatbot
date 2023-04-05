@@ -1,0 +1,39 @@
+Department: PSYC
+Course Number: 207
+Section: 001
+Description: A focus on the interpretation of contemporary research in neuroscience, cognition, perception, memory, and learning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Hennings, Room: 202
+Instructor: CHRISTOFF, KALINA
+
+Department: PSYC
+Course Number: 207
+Section: 002
+Description: A focus on the interpretation of contemporary research in neuroscience, cognition, perception, memory, and learning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PSYC
+Course Number: 207
+Section: 003
+Description: A focus on the interpretation of contemporary research in neuroscience, cognition, perception, memory, and learning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Irving, Room: K
+Instructor: CHRISTOFF, KALINA
+
+Department: PSYC
+Course Number: 207
+Section: 901
+Description: A focus on the interpretation of contemporary research in neuroscience, cognition, perception, memory, and learning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: P., Room: A.
+Instructor: SKIBA, RAFAL
+

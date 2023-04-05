@@ -1,0 +1,22 @@
+Department: THTR
+Course Number: 456
+Section: 001
+Description: Pattern development and cutting for costume for stage and screen using flat pattern and draping.
+Pre-reqs: THTR 356.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 12:00, Building: Frederic, Room: Wood
+Instructor: FIRKINS, JACQUELINE
+
+Department: THTR
+Course Number: 456
+Section: S11
+Description: Pattern development and cutting for costume for stage and screen using flat pattern and draping.
+Pre-reqs: THTR 356.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Frederic, Room: Wood
+Instructor: FIRKINS, JACQUELINE
+

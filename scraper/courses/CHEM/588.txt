@@ -1,0 +1,9 @@
+Department: CHEM
+Course Number: 588
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Chemistry, Room: D317
+Instructor: LI, HONGBIN
+

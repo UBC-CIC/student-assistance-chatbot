@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 398
+Section: 001
+Description: Stories of gods, goddesses and religious heroes from the Ramayana, Mahabharata, Puranas, Avadanas and in classical poetry and drama.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: D222
+Instructor: UM, JANET
+
+Department: ASIA
+Course Number: 398
+Section: W01
+Description: Stories of gods, goddesses and religious heroes from the Ramayana, Mahabharata, Puranas, Avadanas and in classical poetry and drama.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:30
+Instructor: UM, JANET
+

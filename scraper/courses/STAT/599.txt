@@ -1,0 +1,20 @@
+Department: STAT
+Course Number: 599
+Section: 101
+Description: Restricted to students admitted to the Co-operative M.Sc. Education Program in Statistics.
+Pre-reqs: STAT 598.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: STAT
+Course Number: 599
+Section: 201
+Description: Restricted to students admitted to the Co-operative M.Sc. Education Program in Statistics.
+Pre-reqs: STAT 598.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

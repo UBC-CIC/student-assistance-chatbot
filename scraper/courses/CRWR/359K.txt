@@ -1,0 +1,11 @@
+Department: CRWR
+Course Number: 359K
+Section: 001
+Description: An intermediate level workshop class in writing of fiction. Manuscript submission is not required for admission.
+Pre-reqs: CRWR 309.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B312
+Instructor: TATER, MALLORY
+

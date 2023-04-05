@@ -1,0 +1,27 @@
+Department: PLAN
+Course Number: 528A
+Section: 001
+Description: Capstone Professional Report - PROFESSION REPRT
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 528A
+Section: 002
+Description: Capstone Professional Report - PROFESSION REPRT
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 528A
+Section: 003
+Description: Capstone Professional Report - PROFESSION REPRT
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

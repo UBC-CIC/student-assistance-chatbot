@@ -1,0 +1,42 @@
+Department: KIN
+Course Number: 211
+Section: 001
+Description: Processes underlying human movement and learning motor skills and factors influencing acquisition, performance, and movement control.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Friedman, Room: Building
+Instructor: HODGES, NICOLA
+
+Department: KIN
+Course Number: 211
+Section: 002
+Description: Processes underlying human movement and learning motor skills and factors influencing acquisition, performance, and movement control.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: West, Room: Mall
+Instructor: HODGES, NICOLA
+
+Department: KIN
+Course Number: 211
+Section: 0W1
+Description: Processes underlying human movement and learning motor skills and factors influencing acquisition, performance, and movement control.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 211
+Section: 0W2
+Description: Processes underlying human movement and learning motor skills and factors influencing acquisition, performance, and movement control.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,16 @@
+Department: ASIA
+Course Number: 532B
+Section: 009
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MOSTOW, JOSHUA SCOTT
+
+Department: ASIA
+Course Number: 532B
+Section: 609
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

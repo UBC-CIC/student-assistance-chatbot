@@ -1,0 +1,21 @@
+Department: ENPH
+Course Number: 459
+Section: 001
+Description: Project planning, management and reporting. This course involves writing a project proposal, carrying out an open-ended Engineering project, and reporting the results both orally and in writing.
+Pre-reqs: ENPH 253.
+Credits: 5
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Chemistry, Room: C124
+Instructor: GUNN, DYLAN
+
+Department: ENPH
+Course Number: 459
+Section: L2A
+Description: Project planning, management and reporting. This course involves writing a project proposal, carrying out an open-ended Engineering project, and reporting the results both orally and in writing.
+Pre-reqs: ENPH 253.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GUNN, DYLAN
+

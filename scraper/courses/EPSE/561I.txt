@@ -1,0 +1,9 @@
+Department: EPSE
+Course Number: 561I
+Section: 074
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: LISAINGO, SIMON
+

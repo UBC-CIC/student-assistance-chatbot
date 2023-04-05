@@ -1,0 +1,143 @@
+Department: STAT
+Course Number: 300
+Section: 101
+Description: Intermediate Statistics for Applications
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Hennings, Room: 200
+Instructor: AUGER-METHE, MARIE
+
+Department: STAT
+Course Number: 300
+Section: L1A
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:00, End Time: 9:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 300
+Section: L1B
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 300
+Section: L1C
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 8:30, End Time: 9:30, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 300
+Section: L1D
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 300
+Section: L1E
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 300
+Section: 201
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: BURR, BENJAMIN
+
+Department: STAT
+Course Number: 300
+Section: L2A
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 8:00, End Time: 9:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 300
+Section: L2B
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 300
+Section: L2C
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 300
+Section: L2D
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 300
+Section: L2E
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 300
+Section: L2F
+Description: Further topics in statistical inference, including parametric and non-parametric methods, goodness-of-fit methods, analysis of variance and covariance, regression analysis, categorical data analysis, experimental designs, time series, model fitting, and statistical computing.
+Pre-reqs: One of STAT 200, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, KIN 206, LFS 252, POLI 380, PSYC 218, PSYC 278, PSYC 366.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Earth, Room: Sciences
+Instructor: TBA
+

@@ -1,0 +1,32 @@
+Department: FRE
+Course Number: 302
+Section: 001
+Description: Emphasizes the building of a business plan by exploring topics such as the planning process and financing, marketing and human resource concepts, as applied to an agri-food business, domestically and internationally.
+Pre-reqs: One of ECON 101, ECON 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: MacMillan, Room: 160
+Instructor: WISEMAN, KELLEEN
+
+Department: FRE
+Course Number: 302
+Section: 0W1
+Description: Emphasizes the building of a business plan by exploring topics such as the planning process and financing, marketing and human resource concepts, as applied to an agri-food business, domestically and internationally.
+Pre-reqs: One of ECON 101, ECON 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FRE
+Course Number: 302
+Section: 201
+Description: Emphasizes the building of a business plan by exploring topics such as the planning process and financing, marketing and human resource concepts, as applied to an agri-food business, domestically and internationally.
+Pre-reqs: One of ECON 101, ECON 310.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 11:00
+Instructor: CARMICHAEL, JEFFREY
+

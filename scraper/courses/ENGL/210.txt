@@ -1,0 +1,10 @@
+Department: ENGL
+Course Number: 210
+Section: 001
+Description: An Introduction to English Honours
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B310
+Instructor: MACKIE, GREGORY
+

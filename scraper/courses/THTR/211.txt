@@ -1,0 +1,40 @@
+Department: THTR
+Course Number: 211
+Section: 001
+Description: Topics in comparative drama; drama and the other performing arts; dramaturgy.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Chan, Room: Centre
+Instructor: LIU, YUNING
+
+Department: THTR
+Course Number: 211
+Section: D11
+Description: Topics in comparative drama; drama and the other performing arts; dramaturgy.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D201
+Instructor: TBA
+
+Department: THTR
+Course Number: 211
+Section: D12
+Description: Topics in comparative drama; drama and the other performing arts; dramaturgy.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D204
+Instructor: TBA
+
+Department: THTR
+Course Number: 211
+Section: D13
+Description: Topics in comparative drama; drama and the other performing arts; dramaturgy.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D301
+Instructor: TBA
+

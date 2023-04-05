@@ -1,0 +1,20 @@
+Department: FIPR
+Course Number: 131
+Section: 001
+Description: Fundamental techniques used to create emotionally engaged and narratively effective performances for film and digital media.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:00, End Time: 14:00, Building: Frederic, Room: Wood
+Instructor: ANDERSON, BART
+
+Department: FIPR
+Course Number: 131
+Section: WL1
+Description: Fundamental techniques used to create emotionally engaged and narratively effective performances for film and digital media.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:00, End Time: 14:00
+Instructor: TBA
+

@@ -1,0 +1,19 @@
+Department: CELL
+Course Number: 506
+Section: 001
+Description: Principles and applications in biological research.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 13:00
+Instructor: HAAS, KURT
+
+Department: CELL
+Course Number: 506
+Section: 01W
+Description: Principles and applications in biological research.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HAAS, KURT
+

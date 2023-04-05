@@ -1,0 +1,18 @@
+Department: CPSC
+Course Number: 448C
+Section: 001
+Description: Open ordinarily to students in Computer Science with at least a 72% average and permission of the department. The course may consist of supervised reading, participation in a seminar, and one or more programming projects.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CARTER, PAUL
+
+Department: CPSC
+Course Number: 448C
+Section: 003
+Description: Open ordinarily to students in Computer Science with at least a 72% average and permission of the department. The course may consist of supervised reading, participation in a seminar, and one or more programming projects.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

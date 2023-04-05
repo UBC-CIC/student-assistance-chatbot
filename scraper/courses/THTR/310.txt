@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 310
+Section: 001
+Description: The basic principles of dramaturgy and theory of performance. Historical and contemporary writing on dramatic theory and criticism and their relation to theatrical practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Buchanan, Room: D201
+Instructor: JOHNSTON, KIRSTY
+

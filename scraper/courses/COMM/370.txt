@@ -1,0 +1,132 @@
+Department: COMM
+Course Number: 370
+Section: 101
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: ORTIZ MOLINA, HERNAN
+
+Department: COMM
+Course Number: 370
+Section: 102
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: ORTIZ MOLINA, HERNAN
+
+Department: COMM
+Course Number: 370
+Section: 103
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: YANG, CHUNXUE
+
+Department: COMM
+Course Number: 370
+Section: 104
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: FREEDMAN, RUTH
+
+Department: COMM
+Course Number: 370
+Section: 105
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: AGARWAL, ISHA
+
+Department: COMM
+Course Number: 370
+Section: 106
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: AGARWAL, ISHA
+
+Department: COMM
+Course Number: 370
+Section: 107
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: AGARWAL, ISHA
+
+Department: COMM
+Course Number: 370
+Section: 108
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: DEGRAAF, DARREN
+
+Department: COMM
+Course Number: 370
+Section: 109
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: DEGRAAF, DARREN
+
+Department: COMM
+Course Number: 370
+Section: 201
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: LOMBARD, CAREN
+
+Department: COMM
+Course Number: 370
+Section: 202
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: LOMBARD, CAREN
+
+Department: COMM
+Course Number: 370
+Section: 203
+Description: Examination of corporate enterprise decisions including capital budgeting; capital structure choice, and financial policies, tools, and valuation.
+Pre-reqs: COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: PIZARRO ZUNIGA, JOSE
+

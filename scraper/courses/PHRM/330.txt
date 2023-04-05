@@ -1,0 +1,22 @@
+Department: PHRM
+Course Number: 330
+Section: 001
+Description: Pharmaceutical care concepts for managing acute and critically ill patients.
+Pre-reqs: (Third-year standing and a combined grade average of 70% in PHRM 211 and PHRM 212.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: DAHRI, KAREN
+
+Department: PHRM
+Course Number: 330
+Section: WL1
+Description: Pharmaceutical care concepts for managing acute and critically ill patients.
+Pre-reqs: (Third-year standing and a combined grade average of 70% in PHRM 211 and PHRM 212.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: To, Room: Be
+Instructor: TBA
+

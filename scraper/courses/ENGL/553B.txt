@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 553B
+Section: 002
+Description: Studies in Literary Theory - ST'S LIT THEORY
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:30, End Time: 12:30, Building: Buchanan, Room: Tower
+Instructor: HUNT, DALLAS
+
+Department: ENGL
+Course Number: 553B
+Section: 02W
+Description: Studies in Literary Theory - ST'S LIT THEORY
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

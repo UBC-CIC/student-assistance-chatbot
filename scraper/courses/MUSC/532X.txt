@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 532X
+Section: 001
+Description: Research seminar on a core or emerging topic in music history or musicology. May be repeated to a maximum of 12 credits if different topics are covered.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Music, Room: 116
+Instructor: SHARON, RENA
+

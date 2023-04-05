@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 511D
+Section: 001
+Description: Analysis of topics such as jurisdiction, immunity from prosecution, mutual assistance in penal matters, recognition and enforcement of foreign penal laws, and international police cooperation; examination of selected offences such as war crimes, crimes against humanity, genocide, terrorism, illicit drug trafficking, and torture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Allard, Room: Hall
+Instructor: STEWART, JAMES
+

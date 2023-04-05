@@ -1,0 +1,10 @@
+Department: SPHA
+Course Number: 556
+Section: 001
+Description: Foundations of population health. An overview of research on determinants of health, with an emphasis on the social determinants of health.
+Credits: 1.5
+Mode of Delivery: Multi-access
+Requires in Person Attendance: No
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 21:00
+Instructor: DEERING, KATHLEEN
+

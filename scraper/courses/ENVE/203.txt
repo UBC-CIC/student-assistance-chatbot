@@ -1,0 +1,33 @@
+Department: ENVE
+Course Number: 203
+Section: 201
+Description: Sustainability vocabulary and systems theory relevant to environmental engineering practice, foundational sustainability topics including those relating to urban ecology, industrial ecology/circular economy, and humanitarian engineering, stakeholder analysis, communication, and adaptive change leadership skills
+Pre-reqs: ENVE 200.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: MacMillan, Room: 158
+Instructor: ETMANNSKI, TAMARA
+
+Department: ENVE
+Course Number: 203
+Section: T2A
+Description: Sustainability vocabulary and systems theory relevant to environmental engineering practice, foundational sustainability topics including those relating to urban ecology, industrial ecology/circular economy, and humanitarian engineering, stakeholder analysis, communication, and adaptive change leadership skills
+Pre-reqs: ENVE 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: MacMillan, Room: 260
+Instructor: ETMANNSKI, TAMARA
+
+Department: ENVE
+Course Number: 203
+Section: T2B
+Description: Sustainability vocabulary and systems theory relevant to environmental engineering practice, foundational sustainability topics including those relating to urban ecology, industrial ecology/circular economy, and humanitarian engineering, stakeholder analysis, communication, and adaptive change leadership skills
+Pre-reqs: ENVE 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: MacMillan, Room: 256
+Instructor: ETMANNSKI, TAMARA
+

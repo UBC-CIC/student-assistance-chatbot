@@ -1,0 +1,10 @@
+Department: KIN
+Course Number: 564
+Section: 001
+Description: Selected psycho-social considerations in sport: initial and continuing involvement in the competitive sport environment.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: War, Room: Memorial
+Instructor: BEAUCHAMP, MARK
+

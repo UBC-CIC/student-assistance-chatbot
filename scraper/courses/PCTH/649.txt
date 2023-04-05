@@ -1,0 +1,27 @@
+Department: PCTH
+Course Number: 649
+Section: 001
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Sat, Start Time: 19:30, End Time: 20:30, Building: To, Room: Be
+Instructor: BERNATCHEZ, PASCAL
+
+Department: PCTH
+Course Number: 649
+Section: 002
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 21:30, End Time: 22:00, Building: To, Room: Be
+Instructor: BERNATCHEZ, PASCAL
+
+Department: PCTH
+Course Number: 649
+Section: 003
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Sat, Start Time: 14:30, End Time: 15:00, Building: To, Room: Be
+Instructor: BERNATCHEZ, PASCAL
+

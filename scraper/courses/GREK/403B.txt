@@ -1,0 +1,11 @@
+Department: GREK
+Course Number: 403B
+Section: 001
+Description: Thematic studies using both Greek prose and Greek verse. May be repeated for up to 6 credits. It is recommended that the corequisite course be completed prior to GREK 403.
+Co-reqs: One of GREK 351, GREK 352.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D228
+Instructor: YOON, FLORENCE
+

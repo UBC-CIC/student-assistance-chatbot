@@ -1,0 +1,9 @@
+Department: COMM
+Course Number: 547B
+Section: 610
+Description: Major Essay/Industry Project - MAJOR ESSAY/PROJ
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

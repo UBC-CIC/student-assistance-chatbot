@@ -1,0 +1,22 @@
+Department: CONS
+Course Number: 440
+Section: 101
+Description: An introduction to policy and decision making for conserving biodiversity in an uncertain world using a combination of ecological data and decision science.
+Pre-reqs: CONS 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: MacLeod, Room: 2018
+Instructor: MARTIN, TARA
+
+Department: CONS
+Course Number: 440
+Section: L01
+Description: An introduction to policy and decision making for conserving biodiversity in an uncertain world using a combination of ecological data and decision science.
+Pre-reqs: CONS 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Hugh, Room: Dempster
+Instructor: MARTIN, TARA
+

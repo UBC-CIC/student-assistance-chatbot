@@ -1,0 +1,22 @@
+Department: APBI
+Course Number: 444
+Section: 201
+Description: An introduction to the application of knowledge and principles of agroecology and forest ecology to global agroforestry systems. The course includes a one-weekend field trip that requires a supplemental fee.
+Pre-reqs: (An undergraduate course in ecology or equivalent.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 15:00
+Instructor: RYAN, TERESA
+
+Department: APBI
+Course Number: 444
+Section: T01
+Description: An introduction to the application of knowledge and principles of agroecology and forest ecology to global agroforestry systems. The course includes a one-weekend field trip that requires a supplemental fee.
+Pre-reqs: (An undergraduate course in ecology or equivalent.)
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00
+Instructor: RYAN, TERESA
+

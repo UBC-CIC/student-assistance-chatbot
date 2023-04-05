@@ -1,0 +1,16 @@
+Department: MEDI
+Course Number: 548B
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MEDI
+Course Number: 548B
+Section: 005
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,20 @@
+Department: FOPR
+Course Number: 264
+Section: 101
+Description: Basic geomatics, surveying and forest operations.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 8:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: ROESER, DOMINIK
+
+Department: FOPR
+Course Number: 264
+Section: L01
+Description: Basic geomatics, surveying and forest operations.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: MacLeod, Room: 3018
+Instructor: ROESER, DOMINIK
+

@@ -1,0 +1,21 @@
+Department: FNH
+Course Number: 371
+Section: 002
+Description: Nutritional requirements and dietary patterns of healthy individuals throughout the life span.
+Pre-reqs: FNH 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: BLACK, JENNIFER
+
+Department: FNH
+Course Number: 371
+Section: 0W2
+Description: Nutritional requirements and dietary patterns of healthy individuals throughout the life span.
+Pre-reqs: FNH 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

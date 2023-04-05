@@ -1,0 +1,54 @@
+Department: PSYC
+Course Number: 302
+Section: 001
+Description: Human cognition, perception, motor, social, emotional needs, brain development and their interactions from birth until the emergence of language.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Leonard, Room: S.
+Instructor: WERKER, JANET
+
+Department: PSYC
+Course Number: 302
+Section: 002
+Description: Human cognition, perception, motor, social, emotional needs, brain development and their interactions from birth until the emergence of language.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Hennings, Room: 200
+Instructor: HAMLIN, JANE
+
+Department: PSYC
+Course Number: 302
+Section: 004
+Description: Human cognition, perception, motor, social, emotional needs, brain development and their interactions from birth until the emergence of language.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: A104
+Instructor: EMBERSON, LAUREN
+
+Department: PSYC
+Course Number: 302
+Section: 005
+Description: Human cognition, perception, motor, social, emotional needs, brain development and their interactions from birth until the emergence of language.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: A104
+Instructor: EMBERSON, LAUREN
+
+Department: PSYC
+Course Number: 302
+Section: 992
+Description: Human cognition, perception, motor, social, emotional needs, brain development and their interactions from birth until the emergence of language.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BIRCH, SUSAN
+

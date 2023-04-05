@@ -1,0 +1,57 @@
+Department: COMM
+Course Number: 421
+Section: DD1
+Description: Introduces the basic principles of financial valuation, including the time-value of money and the risk/return tradeoff. Develops tools for the quantitative analysis of corporate and/or individual financing and saving decisions, and of capital budgeting decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: DONALDSON, R GLEN
+
+Department: COMM
+Course Number: 421
+Section: DD2
+Description: Introduces the basic principles of financial valuation, including the time-value of money and the risk/return tradeoff. Develops tools for the quantitative analysis of corporate and/or individual financing and saving decisions, and of capital budgeting decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: DONALDSON, R GLEN
+
+Department: COMM
+Course Number: 421
+Section: DD3
+Description: Introduces the basic principles of financial valuation, including the time-value of money and the risk/return tradeoff. Develops tools for the quantitative analysis of corporate and/or individual financing and saving decisions, and of capital budgeting decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: DONALDSON, R GLEN
+
+Department: COMM
+Course Number: 421
+Section: WL1
+Description: Introduces the basic principles of financial valuation, including the time-value of money and the risk/return tradeoff. Develops tools for the quantitative analysis of corporate and/or individual financing and saving decisions, and of capital budgeting decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: COMM
+Course Number: 421
+Section: WL2
+Description: Introduces the basic principles of financial valuation, including the time-value of money and the risk/return tradeoff. Develops tools for the quantitative analysis of corporate and/or individual financing and saving decisions, and of capital budgeting decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: COMM
+Course Number: 421
+Section: WL3
+Description: Introduces the basic principles of financial valuation, including the time-value of money and the risk/return tradeoff. Develops tools for the quantitative analysis of corporate and/or individual financing and saving decisions, and of capital budgeting decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

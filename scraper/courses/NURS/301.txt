@@ -1,0 +1,12 @@
+Department: NURS
+Course Number: 301
+Section: 001
+Description: Analysis and application of theories, concepts, evidence and competencies guiding professional nursing practice in the context of primary health care.
+Pre-reqs: Five of NURS 300, NURS 310, NURS 321, NURS 322, NURS 330, NURS 352, NURS 360.
+Co-reqs: NURS 362 and one of NURS 323, NURS 401.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: FOSTER, SUE
+

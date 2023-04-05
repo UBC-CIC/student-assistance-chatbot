@@ -1,0 +1,10 @@
+Department: ISCI
+Course Number: 361
+Section: 201
+Description: Systems science approaches encompassing geological, hydrological, ecological, atmospheric sciences, and energy systems to investigate a selected region of the world. Course location will vary; fee payable prior to field course.
+Pre-reqs: ISCI 360. (or permission of the Integrated Sciences Director.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GABRIEL, DENISE
+

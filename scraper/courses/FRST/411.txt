@@ -1,0 +1,11 @@
+Department: FRST
+Course Number: 411
+Section: 101
+Description: Concepts of complex adaptive systems (CAS); exploration of how CAS can be used to manage natural and social environments for multiple goals under changing climatic and socio-economic conditions.
+Pre-reqs: (Third-year standing)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: RYAN, TERESA
+

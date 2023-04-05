@@ -1,0 +1,10 @@
+Department: CIVL
+Course Number: 509
+Section: 201
+Description: Nonlinear behaviour of structures and the formulation of elements to model such behaviour; solution strategies; nonlinear material and section response; nonlinear dynamic analysis; nonlinear geometry; application of nonlinear analysis in engineering practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: Food,, Room: Nutrition
+Instructor: HAUKAAS, TERJE
+

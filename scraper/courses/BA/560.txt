@@ -1,0 +1,27 @@
+Department: BA
+Course Number: 560
+Section: 001
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: BULL, JUSTIN
+
+Department: BA
+Course Number: 560
+Section: 002
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: BULL, JUSTIN
+
+Department: BA
+Course Number: 560
+Section: MM1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 16:00, Building: David, Room: Lam
+Instructor: BULL, JUSTIN
+

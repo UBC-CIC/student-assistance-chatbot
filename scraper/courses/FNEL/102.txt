@@ -1,0 +1,22 @@
+Department: FNEL
+Course Number: 102
+Section: 001
+Description: Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use.
+Pre-reqs: (FNEL 101 in the same language.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:30, End Time: 18:00
+Instructor: CAMPBELL, FIONA
+
+Department: FNEL
+Course Number: 102
+Section: WL1
+Description: Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use.
+Pre-reqs: (FNEL 101 in the same language.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu
+Instructor: CAMPBELL, FIONA
+

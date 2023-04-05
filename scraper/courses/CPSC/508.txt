@@ -1,0 +1,20 @@
+Department: CPSC
+Course Number: 508
+Section: 101
+Description: Operating Systems
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Institute, Room: for
+Instructor: SELTZER, MARGO
+
+Department: CPSC
+Course Number: 508
+Section: 1W1
+Description: Operating Systems
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: To, Room: Be
+Instructor: SELTZER, MARGO
+

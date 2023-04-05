@@ -1,0 +1,18 @@
+Department: FRST
+Course Number: 347
+Section: 101
+Description: Supervised work experience in an approved organization for a minimum of 15 weeks. Restricted to students in the Co-operative Education Program in the Faculty of Forestry. Final work term report required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HINCH, SCOTT
+
+Department: FRST
+Course Number: 347
+Section: 201
+Description: Supervised work experience in an approved organization for a minimum of 15 weeks. Restricted to students in the Co-operative Education Program in the Faculty of Forestry. Final work term report required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HINCH, SCOTT
+

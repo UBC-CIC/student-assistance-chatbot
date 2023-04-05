@@ -1,0 +1,11 @@
+Department: THTR
+Course Number: 271
+Section: 001
+Description: Open only to B.F.A. Acting students. An audition is required.
+Pre-reqs: (At least one theatre course.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Fri, Start Time: 9:00, End Time: 12:00, Building: B.C., Room: Binnings
+Instructor: MORRIS, LEORA
+

@@ -1,0 +1,10 @@
+Department: SOCI
+Course Number: 502
+Section: 101
+Description: Research Design and Techniques (Quantitative)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: LAUSTER, NATHANAEL
+

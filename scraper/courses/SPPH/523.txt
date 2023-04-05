@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 523
+Section: 002
+Description: Global threats to human health stemming from conflict, poverty, and environmental degradation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00
+Instructor: SPIEGEL, JERRY
+

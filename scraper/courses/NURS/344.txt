@@ -1,0 +1,10 @@
+Department: NURS
+Course Number: 344
+Section: 002
+Description: Evidence is examined and synthesized to understand and identify theoretical insights to address a leadership challenge in professional practice.
+Pre-reqs: All of NURS 300, NURS 310, NURS 321, NURS 330, NURS 350, NURS 351, NURS 352, NURS 360.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 13:00
+

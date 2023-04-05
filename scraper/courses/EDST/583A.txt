@@ -1,0 +1,9 @@
+Department: EDST
+Course Number: 583A
+Section: 021
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Wed, Start Time: 16:30, End Time: 18:30
+Instructor: TAYLOR, ALISON
+

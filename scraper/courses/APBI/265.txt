@@ -1,0 +1,10 @@
+Department: APBI
+Course Number: 265
+Section: 001
+Description: Principles and practices necessary to understand practical concerns of sustainable food systems. Students who already present credit for APBI 260 are not permitted to receive credit for APBI 265.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Frank, Room: Forward
+Instructor: LEWIS, DELISA
+

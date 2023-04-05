@@ -1,0 +1,27 @@
+Department: LARC
+Course Number: 570A
+Section: 001
+Description: Approved and supervised work experience in an established company or organization for a minimum of one academic term. Technical report required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: LARC
+Course Number: 570A
+Section: 002
+Description: Approved and supervised work experience in an established company or organization for a minimum of one academic term. Technical report required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: LARC
+Course Number: 570A
+Section: 003
+Description: Approved and supervised work experience in an established company or organization for a minimum of one academic term. Technical report required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

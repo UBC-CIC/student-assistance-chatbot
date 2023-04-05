@@ -1,0 +1,9 @@
+Department: ASIA
+Course Number: 517
+Section: 035
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:30, End Time: 15:30, Building: Jack, Room: Bell
+Instructor: YANG, RENREN
+

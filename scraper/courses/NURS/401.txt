@@ -1,0 +1,12 @@
+Department: NURS
+Course Number: 401
+Section: 001
+Description: Students are prepared with the skills and competencies for clinical practice in simulated acute and community settings through a variety of modalities and learning activities.
+Pre-reqs: All of NURS 300, NURS 321, NURS 330, NURS 352, NURS 360.
+Co-reqs: Either (a) all of NURS 345, NURS 365 and all of NURS 346, NURS 366; or (b) all of NURS 303, NURS 363 and all of NURS 301, NURS 362.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: West, Room: Mall
+Instructor: FERREIRA, CARLA
+
