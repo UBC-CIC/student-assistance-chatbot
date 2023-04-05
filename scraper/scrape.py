@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from uploadS3 import uploadS3
 from pathlib import Path
 
-load_dotenv(dotenv_path=Path("../src/.env"))
+load_dotenv(dotenv_path=Path("../.env"))
 bucket_name = os.getenv("S3_BUCKET_NAME")
 kendra_data_source_id = os.getenv("KENDRA_DATA_SOURCE_ID")
 kendra_index_id = os.getenv("KENDRA_INDEX_ID")

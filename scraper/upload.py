@@ -25,7 +25,7 @@ def uploadS3(bucket_name, profile_name):
             s3_object.upload_file(local_path)
             print(f'Uploaded {file} to {bucket_name}/{s3_path}')
             
-load_dotenv(dotenv_path=Path("../src/.env"))
+load_dotenv(dotenv_path=Path("../.env"))
 
 profile_name = os.getenv("PROFILE_NAME")
 bucket_name = os.getenv("S3_BUCKET_NAME")
