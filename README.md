@@ -47,7 +47,11 @@ If you are a user using this app and would like to know more, please see the [Us
 ├── node_modules
 ├── public
 ├── scraper/
+│   ├── courses
+│   ├── scrape.py
 │   ├── scraper.py
+│   ├── syncKendra.py
+│   ├── upload.py
 ├── src/
 │   ├── component/
 │   │   ├── Feedback.jsx
@@ -84,7 +88,8 @@ If you are a user using this app and would like to know more, please see the [Us
 2. **`/cdk`**: Contains the deployment code for the backend of the app. This includes the Lex V2 Bot in addition to creating the appropriate AWS Kendra Instances
 3. **`/docs`**: Contains all relevant documentation files
 4. **`/public`**: Contains assets/images
-5. **`/src`**: Contains all the source code for the site.
+5. **`/scraper`**: Contains scraper code and pre-scraped courses
+6. **`/src`**: Contains all the source code for the site.
 
    1. **`/component`**: Reusable React components.
       - Below is a description of these components:
