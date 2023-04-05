@@ -161,7 +161,7 @@ After committing this change, log into your AWS console and select the AWS Lex s
 Click into the chatbot and open the left toolbar menu. Under ubcStudentAssistantBot and the Deployment option, you should see the Aliases option.
 
 
-![Lex Aliases Image](./images/lexAlias.png)
+![Lex Aliases Image](./images/lexAliases.png)
 
 
 Click into the testBot Alias and select the english language as indicated below
