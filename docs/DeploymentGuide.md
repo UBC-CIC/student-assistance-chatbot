@@ -151,11 +151,30 @@ After you have filled out the env variables, you can commit the changes to the r
 
 ![Commit Image](./images/commitEnvFile.png)
 
+After committing this change, log into your AWS console and select the AWS Lex service. In the base console, you should see a deployed chatbot.
 
-Now, we can continue on with the rest of the frontend deployment
+
+![Lex Bot](./images/lexChatbot.png)
 
 
-1. Once you have pushed your commit, the final deployment will take a few minutes. Please wait until the deployment status is green. If your build is stuck on the "forking your github repository" step, you can refresh the page and go back to step 3 from the [previous section](#step-3-frontend-deployment).
+Click into the chatbot and open the left toolbar menu. Under ubcStudentAssistantBot and the Deployment option, you should see the Aliases option.
+
+
+![Lex Aliases](.images/lexAlias.png)
+
+
+Click into the testBot Alias and select the english language as indicated below
+
+
+![Lex English](.images/lexEnglish.png)
+
+
+
+
+Now, we can continue on with the rest of the frontend deployment.
+
+
+1. The final deployment will take a few minutes. Please wait until the deployment status is green. If your build is stuck on the "forking your github repository" step, you can refresh the page and go back to step 3 from the [previous section](#step-3-frontend-deployment).
 
 
 ![Build Complete Image](./images/frontendBuildCompletion.png)
