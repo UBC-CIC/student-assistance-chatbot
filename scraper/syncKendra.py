@@ -3,12 +3,9 @@ from botocore.exceptions import ClientError
 import pprint
 import time
 
-REGION = "ca-central-1"
-session = boto3.Session(profile_name="myprofile")
-kendra = session.client("kendra",region_name=REGION)
-
-
-def syncKendra(dataSourceId, indexId):
+def syncKendra(dataSourceId, indexId,profile_name):
+    session = boto3.Session(profile_name)
+    kendra = session.client("kendra",region_name="ca-central-1")
     try:
 
         print("Synchronize the data source.")

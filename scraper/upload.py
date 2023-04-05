@@ -3,6 +3,7 @@ import os
 from syncKendra import syncKendra
 import os
 from dotenv import load_dotenv
+from pathlib import Path
 
 def uploadS3(bucket_name, profile_name):
     # Set the S3 bucket name and directory path of the files you want to upload
@@ -24,7 +25,7 @@ def uploadS3(bucket_name, profile_name):
             s3_object.upload_file(local_path)
             print(f'Uploaded {file} to {bucket_name}/{s3_path}')
             
-load_dotenv()
+load_dotenv(dotenv_path=Path("../src/.env"))
 
 profile_name = os.getenv("PROFILE_NAME")
 bucket_name = os.getenv("S3_BUCKET_NAME")
@@ -32,7 +33,7 @@ kendra_data_source_id = os.getenv("KENDRA_DATA_SOURCE_ID")
 kendra_index_id = os.getenv("KENDRA_INDEX_ID")
 
 uploadS3(bucket_name,profile_name)
-syncKendra(kendra_data_source_id,kendra_index_id)
+syncKendra(kendra_data_source_id,kendra_index_id,profile_name)
     
 
 

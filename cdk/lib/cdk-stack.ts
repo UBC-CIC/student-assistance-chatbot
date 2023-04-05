@@ -18,6 +18,11 @@ export class ubcStudentAssistantBot extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
     super(scope, id, props);
 
+    //Add region output
+    if (props?.env?.region) {
+      new cdk.CfnOutput(this, "AWSRegion", { value: props?.env?.region });
+    }
+
     //Create lex custom role
     const lexCustomResourceRole = new iam.Role(this, 'lexCustomResourceRole', {
       assumedBy: new iam.ServicePrincipal('lambda.amazonaws.com'),

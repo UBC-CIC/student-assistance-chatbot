@@ -98,10 +98,17 @@ Once the role has been created, click the button below to launch the amplify app
 ![Region Image](./images/regionExample.png)
 
 
-2. You will be taken to the following page. If your github is not authorized, you will have to authorize it before proceeding. Otherwise, select the `amplifyconsole-chatbot-backend-role` for the backend deployment.
+2. You will be taken to the following page. If your github is not authorized, you will have to authorize by clicking the authorize aws-amplify-console button and following the steps.
+
+
+![Authorize Image](./images/amplifyAuthorize.png)
+
+
+3. After authorizing your github, select the `amplifyconsole-chatbot-backend-role` for the backend deployment.
 
 
 ![Select Role Image](./images/selectBackendRole.png)
+
 
 Now that we are here, the first build will fail because we have not set certain config.
 
