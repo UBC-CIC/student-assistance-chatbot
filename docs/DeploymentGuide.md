@@ -118,7 +118,7 @@ Now that you have deployed the application on Amplify, you should find a forked 
 ![Respository Image](./images/exampleRepository.png)
 
 
-For the deployment to work, we have to manually set the appropriate config that will connect AWS Lex to AWS Amplify. Once you find this page, using the github UI you can navigate to the file [environment file](../.env) which should look like this
+For the deployment to work, we have to manually set the appropriate config that will connect AWS Lex to AWS Amplify. Once you find this page, using the github UI you can navigate to the [environment file](../.env) which should look like this
 
 
 ![Blank Env Image](./images/blankEnv.png)
@@ -130,8 +130,8 @@ Now using the outputs from step 2, we can set the variables using the github UI 
 ![Edit Image](./images/blankEnvEdit.png)
 
 
-From the previous step, we will now use the outputs to fill in our .env file.
-For our example, we would fill it out like so.
+From the previous step, we will now use the outputs to fill in our [environment file](../.env).
+For our example, we would fill out the file referring to the outputs from the image in [step 2](#step-2-backend-deployment).
 
 ```
 # React App config
@@ -146,21 +146,22 @@ KENDRA_DATA_SOURCE_ID=eed041fb-db11-42d6-825d-423a59e23f81
 S3_BUCKET_NAME=ubcstudentassistantbot-ubccoursebucketbd7d4111-1q2su36zjy6ok
 ```
 
-After you have filled out the env variables, you can commit the changes to the repository.
+After you have filled out the environment variables, you can commit the changes to the repository.
 
 
 ![Commit Image](./images/commitEnvFile.png)
 
-After committing this change, log into your AWS console and select the AWS Lex service. In the base console, you should see a deployed chatbot.
+
+After committing this change, log into your AWS console and select the AWS Lex service. In the homepage of AWS Lex console, you should see a deployed chatbot.
 
 
 ![Lex Bot Image](./images/lexChatbot.png)
 
 
-Click into the chatbot and open the left toolbar menu. Under ubcStudentAssistantBot and the Deployment option, you should see the Aliases option.
+Click into the chatbot and open the `AWS Lex` menu on the left. First click `UbcStudentAssistantBot`, then find the `Deployment` option. Once here, click on `Aliases` to bring you to the next step.
 
 
-![Lex Aliases Image](./images/lexAlias.png)
+![Lex Aliases Image](./images/lexAliases.png)
 
 
 Click into the testBot Alias and select the english language as indicated below
@@ -220,13 +221,14 @@ Then hit save.
 # Step 4: Populating Kendra's Data Sources (Fast)
 As the UBC courses data does not change frequently, we have already scraped the data in the courses/ directory. To improve our deployment speed, we can simply upload the pre-scraped data to our S3 bucket instead of re-scraping the data each time we would like to deploy it.
 
-1. Install the dependencies using the command:
-```bash
-pip install -r requirements.txt
-```
-2. Change directory to the scraper folder:
+
+1. Change directory to the scraper folder:
 ```bash
 cd scraper
+```
+2. Install the dependencies using the command:
+```bash
+pip install -r requirements.txt
 ```
 3. Upload the files with the following command:
 ```bash
@@ -239,13 +241,13 @@ Note: This upload process should take around 20-30 minutes.
 
 # Step 4 Alternative: Scrape new data (Slow)
 
-1. Install the dependencies using the command:
-```bash
-pip install -r requirements.txt
-```
-2. Change directory to the scraper folder:
+1. Change directory to the scraper folder:
 ```bash
 cd scraper
+```
+2. Install the dependencies using the command:
+```bash
+pip install -r requirements.txt
 ```
 3. Run the scraper with the following command:
 ```bash
