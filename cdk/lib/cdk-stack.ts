@@ -1,5 +1,6 @@
 import * as path from 'path';
 import * as cdk from 'aws-cdk-lib';
+import * as cognito from 'aws-cdk-lib/aws-cognito';
 import * as iam from 'aws-cdk-lib/aws-iam';
 import * as lambda from 'aws-cdk-lib/aws-lambda';
 import * as cr from 'aws-cdk-lib/custom-resources';
@@ -12,6 +13,8 @@ export class ubcStudentAssistantBot extends cdk.Stack {
   public readonly lexBotAliasId: string;
   public readonly courseIndexId: string;
   public readonly calendarIndexId: string;
+  public readonly s3BucketId: string;
+  public readonly lexCognitoPoolId: string;
 
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
     super(scope, id, props);
@@ -339,6 +342,7 @@ export class ubcStudentAssistantBot extends cdk.Stack {
 
     //Create output for S3 bucket for scraper
     new cdk.CfnOutput(this, 's3_bucket_id', { value: courseBucket.bucketName });
+    this.s3BucketId = courseBucket.bucketName
 
     //Create IAM role for kendra data source
     const dataSourceCoursePolicy = new iam.PolicyDocument({
@@ -468,5 +472,67 @@ export class ubcStudentAssistantBot extends cdk.Stack {
     });
 
     lexSearchLambda.grantInvoke(servicePrincipalWithConditions);
+    
+    //Create federated pool for lex
+    const federatedPool = new cognito.CfnIdentityPool(this, 'LexIdentityPool', {
+      allowUnauthenticatedIdentities: true,
+      allowClassicFlow: true
+    });
+
+    //Create output for cognito pool ID
+    new cdk.CfnOutput(this, "lexCognitoPoolId", { value: federatedPool.ref});
+    this.lexCognitoPoolId = federatedPool.ref;
+
+    //Create IAM role for federated lex pool
+    const cognitoPoolRole = new iam.Role(this, 'lexCognitoPoolUnauthRole', {
+      assumedBy: new iam.FederatedPrincipal(
+        'cognito-identity.amazonaws.com',
+        {
+          StringEquals: {
+            'cognito-identity.amazonaws.com:aud': federatedPool.ref,
+          },
+          'ForAnyValue:StringLike': {
+            'cognito-identity.amazonaws.com:amr': 'unauthenticated',
+          },
+        },
+        'sts:AssumeRoleWithWebIdentity',
+      ),
+      inlinePolicies: {
+        ['cognitoLexPolicy']: new iam.PolicyDocument({
+          statements: [
+            new iam.PolicyStatement({
+              effect: iam.Effect.ALLOW,
+              resources: ["*"],
+              actions: [
+                "mobileanalytics:PutEvents",
+                "cognito-sync:*",
+                "lex:PostContent",
+                "lex:PostText",
+                "lex:PutSession",
+                "lex:GetSession",
+                "lex:DeleteSession",
+                "lex:RecognizeText",
+                "lex:RecognizeUtterance",
+                "lex:StartConversation",
+                "polly:DescribeVoices",
+                "polly:GetLexicon",
+                "polly:GetSpeechSynthesisTask",
+                "polly:ListLexicons",
+                "polly:ListSpeechSynthesisTasks",
+                "polly:SynthesizeSpeech"
+              ]
+            })
+          ],
+        }),
+      }, 
+    });
+
+    //Attach the IAM role to the identity pool
+    new cognito.CfnIdentityPoolRoleAttachment(this, 'attachLexRole', {
+      identityPoolId: federatedPool.ref,
+      roles: {
+        unauthenticated: cognitoPoolRole.roleArn
+      }
+    });
   }
 }
