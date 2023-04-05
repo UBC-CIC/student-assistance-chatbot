@@ -3,7 +3,7 @@ import Message from './Message';
 import '../App.css';
 import {getMessage,addMessage} from "../variables";
 
-import { Amplify,Interactions } from 'aws-amplify';
+import { Amplify, Interactions } from 'aws-amplify';
 import { AWSLexV2Provider } from '@aws-amplify/interactions';
 import interactionsConfig from "../aws-interaction-export";
 
