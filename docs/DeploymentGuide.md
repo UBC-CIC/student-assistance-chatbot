@@ -116,9 +116,13 @@ Once the role has been created, click the button below to launch the amplify app
 
 
 5. Add the following rule to your rewrites and redirects.
+
 Source Address: `</^[^.]+$|\.(?!(css|gif|ico|jpg|js|png|txt|svg|woff|woff2|ttf|map|json)$)([^.]+$)/>`
+
 Target Address: `/index.html`
+
 Type: `200 (Rewrite)`
+
 Then hit save.
 
 ![Rewrites and Redirects Edit Image](./images/addRewriteRule.png)
