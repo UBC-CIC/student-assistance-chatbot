@@ -110,25 +110,48 @@ Once the role has been created, click the button below to launch the amplify app
 ![Select Role Image](./images/selectBackendRole.png)
 
 
-Now that we are here, the first build will fail because we have not set certain config.
+Now that we are here, the first build may fail because we have not set certain config.
 
-## Step 3b: Integration of Lex Bot
+## Step 3b: Integration of Lex Bot to Amplify
 Now that you have deployed the application on Amplify, you should find a forked copy of our repository in your GitHub repository collection like so:
 
 ![Respository Image](./images/exampleRepository.png)
 
 
-For the deployment to work, we have to manually set the appropriate config that will connect AWS Lex to AWS Amplify. Once you find this page, using the github UI you can navigate to the file `.env` which should look like this
+For the deployment to work, we have to manually set the appropriate config that will connect AWS Lex to AWS Amplify. Once you find this page, using the github UI you can navigate to the file `src/.env` which should look like this
 
 
 ![Blank Env Image](./images/blankEnv.png)
 
+
 Now using the outputs from step 2, we can set the variables using the github UI to edit.
 
-![Edit Image]
+
+![Edit Image](./images/blankEnvEdit.png)
 
 
-1. The deployment will take a few minutes. Please wait until the deployment status is green. If your build is stuck on the "forking your github repository" step, you can refresh the page and go back to step 2.
+From the previous step, we will now use the outputs to fill in our .env file.
+For our example, we would fill it out like so.
+
+```
+# React App config
+REACT_APP_AWS_REGION=ca-central-1
+REACT_APP_LEX_BOT_ID=8M9VJWBQXW
+REACT_APP_LEX_COGNITO_POOL_ID=ca-central-1:32f39a14-2e1c-4712-80ee-8d35e977afea
+
+# Scraper Config 
+PROFILE_NAME=myprofile
+KENDRA_INDEX_ID=cecad942-683f-41d3-ba26-c9046e81bfac
+KENDRA_DATA_SOURCE_ID=eed041fb-db11-42d6-825d-423a59e23f81
+S3_BUCKET_NAME=ubcstudentassistantbot-ubccoursebucketbd7d4111-1q2su36zjy6ok
+```
+
+After you have filled out the env variables, you can commit the changes to the repository.
+
+
+
+
+1. Once you have pushed your commit, the final deployment will take a few minutes. Please wait until the deployment status is green. If your build is stuck on the "forking your github repository" step, you can refresh the page and go back to step 3 from the [previous section](#step-3-frontend-deployment).
 
 
 ![Build Complete Image](./images/frontendBuildCompletion.png)
