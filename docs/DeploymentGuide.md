@@ -103,7 +103,7 @@ Once the role has been created, click the button below to launch the amplify app
 ![Select Role Image](./images/selectBackendRole.png)
 
 
-3. The deployment will take a few minutes. Please wait until the deployment status is green.
+3. The deployment will take a few minutes. Please wait until the deployment status is green. If your build is stuck on the forking your github repository step, you can refresh the page and go back to step 2.
 
 
 ![Build Complete Image](./images/frontendBuildCompletion.png)
@@ -116,6 +116,14 @@ Once the role has been created, click the button below to launch the amplify app
 
 
 5. Add the following rule to your rewrites and redirects.
+Source Address: `</^[^.]+$|\.(?!(css|gif|ico|jpg|js|png|txt|svg|woff|woff2|ttf|map|json)$)([^.]+$)/>`
+Target Address: `/index.html`
+Type: `200 (Rewrite)`
+Then hit save.
+
+![Rewrites and Redirects Edit Image](./images/addRewriteRule.png)
+
+Congratulations, the deployment of your app is complete!
 
 
 
