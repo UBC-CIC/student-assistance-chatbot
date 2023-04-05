@@ -10,12 +10,5 @@ kendra_data_source_id = os.getenv("KENDRA_DATA_SOURCE_ID")
 kendra_index_id = os.getenv("KENDRA_INDEX_ID")
 profile_name = os.getenv("PROFILE_NAME")
 
-def scrapeNewData():
-    beginScraper(bucket_name,profile_name)
-    syncKendra(kendra_data_source_id,kendra_index_id)
-
-def uploadScrapedData():
-    uploadS3(bucket_name,profile_name)
-    
-    
-uploadScrapedData()
+beginScraper(bucket_name,profile_name)
+syncKendra(kendra_data_source_id,kendra_index_id)

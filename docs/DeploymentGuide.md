@@ -79,7 +79,11 @@ KENDRA_DATA_SOURCE_ID=(kendra data source id in step2)
 ```bash
 pip install -r requirements.txt
 ```
-3. Upload the files with the following command:
+3. Change directory to the scraper folder:
+```bash
+cd scraper
+```
+4. Upload the files with the following command:
 ```bash
 python upload.py
 ```
@@ -102,7 +106,11 @@ KENDRA_DATA_SOURCE_ID=(kendra data source id in step2)
 ```bash
 pip install -r requirements.txt
 ```
-3. Run the scraper with the following command:
+3. Change directory to the scraper folder:
+```bash
+cd scraper
+```
+4. Run the scraper with the following command:
 ```bash
 python scrape.py
 ```
