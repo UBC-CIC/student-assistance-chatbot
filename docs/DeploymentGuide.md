@@ -70,7 +70,7 @@ Note: The scraper code scrapes the courses from the [UBC courses website](https:
 
 # Step 4: Frontend Deployment
 
-Before installing Amplify we need to create the IAM Role that associate the policies need to implement this solution. 
+Before installing Amplify, we need to create the IAM Role that associates the policies needed to implement this solution. 
 
 In the home repository folder, execute the following CloudFormation command:
 
@@ -78,7 +78,7 @@ In the home repository folder, execute the following CloudFormation command:
 aws cloudformation deploy --template-file cfn-amplifyRole.yml --stack-name amplifyconsole-chatbot-backend-role --capabilities CAPABILITY_NAMED_IAM
 ```
 
-Similar to above, if you have multiple AWS profiles configured, you may have to run
+Similar to above, if you have multiple AWS profiles configured, you may have to run:
 ```bash
 aws cloudformation deploy --template-file cfn-amplifyRole.yml --stack-name amplifyconsole-chatbot-backend-role --capabilities CAPABILITY_NAMED_IAM --profile <desired aws profile>
 ```
@@ -86,26 +86,27 @@ aws cloudformation deploy --template-file cfn-amplifyRole.yml --stack-name ampli
 This command will create the desired IAM role to deploy the Amplify stack for the front-end.
 
 Once the role has been created, click the button below to launch the amplify app. This button will take you to the AWS console to deploy the app.
+<br>
 
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/UBC-CIC/student-assistance-chatbot/)
 
-1. On the AWS console, select your desired region before hitting the conenct to github button.
+1. On the AWS console, select your desired region before hitting the Connect to Github button.
 
 
 ![Region Image](./images/regionExample.png)
 
 
-2. After, you will be taken to this page. Select the `amplify-console-chatbot-backend-role` for the backend deployment
+2. You will be taken to the following page. Select the `amplifyconsole-chatbot-backend-role` for the backend deployment.
 
 
 ![Select Role Image](./images/selectBackendRole.png)
 
-3. The deployment will then take a few minutes, please wait until the deployment status is green
+3. The deployment will take a few minutes. Please wait until the deployment status is green.
 
 
 ![Build Complete Image](./images/frontendBuildCompletion.png)
 
-4. Now that the app is deployed, you can click the left toolbar to open up the `AWS Amplify` menu. Once there, navigate to the  `Rewrites and Redirects` section and click edit
+4. Now that the app is deployed, you can click the left toolbar to open up the `AWS Amplify` menu. Once there, navigate to the  `Rewrites and Redirects` section and click edit.
 
 
 ![Rewrites and Redirects image](./images/rewritesAndRedirects.png)
