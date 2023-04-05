@@ -221,13 +221,14 @@ Then hit save.
 # Step 4: Populating Kendra's Data Sources (Fast)
 As the UBC courses data does not change frequently, we have already scraped the data in the courses/ directory. To improve our deployment speed, we can simply upload the pre-scraped data to our S3 bucket instead of re-scraping the data each time we would like to deploy it.
 
-1. Install the dependencies using the command:
-```bash
-pip install -r requirements.txt
-```
-2. Change directory to the scraper folder:
+
+1. Change directory to the scraper folder:
 ```bash
 cd scraper
+```
+2. Install the dependencies using the command:
+```bash
+pip install -r requirements.txt
 ```
 3. Upload the files with the following command:
 ```bash
@@ -240,13 +241,13 @@ Note: This upload process should take around 20-30 minutes.
 
 # Step 4 Alternative: Scrape new data (Slow)
 
-1. Install the dependencies using the command:
-```bash
-pip install -r requirements.txt
-```
-2. Change directory to the scraper folder:
+1. Change directory to the scraper folder:
 ```bash
 cd scraper
+```
+2. Install the dependencies using the command:
+```bash
+pip install -r requirements.txt
 ```
 3. Run the scraper with the following command:
 ```bash
