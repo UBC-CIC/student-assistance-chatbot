@@ -118,7 +118,7 @@ Now that you have deployed the application on Amplify, you should find a forked 
 ![Respository Image](./images/exampleRepository.png)
 
 
-For the deployment to work, we have to manually set the appropriate config that will connect AWS Lex to AWS Amplify. Once you find this page, using the github UI you can navigate to the file [environment file](../.env) which should look like this
+For the deployment to work, we have to manually set the appropriate config that will connect AWS Lex to AWS Amplify. Once you find this page, using the github UI you can navigate to the [environment file](../.env) which should look like this
 
 
 ![Blank Env Image](./images/blankEnv.png)
@@ -131,7 +131,7 @@ Now using the outputs from step 2, we can set the variables using the github UI 
 
 
 From the previous step, we will now use the outputs to fill in our [environment file](../.env).
-For our example, we would fill it out referring to the output image in [step 2](#step-2-backend-deployment).
+For our example, we would fill out the file referring to the outputs from the image in [step 2](#step-2-backend-deployment).
 
 ```
 # React App config
@@ -152,13 +152,13 @@ After you have filled out the environment variables, you can commit the changes 
 ![Commit Image](./images/commitEnvFile.png)
 
 
-After committing this change, log into your AWS console and select the AWS Lex service. In the base console, you should see a deployed chatbot.
+After committing this change, log into your AWS console and select the AWS Lex service. In the homepage of AWS Lex console, you should see a deployed chatbot.
 
 
 ![Lex Bot Image](./images/lexChatbot.png)
 
 
-Click into the chatbot and open the left toolbar menu. Under ubcStudentAssistantBot and the Deployment option, you should see the Aliases option.
+Click into the chatbot and open the `AWS Lex` menu on the left. First click `UbcStudentAssistantBot`, then find the `Deployment` option. Once here, click on `Aliases` to bring you to the next step.
 
 
 ![Lex Aliases Image](./images/lexAliases.png)
