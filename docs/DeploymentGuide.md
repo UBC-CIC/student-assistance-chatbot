@@ -118,7 +118,7 @@ Now that you have deployed the application on Amplify, you should find a forked 
 ![Respository Image](./images/exampleRepository.png)
 
 
-For the deployment to work, we have to manually set the appropriate config that will connect AWS Lex to AWS Amplify. Once you find this page, using the github UI you can navigate to the file `src/.env` which should look like this
+For the deployment to work, we have to manually set the appropriate config that will connect AWS Lex to AWS Amplify. Once you find this page, using the github UI you can navigate to the file [environment file](../.env) which should look like this
 
 
 ![Blank Env Image](./images/blankEnv.png)
