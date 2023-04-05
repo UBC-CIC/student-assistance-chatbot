@@ -10,9 +10,8 @@ import { Construct } from 'constructs';
 
 export class ubcStudentAssistantBot extends cdk.Stack {
   public readonly lexBotId: string;
-  public readonly lexBotAliasId: string;
   public readonly courseIndexId: string;
-  public readonly calendarIndexId: string;
+  public readonly courseDataSourceId: string;
   public readonly s3BucketId: string;
   public readonly lexCognitoPoolId: string;
 
@@ -110,12 +109,9 @@ export class ubcStudentAssistantBot extends cdk.Stack {
       properties: { uid: uid, lex_role_arn: lexRole.roleArn },
     });
 
-    //Set lexbotid and lexaliasid
-    new cdk.CfnOutput(this, 'bot_id', { value: lexBot.getAttString('bot_id') });
-    new cdk.CfnOutput(this, 'bot_alias_id', { value: lexBot.getAttString('bot_alias_id') });
-
+    //Set lexbotid
+    new cdk.CfnOutput(this, 'lexBotId', { value: lexBot.getAttString('bot_id') });
     this.lexBotId = lexBot.getAttString('bot_id');
-    this.lexBotAliasId = lexBot.getAttString('bot_alias_id');
 
     //Create kendra IAM role and policies
     const kendraCloudWatchStatement = new iam.PolicyStatement({
@@ -184,7 +180,7 @@ export class ubcStudentAssistantBot extends cdk.Stack {
       ]
     });
 
-    //Create Kendra Indices
+    //Create Kendra Index for UBC Courses
     const kendraRole = new iam.Role(this, 'kendraRole', {
       assumedBy: new iam.ServicePrincipal('kendra.amazonaws.com'),
       inlinePolicies: {
@@ -320,18 +316,10 @@ export class ubcStudentAssistantBot extends cdk.Stack {
       ]
     });
 
-    //Create UBC Calendar Index
-    const calendarIndex = new kendra.CfnIndex(this, 'UBCCalendarIndex', {
-      edition: 'ENTERPRISE_EDITION',
-      name: 'ubcCalendarData',
-      roleArn: kendraRole.roleArn
-    });
-
     //Attach index ids for use later
-    new cdk.CfnOutput(this, 'courses_index_id', { value: courseIndex.attrId });
-    new cdk.CfnOutput(this, 'calendar_index_id', { value: calendarIndex.attrId });
+    new cdk.CfnOutput(this, 'kendraIndexId', { value: courseIndex.attrId });
     this.courseIndexId = courseIndex.attrId;
-    this.calendarIndexId = calendarIndex.attrId;
+
 
     //Create S3 buckets for kendra data sources
     //Auto delete the bucket when stack is deleted
@@ -341,7 +329,7 @@ export class ubcStudentAssistantBot extends cdk.Stack {
     });
 
     //Create output for S3 bucket for scraper
-    new cdk.CfnOutput(this, 's3_bucket_id', { value: courseBucket.bucketName });
+    new cdk.CfnOutput(this, 's3BucketId', { value: courseBucket.bucketName });
     this.s3BucketId = courseBucket.bucketName
 
     //Create IAM role for kendra data source
@@ -393,7 +381,19 @@ export class ubcStudentAssistantBot extends cdk.Stack {
       schedule: 'cron(0 8 1 * ? *)',
       roleArn: kendraCourseDataSourceRole.roleArn
     });
+
+    //Output the kendra data source id
+    new cdk.CfnOutput(this, 'kendraDataSourceId', { value: kendraCourseDataSource.attrId });
+    this.courseDataSourceId = kendraCourseDataSource.attrId
     
+    /* Uncomment the following when you wish to use the UBC Calendar as a data source.
+    //Create UBC Calendar Index
+    const calendarIndex = new kendra.CfnIndex(this, 'UBCCalendarIndex', {
+      edition: 'ENTERPRISE_EDITION',
+      name: 'ubcCalendarData',
+      roleArn: kendraRole.roleArn
+    });
+
     //Create Kendra Calendar data source
     const webCrawlerDataSourceConfigurationProperty: kendra.CfnDataSource.WebCrawlerConfigurationProperty = {
       urls: {
@@ -421,6 +421,7 @@ export class ubcStudentAssistantBot extends cdk.Stack {
       schedule: 'cron(0 8 1 * ? *)',
       roleArn: kendraRole.roleArn
     });
+    */
 
     //Create lambda custom role
     const lexLambdaRole = new iam.Role(this, 'lexLambdaRole', {
@@ -464,7 +465,7 @@ export class ubcStudentAssistantBot extends cdk.Stack {
     const servicePrincipal = new iam.ServicePrincipal('lexv2.amazonaws.com');
     const servicePrincipalWithConditions = servicePrincipal.withConditions({
       ArnLike: {
-        'aws:SourceArn': "arn:aws:lex:" + props?.env?.region + ":" + props?.env?.account + ":bot-alias/" + this.lexBotId + "/" + this.lexBotAliasId
+        'aws:SourceArn': "arn:aws:lex:" + props?.env?.region + ":" + props?.env?.account + ":bot-alias/" + this.lexBotId + "/" + lexBot.getAttString('bot_alias_id')
       },
       StringEquals: {
         'aws:SourceAccount': props?.env?.account,

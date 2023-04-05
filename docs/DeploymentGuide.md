@@ -62,6 +62,12 @@ Note that you may need to enter yes to the console a few times before the soluti
 The deployment can take anywhere from 30 minutes to an hour as most of the time is spent creating the AWS Kendra indices.
 
 Once deployed, the command will complete and you should be able to find the cloudformation stack on your AWS Account.
+Additionally, you will see a number of values in your command line that should look similar to this:
+
+
+![CDK output image](./images/cdkOutputs.png)
+
+Please take note of this values as you will need them later on in the deployment process.
 
 
 # Step 3: Populating Kendra's Data Sources (Fast)
@@ -206,6 +212,14 @@ Then hit save.
 8. Once you create the user, complete the email verification step and you should now be able to log into the admin page! For more information on the admin page, please see the [User Guide](./UserGuide.md#admin-page)
 
 # Step 5: Integration of Lex Bot
+Now that you have deployed the application on Amplify, you should find a forked copy of our repository in your GitHub repository collection like so:
+
+![Respository Image](./images/exampleRepository.png)
+
+
+Once you find this page, using the github UI you can navigate to the file under `src/aws-interaction-export.js`.
+The file should originally look like this
+
 
 
 Congratulations, the deployment of your app is complete!
