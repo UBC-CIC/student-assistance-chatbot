@@ -1,0 +1,10 @@
+Department: GERM
+Course Number: 301
+Section: 002
+Description: German Literature 1900 - 1945 (in English)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B318
+Instructor: HALLENSLEBEN, MARKUS
+

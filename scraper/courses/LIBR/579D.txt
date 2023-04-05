@@ -1,0 +1,18 @@
+Department: LIBR
+Course Number: 579D
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Geography, Room: 201
+Instructor: SALRIN, MELISSA
+
+Department: LIBR
+Course Number: 579D
+Section: WL2
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+

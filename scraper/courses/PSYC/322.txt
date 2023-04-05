@@ -1,0 +1,22 @@
+Department: PSYC
+Course Number: 322
+Section: 005
+Description: Issues, theories, and psychological research regarding adulthood and the aging process.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Centre, Room: for
+Instructor: LAM, MARK
+
+Department: PSYC
+Course Number: 322
+Section: 006
+Description: Issues, theories, and psychological research regarding adulthood and the aging process.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Centre, Room: for
+Instructor: LAM, MARK
+

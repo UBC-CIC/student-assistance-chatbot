@@ -1,0 +1,10 @@
+Department: SPHA
+Course Number: 502
+Section: 001
+Description: Development and use of accounting information for management planning and control, and the development of cost information for financial reports. Same as BAAC 550; credit will not be given for both.
+Credits: 1.5
+Mode of Delivery: Multi-access
+Requires in Person Attendance: No
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 21:00
+Instructor: GUNDERSON, KYLA
+

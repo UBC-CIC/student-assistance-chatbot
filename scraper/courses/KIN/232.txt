@@ -1,0 +1,42 @@
+Department: KIN
+Course Number: 232
+Section: 001
+Description: Study of nutrition and its application to physical activity and health. Macro- and micronutrient classification and recommended daily intakes, their digestion, functions in the body and their role in supporting physical activity and health will be discussed.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Chemical, Room: and
+Instructor: MCCRUDDEN, EMMA
+
+Department: KIN
+Course Number: 232
+Section: 002
+Description: Study of nutrition and its application to physical activity and health. Macro- and micronutrient classification and recommended daily intakes, their digestion, functions in the body and their role in supporting physical activity and health will be discussed.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: West, Room: Mall
+Instructor: MCCRUDDEN, EMMA
+
+Department: KIN
+Course Number: 232
+Section: 0W1
+Description: Study of nutrition and its application to physical activity and health. Macro- and micronutrient classification and recommended daily intakes, their digestion, functions in the body and their role in supporting physical activity and health will be discussed.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 232
+Section: 0W2
+Description: Study of nutrition and its application to physical activity and health. Macro- and micronutrient classification and recommended daily intakes, their digestion, functions in the body and their role in supporting physical activity and health will be discussed.
+Pre-reqs: All of KIN 131, KIN 132. (and Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

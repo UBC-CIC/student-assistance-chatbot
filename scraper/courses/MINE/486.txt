@@ -1,0 +1,10 @@
+Department: MINE
+Course Number: 486
+Section: 201
+Description: Environmental topics of importance to engineers practicing within the mining, metallurgical and related industries including technical practices, regulatory and public issues.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 3014
+Instructor: DABIRI, MICHAEL
+

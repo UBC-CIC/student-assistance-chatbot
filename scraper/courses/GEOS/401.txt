@@ -1,0 +1,11 @@
+Department: GEOS
+Course Number: 401
+Section: 201
+Description: The impact of urbanization upon atmospheric processes and climates. The energy and water balances of cities. Meteorological effects (urban heat island, precipitation modification, etc.) and their significance. Models of the urban atmosphere.
+Pre-reqs: One of GEOB 204, GEOS 204, GEOB 300, GEOS 300, AGRO 244, APBI 244.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30
+Instructor: STEWART, IAIN
+

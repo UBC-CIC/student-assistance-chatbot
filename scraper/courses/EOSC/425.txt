@@ -1,0 +1,43 @@
+Department: EOSC
+Course Number: 425
+Section: 101
+Description: Paleobiogeography in the context of plate tectonics. Mass extinction events. Fossilization and biases in the fossil record. Species concepts in paleontology. Biostratigraphy. Paleontological evidence for early life; the colonization of oceanic and terrestrial environments and; the evolution of the primates.
+Pre-reqs: EOSC 222.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: Earth, Room: and
+Instructor: LONGRIDGE, LOUISE
+
+Department: EOSC
+Course Number: 425
+Section: L1A
+Description: Paleobiogeography in the context of plate tectonics. Mass extinction events. Fossilization and biases in the fossil record. Species concepts in paleontology. Biostratigraphy. Paleontological evidence for early life; the colonization of oceanic and terrestrial environments and; the evolution of the primates.
+Pre-reqs: EOSC 222.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 19:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 425
+Section: L1B
+Description: Paleobiogeography in the context of plate tectonics. Mass extinction events. Fossilization and biases in the fossil record. Species concepts in paleontology. Biostratigraphy. Paleontological evidence for early life; the colonization of oceanic and terrestrial environments and; the evolution of the primates.
+Pre-reqs: EOSC 222.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 18:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 425
+Section: W-L
+Description: Paleobiogeography in the context of plate tectonics. Mass extinction events. Fossilization and biases in the fossil record. Species concepts in paleontology. Biostratigraphy. Paleontological evidence for early life; the colonization of oceanic and terrestrial environments and; the evolution of the primates.
+Pre-reqs: EOSC 222.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

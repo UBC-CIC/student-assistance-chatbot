@@ -1,0 +1,22 @@
+Department: ECON
+Course Number: 306
+Section: 001
+Description: Honours Intermediate Microeconomics II
+Pre-reqs: A score of 68% or higher in ECON 304. (Permission of the School is also acceptable.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: D325
+Instructor: PETERS, MICHAEL
+
+Department: ECON
+Course Number: 306
+Section: L01
+Description: Honours Intermediate Microeconomics II
+Pre-reqs: A score of 68% or higher in ECON 304. (Permission of the School is also acceptable.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: D325
+Instructor: TBA
+

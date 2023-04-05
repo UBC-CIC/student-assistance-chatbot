@@ -1,0 +1,10 @@
+Department: GSAT
+Course Number: 502
+Section: 001
+Description: Current approaches to high-throughput, system-wide analysis, and manipulation of biological systems.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:30
+Instructor: APARICIO, SAMUEL
+

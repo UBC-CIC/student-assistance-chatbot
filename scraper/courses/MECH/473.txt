@@ -1,0 +1,22 @@
+Department: MECH
+Course Number: 473
+Section: 101
+Description: Principles of air conditioning; psychometrics and refrigeration. Heat transfer through building materials. Estimation of heating and cooling loads including the use of current software. System design. Ground, air and water source heat pumps.
+Pre-reqs: MECH 375.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Civil, Room: and
+Instructor: ATABAKI, NIMA
+
+Department: MECH
+Course Number: 473
+Section: T1A
+Description: Principles of air conditioning; psychometrics and refrigeration. Heat transfer through building materials. Estimation of heating and cooling loads including the use of current software. System design. Ground, air and water source heat pumps.
+Pre-reqs: MECH 375.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: ATABAKI, NIMA
+

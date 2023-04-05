@@ -1,0 +1,24 @@
+Department: DENT
+Course Number: 561C
+Section: 003
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: DENT
+Course Number: 561C
+Section: 004
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BRONDANI, MARIO
+
+Department: DENT
+Course Number: 561C
+Section: 005
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ALMEIDA, FERNANDA
+

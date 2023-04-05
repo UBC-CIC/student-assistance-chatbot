@@ -1,0 +1,33 @@
+Department: DES
+Course Number: 422
+Section: 002
+Description: A history of the planning, landscape architecture and urban design of cities, and of how ideas have influenced the design of the city.
+Pre-reqs: Two of DES 321, DES 322, DES 323.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:30, End Time: 11:30, Building: Neville, Room: Scarfe
+Instructor: STEVENS, SARA
+
+Department: DES
+Course Number: 422
+Section: T03
+Description: A history of the planning, landscape architecture and urban design of cities, and of how ideas have influenced the design of the city.
+Pre-reqs: Two of DES 321, DES 322, DES 323.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Jack, Room: Bell
+Instructor: STEVENS, SARA
+
+Department: DES
+Course Number: 422
+Section: T04
+Description: A history of the planning, landscape architecture and urban design of cities, and of how ideas have influenced the design of the city.
+Pre-reqs: Two of DES 321, DES 322, DES 323.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Jack, Room: Bell
+Instructor: STEVENS, SARA
+

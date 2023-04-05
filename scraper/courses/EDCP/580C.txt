@@ -1,0 +1,9 @@
+Department: EDCP
+Course Number: 580C
+Section: 032
+Description: Directed Studies and Major Essay in the diverse disciplines and topics of curriculum and pedagogy.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

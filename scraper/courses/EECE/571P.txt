@@ -1,0 +1,17 @@
+Department: EECE
+Course Number: 571P
+Section: 108
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 16:00, End Time: 19:00, Building: Civil, Room: and
+Instructor: RIPEANU, RADU
+
+Department: EECE
+Course Number: 571P
+Section: 1W8
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

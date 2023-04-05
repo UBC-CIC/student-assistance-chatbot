@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 494
+Section: 201
+Description: Environmental engineering research topic.
+Pre-reqs: CHBE 493.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CAO, YANKAI
+

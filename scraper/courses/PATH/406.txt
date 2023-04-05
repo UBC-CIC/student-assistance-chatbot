@@ -1,0 +1,9 @@
+Department: PATH
+Course Number: 406
+Section: 001
+Description: This course will review and discuss the methodology of clinical chemistry in order to put these analytical methods into the broad perspective of the pathophysiology of human disease and biochemistry.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Thu, Start Time: 9:00, End Time: 11:00, Building: UBC, Room: Hospital
+

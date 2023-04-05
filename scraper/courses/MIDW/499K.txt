@@ -1,0 +1,9 @@
+Department: MIDW
+Course Number: 499K
+Section: 001
+Description: Unique self-directed elective learning opportunities.
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,43 @@
+Department: DENT
+Course Number: 440
+Section: 001
+Description: A continuing integrated, multi-disciplinary course with ongoing participation in clinical group practices and individual progression through the Clinical Clerkships and community service learning.
+Pre-reqs: DENT 430.
+Credits: 32
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CARSWELL, DENISE
+
+Department: DENT
+Course Number: 440
+Section: IGP
+Description: A continuing integrated, multi-disciplinary course with ongoing participation in clinical group practices and individual progression through the Clinical Clerkships and community service learning.
+Pre-reqs: DENT 430.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: P., Room: A.
+Instructor: TBA
+
+Department: DENT
+Course Number: 440
+Section: PED
+Description: A continuing integrated, multi-disciplinary course with ongoing participation in clinical group practices and individual progression through the Clinical Clerkships and community service learning.
+Pre-reqs: DENT 430.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: J.B., Room: MacDonald
+Instructor: TBA
+
+Department: DENT
+Course Number: 440
+Section: PM2
+Description: A continuing integrated, multi-disciplinary course with ongoing participation in clinical group practices and individual progression through the Clinical Clerkships and community service learning.
+Pre-reqs: DENT 430.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:00, End Time: 9:00, Building: J.B., Room: MacDonald
+Instructor: TBA
+

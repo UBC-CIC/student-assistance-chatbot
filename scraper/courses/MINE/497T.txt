@@ -1,0 +1,19 @@
+Department: MINE
+Course Number: 497T
+Section: 101
+Description: Requires approval of the department head.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MINE
+Course Number: 497T
+Section: 201
+Description: Requires approval of the department head.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:30, End Time: 19:00
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 320
+Section: 001
+Description: Core concepts in world theatre history and the development of theatre prior to the nineteenth century.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: KALLOS, MARIOS
+

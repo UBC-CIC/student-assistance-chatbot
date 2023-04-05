@@ -1,0 +1,25 @@
+Department: CHEM
+Course Number: 649
+Section: 001
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Chemistry, Room: B250
+Instructor: HUDSON, ZACHARY
+
+Department: CHEM
+Course Number: 649
+Section: 101
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: WOLF, MICHAEL
+
+Department: CHEM
+Course Number: 649
+Section: 201
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: WOLF, MICHAEL
+

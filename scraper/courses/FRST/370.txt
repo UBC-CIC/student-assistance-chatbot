@@ -1,0 +1,10 @@
+Department: FRST
+Course Number: 370
+Section: 101
+Description: Community forests and community forestry throughout the world, with special attention to participation by aboriginal peoples; emphasis is on forms of governance, public participation, and adaptive learning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Forest, Room: Sciences
+Instructor: BULKAN, JANETTE
+

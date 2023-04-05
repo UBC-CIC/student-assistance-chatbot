@@ -1,0 +1,22 @@
+Department: BIOL
+Course Number: 450
+Section: 201
+Description: Physiological, biochemical, and molecular strategies of adaptation of animals to environmental challenges. The evolution of genetic and biochemical systems, and their impact on animal structure and function.
+Pre-reqs: One of BIOL 361, BIOL 362, BIOL 364, BIOL 370, BIOL 371 and one of BIOL 201, BIOC 202, BIOC 203. (BIOL 457 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Neville, Room: Scarfe
+Instructor: MARSHALL, KATIE
+
+Department: BIOL
+Course Number: 450
+Section: 2W1
+Description: Physiological, biochemical, and molecular strategies of adaptation of animals to environmental challenges. The evolution of genetic and biochemical systems, and their impact on animal structure and function.
+Pre-reqs: One of BIOL 361, BIOL 362, BIOL 364, BIOL 370, BIOL 371 and one of BIOL 201, BIOC 202, BIOC 203. (BIOL 457 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: TBA
+

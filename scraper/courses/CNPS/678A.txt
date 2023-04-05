@@ -1,0 +1,10 @@
+Department: CNPS
+Course Number: 678A
+Section: 001
+Description: Major theoretical traditions in Counselling Psychology and illustration of the links among theory, research and practices; perspectives on Counselling Psychology as a distinct field of specialization.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: HAVERKAMP, BETH
+

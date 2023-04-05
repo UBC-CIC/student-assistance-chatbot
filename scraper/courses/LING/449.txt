@@ -1,0 +1,40 @@
+Department: LING
+Course Number: 449
+Section: 001
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BABEL, MOLLY
+
+Department: LING
+Course Number: 449
+Section: 002
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SOSKUTHY, MARTON
+
+Department: LING
+Course Number: 449
+Section: 003
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HUDSON KAM, CARLA
+
+Department: LING
+Course Number: 449
+Section: 004
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BABEL, MOLLY
+
+Department: LING
+Course Number: 449
+Section: 005
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TESSIER, ANNE-MICHELLE
+

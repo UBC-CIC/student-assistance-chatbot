@@ -1,0 +1,22 @@
+Department: POLI
+Course Number: 450
+Section: 001
+Description: Practical skills for generating written and oral analysis for a client or supervisor.
+Pre-reqs: Either (a) POLI 101 and one of POLI 302, POLI 306, POLI 350; or (b) all of POLI 350, POLI 352.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 12:00
+Instructor: HARRISON, KATHRYN
+
+Department: POLI
+Course Number: 450
+Section: 002
+Description: Practical skills for generating written and oral analysis for a client or supervisor.
+Pre-reqs: Either (a) POLI 101 and one of POLI 302, POLI 306, POLI 350; or (b) all of POLI 350, POLI 352.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Anthropology, Room: and
+Instructor: HARRISON, KATHRYN
+

@@ -1,0 +1,22 @@
+Department: MANU
+Course Number: 480
+Section: 101
+Description: Numerical modelling of manufacturing processes, linkage between material, process, properties and product geometry, heat/mass transport, thermodynamics and design principles applied to practical engineering processes.
+Pre-reqs: MANU 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: Frank, Room: Forward
+Instructor: BRITTON, THOMAS BENJAMIN
+
+Department: MANU
+Course Number: 480
+Section: T1A
+Description: Numerical modelling of manufacturing processes, linkage between material, process, properties and product geometry, heat/mass transport, thermodynamics and design principles applied to practical engineering processes.
+Pre-reqs: MANU 380.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:30, End Time: 14:30, Building: Chemical, Room: and
+Instructor: BRITTON, THOMAS BENJAMIN
+

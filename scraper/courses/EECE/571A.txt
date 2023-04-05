@@ -1,0 +1,17 @@
+Department: EECE
+Course Number: 571A
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: MacLeod, Room: 3038
+Instructor: MICHELSON, DAVID
+
+Department: EECE
+Course Number: 571A
+Section: 1W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

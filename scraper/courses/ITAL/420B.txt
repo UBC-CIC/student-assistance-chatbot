@@ -1,0 +1,10 @@
+Department: ITAL
+Course Number: 420B
+Section: 201
+Description: Course content will vary. May be taken twice for a total of 6 credits.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30
+Instructor: TBA
+

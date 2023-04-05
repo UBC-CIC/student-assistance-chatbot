@@ -1,0 +1,11 @@
+Department: HIST
+Course Number: 330
+Section: 101
+Description: Origins and tranformation of the global financial order (18th century onward) in relation to war, state-building, international political economy, and colonialism.
+Pre-reqs: (Second-year standing or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:30, Building: Frederic, Room: Lasserre
+Instructor: SAFIEDDINE, HICHAM
+

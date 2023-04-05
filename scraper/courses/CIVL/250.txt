@@ -1,0 +1,16 @@
+Department: CIVL
+Course Number: 250
+Section: 101
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: ROGHANIAN, NEGAR
+
+Department: CIVL
+Course Number: 250
+Section: 99A
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

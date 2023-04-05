@@ -1,0 +1,27 @@
+Department: BIOL
+Course Number: 448D
+Section: 006
+Description: A course designed to allow students to undertake an investigation on a specific topic as agreed upon by the faculty member and the student. Permission of the supervisor required. No more than six credits of BIOL 448 may be taken with the same supervisor.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BIOL
+Course Number: 448D
+Section: 106
+Description: A course designed to allow students to undertake an investigation on a specific topic as agreed upon by the faculty member and the student. Permission of the supervisor required. No more than six credits of BIOL 448 may be taken with the same supervisor.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BIOL
+Course Number: 448D
+Section: 206
+Description: A course designed to allow students to undertake an investigation on a specific topic as agreed upon by the faculty member and the student. Permission of the supervisor required. No more than six credits of BIOL 448 may be taken with the same supervisor.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

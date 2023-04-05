@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 149
+Section: 001
+Description: Collaborative Piano I
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:00
+Instructor: DAWSON, TERENCE
+

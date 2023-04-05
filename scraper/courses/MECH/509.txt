@@ -1,0 +1,9 @@
+Department: MECH
+Course Number: 509
+Section: 201
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Civil, Room: and
+Instructor: NAGAMUNE, RYOZO
+

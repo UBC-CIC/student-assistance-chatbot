@@ -1,0 +1,10 @@
+Department: SOIL
+Course Number: 517
+Section: 001
+Description: Topics in land and water system evaluations and assessing resource development options; monitoring and modelling environmental systems.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: MacMillan, Room: 258
+Instructor: LAVKULICH, LESLIE
+

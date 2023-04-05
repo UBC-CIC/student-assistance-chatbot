@@ -1,0 +1,11 @@
+Department: FNH
+Course Number: 404
+Section: 201
+Description: Food production plant sanitation, environmental monitoring, global food safety standards, and food plant internal audits.
+Pre-reqs: FNH 403.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: West, Room: Mall
+Instructor: ROBERTSON, REBECCA
+

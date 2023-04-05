@@ -1,0 +1,27 @@
+Department: EXCH
+Course Number: 375
+Section: 001
+Pre-reqs: (for BEDN, DEDU, BEDS, BEDE, BEDM.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 375
+Section: 101
+Pre-reqs: (for BEDN, DEDU, BEDS, BEDE, BEDM.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 375
+Section: 201
+Pre-reqs: (for BEDN, DEDU, BEDS, BEDE, BEDM.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

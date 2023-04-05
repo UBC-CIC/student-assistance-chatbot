@@ -1,0 +1,22 @@
+Department: CHIN
+Course Number: 466
+Section: 001
+Description: Chinese martial arts fiction as a form of cultural expression first created in classical Chinese fiction and then evolved into contemporary popular literature.
+Pre-reqs: One of CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448. (Or placement approval.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Geography, Room: 212
+Instructor: LIU, XUE SHUN
+
+Department: CHIN
+Course Number: 466
+Section: W01
+Description: Chinese martial arts fiction as a form of cultural expression first created in classical Chinese fiction and then evolved into contemporary popular literature.
+Pre-reqs: One of CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448. (Or placement approval.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: To, Room: Be
+Instructor: LIU, XUE SHUN
+

@@ -1,0 +1,52 @@
+Department: CPEN
+Course Number: 412
+Section: 201
+Description: Microprocessor and system buses; advanced I/O methods; priority interrupts; event/exception handling; serial I/O; computer networking; memory system design; interaction of hardware and software, microprocessor comparison, testability issues, safety critical systems.
+Pre-reqs: CPEN 311 and one of CPEN 211, CPEN 312.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:30, End Time: 19:00, Building: MacLeod, Room: 2018
+Instructor: LINN, YAIR
+
+Department: CPEN
+Course Number: 412
+Section: L2A
+Description: Microprocessor and system buses; advanced I/O methods; priority interrupts; event/exception handling; serial I/O; computer networking; memory system design; interaction of hardware and software, microprocessor comparison, testability issues, safety critical systems.
+Pre-reqs: CPEN 311 and one of CPEN 211, CPEN 312.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 14:00, Building: MacLeod, Room: 4006
+Instructor: LINN, YAIR
+
+Department: CPEN
+Course Number: 412
+Section: L2W
+Description: Microprocessor and system buses; advanced I/O methods; priority interrupts; event/exception handling; serial I/O; computer networking; memory system design; interaction of hardware and software, microprocessor comparison, testability issues, safety critical systems.
+Pre-reqs: CPEN 311 and one of CPEN 211, CPEN 312.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 412
+Section: 2W1
+Description: Microprocessor and system buses; advanced I/O methods; priority interrupts; event/exception handling; serial I/O; computer networking; memory system design; interaction of hardware and software, microprocessor comparison, testability issues, safety critical systems.
+Pre-reqs: CPEN 311 and one of CPEN 211, CPEN 312.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 412
+Section: L2W
+Description: Microprocessor and system buses; advanced I/O methods; priority interrupts; event/exception handling; serial I/O; computer networking; memory system design; interaction of hardware and software, microprocessor comparison, testability issues, safety critical systems.
+Pre-reqs: CPEN 311 and one of CPEN 211, CPEN 312.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,32 @@
+Department: SPAN
+Course Number: 302
+Section: 201
+Description: Expansion of and reflection on the use of complex grammatical structures in context to broaden lexical repertoire. Enhances proficiency through reading, writing, and discussion of relevant cultural topics. Aligned with CEFR level B1 objectives.
+Pre-reqs: SPAN 301.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D201
+Instructor: CARBONETTI, MARIA
+
+Department: SPAN
+Course Number: 302
+Section: 202
+Description: Expansion of and reflection on the use of complex grammatical structures in context to broaden lexical repertoire. Enhances proficiency through reading, writing, and discussion of relevant cultural topics. Aligned with CEFR level B1 objectives.
+Pre-reqs: SPAN 301.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Leon, Room: and
+Instructor: CARBONETTI, MARIA
+
+Department: SPAN
+Course Number: 302
+Section: W02
+Description: Expansion of and reflection on the use of complex grammatical structures in context to broaden lexical repertoire. Enhances proficiency through reading, writing, and discussion of relevant cultural topics. Aligned with CEFR level B1 objectives.
+Pre-reqs: SPAN 301.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: TBA
+

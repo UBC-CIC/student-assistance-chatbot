@@ -1,0 +1,10 @@
+Department: FNIS
+Course Number: 300
+Section: 001
+Pre-reqs: Either (a) FNSP 200 or (b) all of FNIS 210, FNIS 220 or (c) all of FNSP 210, FNSP 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: D323
+Instructor: TE PUNGA SOMERVILLE, ALICE
+

@@ -1,0 +1,11 @@
+Department: SCIE
+Course Number: 420
+Section: 001
+Description: Explores systems thinking in the context of sustainability and also re-examines the familiar three pillar model of sustainability - society, ecology, and economics - highlighting its uses and limitations.
+Pre-reqs: One of ASIC 200, ASIC 220, APBI 260, APBI 265, ARCL 309, BIOL 230, CHEM 301, CHEM 302, CHEM 341, CIVL 200, CONS 330, ECON 210, ENDS 221, ENVR 200, ENVR 300, EOSC 270, EOSC 340, FRST 100, GEOG 211, GEOG 310, HIST 106, ISCI 360, ISCI 361, LAW 386, LFS 250, PHYS 333, POLI 351, PSYC 321, PSYC 421, SCIE 120, SCIE 320. (Fourth-year standing or permission of the instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Mathematics, Room: 225
+Instructor: OBERG, GUNILLA
+

@@ -1,0 +1,11 @@
+Department: FNH
+Course Number: 413
+Section: 001
+Description: Microbial and chemical factors that underlie public health challenges in the food supply chain; prevalence and nature of organisms which cause foodborne diseases; approaches and technologies for improvement of food safety.
+Pre-reqs: One of MICB 201, MICB 202, CHEM 233, FNH 313.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Food,, Room: Nutrition
+Instructor: WANG, SIYUN
+

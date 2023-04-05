@@ -1,0 +1,20 @@
+Department: FRST
+Course Number: 557
+Section: 101
+Description: Design and implementation of site-level plans that integrate ecological, social, and economic components: silviculture, forest operations, and forest health.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Fri, Start Time: 9:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: BYRNE, KENNETH
+
+Department: FRST
+Course Number: 557
+Section: L01
+Description: Design and implementation of site-level plans that integrate ecological, social, and economic components: silviculture, forest operations, and forest health.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu Fri, Start Time: 13:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: BYRNE, KENNETH
+

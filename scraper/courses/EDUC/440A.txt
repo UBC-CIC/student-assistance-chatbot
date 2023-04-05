@@ -1,0 +1,100 @@
+Department: EDUC
+Course Number: 440A
+Section: 301
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:30, End Time: 20:00, Building: Neville, Room: Scarfe
+Instructor: BROWN, MARJEAN
+
+Department: EDUC
+Course Number: 440A
+Section: 302
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:30, End Time: 12:00, Building: Jack, Room: Bell
+Instructor: DULAY, ANDREA
+
+Department: EDUC
+Course Number: 440A
+Section: 303
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:30, End Time: 20:00, Building: Neville, Room: Scarfe
+Instructor: CHENOWETH, MATTHEW
+
+Department: EDUC
+Course Number: 440A
+Section: 304
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: NELSON, MELANIE
+
+Department: EDUC
+Course Number: 440A
+Section: 305
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: NELSON, MELANIE
+
+Department: EDUC
+Course Number: 440A
+Section: 306
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:30, End Time: 20:00, Building: Neville, Room: Scarfe
+Instructor: THOMSON, SUSAN
+
+Department: EDUC
+Course Number: 440A
+Section: 307
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:30, End Time: 20:00, Building: Neville, Room: Scarfe
+Instructor: HOTOMANIE, MARY
+
+Department: EDUC
+Course Number: 440A
+Section: 308
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:30, End Time: 20:00, Building: Neville, Room: Scarfe
+Instructor: ATHIE MARTINEZ, MARIA
+
+Department: EDUC
+Course Number: 440A
+Section: 309
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: LEDDY, SHANNON
+
+Department: EDUC
+Course Number: 440A
+Section: 310
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: GEORGE, NICOLE
+

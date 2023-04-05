@@ -1,0 +1,20 @@
+Department: CNPS
+Course Number: 586
+Section: 001
+Description: Ethical decision-making and legal issues in counselling psychology research and practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:30, End Time: 19:30, Building: Ponderosa, Room: Commons
+Instructor: BORGEN, ROBERTA
+
+Department: CNPS
+Course Number: 586
+Section: 002
+Description: Ethical decision-making and legal issues in counselling psychology research and practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: GRIGG, GLEN
+

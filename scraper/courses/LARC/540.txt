@@ -1,0 +1,9 @@
+Department: LARC
+Course Number: 540
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: Frank, Room: Forward
+Instructor: WILKINSON, STEPHEN
+

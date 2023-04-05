@@ -1,0 +1,22 @@
+Department: CPSC
+Course Number: 418
+Section: 201
+Description: Algorithms, architectures, and programming paradigms for parallel computation. Shared memory, message passing, and data parallel architectures and programming models. Parallel algorithms including reduce, scan, and sorting networks. Reasoning about the correctness of parallel programs. Performance analysis and measurement for parallel programs.
+Pre-reqs: CPSC 320 and one of CPSC 261, CPSC 313, CPEN 212, CPEN 411.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Civil, Room: and
+Instructor: GREENSTREET, MARK
+
+Department: CPSC
+Course Number: 418
+Section: 2W1
+Description: Algorithms, architectures, and programming paradigms for parallel computation. Shared memory, message passing, and data parallel architectures and programming models. Parallel algorithms including reduce, scan, and sorting networks. Reasoning about the correctness of parallel programs. Performance analysis and measurement for parallel programs.
+Pre-reqs: CPSC 320 and one of CPSC 261, CPSC 313, CPEN 212, CPEN 411.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00
+Instructor: GREENSTREET, MARK
+

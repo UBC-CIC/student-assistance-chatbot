@@ -1,0 +1,88 @@
+Department: CPSC
+Course Number: 107
+Section: 201
+Description: Fundamental computation and program structures. Continuing systematic program design from CPSC 103.
+Pre-reqs: CPSC 103.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: ALLEN, MEGHAN
+
+Department: CPSC
+Course Number: 107
+Section: L2A
+Description: Fundamental computation and program structures. Continuing systematic program design from CPSC 103.
+Pre-reqs: CPSC 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 107
+Section: L2B
+Description: Fundamental computation and program structures. Continuing systematic program design from CPSC 103.
+Pre-reqs: CPSC 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 107
+Section: L2C
+Description: Fundamental computation and program structures. Continuing systematic program design from CPSC 103.
+Pre-reqs: CPSC 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 107
+Section: L2D
+Description: Fundamental computation and program structures. Continuing systematic program design from CPSC 103.
+Pre-reqs: CPSC 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 107
+Section: L2F
+Description: Fundamental computation and program structures. Continuing systematic program design from CPSC 103.
+Pre-reqs: CPSC 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 107
+Section: L2G
+Description: Fundamental computation and program structures. Continuing systematic program design from CPSC 103.
+Pre-reqs: CPSC 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 107
+Section: 2W1
+Description: Fundamental computation and program structures. Continuing systematic program design from CPSC 103.
+Pre-reqs: CPSC 103.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: To, Room: Be
+Instructor: ALLEN, MEGHAN
+

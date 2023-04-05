@@ -1,0 +1,9 @@
+Department: MEDG
+Course Number: 595
+Section: 101
+Description: Utility, impacts, and ethical implications of developing genomic applications; multiomics, tumour genomics, pharmacogenomics, population genomics. Online. Restricted to students in the Graduate Certificate in Genomic Counselling and Variant Interpretation or others with permission of instructor.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BIRCH, PATRICIA
+

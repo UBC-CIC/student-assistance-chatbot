@@ -1,0 +1,33 @@
+Department: FNH
+Course Number: 340
+Section: 001
+Description: Principles of food preparation based on the physical and chemical properties of food, and experimental and practical applications to food preparation.
+Pre-reqs: FNH 200 and either (a) all of CHEM 111, CHEM 113 or (b) all of CHEM 121, CHEM 123.
+Credits: 4.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:30, End Time: 15:00, Building: Hebb, Room: B112
+Instructor: BAROHN, JOEL
+
+Department: FNH
+Course Number: 340
+Section: L02
+Description: Principles of food preparation based on the physical and chemical properties of food, and experimental and practical applications to food preparation.
+Pre-reqs: FNH 200 and either (a) all of CHEM 111, CHEM 113 or (b) all of CHEM 121, CHEM 123.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:30, End Time: 19:30, Building: Food,, Room: Nutrition
+Instructor: BAROHN, JOEL
+
+Department: FNH
+Course Number: 340
+Section: L03
+Description: Principles of food preparation based on the physical and chemical properties of food, and experimental and practical applications to food preparation.
+Pre-reqs: FNH 200 and either (a) all of CHEM 111, CHEM 113 or (b) all of CHEM 121, CHEM 123.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 15:30, Building: Food,, Room: Nutrition
+Instructor: BAROHN, JOEL
+

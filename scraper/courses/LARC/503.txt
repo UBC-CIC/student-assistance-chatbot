@@ -1,0 +1,10 @@
+Department: LARC
+Course Number: 503
+Section: 001
+Pre-reqs: One of LARC 502, ARCH 500.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Fri, Start Time: 13:30, End Time: 18:00
+Instructor: LASZLO TAIT, RACHEL
+

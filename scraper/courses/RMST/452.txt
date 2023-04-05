@@ -1,0 +1,9 @@
+Department: RMST
+Course Number: 452
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: D312
+Instructor: TESTA, CARLO
+

@@ -1,0 +1,44 @@
+Department: GEOS
+Course Number: 373
+Section: 201
+Description: Aerial photography; measurement from aerial photographs; photo-interpretation in geographic analysis; remote sensing of the earth's surface and atmosphere.
+Pre-reqs: One of GEOB 270, GEOS 270. (Or third-year standing in ENSC or GEOS (or GEOB) specializations.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Biological, Room: Sciences
+Instructor: SCHWARTZ, NAOMI BETH
+
+Department: GEOS
+Course Number: 373
+Section: L2A
+Description: Aerial photography; measurement from aerial photographs; photo-interpretation in geographic analysis; remote sensing of the earth's surface and atmosphere.
+Pre-reqs: One of GEOB 270, GEOS 270. (Or third-year standing in ENSC or GEOS (or GEOB) specializations.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: Geography, Room: 115
+Instructor: SCHWARTZ, NAOMI BETH
+
+Department: GEOS
+Course Number: 373
+Section: L2B
+Description: Aerial photography; measurement from aerial photographs; photo-interpretation in geographic analysis; remote sensing of the earth's surface and atmosphere.
+Pre-reqs: One of GEOB 270, GEOS 270. (Or third-year standing in ENSC or GEOS (or GEOB) specializations.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Geography, Room: 115
+Instructor: SCHWARTZ, NAOMI BETH
+
+Department: GEOS
+Course Number: 373
+Section: L2C
+Description: Aerial photography; measurement from aerial photographs; photo-interpretation in geographic analysis; remote sensing of the earth's surface and atmosphere.
+Pre-reqs: One of GEOB 270, GEOS 270. (Or third-year standing in ENSC or GEOS (or GEOB) specializations.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 18:00, Building: Geography, Room: 115
+Instructor: SCHWARTZ, NAOMI BETH
+

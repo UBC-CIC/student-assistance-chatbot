@@ -1,0 +1,9 @@
+Department: IWME
+Course Number: 506
+Section: 101
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: Orchard, Room: Commons
+Instructor: NELMS, CHERYL
+

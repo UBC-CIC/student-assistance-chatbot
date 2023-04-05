@@ -1,0 +1,40 @@
+Department: ASIA
+Course Number: 367
+Section: 001
+Description: An introduction to the literature, drama, music, and art of Korea today. Particular attention will be paid to the continuing influence of traditional themes and forms.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:30, End Time: 16:30, Building: Buchanan, Room: D219
+Instructor: VERMETTE, KYRIE
+
+Department: ASIA
+Course Number: 367
+Section: 002
+Description: An introduction to the literature, drama, music, and art of Korea today. Particular attention will be paid to the continuing influence of traditional themes and forms.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B313
+Instructor: ROH, HANNAH
+
+Department: ASIA
+Course Number: 367
+Section: W01
+Description: An introduction to the literature, drama, music, and art of Korea today. Particular attention will be paid to the continuing influence of traditional themes and forms.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:30, End Time: 16:30
+Instructor: VERMETTE, KYRIE
+
+Department: ASIA
+Course Number: 367
+Section: W02
+Description: An introduction to the literature, drama, music, and art of Korea today. Particular attention will be paid to the continuing influence of traditional themes and forms.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: ROH, HANNAH
+

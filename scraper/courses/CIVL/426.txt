@@ -1,0 +1,18 @@
+Department: CIVL
+Course Number: 426
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Civil, Room: and
+Instructor: ZADEH, PUYAN
+
+Department: CIVL
+Course Number: 426
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: B141
+Instructor: ZADEH, PUYAN
+

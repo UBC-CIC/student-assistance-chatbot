@@ -1,0 +1,10 @@
+Department: SOWK
+Course Number: 601
+Section: 001
+Description: Social Work Doctoral Seminar
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 20:00, Building: Jack, Room: Bell
+Instructor: BRATIOTIS, CHRISTIANA
+

@@ -1,0 +1,60 @@
+Department: BIOL
+Course Number: 111
+Section: 101
+Description: Concepts fundamental to biological issues, such as the genetic basis of biological variation, evolution, infectious diseases, causes of cancer, population growth, and human effects on ecosystems. Not open to students who have credit for Biology 12 (including AP, IB).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: ELLIS, SHONA MARGARET
+
+Department: BIOL
+Course Number: 111
+Section: 102
+Description: Concepts fundamental to biological issues, such as the genetic basis of biological variation, evolution, infectious diseases, causes of cancer, population growth, and human effects on ecosystems. Not open to students who have credit for Biology 12 (including AP, IB).
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: ELLIS, SHONA MARGARET
+
+Department: BIOL
+Course Number: 111
+Section: 1W1
+Description: Concepts fundamental to biological issues, such as the genetic basis of biological variation, evolution, infectious diseases, causes of cancer, population growth, and human effects on ecosystems. Not open to students who have credit for Biology 12 (including AP, IB).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30
+Instructor: TBA
+
+Department: BIOL
+Course Number: 111
+Section: 1W2
+Description: Concepts fundamental to biological issues, such as the genetic basis of biological variation, evolution, infectious diseases, causes of cancer, population growth, and human effects on ecosystems. Not open to students who have credit for Biology 12 (including AP, IB).
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: BIOL
+Course Number: 111
+Section: 201
+Description: Concepts fundamental to biological issues, such as the genetic basis of biological variation, evolution, infectious diseases, causes of cancer, population growth, and human effects on ecosystems. Not open to students who have credit for Biology 12 (including AP, IB).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: ELLIS, SHONA MARGARET
+
+Department: BIOL
+Course Number: 111
+Section: 2W1
+Description: Concepts fundamental to biological issues, such as the genetic basis of biological variation, evolution, infectious diseases, causes of cancer, population growth, and human effects on ecosystems. Not open to students who have credit for Biology 12 (including AP, IB).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: TBA
+

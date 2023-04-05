@@ -1,0 +1,72 @@
+Department: COMM
+Course Number: 353
+Section: 101
+Description: An examination of accounting as a means of measurement and as an information system for external reporting purposes.
+Pre-reqs: All of COMM 293, COMM 294.
+Co-reqs: Either (a) all of COMM 297, COMM 397 or (b) COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: RAI, SABRINA
+
+Department: COMM
+Course Number: 353
+Section: 102
+Description: An examination of accounting as a means of measurement and as an information system for external reporting purposes.
+Pre-reqs: All of COMM 293, COMM 294.
+Co-reqs: Either (a) all of COMM 297, COMM 397 or (b) COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: RAI, SABRINA
+
+Department: COMM
+Course Number: 353
+Section: 103
+Description: An examination of accounting as a means of measurement and as an information system for external reporting purposes.
+Pre-reqs: All of COMM 293, COMM 294.
+Co-reqs: Either (a) all of COMM 297, COMM 397 or (b) COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: RAI, SABRINA
+
+Department: COMM
+Course Number: 353
+Section: 201
+Description: An examination of accounting as a means of measurement and as an information system for external reporting purposes.
+Pre-reqs: All of COMM 293, COMM 294.
+Co-reqs: Either (a) all of COMM 297, COMM 397 or (b) COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: D ADDUZIO, JENNA
+
+Department: COMM
+Course Number: 353
+Section: 202
+Description: An examination of accounting as a means of measurement and as an information system for external reporting purposes.
+Pre-reqs: All of COMM 293, COMM 294.
+Co-reqs: Either (a) all of COMM 297, COMM 397 or (b) COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: D ADDUZIO, JENNA
+
+Department: COMM
+Course Number: 353
+Section: 203
+Description: An examination of accounting as a means of measurement and as an information system for external reporting purposes.
+Pre-reqs: All of COMM 293, COMM 294.
+Co-reqs: Either (a) all of COMM 297, COMM 397 or (b) COMM 298.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00
+Instructor: TBA
+

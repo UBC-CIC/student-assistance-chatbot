@@ -1,0 +1,16 @@
+Department: ANAT
+Course Number: 548B
+Section: 004
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ANAT
+Course Number: 548B
+Section: 005
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

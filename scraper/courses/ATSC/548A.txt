@@ -1,0 +1,8 @@
+Department: ATSC
+Course Number: 548A
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

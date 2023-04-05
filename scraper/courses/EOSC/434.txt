@@ -1,0 +1,33 @@
+Department: EOSC
+Course Number: 434
+Section: 201
+Description: Application of geomorphology, hydrogeology, and soil mechanics to geotechnical design. Influence and treatment of geological uncertainty in geotechnical hazard and risk assessments; multi-disciplinary approaches to geotechnical engineering problems in realistically complex geological environments. Case histories.
+Pre-reqs: All of EOSC 329, EOSC 330, CIVL 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Chemistry, Room: D200
+Instructor: MCDOUGALL, SCOTT
+
+Department: EOSC
+Course Number: 434
+Section: L2A
+Description: Application of geomorphology, hydrogeology, and soil mechanics to geotechnical design. Influence and treatment of geological uncertainty in geotechnical hazard and risk assessments; multi-disciplinary approaches to geotechnical engineering problems in realistically complex geological environments. Case histories.
+Pre-reqs: All of EOSC 329, EOSC 330, CIVL 210.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:30, End Time: 17:30, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 434
+Section: L2B
+Description: Application of geomorphology, hydrogeology, and soil mechanics to geotechnical design. Influence and treatment of geological uncertainty in geotechnical hazard and risk assessments; multi-disciplinary approaches to geotechnical engineering problems in realistically complex geological environments. Case histories.
+Pre-reqs: All of EOSC 329, EOSC 330, CIVL 210.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 14:00, Building: Earth, Room: and
+Instructor: TBA
+

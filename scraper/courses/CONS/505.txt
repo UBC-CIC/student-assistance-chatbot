@@ -1,0 +1,9 @@
+Department: CONS
+Course Number: 505
+Section: 201
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30
+Instructor: PRESCOTT, CINDY
+

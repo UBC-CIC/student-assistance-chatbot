@@ -1,0 +1,18 @@
+Department: ECON
+Course Number: 560
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: D312
+Instructor: GREEN, DAVID
+
+Department: ECON
+Course Number: 560
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:00
+Instructor: TBA
+

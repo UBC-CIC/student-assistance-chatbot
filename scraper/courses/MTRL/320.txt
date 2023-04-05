@@ -1,0 +1,22 @@
+Department: MTRL
+Course Number: 320
+Section: 101
+Description: Fundamental communication and inter- personal skills, as well as operational processes, that engineers require to effectively work in design teams. Concepts and best practices around project management tools and techniques, team dynamics, planning, and organization.
+Pre-reqs: MTRL 201.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: Frank, Room: Forward
+Instructor: WONG, MATTHEW
+
+Department: MTRL
+Course Number: 320
+Section: T1A
+Description: Fundamental communication and inter- personal skills, as well as operational processes, that engineers require to effectively work in design teams. Concepts and best practices around project management tools and techniques, team dynamics, planning, and organization.
+Pre-reqs: MTRL 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: Frank, Room: Forward
+Instructor: WONG, MATTHEW
+

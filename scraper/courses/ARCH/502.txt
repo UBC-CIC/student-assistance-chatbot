@@ -1,0 +1,8 @@
+Department: ARCH
+Course Number: 502
+Section: 610
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SATTERFIELD, BLAIR
+

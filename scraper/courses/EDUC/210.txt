@@ -1,0 +1,45 @@
+Department: EDUC
+Course Number: 210
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:30, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: ABDI, KLARA
+
+Department: EDUC
+Course Number: 210
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:30, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: TAKEDA, YUYA
+
+Department: EDUC
+Course Number: 210
+Section: 003
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:30, End Time: 16:00, Building: Ponderosa, Room: Commons
+Instructor: HASEYAMA, KOICHI
+
+Department: EDUC
+Course Number: 210
+Section: 004
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:30, End Time: 16:00, Building: Ponderosa, Room: Commons
+Instructor: SHIGEMATSU, TETSURO
+
+Department: EDUC
+Course Number: 210
+Section: L02
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:30, End Time: 14:00, Building: P., Room: A.
+Instructor: TBA
+

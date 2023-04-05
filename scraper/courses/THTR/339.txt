@@ -1,0 +1,22 @@
+Department: THTR
+Course Number: 339
+Section: 001
+Description: Study and practice of processes and forms used to create ensemble performance.
+Pre-reqs: One of THTR 130, THTR 230.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 12:00, Building: Dorothy, Room: Somerset
+Instructor: IKEDA, KUNJI
+
+Department: THTR
+Course Number: 339
+Section: WL1
+Description: Study and practice of processes and forms used to create ensemble performance.
+Pre-reqs: One of THTR 130, THTR 230.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 12:00
+Instructor: TBA
+

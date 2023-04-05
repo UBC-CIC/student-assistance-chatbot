@@ -1,0 +1,10 @@
+Department: CIVL
+Course Number: 537
+Section: 101
+Description: Numerical techniques, weighted residual methods, finite differences, finite elements. Formulations using energy principles, shape functions, conformity, stiffness and mass matrices. Consistent load vectors. Applications to linear problems. Numerical integration and equation solvers. Dynamic problems. Introduction to nonlinear problems.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Civil, Room: and
+Instructor: VAZIRI, REZA
+

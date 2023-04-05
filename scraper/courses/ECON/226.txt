@@ -1,0 +1,55 @@
+Department: ECON
+Course Number: 226
+Section: 004
+Description: Formulation of a testable hypothesis, identification of relevant data, use of appropriate statistical tools. May not be taken for credit by students with fourth-year standing in ECON or COMM. Not available for credit to students already having credit for either of ECON 325 or ECON 326 (or equivalent).
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: A201
+Instructor: GRAVES, JONATHAN
+
+Department: ECON
+Course Number: 226
+Section: L01
+Description: Formulation of a testable hypothesis, identification of relevant data, use of appropriate statistical tools. May not be taken for credit by students with fourth-year standing in ECON or COMM. Not available for credit to students already having credit for either of ECON 325 or ECON 326 (or equivalent).
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: A203
+Instructor: TBA
+
+Department: ECON
+Course Number: 226
+Section: L02
+Description: Formulation of a testable hypothesis, identification of relevant data, use of appropriate statistical tools. May not be taken for credit by students with fourth-year standing in ECON or COMM. Not available for credit to students already having credit for either of ECON 325 or ECON 326 (or equivalent).
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: D222
+Instructor: TBA
+
+Department: ECON
+Course Number: 226
+Section: L03
+Description: Formulation of a testable hypothesis, identification of relevant data, use of appropriate statistical tools. May not be taken for credit by students with fourth-year standing in ECON or COMM. Not available for credit to students already having credit for either of ECON 325 or ECON 326 (or equivalent).
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: A202
+Instructor: TBA
+
+Department: ECON
+Course Number: 226
+Section: L04
+Description: Formulation of a testable hypothesis, identification of relevant data, use of appropriate statistical tools. May not be taken for credit by students with fourth-year standing in ECON or COMM. Not available for credit to students already having credit for either of ECON 325 or ECON 326 (or equivalent).
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: A202
+Instructor: TBA
+

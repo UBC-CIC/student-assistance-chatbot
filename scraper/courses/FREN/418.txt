@@ -1,0 +1,11 @@
+Department: FREN
+Course Number: 418
+Section: 101
+Description: Representative and contemporary writings from African and Caribbean francophone cultures.
+Pre-reqs: One of FREN 321, FREN 328, FREN 329 and one of FREN 225, FREN 402.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: B303
+Instructor: LAROUSSI, FARID
+

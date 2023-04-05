@@ -1,0 +1,38 @@
+Department: ELEC
+Course Number: 301
+Section: 101
+Pre-reqs: Either (a) one of ELEC 201, ELEC 203 and ELEC 202; or (b) ELEC 204.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Hugh, Room: Dempster
+Instructor: JAEGER, NICOLAS A
+
+Department: ELEC
+Course Number: 301
+Section: 1W1
+Pre-reqs: Either (a) one of ELEC 201, ELEC 203 and ELEC 202; or (b) ELEC 204.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 301
+Section: 201
+Pre-reqs: Either (a) one of ELEC 201, ELEC 203 and ELEC 202; or (b) ELEC 204.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Hugh, Room: Dempster
+Instructor: JAEGER, NICOLAS A
+
+Department: ELEC
+Course Number: 301
+Section: 2W1
+Pre-reqs: Either (a) one of ELEC 201, ELEC 203 and ELEC 202; or (b) ELEC 204.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

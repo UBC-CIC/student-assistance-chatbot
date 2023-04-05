@@ -1,0 +1,40 @@
+Department: GEOG
+Course Number: 371
+Section: 201
+Description: Formulating a research problem and selecting an appropriate research strategy. Research strategies range from social scientific survey methods to ethnography. Priority enrolment for honours and major students in Geography.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Geography, Room: 147
+Instructor: KASERMAN, BONNIE
+
+Department: GEOG
+Course Number: 371
+Section: L2B
+Description: Formulating a research problem and selecting an appropriate research strategy. Research strategies range from social scientific survey methods to ethnography. Priority enrolment for honours and major students in Geography.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Geography, Room: 242
+Instructor: KASERMAN, BONNIE
+
+Department: GEOG
+Course Number: 371
+Section: L2C
+Description: Formulating a research problem and selecting an appropriate research strategy. Research strategies range from social scientific survey methods to ethnography. Priority enrolment for honours and major students in Geography.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:00, Building: Geography, Room: 242
+Instructor: KASERMAN, BONNIE
+
+Department: GEOG
+Course Number: 371
+Section: L2A
+Description: Formulating a research problem and selecting an appropriate research strategy. Research strategies range from social scientific survey methods to ethnography. Priority enrolment for honours and major students in Geography.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Geography, Room: 242
+Instructor: KASERMAN, BONNIE
+

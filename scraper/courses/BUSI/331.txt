@@ -1,0 +1,20 @@
+Department: BUSI
+Course Number: 331
+Section: 001
+Description: Valuation techniques for income real estate, including income method of appraisal, tax consequences of real property ownership, and portfolio analysis methodology.
+Pre-reqs: All of BUSI 121, BUSI 330.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BUSI
+Course Number: 331
+Section: 002
+Description: Valuation techniques for income real estate, including income method of appraisal, tax consequences of real property ownership, and portfolio analysis methodology.
+Pre-reqs: All of BUSI 121, BUSI 330.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

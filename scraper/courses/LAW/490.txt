@@ -1,0 +1,9 @@
+Department: LAW
+Course Number: 490
+Section: 001
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 20:00
+Instructor: ADAMS, NANCY
+

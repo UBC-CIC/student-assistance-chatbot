@@ -1,0 +1,44 @@
+Department: FRST
+Course Number: 307
+Section: 101
+Description: Concepts of disturbance ecology with special reference to insects and diseases in the forests of British Columbia; forest health problems in the biogeoclamatic zones of BC; present management strategies and future potentials in a scenario of climate change.
+Pre-reqs: All of FRST 210, FRST 211.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: CARROLL, ALLAN
+
+Department: FRST
+Course Number: 307
+Section: L01
+Description: Concepts of disturbance ecology with special reference to insects and diseases in the forests of British Columbia; forest health problems in the biogeoclamatic zones of BC; present management strategies and future potentials in a scenario of climate change.
+Pre-reqs: All of FRST 210, FRST 211.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 18:00, Building: Forest, Room: Sciences
+Instructor: CARROLL, ALLAN
+
+Department: FRST
+Course Number: 307
+Section: L02
+Description: Concepts of disturbance ecology with special reference to insects and diseases in the forests of British Columbia; forest health problems in the biogeoclamatic zones of BC; present management strategies and future potentials in a scenario of climate change.
+Pre-reqs: All of FRST 210, FRST 211.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Forest, Room: Sciences
+Instructor: CARROLL, ALLAN
+
+Department: FRST
+Course Number: 307
+Section: L03
+Description: Concepts of disturbance ecology with special reference to insects and diseases in the forests of British Columbia; forest health problems in the biogeoclamatic zones of BC; present management strategies and future potentials in a scenario of climate change.
+Pre-reqs: All of FRST 210, FRST 211.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 18:00, Building: Forest, Room: Sciences
+Instructor: CARROLL, ALLAN
+

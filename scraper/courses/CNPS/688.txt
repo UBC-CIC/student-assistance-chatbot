@@ -1,0 +1,10 @@
+Department: CNPS
+Course Number: 688
+Section: 001
+Description: Supervision requires both knowledge of supervision models and practices, and skills to implement them. This course involves a seminar and practicum to integrate the two requirements of the subject. (For those on the Doctoral program.) Pass/Fail.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:30, End Time: 12:30, Building: Jack, Room: Bell
+Instructor: BELL, DEBORAH
+

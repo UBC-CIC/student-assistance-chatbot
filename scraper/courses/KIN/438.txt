@@ -1,0 +1,21 @@
+Department: KIN
+Course Number: 438
+Section: 001
+Description: Cellular and molecular mechanisms of muscle adaptability to aerobic and resistance training, inactive and aging: signaling cascades controlling hypertrophy and atrophy, satellite cell contribution to muscle repair, and mitochondrial/ribosomal biogenesis.
+Pre-reqs: KIN 335. (and third-year standing. BIOL 112 or similar recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Forest, Room: Sciences
+Instructor: MITCHELL, CAMERON
+
+Department: KIN
+Course Number: 438
+Section: 0W1
+Description: Cellular and molecular mechanisms of muscle adaptability to aerobic and resistance training, inactive and aging: signaling cascades controlling hypertrophy and atrophy, satellite cell contribution to muscle repair, and mitochondrial/ribosomal biogenesis.
+Pre-reqs: KIN 335. (and third-year standing. BIOL 112 or similar recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

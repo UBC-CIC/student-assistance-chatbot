@@ -1,0 +1,18 @@
+Department: CHBE
+Course Number: 575
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Pharmaceutical, Room: Sciences
+Instructor: LAU, ANTHONY K
+
+Department: CHBE
+Course Number: 575
+Section: T1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Wed*, End Time: 14:00, Building: 16:00, Room: Chemical
+Instructor: LAU, ANTHONY K
+

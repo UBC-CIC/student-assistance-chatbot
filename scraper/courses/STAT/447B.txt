@@ -1,0 +1,22 @@
+Department: STAT
+Course Number: 447B
+Section: 201
+Description: Special Topics in Statistics - STAT COMPUTING
+Pre-reqs: STAT 305. (Permission of the instructor is required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Frederic, Room: Lasserre
+Instructor: JOE, HARRY SUE WAH
+
+Department: STAT
+Course Number: 447B
+Section: WL1
+Description: Special Topics in Statistics - STAT COMPUTING
+Pre-reqs: STAT 305. (Permission of the instructor is required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 10:30
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 445
+Section: 001
+Description: Majors and Honours Seminar
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 13:00, Building: Buchanan, Room: D228
+Instructor: LIU, SIYUAN
+

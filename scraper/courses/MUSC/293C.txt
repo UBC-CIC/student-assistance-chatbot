@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 293C
+Section: 728
+Description: Private instruction, vocal or instrumental.
+Pre-reqs: (One of MUSC 171-195)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00
+Instructor: PALMER, DYLAN
+

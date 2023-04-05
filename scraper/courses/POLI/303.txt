@@ -1,0 +1,11 @@
+Department: POLI
+Course Number: 303
+Section: 001
+Description: Theory and practice of federalism; cultural duality, social stresses, and problems of flexibility. The constitution and role of the courts.
+Pre-reqs: POLI 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Irving, Room: K
+Instructor: BAIER, GERALD
+

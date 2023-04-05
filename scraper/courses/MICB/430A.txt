@@ -1,0 +1,19 @@
+Department: MICB
+Course Number: 430A
+Section: 101
+Description: Student seminars on selected papers from the microbiological literature. Compulsory for Honours students. Major students may enrol with permission of the department head.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:30, End Time: 17:00
+Instructor: GAYNOR, ERIN
+
+Department: MICB
+Course Number: 430A
+Section: WL1
+Description: Student seminars on selected papers from the microbiological literature. Compulsory for Honours students. Major students may enrol with permission of the department head.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

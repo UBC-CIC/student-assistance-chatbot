@@ -1,0 +1,18 @@
+Department: ECED
+Course Number: 400
+Section: 63A
+Description: Introduction to Early Childhood Education and Care
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SCOON, VANESSA
+
+Department: ECED
+Course Number: 400
+Section: 63D
+Description: Introduction to Early Childhood Education and Care
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SCOON, VANESSA
+

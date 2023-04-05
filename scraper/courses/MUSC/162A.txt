@@ -1,0 +1,9 @@
+Department: MUSC
+Course Number: 162A
+Section: 001
+Description: May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music. Open to other students by audition, with credit, as stipulated by their faculties.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FRANCH BALLESTER, JOSE
+

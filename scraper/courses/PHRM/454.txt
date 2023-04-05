@@ -1,0 +1,9 @@
+Department: PHRM
+Course Number: 454
+Section: 001
+Description: Values, concepts, issues and responsibilities of individuals exercising leadership and management roles in pharmacy practice and health care settings. Pass/Fail.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: XIA, JANE MENG(Coordinator)
+

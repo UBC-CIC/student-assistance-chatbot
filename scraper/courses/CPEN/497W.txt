@@ -1,0 +1,20 @@
+Department: CPEN
+Course Number: 497W
+Section: 201
+Description: Directed research experience. Communication of research ideas. Pass/Fail.
+Pre-reqs: (Third-year standing.)
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DI MATTEO, OLIVIA
+
+Department: CPEN
+Course Number: 497W
+Section: 2W1
+Description: Directed research experience. Communication of research ideas. Pass/Fail.
+Pre-reqs: (Third-year standing.)
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,22 @@
+Department: PHIL
+Course Number: 330A
+Section: 001
+Description: Theories of political and legal obligation and authority, legal reasoning, society and the state. Readings in classic and contemporary texts.
+Pre-reqs: (PHIL 230 is strongly recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B313
+Instructor: ANDERSON, SCOTT ALLEN
+
+Department: PHIL
+Course Number: 330A
+Section: 002
+Description: Theories of political and legal obligation and authority, legal reasoning, society and the state. Readings in classic and contemporary texts.
+Pre-reqs: (PHIL 230 is strongly recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B215
+Instructor: BROWNLEE, KIMBERLEY
+

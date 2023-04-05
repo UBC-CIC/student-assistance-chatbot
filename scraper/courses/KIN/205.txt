@@ -1,0 +1,38 @@
+Department: KIN
+Course Number: 205
+Section: 001
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: MCEWEN, CAROLYN
+
+Department: KIN
+Course Number: 205
+Section: 002
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Buchanan, Room: A101
+Instructor: MCEWEN, CAROLYN
+
+Department: KIN
+Course Number: 205
+Section: 0W1
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 205
+Section: 0W2
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

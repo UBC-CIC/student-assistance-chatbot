@@ -1,0 +1,19 @@
+Department: PLAN
+Course Number: 548L
+Section: 001
+Description: Each year the school may offer one or more courses on a topical issue covering recent advances in the field.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 14:00, End Time: 15:30, Building: MacLeod, Room: 3008
+Instructor: BIGAZZI, ALEXANDER YORK
+
+Department: PLAN
+Course Number: 548L
+Section: 0W1
+Description: Each year the school may offer one or more courses on a topical issue covering recent advances in the field.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BIGAZZI, ALEXANDER YORK
+

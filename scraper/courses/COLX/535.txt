@@ -1,0 +1,31 @@
+Department: COLX
+Course Number: 535
+Section: 001
+Description: Methods of natural language parsing: finite state approaches, class-based language models, part-of-speech tagging, NP chunking, shallow parsing, and context free syntactic parsing.
+Pre-reqs: All of DSCI 511, DSCI 551, COLX 521.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:30, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: SILFVERBERG, MIIKKA PIETARI
+
+Department: COLX
+Course Number: 535
+Section: L01
+Description: Methods of natural language parsing: finite state approaches, class-based language models, part-of-speech tagging, NP chunking, shallow parsing, and context free syntactic parsing.
+Pre-reqs: All of DSCI 511, DSCI 551, COLX 521.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+
+Department: COLX
+Course Number: 535
+Section: L02
+Description: Methods of natural language parsing: finite state approaches, class-based language models, part-of-speech tagging, NP chunking, shallow parsing, and context free syntactic parsing.
+Pre-reqs: All of DSCI 511, DSCI 551, COLX 521.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 18:00, Building: Orchard, Room: Commons
+

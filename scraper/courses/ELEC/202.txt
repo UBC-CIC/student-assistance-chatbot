@@ -1,0 +1,156 @@
+Department: ELEC
+Course Number: 202
+Section: 101
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 12:00, Building: Civil, Room: and
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 202
+Section: T1A
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Mon^, End Time: 14:00, Building: 16:00, Room: Orchard
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 202
+Section: T1W
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 202
+Section: 1W1
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 202
+Section: T1W
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 202
+Section: 201
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 8:00, End Time: 10:00
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 202
+Section: T2A
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Wed^, End Time: 17:00, Building: 19:00, Room: P.
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 202
+Section: T2W
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 202
+Section: 202
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Hugh, Room: Dempster
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 202
+Section: T2B
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Wed^, End Time: 17:00, Building: 19:00, Room: P.
+Instructor: LINARES, LUIS
+
+Department: ELEC
+Course Number: 202
+Section: T2W
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 202
+Section: 2W1
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 202
+Section: T2W
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 202
+Section: 2W2
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 202
+Section: T2W
+Description: Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits.
+Pre-reqs: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

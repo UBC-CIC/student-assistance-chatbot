@@ -1,0 +1,10 @@
+Department: DHYG
+Course Number: 210
+Section: 001
+Description: The study of dental hygiene theory and practice in clinical and community-based settings.
+Pre-reqs: DHYG 110.
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KANJI, ZUL
+

@@ -1,0 +1,18 @@
+Department: MECH
+Course Number: 582
+Section: 201
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: MacLeod, Room: 3018
+Instructor: ATABAKI, NIMA
+
+Department: MECH
+Course Number: 582
+Section: L2A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 17:00, End Time: 19:00, Building: Civil, Room: and
+Instructor: ATABAKI, NIMA
+

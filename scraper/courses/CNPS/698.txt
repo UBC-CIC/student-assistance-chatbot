@@ -1,0 +1,9 @@
+Department: CNPS
+Course Number: 698
+Section: 001
+Description: A 1600-hour supervised internship in Counselling Psychology. Internship sites offer counselling services as detailed in the "Speciality Guidelines for the Delivery of Services by Counselling Psychologists" (APA). Pass/Fail.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

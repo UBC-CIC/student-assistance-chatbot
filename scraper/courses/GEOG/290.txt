@@ -1,0 +1,10 @@
+Department: GEOG
+Course Number: 290
+Section: 201
+Description: Selected topics in human geography focusing on the regional distribution of natural resources, population, urban systems, and economic activities.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: Chemistry, Room: D200
+Instructor: LAMB, CHRISTOPHER
+

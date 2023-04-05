@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 532J
+Section: 001
+Description: Research seminar on a core or emerging topic in music history or musicology. May be repeated to a maximum of 12 credits if different topics are covered.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Music, Room: 113
+Instructor: CARRABRE, THOMAS
+

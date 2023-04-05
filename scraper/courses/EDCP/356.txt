@@ -1,0 +1,20 @@
+Department: EDCP
+Course Number: 356
+Section: 301
+Description: Pass/Fail.
+Pre-reqs: (A completed concentration in earth and space science or permission of the Head.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: LAWRENCE, GISELLE
+
+Department: EDCP
+Course Number: 356
+Section: 640
+Description: Pass/Fail.
+Pre-reqs: (A completed concentration in earth and space science or permission of the Head.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

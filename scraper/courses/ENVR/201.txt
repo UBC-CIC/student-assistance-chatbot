@@ -1,0 +1,10 @@
+Department: ENVR
+Course Number: 201
+Section: 101
+Description: Community-engaged climate action projects; skill building for climate action. Pass/Fail
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: MacLeod, Room: 3002
+Instructor: IVANOCHKO, TARA
+

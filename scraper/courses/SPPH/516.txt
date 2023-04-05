@@ -1,0 +1,9 @@
+Department: SPPH
+Course Number: 516
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: Allard, Room: Hall
+Instructor: PUIL, LORRI
+

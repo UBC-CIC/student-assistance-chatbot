@@ -1,0 +1,21 @@
+Department: MUSC
+Course Number: 358
+Section: 001
+Description: Jazz styles and their cultural contexts; the relationship of performers and audiences; issues of race and gender; non-Western influences.
+Pre-reqs: MUSC 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Music, Room: 113
+Instructor: METZER, DAVID
+
+Department: MUSC
+Course Number: 358
+Section: 1W1
+Description: Jazz styles and their cultural contexts; the relationship of performers and audiences; issues of race and gender; non-Western influences.
+Pre-reqs: MUSC 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: METZER, DAVID
+

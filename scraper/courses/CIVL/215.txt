@@ -1,0 +1,44 @@
+Department: CIVL
+Course Number: 215
+Section: 101
+Description: Fluid properties, hydrostatics, kinematics, and fluid dynamics: energy and momentum methods with applications. Dimensional analysis, modelling, introduction to flow in pipes and forces on immersed objects.
+Pre-reqs: All of PHYS 170, MATH 101.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Chemistry, Room: D200
+Instructor: HABIBZADEH GHAREHBABA, ALIREZA
+
+Department: CIVL
+Course Number: 215
+Section: T1A
+Description: Fluid properties, hydrostatics, kinematics, and fluid dynamics: energy and momentum methods with applications. Dimensional analysis, modelling, introduction to flow in pipes and forces on immersed objects.
+Pre-reqs: All of PHYS 170, MATH 101.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Wesbrook, Room: 201
+Instructor: HABIBZADEH GHAREHBABA, ALIREZA
+
+Department: CIVL
+Course Number: 215
+Section: 201
+Description: Fluid properties, hydrostatics, kinematics, and fluid dynamics: energy and momentum methods with applications. Dimensional analysis, modelling, introduction to flow in pipes and forces on immersed objects.
+Pre-reqs: All of PHYS 170, MATH 101.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Forest, Room: Sciences
+Instructor: YONEMITSU, NOBORU
+
+Department: CIVL
+Course Number: 215
+Section: T2A
+Description: Fluid properties, hydrostatics, kinematics, and fluid dynamics: energy and momentum methods with applications. Dimensional analysis, modelling, introduction to flow in pipes and forces on immersed objects.
+Pre-reqs: All of PHYS 170, MATH 101.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: YONEMITSU, NOBORU
+

@@ -1,0 +1,17 @@
+Department: ASIA
+Course Number: 561B
+Section: 031
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 19:00
+Instructor: LYNN, HYUNG GU
+
+Department: ASIA
+Course Number: 561B
+Section: 631
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Instructor: LYNN, HYUNG GU
+

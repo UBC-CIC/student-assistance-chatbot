@@ -1,0 +1,22 @@
+Department: SOCI
+Course Number: 414
+Section: 101
+Description: The emergence of feminist theory, its relationship to sociology, and the major theoretical schools of thought.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Anthropology, Room: and
+Instructor: VIVALDI PASQUA, ANA
+
+Department: SOCI
+Course Number: 414
+Section: 206
+Description: The emergence of feminist theory, its relationship to sociology, and the major theoretical schools of thought.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Anthropology, Room: and
+Instructor: WIEBE, BRANDY
+

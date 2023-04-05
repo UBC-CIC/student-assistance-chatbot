@@ -1,0 +1,11 @@
+Department: LARC
+Course Number: 501
+Section: 001
+Description: Landscape design methods and processes. Restricted to M.L.A. students.
+Pre-reqs: LARC 511.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Fri, Start Time: 13:30, End Time: 17:30
+Instructor: JACOBS, SARA
+

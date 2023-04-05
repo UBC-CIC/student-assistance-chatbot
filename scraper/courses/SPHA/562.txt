@@ -1,0 +1,9 @@
+Department: SPHA
+Course Number: 562
+Section: 002
+Credits: 1.5
+Mode of Delivery: Multi-access
+Requires in Person Attendance: No
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 21:00
+Instructor: MALEKOS RIMMER, ANDREA
+

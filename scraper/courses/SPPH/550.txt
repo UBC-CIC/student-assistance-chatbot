@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 550
+Section: BL1
+Description: Critical examination of strategies regarding addictive behaviours, substance use and related problems, in the context of a multi-disciplinary approach.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 12:00
+Instructor: OVIEDO-JOEKES, EUGENIA
+

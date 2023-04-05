@@ -1,0 +1,22 @@
+Department: ASIA
+Course Number: 451
+Section: 001
+Description: Study of one influential modern Chinese author, such as Lu Xun, Shen Congwen, Eileen Chang, Yu Hua, Mo Yan, or Wang Anyi.
+Pre-reqs: (Restricted to fourth-year students. A minimum of 9 credits of 300-level ASIA coursework recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: B316
+Instructor: FENG, XIANGJUN
+
+Department: ASIA
+Course Number: 451
+Section: W01
+Description: Study of one influential modern Chinese author, such as Lu Xun, Shen Congwen, Eileen Chang, Yu Hua, Mo Yan, or Wang Anyi.
+Pre-reqs: (Restricted to fourth-year students. A minimum of 9 credits of 300-level ASIA coursework recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: FENG, XIANGJUN
+

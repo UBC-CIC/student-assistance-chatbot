@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 381
+Section: 001
+Description: A study of the Daoist religious traditions from their beginnings in the second century CE in their cultural, intellectual and social contexts.
+Credits: 3
+Mode of Delivery: Multi-access
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Wed Fri, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: D218
+Instructor: ASHTON, CLAYTON
+
+Department: ASIA
+Course Number: 381
+Section: W01
+Description: A study of the Daoist religious traditions from their beginnings in the second century CE in their cultural, intellectual and social contexts.
+Credits: 3
+Mode of Delivery: Multi-access
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Wed Fri, Start Time: 14:00, End Time: 15:30
+Instructor: ASHTON, CLAYTON
+

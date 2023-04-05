@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 393
+Section: 201
+Description: An examination of historical, conceptual, and methodological conditions of scientific knowledge through detailed consideration of important episodes in the history of science.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: D322
+Instructor: SCHABAS, MARGARET
+

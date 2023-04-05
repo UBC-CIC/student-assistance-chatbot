@@ -1,0 +1,69 @@
+Department: PHRM
+Course Number: 493
+Section: 002
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of specialized outpatient settings.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TCHEN, PAULO
+
+Department: PHRM
+Course Number: 493
+Section: 003
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of specialized outpatient settings.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TCHEN, PAULO
+
+Department: PHRM
+Course Number: 493
+Section: 004
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of specialized outpatient settings.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: PHRM
+Course Number: 493
+Section: 005
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of specialized outpatient settings.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TCHEN, PAULO
+
+Department: PHRM
+Course Number: 493
+Section: 006
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of specialized outpatient settings.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TCHEN, PAULO
+
+Department: PHRM
+Course Number: 493
+Section: 007
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of specialized outpatient settings.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TCHEN, PAULO
+
+Department: PHRM
+Course Number: 493
+Section: 008
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of specialized outpatient settings.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TCHEN, PAULO
+

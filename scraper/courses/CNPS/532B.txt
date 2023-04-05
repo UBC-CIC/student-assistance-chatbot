@@ -1,0 +1,10 @@
+Department: CNPS
+Course Number: 532B
+Section: 001
+Description: The use of standardized measures of mental ability, achievement, aptitude, interest and personality.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:30, End Time: 19:30, Building: Ponderosa, Room: Commons
+Instructor: ROZWORSKA, KAROLINA
+

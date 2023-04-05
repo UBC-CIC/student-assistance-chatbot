@@ -1,0 +1,22 @@
+Department: ISCI
+Course Number: 350
+Section: 101
+Description: Using the Darwinian theory of natural selection to explore explanations of infectious diseases, allergies, cancer, mental illness, and other human diseases. Priority to students in the Integrated Sciences Program.
+Pre-reqs: (Third-year standing in the Faculty of Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 15:00, Building: Leonard, Room: S.
+Instructor: AVILES, LETICIA
+
+Department: ISCI
+Course Number: 350
+Section: 1W1
+Description: Using the Darwinian theory of natural selection to explore explanations of infectious diseases, allergies, cancer, mental illness, and other human diseases. Priority to students in the Integrated Sciences Program.
+Pre-reqs: (Third-year standing in the Faculty of Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 15:00, Building: To, Room: Be
+Instructor: TBA
+

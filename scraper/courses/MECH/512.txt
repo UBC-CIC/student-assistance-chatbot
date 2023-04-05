@@ -1,0 +1,10 @@
+Department: MECH
+Course Number: 512
+Section: 101
+Description: Operating principles of transducers for measuring typical quantities; the construction of transducers and factors controlling their measurement accuracy; electronic signal conditioning equipment and computerized data acquisition system.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: SCHAJER, GARY
+

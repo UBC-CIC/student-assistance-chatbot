@@ -1,0 +1,11 @@
+Department: ECON
+Course Number: 351
+Section: 003
+Description: Application of economic analysis to marriage, fertility and health, gender inequality in labour markets and unpaid caregiving; the application of sex and gender-based policy analysis to topics related to employment, and technological and social change in current and historical perspectives.
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: A103
+Instructor: ADSHADE, MARINA
+

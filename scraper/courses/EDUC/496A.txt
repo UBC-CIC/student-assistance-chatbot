@@ -1,0 +1,10 @@
+Department: EDUC
+Course Number: 496A
+Section: 610
+Description: Pass/Fail.
+Pre-reqs: (Recent completion of secondary teaching methods courses in the subjects to be taught.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

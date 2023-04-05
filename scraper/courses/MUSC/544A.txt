@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 544A
+Section: 001
+Description: Advanced study of conducting techniques and of representative major compositions and literature (earlier historical periods). Emphasis on knowledge and conducting skills that can communicate a thorough understanding of genre, idiom, form, texture, and style, in rehearsal and performance.
+Pre-reqs: (Restricted to M.Mus. Conducting (Choral, Orchestral, Wind) or permission of the instructor.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: JUN, HYEJUNG
+

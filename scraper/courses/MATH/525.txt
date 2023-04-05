@@ -1,0 +1,10 @@
+Department: MATH
+Course Number: 525
+Section: 201
+Description: Differential Geometry I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Mathematics, Room: 203
+Instructor: CHEN, JINGYI
+

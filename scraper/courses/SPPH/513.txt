@@ -1,0 +1,11 @@
+Department: SPPH
+Course Number: 513
+Section: 002
+Description: Principles and methods of epidemiology are applied to clinical problems. Evaluation and design of laboratory and clinical tests and of therapeutic interventions.
+Pre-reqs: Either (a) one of HCEP 400, HCEP 502 or (b) one of SPPH 400, SPPH 502.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Food,, Room: Nutrition
+Instructor: KURUTHUKULANGARE, JOSEPH
+

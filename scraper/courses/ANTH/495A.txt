@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 495A
+Section: 001
+Description: Advanced Studies in Anthropology - ADV STUDIES
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Anthropology, Room: and
+Instructor: MILLER, BRUCE
+

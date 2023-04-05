@@ -1,0 +1,11 @@
+Department: COHR
+Course Number: 411
+Section: 101
+Description: Techniques and approaches for building effective teams, handling decision-making in teams, creating reward structures, and developing appropriate leadership models.
+Pre-reqs: COMM 203.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: STANLEY, AMY
+

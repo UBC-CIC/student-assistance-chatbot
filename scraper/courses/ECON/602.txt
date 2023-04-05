@@ -1,0 +1,20 @@
+Department: ECON
+Course Number: 602
+Section: 001
+Description: Macroeconomics I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:00, End Time: 12:00, Building: Iona, Room: Building
+Instructor: SIU, HENRY
+
+Department: ECON
+Course Number: 602
+Section: L1A
+Description: Macroeconomics I
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:30, Building: Iona, Room: Building
+Instructor: TBA
+

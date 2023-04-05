@@ -1,0 +1,11 @@
+Department: ECON
+Course Number: 471
+Section: 001
+Description: Application of economic analysis to the management of nonrenewable natural resources. Emphasis is placed on the economics of alternative energy sources. Other topics include mineral economics, criteria for the optimal use of resources, and measurement of resources.
+Pre-reqs: One of ECON 301, ECON 304, ECON 315.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Iona, Room: Building
+Instructor: COPELAND, BRIAN
+

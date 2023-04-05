@@ -1,0 +1,99 @@
+Department: LATN
+Course Number: 101
+Section: 001
+Description: Classical Latin, Part I.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Mathematics, Room: 204
+Instructor: GORRIE, CHARMAINE
+
+Department: LATN
+Course Number: 101
+Section: 002
+Description: Classical Latin, Part I.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: DWYER, JUSTIN
+
+Department: LATN
+Course Number: 101
+Section: 003
+Description: Classical Latin, Part I.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D323
+Instructor: LOUGHEED, CHRISTOPHER
+
+Department: LATN
+Course Number: 101
+Section: 004
+Description: Classical Latin, Part I.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D313
+Instructor: LOUGHEED, CHRISTOPHER
+
+Department: LATN
+Course Number: 101
+Section: 005
+Description: Classical Latin, Part I.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B318
+Instructor: MINARD, ANTONE
+
+Department: LATN
+Course Number: 101
+Section: WL1
+Description: Classical Latin, Part I.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri
+Instructor: GORRIE, CHARMAINE
+
+Department: LATN
+Course Number: 101
+Section: WL2
+Description: Classical Latin, Part I.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri
+Instructor: MULDER, TARA
+
+Department: LATN
+Course Number: 101
+Section: WL3
+Description: Classical Latin, Part I.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri
+Instructor: TBA
+
+Department: LATN
+Course Number: 101
+Section: WL4
+Description: Classical Latin, Part I.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri
+Instructor: TBA
+
+Department: LATN
+Course Number: 101
+Section: WL5
+Description: Classical Latin, Part I.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri
+Instructor: TBA
+

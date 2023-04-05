@@ -1,0 +1,40 @@
+Department: ASIA
+Course Number: 305
+Section: 001
+Description: Engaging with the ideologies, industrial histories, socio-cultural contexts, and aesthetics of horror films - and the genre itself - from various Asian cinemas.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Fri, Start Time: 15:30, End Time: 17:30, Building: Frederic, Room: Lasserre
+Instructor: BLUM, HALEY
+
+Department: ASIA
+Course Number: 305
+Section: 002
+Description: Engaging with the ideologies, industrial histories, socio-cultural contexts, and aesthetics of horror films - and the genre itself - from various Asian cinemas.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 19:00, Building: Orchard, Room: Commons
+Instructor: YEO, SU-ANNE
+
+Department: ASIA
+Course Number: 305
+Section: W01
+Description: Engaging with the ideologies, industrial histories, socio-cultural contexts, and aesthetics of horror films - and the genre itself - from various Asian cinemas.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Fri, Start Time: 15:30, End Time: 17:30
+Instructor: BLUM, HALEY
+
+Department: ASIA
+Course Number: 305
+Section: W02
+Description: Engaging with the ideologies, industrial histories, socio-cultural contexts, and aesthetics of horror films - and the genre itself - from various Asian cinemas.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 19:00
+Instructor: YEO, SU-ANNE
+

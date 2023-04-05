@@ -1,0 +1,10 @@
+Department: IWME
+Course Number: 504
+Section: 201
+Description: Chemical and microbiological quality and contaminations, techniques and analytical procedures for assessing and monitoring chemical and microbiological water quality; water and wastewater quality standards, pollution prevention strategies and policies; risk analysis; asset management.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Civil, Room: and
+Instructor: MOHSENI, MADJID
+

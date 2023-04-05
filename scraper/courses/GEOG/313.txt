@@ -1,0 +1,69 @@
+Department: GEOG
+Course Number: 313
+Section: 201
+Pre-reqs: GEOG 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 9:30, End Time: 11:00, Building: Irving, Room: K
+Instructor: LAMB, CHRISTOPHER
+
+Department: GEOG
+Course Number: 313
+Section: L2A
+Pre-reqs: GEOG 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Mon^, End Time: 10:00, Building: 12:00, Room: Mathematics
+Instructor: LAMB, CHRISTOPHER
+
+Department: GEOG
+Course Number: 313
+Section: L2B
+Pre-reqs: GEOG 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Mon^, End Time: 16:00, Building: 18:00, Room: Geography
+Instructor: LAMB, CHRISTOPHER
+
+Department: GEOG
+Course Number: 313
+Section: L2C
+Pre-reqs: GEOG 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Thu^, End Time: 12:00, Building: 14:00, Room: Geography
+Instructor: LAMB, CHRISTOPHER
+
+Department: GEOG
+Course Number: 313
+Section: L2D
+Pre-reqs: GEOG 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Thu^, End Time: 10:00, Building: 12:00, Room: Geography
+Instructor: LAMB, CHRISTOPHER
+
+Department: GEOG
+Course Number: 313
+Section: L2E
+Pre-reqs: GEOG 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Fri^, End Time: 14:00, Building: 16:00, Room: Geography
+Instructor: LAMB, CHRISTOPHER
+
+Department: GEOG
+Course Number: 313
+Section: WL2
+Pre-reqs: GEOG 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

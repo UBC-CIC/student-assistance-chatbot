@@ -1,0 +1,11 @@
+Department: CIVL
+Course Number: 556
+Section: 101
+Description: Applications of practical simulation and optimization software systems and operations research methodologies in design, analysis, and operation of civil engineering systems.
+Pre-reqs: CIVL 301.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:30, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: SHAWWASH, ZIAD K
+

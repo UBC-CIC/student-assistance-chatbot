@@ -1,0 +1,10 @@
+Department: RES
+Course Number: 505
+Section: 101
+Description: Research design, data quality, analysis, representation, ethics review, structured and unstructured interviews, field observations, survey design.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: HARRIS, LEILA
+

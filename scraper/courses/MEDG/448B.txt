@@ -1,0 +1,9 @@
+Department: MEDG
+Course Number: 448B
+Section: 003
+Description: A supervised individual program of study of a topic to be agreed upon by a member of faculty and the student. Permission of the appropriate supervisor and the department head is required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: PATH
+Course Number: 404
+Section: 001
+Description: A lecture and laboratory course that encompasses the theory and the practice of currently available histochemical techniques. This course is to supplement the histopathological technique course taken as a requirement for CSLT (RT).
+Pre-reqs: (Certification.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: UBC, Room: Hospital
+

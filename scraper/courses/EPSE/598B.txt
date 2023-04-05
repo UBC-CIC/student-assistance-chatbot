@@ -1,0 +1,18 @@
+Department: EPSE
+Course Number: 598B
+Section: 075
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ZEBEHAZY, KIM
+
+Department: EPSE
+Course Number: 598B
+Section: 076
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ZEBEHAZY, KIM
+

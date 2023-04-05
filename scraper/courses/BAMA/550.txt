@@ -1,0 +1,62 @@
+Department: BAMA
+Course Number: 550
+Section: 001
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: HOEGG, JO ANDREA
+
+Department: BAMA
+Course Number: 550
+Section: 002
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: HOEGG, JO ANDREA
+
+Department: BAMA
+Course Number: 550
+Section: 300
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Sun*, End Time: 8:30, Building: 16:00, Room: Henry
+Instructor: SILK, TIMOTHY
+
+Department: BAMA
+Course Number: 550
+Section: 301
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Sun^, End Time: 8:30, Building: 16:00, Room: Henry
+Instructor: SILK, TIMOTHY
+
+Department: BAMA
+Course Number: 550
+Section: 822
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri Sat Sun
+Instructor: SILK, TIMOTHY
+
+Department: BAMA
+Course Number: 550
+Section: MM1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: BASTO DA SILVA, RUI JORGE
+
+Department: BAMA
+Course Number: 550
+Section: SFT
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

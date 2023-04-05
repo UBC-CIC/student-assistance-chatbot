@@ -1,0 +1,10 @@
+Department: LLED
+Course Number: 423
+Section: 301
+Pre-reqs: (A completed concentration or major in French or permission of Department Head.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:30, End Time: 20:00, Building: West, Room: Mall
+Instructor: SPAIN, JENNIFER
+

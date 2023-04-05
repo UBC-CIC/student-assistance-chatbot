@@ -1,0 +1,40 @@
+Department: HIST
+Course Number: 271
+Section: 101
+Description: Thematic study of comparisons and relations between Japan and the world outside (primarily Europe and China). Commercial expansion, systems of world order, social institutions, religious and ideological expression, and state organization.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: AGOV, AVRAM
+
+Department: HIST
+Course Number: 271
+Section: L01
+Description: Thematic study of comparisons and relations between Japan and the world outside (primarily Europe and China). Commercial expansion, systems of world order, social institutions, religious and ideological expression, and state organization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Ponderosa, Room: Commons
+Instructor: AGOV, AVRAM
+
+Department: HIST
+Course Number: 271
+Section: L02
+Description: Thematic study of comparisons and relations between Japan and the world outside (primarily Europe and China). Commercial expansion, systems of world order, social institutions, religious and ideological expression, and state organization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: AGOV, AVRAM
+
+Department: HIST
+Course Number: 271
+Section: L03
+Description: Thematic study of comparisons and relations between Japan and the world outside (primarily Europe and China). Commercial expansion, systems of world order, social institutions, religious and ideological expression, and state organization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D325
+Instructor: AGOV, AVRAM
+

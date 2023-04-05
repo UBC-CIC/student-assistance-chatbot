@@ -1,0 +1,42 @@
+Department: CHEM
+Course Number: 311
+Section: 299
+Description: Theory, design, and application of instrumental methods of chemical analysis including spectroscopy, mass spectrometry, electroanalysis, and chemical separations..
+Pre-reqs: One of CHEM 210, CHEM 211.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Chemistry, Room: D300
+Instructor: BIZZOTTO, DAN
+
+Department: CHEM
+Course Number: 311
+Section: T02
+Description: Theory, design, and application of instrumental methods of chemical analysis including spectroscopy, mass spectrometry, electroanalysis, and chemical separations..
+Pre-reqs: One of CHEM 210, CHEM 211.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Leonard, Room: S.
+Instructor: BIZZOTTO, DAN
+
+Department: CHEM
+Course Number: 311
+Section: XMT
+Description: Theory, design, and application of instrumental methods of chemical analysis including spectroscopy, mass spectrometry, electroanalysis, and chemical separations..
+Pre-reqs: One of CHEM 210, CHEM 211.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CHEM
+Course Number: 311
+Section: 2W1
+Description: Theory, design, and application of instrumental methods of chemical analysis including spectroscopy, mass spectrometry, electroanalysis, and chemical separations..
+Pre-reqs: One of CHEM 210, CHEM 211.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

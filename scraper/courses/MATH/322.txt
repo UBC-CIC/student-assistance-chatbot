@@ -1,0 +1,11 @@
+Department: MATH
+Course Number: 322
+Section: 101
+Description: Introduction to Group Theory
+Pre-reqs: Either (a) a score of 68% or higher in one of MATH 223, MATH 310 or (b) one of MATH 152, MATH 221, MATH 223 and a score of 80% or higher in MATH 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Frank, Room: Forward
+Instructor: VATSAL, VINAYAK
+

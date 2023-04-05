@@ -1,0 +1,22 @@
+Department: SPPH
+Course Number: 400
+Section: 001
+Description: Planned collection, numeric and graphic summarization, and elementary statistical analysis of data. Examples primarily from health sciences illustrate standard techniques for parametric and non-parametric hypothesis testing; regression and correlation; contingency tables. Also randomization, "blindfolding" and other specifically biomedical topics in statistics. Class size may be limited.
+Pre-reqs: (Ability to use high school Algebra and simple graphs.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: MARIN, MICHAEL
+
+Department: SPPH
+Course Number: 400
+Section: BL1
+Description: Planned collection, numeric and graphic summarization, and elementary statistical analysis of data. Examples primarily from health sciences illustrate standard techniques for parametric and non-parametric hypothesis testing; regression and correlation; contingency tables. Also randomization, "blindfolding" and other specifically biomedical topics in statistics. Class size may be limited.
+Pre-reqs: (Ability to use high school Algebra and simple graphs.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Fri*, End Time: 9:30, Building: 12:30
+Instructor: MARIN, MICHAEL
+

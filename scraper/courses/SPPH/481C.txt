@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 481C
+Section: 002
+Description: Selected topics will vary. Multiple versions may be taken. This course takes an interprofessional approach and population/public health perspective in addressing current issues in healthcare and health-related fields.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 19:00, Building: School, Room: of
+Instructor: BARTLETT, SOFIA
+

@@ -1,0 +1,9 @@
+Department: HGSE
+Course Number: 350
+Section: 610
+Description: Integration of concepts of history, politics, First Nations, rural development, and forest ecology in natural resources management in Haida Gwaii. A core element of the Haida Gwaii Semester.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

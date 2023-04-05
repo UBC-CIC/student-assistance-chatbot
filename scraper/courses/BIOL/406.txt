@@ -1,0 +1,44 @@
+Department: BIOL
+Course Number: 406
+Section: 201
+Description: Plant community ecology including a consideration of the major approaches to sampling, analyzing and interpreting vegetation patterns. Instruction given in field work and computer analysis of field data.
+Pre-reqs: BIOL 230. (BIOL 324 is recommended.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: ANGERT, AMY
+
+Department: BIOL
+Course Number: 406
+Section: L01
+Description: Plant community ecology including a consideration of the major approaches to sampling, analyzing and interpreting vegetation patterns. Instruction given in field work and computer analysis of field data.
+Pre-reqs: BIOL 230. (BIOL 324 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 406
+Section: L02
+Description: Plant community ecology including a consideration of the major approaches to sampling, analyzing and interpreting vegetation patterns. Instruction given in field work and computer analysis of field data.
+Pre-reqs: BIOL 230. (BIOL 324 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 406
+Section: 2W1
+Description: Plant community ecology including a consideration of the major approaches to sampling, analyzing and interpreting vegetation patterns. Instruction given in field work and computer analysis of field data.
+Pre-reqs: BIOL 230. (BIOL 324 is recommended.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: TBA
+

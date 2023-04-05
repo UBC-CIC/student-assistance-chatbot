@@ -1,0 +1,9 @@
+Department: FRE
+Course Number: 518
+Section: 002
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: MacMillan, Room: 154
+Instructor: SILK, TIMOTHY
+

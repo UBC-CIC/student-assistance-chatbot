@@ -1,0 +1,22 @@
+Department: ECON
+Course Number: 370
+Section: 001
+Description: Techniques and problems in benefit-cost analysis of public projects. Examination of alternative approaches to public decision-making such as cost-effectiveness analysis and multiple-objective frameworks. Case studies of projects in the areas of natural resources, the environment, human resources, public services, and transportation.
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Buchanan, Room: A102
+Instructor: CHAPPLE, CLIVE
+
+Department: ECON
+Course Number: 370
+Section: 002
+Description: Techniques and problems in benefit-cost analysis of public projects. Examination of alternative approaches to public decision-making such as cost-effectiveness analysis and multiple-objective frameworks. Case studies of projects in the areas of natural resources, the environment, human resources, public services, and transportation.
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: A203
+Instructor: CHAPPLE, CLIVE
+

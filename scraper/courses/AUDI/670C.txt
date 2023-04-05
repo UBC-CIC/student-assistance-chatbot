@@ -1,0 +1,10 @@
+Department: AUDI
+Course Number: 670C
+Section: 003
+Description: Examination of current research, roles of theories in understanding the relationship between speech sound production and comprehension/perception.
+Pre-reqs: AUDI 580.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

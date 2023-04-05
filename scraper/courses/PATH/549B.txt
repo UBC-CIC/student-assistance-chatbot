@@ -1,0 +1,30 @@
+Department: PATH
+Course Number: 549B
+Section: 001
+Description: Honours/Pass/Fail.
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 7:00, End Time: 7:30
+Instructor: TBA
+
+Department: PATH
+Course Number: 549B
+Section: 002
+Description: Honours/Pass/Fail.
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 7:00, End Time: 7:30
+Instructor: TBA
+
+Department: PATH
+Course Number: 549B
+Section: 003
+Description: Honours/Pass/Fail.
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 7:00, End Time: 7:30
+Instructor: TBA
+

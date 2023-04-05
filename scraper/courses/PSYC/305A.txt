@@ -1,0 +1,75 @@
+Department: PSYC
+Course Number: 305A
+Section: 001
+Description: Theory and research on individual differences in motivation, emotion, and social behaviour.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Leonard, Room: S.
+Instructor: GOETZ, FRIEDRICH
+
+Department: PSYC
+Course Number: 305A
+Section: 002
+Description: Theory and research on individual differences in motivation, emotion, and social behaviour.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Leonard, Room: S.
+Instructor: GOETZ, FRIEDRICH
+
+Department: PSYC
+Course Number: 305A
+Section: 003
+Description: Theory and research on individual differences in motivation, emotion, and social behaviour.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: A104
+Instructor: KING, DAVID
+
+Department: PSYC
+Course Number: 305A
+Section: 004
+Description: Theory and research on individual differences in motivation, emotion, and social behaviour.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: P., Room: A.
+Instructor: KING, DAVID
+
+Department: PSYC
+Course Number: 305A
+Section: 902
+Description: Theory and research on individual differences in motivation, emotion, and social behaviour.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: West, Room: Mall
+Instructor: TRACY, JESSICA
+
+Department: PSYC
+Course Number: 305A
+Section: 991
+Description: Theory and research on individual differences in motivation, emotion, and social behaviour.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KING, DAVID
+
+Department: PSYC
+Course Number: 305A
+Section: 992
+Description: Theory and research on individual differences in motivation, emotion, and social behaviour.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KING, DAVID
+

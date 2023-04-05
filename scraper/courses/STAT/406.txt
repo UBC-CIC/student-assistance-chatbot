@@ -1,0 +1,65 @@
+Department: STAT
+Course Number: 406
+Section: 101
+Description: Flexible, data-adaptive methods for regression and classification models; regression smoothers; penalty methods; assessing accuracy of prediction; model selection; robustness; classification and regression trees; nearest-neighbour methods; neural networks; model averaging and ensembles; computational time and visualization for large data sets.
+Pre-reqs: One of STAT 306, CPSC 340.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Earth, Room: Sciences
+Instructor: MCDONALD, DANIEL
+
+Department: STAT
+Course Number: 406
+Section: L1A
+Description: Flexible, data-adaptive methods for regression and classification models; regression smoothers; penalty methods; assessing accuracy of prediction; model selection; robustness; classification and regression trees; nearest-neighbour methods; neural networks; model averaging and ensembles; computational time and visualization for large data sets.
+Pre-reqs: One of STAT 306, CPSC 340.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 406
+Section: L1B
+Description: Flexible, data-adaptive methods for regression and classification models; regression smoothers; penalty methods; assessing accuracy of prediction; model selection; robustness; classification and regression trees; nearest-neighbour methods; neural networks; model averaging and ensembles; computational time and visualization for large data sets.
+Pre-reqs: One of STAT 306, CPSC 340.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Neville, Room: Scarfe
+Instructor: TBA
+
+Department: STAT
+Course Number: 406
+Section: L1C
+Description: Flexible, data-adaptive methods for regression and classification models; regression smoothers; penalty methods; assessing accuracy of prediction; model selection; robustness; classification and regression trees; nearest-neighbour methods; neural networks; model averaging and ensembles; computational time and visualization for large data sets.
+Pre-reqs: One of STAT 306, CPSC 340.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 9:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 406
+Section: L1D
+Description: Flexible, data-adaptive methods for regression and classification models; regression smoothers; penalty methods; assessing accuracy of prediction; model selection; robustness; classification and regression trees; nearest-neighbour methods; neural networks; model averaging and ensembles; computational time and visualization for large data sets.
+Pre-reqs: One of STAT 306, CPSC 340.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: STAT
+Course Number: 406
+Section: WL1
+Description: Flexible, data-adaptive methods for regression and classification models; regression smoothers; penalty methods; assessing accuracy of prediction; model selection; robustness; classification and regression trees; nearest-neighbour methods; neural networks; model averaging and ensembles; computational time and visualization for large data sets.
+Pre-reqs: One of STAT 306, CPSC 340.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

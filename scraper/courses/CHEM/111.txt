@@ -1,0 +1,64 @@
+Department: CHEM
+Course Number: 111
+Section: 112
+Description: Fundamentals of bonding theories, structural chemistry and equilibrium with applications relevant to modern society.
+Pre-reqs: Not open to students with credit for CHEM 12. (A satisfactory score on the UBC Chemistry Basic Skills Test.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Chemistry, Room: B150
+Instructor: YANG, JIANXIONG
+
+Department: CHEM
+Course Number: 111
+Section: L02
+Description: Fundamentals of bonding theories, structural chemistry and equilibrium with applications relevant to modern society.
+Pre-reqs: Not open to students with credit for CHEM 12. (A satisfactory score on the UBC Chemistry Basic Skills Test.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B270
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 111
+Section: L06
+Description: Fundamentals of bonding theories, structural chemistry and equilibrium with applications relevant to modern society.
+Pre-reqs: Not open to students with credit for CHEM 12. (A satisfactory score on the UBC Chemistry Basic Skills Test.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Chemistry, Room: B270
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 111
+Section: L07
+Description: Fundamentals of bonding theories, structural chemistry and equilibrium with applications relevant to modern society.
+Pre-reqs: Not open to students with credit for CHEM 12. (A satisfactory score on the UBC Chemistry Basic Skills Test.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Chemistry, Room: B270
+Instructor: THOMAS, ANNE
+
+Department: CHEM
+Course Number: 111
+Section: XMT
+Description: Fundamentals of bonding theories, structural chemistry and equilibrium with applications relevant to modern society.
+Pre-reqs: Not open to students with credit for CHEM 12. (A satisfactory score on the UBC Chemistry Basic Skills Test.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: CHEM
+Course Number: 111
+Section: 1W1
+Description: Fundamentals of bonding theories, structural chemistry and equilibrium with applications relevant to modern society.
+Pre-reqs: Not open to students with credit for CHEM 12. (A satisfactory score on the UBC Chemistry Basic Skills Test.)
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: To, Room: Be
+Instructor: TBA
+

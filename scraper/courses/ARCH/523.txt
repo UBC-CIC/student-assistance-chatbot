@@ -1,0 +1,11 @@
+Department: ARCH
+Course Number: 523
+Section: 001
+Description: Theoretical propositions and their built manifestations.
+Pre-reqs: All of ARCH 504, ARCH 505.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:30, End Time: 12:30, Building: Frederic, Room: Lasserre
+Instructor: GRAY, CHRISTINA
+

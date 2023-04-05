@@ -1,0 +1,11 @@
+Department: FRST
+Course Number: 413
+Section: 101
+Description: The structure, biosynthesis, distribution and biological function of secondary plant metabolites.
+Pre-reqs: Either (a) all of BIOL 200, BIOL 201 and one of BIOL 209, BIOL 210; or (b) all of FRST 200, FRST 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: BOHLMANN, JOERG
+

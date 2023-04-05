@@ -1,0 +1,22 @@
+Department: GRSJ
+Course Number: 302
+Section: 101
+Description: The intersections of gender, education, and work using sociological and economic frameworks.
+Pre-reqs: Either (a) all of GRSJ 101, GRSJ 102 or (b) all of WMST 101, WMST 102. (or third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D314
+Instructor: CHATZIVASILEIOU, EVANGELIA
+
+Department: GRSJ
+Course Number: 302
+Section: WL1
+Description: The intersections of gender, education, and work using sociological and economic frameworks.
+Pre-reqs: Either (a) all of GRSJ 101, GRSJ 102 or (b) all of WMST 101, WMST 102. (or third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: To, Room: Be
+Instructor: TBA
+

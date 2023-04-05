@@ -1,0 +1,10 @@
+Department: JRNL
+Course Number: 515C
+Section: 001
+Description: Grammar and syntax of media across platforms; skills and knowledge-based model of learning with an emphasis on digital literacy.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 16:30, Building: Sing, Room: Tao
+Instructor: AL-SOLAYLEE, KAMAL
+

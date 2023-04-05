@@ -1,0 +1,66 @@
+Department: DSCI
+Course Number: 512
+Section: 001
+Description: Basic algorithms. Recursion. Data structures including linked lists, queues, stacks, trees, graphs, and hash tables. Searching and sorting. Introduction to complexity including Big-O notation, efficiency, and scalability.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Earth, Room: Sciences
+Instructor: SEYED-AHMADI, ARMAN
+
+Department: DSCI
+Course Number: 512
+Section: L01
+Description: Basic algorithms. Recursion. Data structures including linked lists, queues, stacks, trees, graphs, and hash tables. Searching and sorting. Introduction to complexity including Big-O notation, efficiency, and scalability.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: SEYED-AHMADI, ARMAN
+
+Department: DSCI
+Course Number: 512
+Section: L02
+Description: Basic algorithms. Recursion. Data structures including linked lists, queues, stacks, trees, graphs, and hash tables. Searching and sorting. Introduction to complexity including Big-O notation, efficiency, and scalability.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: SEYED-AHMADI, ARMAN
+
+Department: DSCI
+Course Number: 512
+Section: 002
+Description: Basic algorithms. Recursion. Data structures including linked lists, queues, stacks, trees, graphs, and hash tables. Searching and sorting. Introduction to complexity including Big-O notation, efficiency, and scalability.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Civil, Room: and
+Instructor: PARK, JUNGYEUL
+
+Department: DSCI
+Course Number: 512
+Section: L03
+Description: Basic algorithms. Recursion. Data structures including linked lists, queues, stacks, trees, graphs, and hash tables. Searching and sorting. Introduction to complexity including Big-O notation, efficiency, and scalability.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 18:00, Building: Orchard, Room: Commons
+Instructor: PARK, JUNGYEUL
+
+Department: DSCI
+Course Number: 512
+Section: L04
+Description: Basic algorithms. Recursion. Data structures including linked lists, queues, stacks, trees, graphs, and hash tables. Searching and sorting. Introduction to complexity including Big-O notation, efficiency, and scalability.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 18:00, Building: Orchard, Room: Commons
+Instructor: PARK, JUNGYEUL
+

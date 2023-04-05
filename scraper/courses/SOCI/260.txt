@@ -1,0 +1,10 @@
+Department: SOCI
+Course Number: 260
+Section: 101
+Description: Social forces responsible for changing patterns of technological innovation and work organization in modern industrial societies. Emphasis on the organization of work, labour force dynamics, and technological change.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Irving, Room: K
+Instructor: HIRSH, CHARLOTTE
+

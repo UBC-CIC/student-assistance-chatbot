@@ -1,0 +1,21 @@
+Department: EOSC
+Course Number: 315
+Section: 101
+Description: An introduction to life in the oceans, its variety and evolution; primary producers and their links to the environment, zooplankton, marine communities, living marine resources and their role in today's world. Not for credit in the Faculties of Science or Applied Science.
+Pre-reqs: (Second-year standing)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Chemistry, Room: D200
+Instructor: LIPSEN, MICHAEL
+
+Department: EOSC
+Course Number: 315
+Section: 99C
+Description: The Ocean Ecosystem
+Pre-reqs: (Second-year standing)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: LIPSEN, MICHAEL
+

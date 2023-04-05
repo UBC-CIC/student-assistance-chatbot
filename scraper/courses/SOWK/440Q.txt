@@ -1,0 +1,10 @@
+Department: SOWK
+Course Number: 440Q
+Section: 001
+Description: Integrative Seminars in Social Work - INTGRTV SEM SOWK
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 20:00, Building: Buchanan, Room: B211
+Instructor: ALLISON, KELLY
+

@@ -1,0 +1,10 @@
+Department: CIVL
+Course Number: 569
+Section: 201
+Description: Development of the principles of secondary, biological treatment processes, with application to both municipal and industrial wastewater treatment. Discussion of different treatment methodology, incorporating both aerobic and anaerobic microbiological processes.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: P., Room: A.
+Instructor: ZIELS, RYAN
+

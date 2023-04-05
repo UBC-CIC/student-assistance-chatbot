@@ -1,0 +1,21 @@
+Department: BIOC
+Course Number: 460
+Section: 001
+Description: Theoretical basis and practical applications of a selection of advanced techniques currently used in biochemical research. Topics will vary.
+Pre-reqs: One of BIOC 303, BIOT 380 and all of BIOC 402, BIOC 410.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Food,, Room: Nutrition
+Instructor: DEDHAR, SHOUKAT
+
+Department: BIOC
+Course Number: 460
+Section: 00W
+Description: Theoretical basis and practical applications of a selection of advanced techniques currently used in biochemical research. Topics will vary.
+Pre-reqs: One of BIOC 303, BIOT 380 and all of BIOC 402, BIOC 410.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

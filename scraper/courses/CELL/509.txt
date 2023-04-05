@@ -1,0 +1,19 @@
+Department: CELL
+Course Number: 509
+Section: 001
+Description: The integration of basic cellular processes to produce a functioning cell.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:30, End Time: 16:30
+Instructor: TANENTZAPF, GUY
+
+Department: CELL
+Course Number: 509
+Section: 01W
+Description: The integration of basic cellular processes to produce a functioning cell.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TANENTZAPF, GUY
+

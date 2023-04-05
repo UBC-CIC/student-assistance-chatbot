@@ -1,0 +1,209 @@
+Department: LLED
+Course Number: 200
+Section: 001
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: RITS, Room: 230
+Instructor: KOWKABI, NASRIN
+
+Department: LLED
+Course Number: 200
+Section: 002
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: RITS, Room: 235
+Instructor: FAZEL, ISMAEIL
+
+Department: LLED
+Course Number: 200
+Section: 003
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: RITS, Room: 236
+Instructor: ZHURAVLEVA, ANASTASIA
+
+Department: LLED
+Course Number: 200
+Section: 004
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:30, End Time: 13:00, Building: RITS, Room: 230
+Instructor: AFREEN, ASMA
+
+Department: LLED
+Course Number: 200
+Section: 005
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:30, End Time: 13:00, Building: RITS, Room: 235
+Instructor: FAZEL, ISMAEIL
+
+Department: LLED
+Course Number: 200
+Section: 010
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: LLED
+Course Number: 200
+Section: V89
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:00, End Time: 10:30, Building: Orchard, Room: Commons
+Instructor: SHAW, AMBER
+
+Department: LLED
+Course Number: 200
+Section: V90
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:00, End Time: 10:30, Building: Orchard, Room: Commons
+Instructor: KIM, WON
+
+Department: LLED
+Course Number: 200
+Section: V91
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:30, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: SHAW, AMBER
+
+Department: LLED
+Course Number: 200
+Section: V92
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:30, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: KIM, WON
+
+Department: LLED
+Course Number: 200
+Section: V93
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:00, End Time: 13:30, Building: Orchard, Room: Commons
+Instructor: RICCARDI, DANIEL
+
+Department: LLED
+Course Number: 200
+Section: V94
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:00, End Time: 13:30, Building: Orchard, Room: Commons
+Instructor: PRINGLE, JOHN
+
+Department: LLED
+Course Number: 200
+Section: V95
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:00, End Time: 13:30, Building: Orchard, Room: Commons
+Instructor: LIGHTFOOT, JENNIFER
+
+Department: LLED
+Course Number: 200
+Section: V96
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 16:00, End Time: 17:30, Building: Orchard, Room: Commons
+Instructor: RICCARDI, DANIEL
+
+Department: LLED
+Course Number: 200
+Section: V97
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 16:00, End Time: 17:30, Building: Orchard, Room: Commons
+Instructor: MARTIN, JODIE
+
+Department: LLED
+Course Number: 200
+Section: V98
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 16:00, End Time: 17:30, Building: Orchard, Room: Commons
+Instructor: LIGHTFOOT, JENNIFER
+
+Department: LLED
+Course Number: 200
+Section: VE1
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: WALSH MARR, JENNIFER
+
+Department: LLED
+Course Number: 200
+Section: VE2
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: WALSH MARR, JENNIFER
+
+Department: LLED
+Course Number: 200
+Section: VE3
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: MAHMOOD, FATIMAH
+
+Department: LLED
+Course Number: 200
+Section: VE4
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: MAHMOOD, FATIMAH
+
+Department: LLED
+Course Number: 200
+Section: VE5
+Description: Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Orchard, Room: Commons
+Instructor: PRINGLE, JOHN
+

@@ -1,0 +1,22 @@
+Department: HPB
+Course Number: 503
+Section: 201
+Description: Modelling energy in a high performance building. Introduction to indoor space requirements. Heat and mass transfer through building envelopes. Climate. Fenestration, daylighting, solar energy. Introduction to major energy models. Modelling project.
+Pre-reqs: HPB 504.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: School, Room: of
+Instructor: TAGHI NAZARI, ALIREZA
+
+Department: HPB
+Course Number: 503
+Section: T01
+Description: Modelling energy in a high performance building. Introduction to indoor space requirements. Heat and mass transfer through building envelopes. Climate. Fenestration, daylighting, solar energy. Introduction to major energy models. Modelling project.
+Pre-reqs: HPB 504.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: School, Room: of
+Instructor: TAGHI NAZARI, ALIREZA
+

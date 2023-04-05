@@ -1,0 +1,20 @@
+Department: SPPH
+Course Number: 526
+Section: 002
+Description: Organizational structure; engaging others in an organization; inter-organizational networking; building coalitions; identification of opportunities to bring change to organizations through knowledge development, management, synthesis, and implementation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: TUCKER, SEAN
+
+Department: SPPH
+Course Number: 526
+Section: 004
+Description: Organizational structure; engaging others in an organization; inter-organizational networking; building coalitions; identification of opportunities to bring change to organizations through knowledge development, management, synthesis, and implementation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00
+Instructor: TUCKER, SEAN
+

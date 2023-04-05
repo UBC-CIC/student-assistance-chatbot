@@ -1,0 +1,20 @@
+Department: MTRL
+Course Number: 264
+Section: 201
+Description: Conduction, forced and natural convection, and radiation. Heat transfer with fluid flow, applications of heat exchange, and solidification of castings.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:00, Building: Aquatic, Room: Ecosystems
+Instructor: ROMUALDI, NICOLAS
+
+Department: MTRL
+Course Number: 264
+Section: T2A
+Description: Conduction, forced and natural convection, and radiation. Heat transfer with fluid flow, applications of heat exchange, and solidification of castings.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Pharmaceutical, Room: Sciences
+Instructor: ROMUALDI, NICOLAS
+

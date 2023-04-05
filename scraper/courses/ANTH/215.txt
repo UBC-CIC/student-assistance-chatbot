@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 215
+Section: 002
+Description: Television shows, dramas, movies, advertising, marketing, manga (Japanese style "comics"), anime (Japanese animation), theatrical forms, popular literature, popular music, fashion fads, tourism, toys, and sports.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: A102
+Instructor: NANTAIS, SIMON
+

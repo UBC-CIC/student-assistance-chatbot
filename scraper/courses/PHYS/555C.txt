@@ -1,0 +1,9 @@
+Department: PHYS
+Course Number: 555C
+Section: 004
+Description: With approval of the department head, advanced studies under the direction of a staff member may be arranged in special cases.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

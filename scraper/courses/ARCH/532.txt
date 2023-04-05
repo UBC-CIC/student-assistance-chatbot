@@ -1,0 +1,11 @@
+Department: ARCH
+Course Number: 532
+Section: 001
+Description: Complex multi-span and continuous systems: effective material configuration, approximate methods of analysis, selection of appropriate structural systems, earthquake configuration and high rises.
+Pre-reqs: ARCH 512.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Frederic, Room: Lasserre
+Instructor: DIERES-MONPLAISIR, JEAN
+

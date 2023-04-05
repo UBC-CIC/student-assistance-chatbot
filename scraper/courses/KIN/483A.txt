@@ -1,0 +1,21 @@
+Department: KIN
+Course Number: 483A
+Section: 001
+Description: Topics examine the roles of physical activity and fitness on physiological systems and underlying cellular and metabolic mechanisms.
+Pre-reqs: Two of KIN 320, KIN 321, KIN 322, KIN 335, KIN 420, KIN 424, KIN 432, KIN 435, KIN 438. (Restricted to students in the BKIN program with fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: MacMillan, Room: 160
+Instructor: WRIGHT, DAVID
+
+Department: KIN
+Course Number: 483A
+Section: 0W1
+Description: Topics examine the roles of physical activity and fitness on physiological systems and underlying cellular and metabolic mechanisms.
+Pre-reqs: Two of KIN 320, KIN 321, KIN 322, KIN 335, KIN 420, KIN 424, KIN 432, KIN 435, KIN 438. (Restricted to students in the BKIN program with fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

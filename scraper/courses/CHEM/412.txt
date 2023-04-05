@@ -1,0 +1,21 @@
+Department: CHEM
+Course Number: 412
+Section: 266
+Description: Introduction to variational methods; many-electron systems; semi-empirical methods; perturbation theory; computational methods.
+Pre-reqs: One of CHEM 312, PHYS 304 and one of MATH 152, MATH 221, MATH 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Biological, Room: Sciences
+Instructor: WANG, YAN
+
+Department: CHEM
+Course Number: 412
+Section: 2W1
+Description: Introduction to variational methods; many-electron systems; semi-empirical methods; perturbation theory; computational methods.
+Pre-reqs: One of CHEM 312, PHYS 304 and one of MATH 152, MATH 221, MATH 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

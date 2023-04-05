@@ -1,0 +1,9 @@
+Department: CHEM
+Course Number: 502
+Section: 211
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Chemistry, Room: D213
+Instructor: CHOU, KENG CHANG
+

@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 157A
+Section: 001
+Description: Early Music Ensemble - EARLY MUSIC ENS
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 15:00, Building: Music, Room: 338
+Instructor: FISHER, ALEXANDER JOHN
+

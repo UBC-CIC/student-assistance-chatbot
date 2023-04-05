@@ -1,0 +1,98 @@
+Department: FNH
+Course Number: 403
+Section: 001
+Description: Canadian and international laws governing food composition, grading, quality and safety; hazard analysis critical control points; statistical quality assurance.
+Pre-reqs: One of LFS 252, STAT 200, FRST 231, BIOL 300. (or equivalent background in statistics.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: P., Room: A.
+Instructor: ROSS, NANCY
+
+Department: FNH
+Course Number: 403
+Section: T01
+Description: Canadian and international laws governing food composition, grading, quality and safety; hazard analysis critical control points; statistical quality assurance.
+Pre-reqs: One of LFS 252, STAT 200, FRST 231, BIOL 300. (or equivalent background in statistics.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: ROSS, NANCY
+
+Department: FNH
+Course Number: 403
+Section: T02
+Description: Canadian and international laws governing food composition, grading, quality and safety; hazard analysis critical control points; statistical quality assurance.
+Pre-reqs: One of LFS 252, STAT 200, FRST 231, BIOL 300. (or equivalent background in statistics.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: ROSS, NANCY
+
+Department: FNH
+Course Number: 403
+Section: T03
+Description: Canadian and international laws governing food composition, grading, quality and safety; hazard analysis critical control points; statistical quality assurance.
+Pre-reqs: One of LFS 252, STAT 200, FRST 231, BIOL 300. (or equivalent background in statistics.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: MacLeod, Room: 2012
+Instructor: ROSS, NANCY
+
+Department: FNH
+Course Number: 403
+Section: 002
+Description: Canadian and international laws governing food composition, grading, quality and safety; hazard analysis critical control points; statistical quality assurance.
+Pre-reqs: One of LFS 252, STAT 200, FRST 231, BIOL 300. (or equivalent background in statistics.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: P., Room: A.
+Instructor: ROSS, NANCY
+
+Department: FNH
+Course Number: 403
+Section: T01
+Description: Canadian and international laws governing food composition, grading, quality and safety; hazard analysis critical control points; statistical quality assurance.
+Pre-reqs: One of LFS 252, STAT 200, FRST 231, BIOL 300. (or equivalent background in statistics.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Biological, Room: Sciences
+Instructor: ROSS, NANCY
+
+Department: FNH
+Course Number: 403
+Section: T02
+Description: Canadian and international laws governing food composition, grading, quality and safety; hazard analysis critical control points; statistical quality assurance.
+Pre-reqs: One of LFS 252, STAT 200, FRST 231, BIOL 300. (or equivalent background in statistics.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: ROSS, NANCY
+
+Department: FNH
+Course Number: 403
+Section: T03
+Description: Canadian and international laws governing food composition, grading, quality and safety; hazard analysis critical control points; statistical quality assurance.
+Pre-reqs: One of LFS 252, STAT 200, FRST 231, BIOL 300. (or equivalent background in statistics.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: MacLeod, Room: 2012
+Instructor: ROSS, NANCY
+
+Department: FNH
+Course Number: 403
+Section: 0W1
+Description: Canadian and international laws governing food composition, grading, quality and safety; hazard analysis critical control points; statistical quality assurance.
+Pre-reqs: One of LFS 252, STAT 200, FRST 231, BIOL 300. (or equivalent background in statistics.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

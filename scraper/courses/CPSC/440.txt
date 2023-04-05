@@ -1,0 +1,65 @@
+Department: CPSC
+Course Number: 440
+Section: 201
+Description: Advanced Machine Learning
+Pre-reqs: All of CPSC 320, CPSC 340.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: West, Room: Mall
+Instructor: SUTHERLAND, DANICA
+
+Department: CPSC
+Course Number: 440
+Section: T2A
+Description: Advanced Machine Learning
+Pre-reqs: All of CPSC 320, CPSC 340.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 440
+Section: T2B
+Description: Advanced Machine Learning
+Pre-reqs: All of CPSC 320, CPSC 340.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 440
+Section: T2C
+Description: Advanced Machine Learning
+Pre-reqs: All of CPSC 320, CPSC 340.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 16:00, End Time: 17:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 440
+Section: T2Z
+Description: Advanced Machine Learning
+Pre-reqs: All of CPSC 320, CPSC 340.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPSC
+Course Number: 440
+Section: 2W1
+Description: Advanced Machine Learning
+Pre-reqs: All of CPSC 320, CPSC 340.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: To, Room: Be
+Instructor: SUTHERLAND, DANICA
+

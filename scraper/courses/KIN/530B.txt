@@ -1,0 +1,18 @@
+Department: KIN
+Course Number: 530B
+Section: 001
+Description: Topics selected by the student, with the approval of the Graduate Advisor, can be studied under the supervision of a member of the faculty.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 530B
+Section: 002
+Description: Topics selected by the student, with the approval of the Graduate Advisor, can be studied under the supervision of a member of the faculty.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,9 @@
+Department: BAHR
+Course Number: 560
+Section: 300
+Description: Frameworks and processes for effectively leading high performance organizations. Emphasizes the key factors that can motivate high performance as individuals and teams.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,21 @@
+Department: PHYS
+Course Number: 409A
+Section: 101
+Description: Experimental Physics - EXPTL PHYSICS
+Pre-reqs: One of PHYS 309, PHYS 319.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 512
+Instructor: FRANKE, BEATRICE
+
+Department: PHYS
+Course Number: 409A
+Section: 10W
+Description: Experimental Physics - EXPTL PHYSICS
+Pre-reqs: One of PHYS 309, PHYS 319.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FRANKE, BEATRICE
+

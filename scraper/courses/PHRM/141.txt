@@ -1,0 +1,10 @@
+Department: PHRM
+Course Number: 141
+Section: 001
+Description: Current and future roles for pharmacists and controversies in pharmacy practice.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00
+Instructor: LEUNG, LARRY
+

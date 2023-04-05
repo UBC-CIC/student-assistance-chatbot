@@ -1,0 +1,10 @@
+Department: PHAR
+Course Number: 521
+Section: 001
+Description: Sample preparation; standard and advanced imaging techniques; image interpretation and quantification, applications in pharmaceutical research.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:30
+Instructor: HAFELI, URS
+

@@ -1,0 +1,22 @@
+Department: KORN
+Course Number: 351A
+Section: 001
+Description: Chinese characters in their Korean pronunciations and shapes. Students learn approximately 600 characters, related vocabulary, and do structured readings in mixed scripts on aspects of Korean culture and contemporary life.
+Pre-reqs: (Permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Fri, Start Time: 11:00, End Time: 12:30, Building: Mathematics, Room: 202
+Instructor: SON, JEONG HYE
+
+Department: KORN
+Course Number: 351A
+Section: W01
+Description: Chinese characters in their Korean pronunciations and shapes. Students learn approximately 600 characters, related vocabulary, and do structured readings in mixed scripts on aspects of Korean culture and contemporary life.
+Pre-reqs: (Permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Fri, Start Time: 11:00, End Time: 12:30, Building: To, Room: Be
+Instructor: SON, JEONG HYE
+

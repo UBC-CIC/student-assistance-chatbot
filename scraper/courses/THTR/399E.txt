@@ -1,0 +1,22 @@
+Department: THTR
+Course Number: 399E
+Section: 001
+Description: Assigned projects in theatre design and production.
+Co-reqs: One of THTR 305, THTR 306, THTR 307, THTR 308, THTR 350, THTR 352, THTR 354, THTR 356.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 12:30
+Instructor: PENNEFATHER, PATRICK
+
+Department: THTR
+Course Number: 399E
+Section: 002
+Description: Assigned projects in theatre design and production.
+Co-reqs: One of THTR 305, THTR 306, THTR 307, THTR 308, THTR 350, THTR 352, THTR 354, THTR 356.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:30
+Instructor: PENNEFATHER, PATRICK
+

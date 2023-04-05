@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 299L
+Section: 001
+Description: Assigned projects in theatre production.
+Co-reqs: One of THTR 205, THTR 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ABRAHAMS, MIRIAM
+

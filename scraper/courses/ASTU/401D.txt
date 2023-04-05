@@ -1,0 +1,10 @@
+Department: ASTU
+Course Number: 401D
+Section: 001
+Description: Selected topics offered by a distinguished visitor to the campus. For upcoming offerings including course descriptions and possible enrolment restrictions, please see section information in the UBC course schedule.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: ASHTON, CLAYTON
+

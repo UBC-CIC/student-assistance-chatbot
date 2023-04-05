@@ -1,0 +1,30 @@
+Department: BAFI
+Course Number: 550
+Section: 001
+Description: Fundamental topics in corporate finance and investments, including: business financing methods, capital budgeting, capital structure, valuation of stocks and bonds, risk and return in investments; roles of financial institutions. Note: For students who do not plan to specialize in finance.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: DONALDSON, R GLEN
+
+Department: BAFI
+Course Number: 550
+Section: 300
+Description: Fundamental topics in corporate finance and investments, including: business financing methods, capital budgeting, capital structure, valuation of stocks and bonds, risk and return in investments; roles of financial institutions. Note: For students who do not plan to specialize in finance.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Sat*, End Time: 8:30, Building: 16:00, Room: Henry
+Instructor: DONALDSON, R GLEN
+
+Department: BAFI
+Course Number: 550
+Section: 822
+Description: Fundamental topics in corporate finance and investments, including: business financing methods, capital budgeting, capital structure, valuation of stocks and bonds, risk and return in investments; roles of financial institutions. Note: For students who do not plan to specialize in finance.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Sat Sun
+Instructor: BENA, JAN
+

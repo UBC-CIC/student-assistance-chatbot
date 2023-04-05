@@ -1,0 +1,11 @@
+Department: APBI
+Course Number: 414
+Section: 001
+Description: Research seminar integrating diverse information to address global animal issues including: animal-source foods and human health, environmental impact of livestock production, trade in exotic animals.
+Pre-reqs: One of APBI 314, APBI 315.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: MacMillan, Room: 256
+Instructor: MACRAE, AMELIA
+

@@ -1,0 +1,10 @@
+Department: CPSC
+Course Number: 536R
+Section: 201
+Description: Topics in Algorithms and Complexity - COMP BIO
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: Hugh, Room: Dempster
+Instructor: ROTH, ANDREW
+

@@ -1,0 +1,10 @@
+Department: CONS
+Course Number: 451
+Section: 101
+Description: Field methods, research and analysis, community oriented projects, and the interactions between biological and social aspects of conservation research. Students may not take any other courses in conjunction with CONS 451. Restricted to B.Sc.N. students in the fourth year of the Science and Management Major.
+Credits: 15
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Wed Thu Fri, Start Time: 8:00, End Time: 18:00, Building: Forest, Room: Sciences
+Instructor: BETT, NOLAN
+

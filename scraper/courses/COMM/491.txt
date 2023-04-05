@@ -1,0 +1,121 @@
+Department: COMM
+Course Number: 491
+Section: 101
+Description: Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: MARSHALL MANRIQUEZ, GUILLERMO
+
+Department: COMM
+Course Number: 491
+Section: 102
+Description: Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 8:30, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: ORR, PATRICK SCOTT
+
+Department: COMM
+Course Number: 491
+Section: 103
+Description: Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: ORR, PATRICK SCOTT
+
+Department: COMM
+Course Number: 491
+Section: 104
+Description: Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: PANKRATZ, ADAM
+
+Department: COMM
+Course Number: 491
+Section: 105
+Description: Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: PANKRATZ, ADAM
+
+Department: COMM
+Course Number: 491
+Section: 201
+Description: Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: PARRA PEREZ, ALVARO
+
+Department: COMM
+Course Number: 491
+Section: 202
+Description: Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: PARRA PEREZ, ALVARO
+
+Department: COMM
+Course Number: 491
+Section: 203
+Description: Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: PANKRATZ, ADAM
+
+Department: COMM
+Course Number: 491
+Section: 204
+Description: Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: PANKRATZ, ADAM
+
+Department: COMM
+Course Number: 491
+Section: 205
+Description: Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: DERETIC, MOMCILO
+
+Department: COMM
+Course Number: 491
+Section: 206
+Description: Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.
+Pre-reqs: Either (a) all of COMM 390, COMM 395 or (b) COMM 396. (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: DERETIC, MOMCILO
+

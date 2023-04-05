@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 382
+Section: 001
+Description: Legal and policy issues relating to the health care system, including legal aspects of individual and public health decision-making.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 20:00, Building: Allard, Room: Hall
+Instructor: SACHEDINA, ZULIE
+

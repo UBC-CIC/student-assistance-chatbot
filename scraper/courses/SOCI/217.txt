@@ -1,0 +1,33 @@
+Department: SOCI
+Course Number: 217
+Section: 101
+Description: Introduction to research designs and methodologies.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102, SOCI 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: A104
+Instructor: DAWCZYK, ANNA
+
+Department: SOCI
+Course Number: 217
+Section: 104
+Description: Introduction to research designs and methodologies.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102, SOCI 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: A102
+Instructor: GHAZIANI, AMIN
+
+Department: SOCI
+Course Number: 217
+Section: 201
+Description: Introduction to research designs and methodologies.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102, SOCI 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Mathematics, Room: Annex
+Instructor: CHAN, ELIC
+

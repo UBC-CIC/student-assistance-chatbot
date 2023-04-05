@@ -1,0 +1,9 @@
+Department: RES
+Course Number: 509
+Section: 202
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: West, Room: Mall
+Instructor: KREMEN, CLAIRE
+

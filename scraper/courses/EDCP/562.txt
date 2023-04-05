@@ -1,0 +1,47 @@
+Department: EDCP
+Course Number: 562
+Section: 031
+Description: Curriculum Issues and Theories
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Mon, Start Time: 16:30, End Time: 19:30
+Instructor: PINAR, WILLIAM
+
+Department: EDCP
+Course Number: 562
+Section: 033
+Description: Curriculum Issues and Theories
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: ROSS, E. WAYNE
+
+Department: EDCP
+Course Number: 562
+Section: 61A
+Description: Curriculum Issues and Theories
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: ADLER, JAMES DOUGLAS
+
+Department: EDCP
+Course Number: 562
+Section: 61B
+Description: Curriculum Issues and Theories
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: WADDINGTON, TIMOTHY
+
+Department: EDCP
+Course Number: 562
+Section: 62A
+Description: Curriculum Issues and Theories
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: EDWARDS, ANTHONY
+

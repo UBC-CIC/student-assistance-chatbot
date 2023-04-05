@@ -1,0 +1,19 @@
+Department: PLAN
+Course Number: 530
+Section: 001
+Description: Affordable Housing Policy and Planning
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: West, Room: Mall
+Instructor: JOZIPOVIC, MARINA(Coordinator)
+
+Department: PLAN
+Course Number: 530
+Section: 0W1
+Description: The history of housing and homelessness policies as well as current issues and challenges faced by municipalities, regional governments, non-profit housing providers, and others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

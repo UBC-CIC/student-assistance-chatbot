@@ -1,0 +1,20 @@
+Department: FIPR
+Course Number: 101
+Section: 001
+Description: The history of film and film production by decade with a strong emphasis on filmmakers and advances in production technology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 12:00, Building: Theatre-Film, Room: Production
+Instructor: KATZ, RAMI
+
+Department: FIPR
+Course Number: 101
+Section: WL1
+Description: The history of film and film production by decade with a strong emphasis on filmmakers and advances in production technology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 12:00
+Instructor: TBA
+

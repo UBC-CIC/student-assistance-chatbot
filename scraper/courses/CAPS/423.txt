@@ -1,0 +1,11 @@
+Department: CAPS
+Course Number: 423
+Section: 001
+Description: Control of mammalian renal and gastrointestinal systems. Role in homeostasis. Intended for Honours students in Cellular, Anatomical and Physiological Sciences or other life sciences.
+Pre-reqs: (A cumulative average of 75% over at least 90 credits attempted in the first three years of a student's program and a minimum mark of 75% in CAPS 301 or PHYL 301. Permission of the course director is also required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 16:00
+Instructor: ACCILI, ERIC
+

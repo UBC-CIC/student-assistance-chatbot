@@ -1,0 +1,18 @@
+Department: CSIS
+Course Number: 500C
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00
+Instructor: SIA, ROSANNE
+
+Department: CSIS
+Course Number: 500C
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: To, Room: Be
+Instructor: TBA
+

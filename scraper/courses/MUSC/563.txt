@@ -1,0 +1,19 @@
+Department: MUSC
+Course Number: 563
+Section: 001
+Description: Open only to graduate students.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Music, Room: 201
+Instructor: BORTOLUSSI, PAOLO
+
+Department: MUSC
+Course Number: 563
+Section: 1W1
+Description: Open only to graduate students.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BORTOLUSSI, PAOLO
+

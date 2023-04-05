@@ -1,0 +1,50 @@
+Department: ASTU
+Course Number: 201
+Section: 001
+Description: An interdisciplinary introduction to the cultures of Canada and Japan, and the interrelations between them. Specific topics vary from year to year but will include themes such as constructing the past; nationalism; self-perceptions; cross-cultural perceptions; multiculturalism in Canada and Japan; images in architecture, film and literature; mythologies.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 16:30, Building: Frederic, Room: Lasserre
+Instructor: YOSHIMIZU, AYAKA
+
+Department: ASTU
+Course Number: 201
+Section: L24
+Description: An interdisciplinary introduction to the cultures of Canada and Japan, and the interrelations between them. Specific topics vary from year to year but will include themes such as constructing the past; nationalism; self-perceptions; cross-cultural perceptions; multiculturalism in Canada and Japan; images in architecture, film and literature; mythologies.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:30, Building: Buchanan, Room: B316
+Instructor: TBA
+
+Department: ASTU
+Course Number: 201
+Section: L26
+Description: An interdisciplinary introduction to the cultures of Canada and Japan, and the interrelations between them. Specific topics vary from year to year but will include themes such as constructing the past; nationalism; self-perceptions; cross-cultural perceptions; multiculturalism in Canada and Japan; images in architecture, film and literature; mythologies.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:30, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: ASTU
+Course Number: 201
+Section: L27
+Description: An interdisciplinary introduction to the cultures of Canada and Japan, and the interrelations between them. Specific topics vary from year to year but will include themes such as constructing the past; nationalism; self-perceptions; cross-cultural perceptions; multiculturalism in Canada and Japan; images in architecture, film and literature; mythologies.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:30, End Time: 18:00, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: ASTU
+Course Number: 201
+Section: L28
+Description: An interdisciplinary introduction to the cultures of Canada and Japan, and the interrelations between them. Specific topics vary from year to year but will include themes such as constructing the past; nationalism; self-perceptions; cross-cultural perceptions; multiculturalism in Canada and Japan; images in architecture, film and literature; mythologies.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:30, End Time: 18:00, Building: Buchanan, Room: B316
+Instructor: TBA
+

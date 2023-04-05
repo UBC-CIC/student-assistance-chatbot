@@ -1,0 +1,10 @@
+Department: LING
+Course Number: 170
+Section: 001
+Description: Skills and strategies for second language acquisition, through the foundations of pronunciation, vocabulary, grammar, and pragmatics, connected to the practical, social, and personal challenges of language learning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Forest, Room: Sciences
+Instructor: BURTON, STRANG
+

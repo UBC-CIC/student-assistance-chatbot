@@ -1,0 +1,9 @@
+Department: JRNL
+Course Number: 534
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:30, End Time: 12:30
+Instructor: MUTTALIB, FARID
+

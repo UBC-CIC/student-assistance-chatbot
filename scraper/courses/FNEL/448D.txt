@@ -1,0 +1,11 @@
+Department: FNEL
+Course Number: 448D
+Section: 001
+Description: Supervised by a faculty member.
+Pre-reqs: (Agreement of Supervisor and approval of Chair of FNEL program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Irving, Room: K
+Instructor: ROSENBLUM, DAISY
+

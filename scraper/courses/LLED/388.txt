@@ -1,0 +1,10 @@
+Department: LLED
+Course Number: 388
+Section: 301
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:30, End Time: 20:00, Building: Ponderosa, Room: Commons
+Instructor: BEARE, DAVID
+

@@ -1,0 +1,40 @@
+Department: LAW
+Course Number: 221
+Section: 001
+Description: Bases of criminal responsibility; principles and objectives of the criminal law and procedure; pre-trial procedure.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: GOOLD, BENJAMIN
+
+Department: LAW
+Course Number: 221
+Section: 002
+Description: Bases of criminal responsibility; principles and objectives of the criminal law and procedure; pre-trial procedure.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: HARRIS, NIKOS
+
+Department: LAW
+Course Number: 221
+Section: 003
+Description: Bases of criminal responsibility; principles and objectives of the criminal law and procedure; pre-trial procedure.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: BIRD, BRIAN
+
+Department: LAW
+Course Number: 221
+Section: 004
+Description: Bases of criminal responsibility; principles and objectives of the criminal law and procedure; pre-trial procedure.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Allard, Room: Hall
+Instructor: BIRD, BRIAN
+

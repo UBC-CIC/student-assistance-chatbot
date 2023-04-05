@@ -1,0 +1,11 @@
+Department: UFOR
+Course Number: 522
+Section: 201
+Description: Overview of the state of the art assessment of urban forest resources and their benefits
+Pre-reqs: UFOR 511.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:30
+Instructor: CZEKAJLO, AGATHA
+

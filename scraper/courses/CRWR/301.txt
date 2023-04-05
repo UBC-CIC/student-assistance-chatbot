@@ -1,0 +1,43 @@
+Department: CRWR
+Course Number: 301
+Section: 002
+Description: The writing of poetry in various forms using a combination of workshopping and online modules. Manuscript submission not required for admission.
+Pre-reqs: CRWR 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: WARRENER, SHERYDA
+
+Department: CRWR
+Course Number: 301
+Section: LS1
+Description: The writing of poetry in various forms using a combination of workshopping and online modules. Manuscript submission not required for admission.
+Pre-reqs: CRWR 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: D307
+Instructor: TBA
+
+Department: CRWR
+Course Number: 301
+Section: LS2
+Description: The writing of poetry in various forms using a combination of workshopping and online modules. Manuscript submission not required for admission.
+Pre-reqs: CRWR 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: B302
+Instructor: TBA
+
+Department: CRWR
+Course Number: 301
+Section: LS3
+Description: The writing of poetry in various forms using a combination of workshopping and online modules. Manuscript submission not required for admission.
+Pre-reqs: CRWR 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Leon, Room: and
+Instructor: TBA
+

@@ -1,0 +1,20 @@
+Department: MTRL
+Course Number: 250
+Section: 101
+Description: Heat and mass balances applied to materials engineering; thermodynamic principles applied to materials processing: heat of reaction, free energy, activity, phase equilibrium, reactions involving gases, Ellingham diagrams.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:30, Building: Civil, Room: and
+Instructor: DIXON, DAVID
+
+Department: MTRL
+Course Number: 250
+Section: T1A
+Description: Heat and mass balances applied to materials engineering; thermodynamic principles applied to materials processing: heat of reaction, free energy, activity, phase equilibrium, reactions involving gases, Ellingham diagrams.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 18:00, Building: Orchard, Room: Commons
+Instructor: DIXON, DAVID
+

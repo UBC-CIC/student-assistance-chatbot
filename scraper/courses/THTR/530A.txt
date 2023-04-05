@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 530A
+Section: 001
+Description: Studies in a selected area of theatre in relation to one or more of the other arts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 19:00, End Time: 22:00, Building: Buchanan, Room: D325
+Instructor: MARSHALL, HALLIE
+

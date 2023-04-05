@@ -1,0 +1,9 @@
+Department: DHYG
+Course Number: 206
+Section: 001
+Pre-reqs: All of BIOL 153, DHYG 108.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KARAN, JELENA
+

@@ -1,0 +1,22 @@
+Department: CHBE
+Course Number: 244
+Section: 201
+Description: Energy and the first law; second law of thermodynamics; entropy; availability (energy) analysis; thermodynamic properties of fluids, application to power generation, refrigeration, and liquefaction, as well as biological, environmental, and electrochemical systems.
+Pre-reqs: CHBE 241.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: HATZIKIRIAKOS, SAVVAS
+
+Department: CHBE
+Course Number: 244
+Section: T2A
+Description: Energy and the first law; second law of thermodynamics; entropy; availability (energy) analysis; thermodynamic properties of fluids, application to power generation, refrigeration, and liquefaction, as well as biological, environmental, and electrochemical systems.
+Pre-reqs: CHBE 241.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Thu^, End Time: 12:00, Building: 14:00, Room: Chemistry
+Instructor: HATZIKIRIAKOS, SAVVAS
+

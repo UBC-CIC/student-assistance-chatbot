@@ -1,0 +1,9 @@
+Department: ORPA
+Course Number: 722
+Section: 001
+Description: Case presentation in paediatric orthopaedics, stressing history, physical findings and total management of the patient, including a review of paediatric fractures with x-rays.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BEAUCHAMP, RICHARD
+

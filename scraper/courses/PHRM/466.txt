@@ -1,0 +1,10 @@
+Department: PHRM
+Course Number: 466
+Section: 001
+Description: Gastroenterology and musculoskeletal disorders. Pass/Fail.
+Pre-reqs: PHRM 461.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: DHALIWAL, NEELAM
+

@@ -1,0 +1,40 @@
+Department: LING
+Course Number: 101
+Section: 001
+Description: A survey of the linguistic map of the world, examining how languages are genetically classified and how different languages evolve. Principles underlying different writing systems and the decipherment of historical documents. Issues of languages in contact, minority language endangerment, language death and the role of English as a world language. Recommended but not required for an honours, major, or minor in linguistics or speech sciences.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00
+Instructor: BURTON, STRANG
+
+Department: LING
+Course Number: 101
+Section: 002
+Description: A survey of the linguistic map of the world, examining how languages are genetically classified and how different languages evolve. Principles underlying different writing systems and the decipherment of historical documents. Issues of languages in contact, minority language endangerment, language death and the role of English as a world language. Recommended but not required for an honours, major, or minor in linguistics or speech sciences.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00
+Instructor: BURTON, STRANG
+
+Department: LING
+Course Number: 101
+Section: 005
+Description: A survey of the linguistic map of the world, examining how languages are genetically classified and how different languages evolve. Principles underlying different writing systems and the decipherment of historical documents. Issues of languages in contact, minority language endangerment, language death and the role of English as a world language. Recommended but not required for an honours, major, or minor in linguistics or speech sciences.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Pharmaceutical, Room: Sciences
+Instructor: BURTON, STRANG
+
+Department: LING
+Course Number: 101
+Section: CAP
+Description: A survey of the linguistic map of the world, examining how languages are genetically classified and how different languages evolve. Principles underlying different writing systems and the decipherment of historical documents. Issues of languages in contact, minority language endangerment, language death and the role of English as a world language. Recommended but not required for an honours, major, or minor in linguistics or speech sciences.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Irving, Room: K
+Instructor: BURTON, STRANG
+

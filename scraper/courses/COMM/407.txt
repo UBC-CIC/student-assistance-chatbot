@@ -1,0 +1,22 @@
+Department: COMM
+Course Number: 407
+Section: 201
+Description: The economics of real estate markets. Topics include real estate cycles and bubbles, search models and vacancy, the relationship between real estate and the economy, housing demand, and models of housing supply.
+Pre-reqs: One of COMM 295, ECON 201, ECON 301.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: LEE, SANGHOON
+
+Department: COMM
+Course Number: 407
+Section: 202
+Description: The economics of real estate markets. Topics include real estate cycles and bubbles, search models and vacancy, the relationship between real estate and the economy, housing demand, and models of housing supply.
+Pre-reqs: One of COMM 295, ECON 201, ECON 301.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: LEE, SANGHOON
+

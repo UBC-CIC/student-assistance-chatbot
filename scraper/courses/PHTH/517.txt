@@ -1,0 +1,9 @@
+Department: PHTH
+Course Number: 517
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:00, End Time: 17:00
+Instructor: ANEKWE, DAVID
+

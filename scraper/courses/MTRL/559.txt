@@ -1,0 +1,10 @@
+Department: MTRL
+Course Number: 559
+Section: 201
+Description: Advanced thermochemical modelling of hydrometallurgical unit operations to include extraction, separation, and recovery of base metals. Application to flow-sheet analysis.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 13:00, End Time: 14:30, Building: Orchard, Room: Commons
+Instructor: ASSELIN, EDOUARD
+

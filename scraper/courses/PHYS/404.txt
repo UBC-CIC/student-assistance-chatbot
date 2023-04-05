@@ -1,0 +1,11 @@
+Department: PHYS
+Course Number: 404
+Section: 101
+Description: Radiotherapy, X-ray imaging, nuclear medicine, magnetic resonance imaging and biomedical optics.
+Pre-reqs: (Third year standing in Science or Applied Science is required. MATH 200 (or MATH 217 or MATH 226) is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Hebb, Room: 116
+Instructor: FORD, NANCY
+

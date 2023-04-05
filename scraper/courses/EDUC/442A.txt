@@ -1,0 +1,9 @@
+Department: EDUC
+Course Number: 442A
+Section: 477
+Description: Post-practicum students will explore how a school program may need to be modified in order to integrate more fully First Nations history, content, and world views.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

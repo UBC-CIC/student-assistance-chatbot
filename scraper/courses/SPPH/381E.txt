@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 381E
+Section: BL2
+Description: By seminar and directed readings, certain topics of current interest are explored in depth.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: MACPHERSON, ROBERT
+

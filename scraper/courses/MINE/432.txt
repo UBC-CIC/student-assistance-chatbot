@@ -1,0 +1,20 @@
+Department: MINE
+Course Number: 432
+Section: 101
+Description: Automatic control theory, PID control, Laplace and z-transforms, loop tuning, frequency response, stability analysis, control strategies in flotation, comminution, dewatering, reagent and bin/sump levels, automated load-haul-dump and drilling equipment, instrumentation and soft sensors.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:30, End Time: 9:30, Building: Frank, Room: Forward
+Instructor: MISKOVIC, ILIJA
+
+Department: MINE
+Course Number: 432
+Section: L1A
+Description: Automatic control theory, PID control, Laplace and z-transforms, loop tuning, frequency response, stability analysis, control strategies in flotation, comminution, dewatering, reagent and bin/sump levels, automated load-haul-dump and drilling equipment, instrumentation and soft sensors.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 11:30, Building: Frank, Room: Forward
+Instructor: MISKOVIC, ILIJA
+

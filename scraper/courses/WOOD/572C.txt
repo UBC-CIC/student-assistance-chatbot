@@ -1,0 +1,27 @@
+Department: WOOD
+Course Number: 572C
+Section: 102
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: AHMADVAND, SAHAR
+
+Department: WOOD
+Course Number: 572C
+Section: L02
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:30, End Time: 12:30, Building: Forest, Room: Sciences
+Instructor: AHMADVAND, SAHAR
+
+Department: WOOD
+Course Number: 572C
+Section: 103
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 13:00
+Instructor: DAI, CHUNPING
+

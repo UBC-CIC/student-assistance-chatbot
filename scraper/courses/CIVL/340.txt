@@ -1,0 +1,11 @@
+Department: CIVL
+Course Number: 340
+Section: 201
+Description: The analysis and design of the elements of transportation facilities in development of transport technology; vehicle motion; vehicle/pavement interaction; elements of road design; principles of queuing and roadway capacity; rail transit performance and capacity analysis; economics as applied to transport.
+Pre-reqs: STAT 251.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: P., Room: A.
+Instructor: SAYED, TAREK
+

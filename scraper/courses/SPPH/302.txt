@@ -1,0 +1,9 @@
+Department: SPPH
+Course Number: 302
+Section: BL1
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Start Time: Thu*, End Time: 17:00, Building: 20:00, Room: P.
+Instructor: KAHNAMELLI, ADAM
+

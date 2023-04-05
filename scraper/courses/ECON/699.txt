@@ -1,0 +1,8 @@
+Department: ECON
+Course Number: 699
+Section: 001
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

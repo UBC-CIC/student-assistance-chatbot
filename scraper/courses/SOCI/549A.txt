@@ -1,0 +1,24 @@
+Department: SOCI
+Course Number: 549A
+Section: 101
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: SOCI
+Course Number: 549A
+Section: 201
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: SOCI
+Course Number: 549A
+Section: 301
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

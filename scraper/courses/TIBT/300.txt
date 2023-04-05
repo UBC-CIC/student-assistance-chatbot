@@ -1,0 +1,22 @@
+Department: TIBT
+Course Number: 300
+Section: 001
+Description: The basics of classical Tibetan grammar and vocabulary, with readings from a selection of daily prayer verses.
+Pre-reqs: (Completion of TIBT 100 or TIBT 390 with a minimum grade of 60%.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 13:00, Building: Mathematics, Room: 105
+Instructor: CHUSANG, SONAM
+
+Department: TIBT
+Course Number: 300
+Section: W01
+Description: The basics of classical Tibetan grammar and vocabulary, with readings from a selection of daily prayer verses.
+Pre-reqs: (Completion of TIBT 100 or TIBT 390 with a minimum grade of 60%.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 13:00
+Instructor: CHUSANG, SONAM
+

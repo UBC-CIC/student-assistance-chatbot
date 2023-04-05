@@ -1,0 +1,11 @@
+Department: APBI
+Course Number: 405
+Section: 002
+Description: Plant water requirements for production and survival, physiological stress thresholds, soil-plant-atmosphere interactions, structure-function relationships, cutting-edge and traditional monitoring tools, precision agriculture, application for sustainable water management.
+Pre-reqs: One of APBI 210, BIOL 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: MacMillan, Room: 158
+Instructor: KNIPFER, THORSTEN
+

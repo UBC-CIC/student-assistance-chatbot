@@ -1,0 +1,11 @@
+Department: FNH
+Course Number: 303
+Section: 001
+Description: Introduction to and application of concepts involved in food product formulation and development.
+Pre-reqs: One of LFS 252, BIOL 300, EPSE 482, FRST 231, STAT 200. (FNH 301 recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Forest, Room: Sciences
+Instructor: PRATAP-SINGH, ANUBHAV
+

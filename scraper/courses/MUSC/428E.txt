@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 428E
+Section: 001
+Description: The history, theory, style, organology, and forms of the music of a particular culture in its aesthetic and cultural context. Students should consult the School as to which music culture will be covered in a particular year. May be repeated once for credit if different cultures are covered.
+Pre-reqs: MUSC 328. (or instructor's permission.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Asian, Room: Centre
+Instructor: GBOLONYO, JUSTICE
+

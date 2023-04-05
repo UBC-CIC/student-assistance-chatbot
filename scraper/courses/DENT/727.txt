@@ -1,0 +1,8 @@
+Department: DENT
+Course Number: 727
+Section: 001
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BRYANT, S
+

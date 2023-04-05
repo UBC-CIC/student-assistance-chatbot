@@ -1,0 +1,9 @@
+Department: HIST
+Course Number: 325
+Section: 201
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Frederic, Room: Lasserre
+Instructor: GRITTNER, COLIN
+

@@ -1,0 +1,30 @@
+Department: BAFI
+Course Number: 502
+Section: 001
+Pre-reqs: One of BAFI 500, BAFI 550.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: ORTIZ MOLINA, HERNAN
+
+Department: BAFI
+Course Number: 502
+Section: 301
+Pre-reqs: One of BAFI 500, BAFI 550.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Sun*, End Time: 8:30, Building: 16:00, Room: Henry
+Instructor: ORTIZ MOLINA, HERNAN
+
+Department: BAFI
+Course Number: 502
+Section: 821
+Pre-reqs: One of BAFI 500, BAFI 550.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Sat Sun
+Instructor: FAVILUKIS, JACK
+

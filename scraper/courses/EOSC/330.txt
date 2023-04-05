@@ -1,0 +1,59 @@
+Department: EOSC
+Course Number: 330
+Section: 101
+Pre-reqs: One of GEOB 103, EOSC 110, EOSC 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: MacLeod, Room: 3018
+Instructor: GILLEY, BRETT
+
+Department: EOSC
+Course Number: 330
+Section: L1A
+Pre-reqs: One of GEOB 103, EOSC 110, EOSC 210.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 17:30, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 330
+Section: L1B
+Pre-reqs: One of GEOB 103, EOSC 110, EOSC 210.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 330
+Section: L1C
+Pre-reqs: One of GEOB 103, EOSC 110, EOSC 210.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 330
+Section: L1D
+Pre-reqs: One of GEOB 103, EOSC 110, EOSC 210.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 330
+Section: W-L
+Pre-reqs: One of GEOB 103, EOSC 110, EOSC 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

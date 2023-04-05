@@ -1,0 +1,33 @@
+Department: SOCI
+Course Number: 361
+Section: 101
+Description: Tendencies toward equality and inequality; manifestations of inequality (occupation, education, gender, ethnicity, income, power) and their consequences; caste and class features of major stratification systems; theories of social class; stratification profile of contemporary industrial societies.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Anthropology, Room: and
+Instructor: LOCHER-LO, CAROLINE CHUNG-HSUAN
+
+Department: SOCI
+Course Number: 361
+Section: 203
+Description: Tendencies toward equality and inequality; manifestations of inequality (occupation, education, gender, ethnicity, income, power) and their consequences; caste and class features of major stratification systems; theories of social class; stratification profile of contemporary industrial societies.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Food,, Room: Nutrition
+Instructor: MEADOWS, CRAIG
+
+Department: SOCI
+Course Number: 361
+Section: 204
+Description: Tendencies toward equality and inequality; manifestations of inequality (occupation, education, gender, ethnicity, income, power) and their consequences; caste and class features of major stratification systems; theories of social class; stratification profile of contemporary industrial societies.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:00, End Time: 17:30, Building: Buchanan, Room: D312
+Instructor: VIVALDI PASQUA, ANA
+

@@ -1,0 +1,11 @@
+Department: PHAR
+Course Number: 502
+Section: 001
+Description: Models of linear and dose-dependent systems in pharmacokinetics including sustained release, volumes of distribution, drug clearance, metabolite kinetics, multiple dosing and computer modelling.
+Pre-reqs: PHAR 315.
+Credits: 4
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 16:00
+Instructor: WONG, HARVEY
+

@@ -1,0 +1,27 @@
+Department: GRSJ
+Course Number: 606
+Section: 001
+Description: Pass/Fail.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: GRSJ
+Course Number: 606
+Section: 101
+Description: Pass/Fail.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: GRSJ
+Course Number: 606
+Section: 201
+Description: Pass/Fail.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

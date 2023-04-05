@@ -1,0 +1,10 @@
+Department: CIVL
+Course Number: 598N
+Section: 201
+Description: Seminar or lecture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 18:00, End Time: 21:00, Building: Civil, Room: and
+Instructor: HABIBZADEH GHAREHBABA, ALIREZA
+

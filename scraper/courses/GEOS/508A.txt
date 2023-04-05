@@ -1,0 +1,18 @@
+Department: GEOS
+Course Number: 508A
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Geography, Room: 229
+Instructor: HASSAN, MARWAN
+
+Department: GEOS
+Course Number: 508A
+Section: L2A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Geography, Room: 229
+Instructor: HASSAN, MARWAN
+

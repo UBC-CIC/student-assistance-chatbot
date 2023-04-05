@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 106
+Section: 001
+Description: Covers the anatomy and physiology of conception, fetal growth, pregnancy, labour, birth, transition to extra- uterine life, postpartum and lactation through lectures and lab sessions. Emphasizes anatomy and physiology as related to professional midwifery practice.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 12:00
+Instructor: KREBS, CLAUDIA
+

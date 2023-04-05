@@ -1,0 +1,10 @@
+Department: MEDI
+Course Number: 520
+Section: 001
+Description: Fundamental principles of vision from basic physiology to clinical syndromes across the visual pathway spanning the globe, ocular structures including the retina, up to striate and extrastriate cortices.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 16:00
+Instructor: ORUC, IPEK
+

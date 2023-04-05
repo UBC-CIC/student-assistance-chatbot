@@ -1,0 +1,10 @@
+Department: SOCI
+Course Number: 503
+Section: 102
+Description: Research Design and Techniques (Qualitative)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: CHEONG, AMANDA
+

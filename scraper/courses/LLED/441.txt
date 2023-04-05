@@ -1,0 +1,32 @@
+Department: LLED
+Course Number: 441
+Section: 61A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SHOEMAKER, KATHRYN
+
+Department: LLED
+Course Number: 441
+Section: 61B
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SHOEMAKER, KATHRYN
+
+Department: LLED
+Course Number: 441
+Section: 63C
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: DELVECCHIO, JENNIFER
+
+Department: LLED
+Course Number: 441
+Section: W3C
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

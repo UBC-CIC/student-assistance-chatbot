@@ -1,0 +1,20 @@
+Department: WOOD
+Course Number: 120
+Section: 101
+Description: Introduction to forestry, wood products industry, processes, products, markets and global trade policy issues affecting the wood industry. Not available for credit to students in the B.S.F. degree.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: LEUNG, VINCENT
+
+Department: WOOD
+Course Number: 120
+Section: L01
+Description: Introduction to forestry, wood products industry, processes, products, markets and global trade policy issues affecting the wood industry. Not available for credit to students in the B.S.F. degree.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 16:00, Building: Forest, Room: Sciences
+Instructor: LEUNG, VINCENT
+

@@ -1,0 +1,11 @@
+Department: POLI
+Course Number: 445A
+Section: 001
+Description: Traditions of critical social theory, broadly construed, to examine the modern politics of 'race,' racism, and racialized identities.
+Pre-reqs: (Any 6 credits from POLI 240, 340-349.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00
+Instructor: BAUM, BRUCE
+

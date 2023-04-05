@@ -1,0 +1,11 @@
+Department: PSYC
+Course Number: 358
+Section: 901
+Description: Theory and research on the evolution of the human mind, with emphasis on implications for cognition and behaviour in contemporary environments.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 20:00, Building: Pharmaceutical, Room: Sciences
+Instructor: SHARIFF, AZIM
+

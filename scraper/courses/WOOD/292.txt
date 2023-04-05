@@ -1,0 +1,20 @@
+Department: WOOD
+Course Number: 292
+Section: 201
+Description: Computer-aided graphics software used in the wood products sector. Visualization of product designs and specifications in two and three dimensions.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: DETTMER, JOERN
+
+Department: WOOD
+Course Number: 292
+Section: L01
+Description: Computer-aided graphics software used in the wood products sector. Visualization of product designs and specifications in two and three dimensions.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: DETTMER, JOERN
+

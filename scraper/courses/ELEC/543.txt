@@ -1,0 +1,17 @@
+Department: ELEC
+Course Number: 543
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 18:00, Building: School, Room: of
+Instructor: SERVATI, PEYMAN
+
+Department: ELEC
+Course Number: 543
+Section: 2W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

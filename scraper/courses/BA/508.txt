@@ -1,0 +1,20 @@
+Department: BA
+Course Number: 508
+Section: 001
+Description: Pass/Fail.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Wed, Start Time: 8:00, End Time: 17:00
+Instructor: NAGARAJAN, MAHESH
+
+Department: BA
+Course Number: 508
+Section: 820
+Description: Pass/Fail.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Sat Sun
+Instructor: NAGARAJAN, MAHESH
+

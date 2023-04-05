@@ -1,0 +1,27 @@
+Department: DENT
+Course Number: 599
+Section: 001
+Description: Enrolment restricted to graduate students in Dental Science.
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: DENT
+Course Number: 599
+Section: 101
+Description: Enrolment restricted to graduate students in Dental Science.
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: DENT
+Course Number: 599
+Section: 201
+Description: Enrolment restricted to graduate students in Dental Science.
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

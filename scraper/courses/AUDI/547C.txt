@@ -1,0 +1,18 @@
+Department: AUDI
+Course Number: 547C
+Section: 003
+Description: May be taken more than once.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: AUDI
+Course Number: 547C
+Section: 006
+Description: May be taken more than once.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

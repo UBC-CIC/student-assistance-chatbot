@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 520
+Section: 001
+Description: Micro-scale processes of development, including the challenges posed by persistent poverty, and ground-level development solutions. Measurement and empirical evaluation of development interventions and outcomes.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 12:00, Building: LIU, Room: 130
+Instructor: LAHIRI, AMARTYA
+

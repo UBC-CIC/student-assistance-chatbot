@@ -1,0 +1,9 @@
+Department: MIDW
+Course Number: 380
+Section: 001
+Description: Clinical course providing opportunity to study midwifery in contexts beyond those usually offered on the program. Students select context and provide rationale for how the context will enhance their learning.
+Credits: 10
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

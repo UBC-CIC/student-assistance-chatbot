@@ -1,0 +1,10 @@
+Department: MEDI
+Course Number: 502
+Section: 001
+Description: Laboratory experience with experimental models of human disease; critical reviews of their relevance. Laboratory rotations, oral presentations and written reviews. Registration requires permission of the Department.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 16:00, Building: To, Room: Be
+Instructor: LANGE, DIRK
+

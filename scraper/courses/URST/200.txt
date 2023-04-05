@@ -1,0 +1,60 @@
+Department: URST
+Course Number: 200
+Section: 101
+Description: An interdisciplinary introduction to the city in the context of contemporary globalization. Analysis of urban patterns and processes from the theoretical perspectives of various disciplines and methodologies.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Geography, Room: 100
+Instructor: WYLY, ELVIN
+
+Department: URST
+Course Number: 200
+Section: L1A
+Description: An interdisciplinary introduction to the city in the context of contemporary globalization. Analysis of urban patterns and processes from the theoretical perspectives of various disciplines and methodologies.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Geography, Room: 130
+Instructor: WYLY, ELVIN
+
+Department: URST
+Course Number: 200
+Section: L1B
+Description: An interdisciplinary introduction to the city in the context of contemporary globalization. Analysis of urban patterns and processes from the theoretical perspectives of various disciplines and methodologies.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Geography, Room: 130
+Instructor: WYLY, ELVIN
+
+Department: URST
+Course Number: 200
+Section: L1C
+Description: An interdisciplinary introduction to the city in the context of contemporary globalization. Analysis of urban patterns and processes from the theoretical perspectives of various disciplines and methodologies.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Geography, Room: 130
+Instructor: WYLY, ELVIN
+
+Department: URST
+Course Number: 200
+Section: L1D
+Description: An interdisciplinary introduction to the city in the context of contemporary globalization. Analysis of urban patterns and processes from the theoretical perspectives of various disciplines and methodologies.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Geography, Room: 130
+Instructor: WYLY, ELVIN
+
+Department: URST
+Course Number: 200
+Section: L1E
+Description: An interdisciplinary introduction to the city in the context of contemporary globalization. Analysis of urban patterns and processes from the theoretical perspectives of various disciplines and methodologies.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Geography, Room: 130
+Instructor: WYLY, ELVIN
+

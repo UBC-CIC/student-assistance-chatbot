@@ -1,0 +1,10 @@
+Department: GEOG
+Course Number: 353
+Section: 101
+Description: International regimes regulating migration, changes in global demographics, immigration policies of nation states, international migration patterns, settlement policies and outcomes.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Geography, Room: 200
+Instructor: BAADA, JEMIMA
+

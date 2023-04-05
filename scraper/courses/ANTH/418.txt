@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 418
+Section: 002
+Description: Applications of statistical techniques to quantitative and qualitative data in Anthropology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Leon, Room: and
+Instructor: ROBERTSON, HEATHER
+

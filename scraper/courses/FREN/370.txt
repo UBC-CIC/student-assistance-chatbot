@@ -1,0 +1,11 @@
+Department: FREN
+Course Number: 370
+Section: 101
+Description: A survey of basic terminology, methods, problems, and theoretical trends in French linguistics, specifically designed to provide students with a foundation for advanced language study in French.
+Pre-reqs: Either (a) FREN 223 or (b) all of FREN 352, FREN 401.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D301
+Instructor: BOUCHARD, MARIE-EVE
+

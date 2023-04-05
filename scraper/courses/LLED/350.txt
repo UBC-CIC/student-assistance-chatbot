@@ -1,0 +1,117 @@
+Department: LLED
+Course Number: 350
+Section: 101
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: CASSADY, JESSICA
+
+Department: LLED
+Course Number: 350
+Section: 102
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: ARAUJO DE MELO MAIA, ANGELICA
+
+Department: LLED
+Course Number: 350
+Section: 103
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: HASEYAMA, KOICHI
+
+Department: LLED
+Course Number: 350
+Section: 104
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Ponderosa, Room: Commons
+Instructor: SHANK LAUWO, MONICA
+
+Department: LLED
+Course Number: 350
+Section: 105
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:30, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: LEONE, HELENE
+
+Department: LLED
+Course Number: 350
+Section: 107
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Ponderosa, Room: Commons
+Instructor: HASEYAMA, KOICHI
+
+Department: LLED
+Course Number: 350
+Section: 108
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: RAMSAY, LORNA
+
+Department: LLED
+Course Number: 350
+Section: 109
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Tue^, End Time: 9:30, Building: 12:30, Room: Ponderosa
+Instructor: ACCURSO, KATHRYN
+
+Department: LLED
+Course Number: 350
+Section: 110
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:30, End Time: 19:30, Building: West, Room: Mall
+Instructor: RAJAGOPAL, HARINI
+
+Department: LLED
+Course Number: 350
+Section: 623
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: POELL, HOLLY
+
+Department: LLED
+Course Number: 350
+Section: 640
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MAGUIRE, SUSANNE
+
+Department: LLED
+Course Number: 350
+Section: 650
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KOZAK, DONNA
+

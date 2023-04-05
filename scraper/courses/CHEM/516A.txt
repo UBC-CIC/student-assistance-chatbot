@@ -1,0 +1,9 @@
+Department: CHEM
+Course Number: 516A
+Section: 110
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Chemistry, Room: D215
+Instructor: STRAUS, SUZANA
+

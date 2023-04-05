@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 440
+Section: 001
+Description: Students assume a primary care role in clinical placements in midwifery practices across the provinces. Demonstration of independent decision making and application of the full range of their academic knowledge to professional practice. A practicum under the supervision of a registered midwife. Pass/Fail.
+Credits: 13
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Wed Thu, Start Time: 8:00, End Time: 17:00
+Instructor: CAMPBELL, ALLISON
+

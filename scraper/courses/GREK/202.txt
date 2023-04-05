@@ -1,0 +1,22 @@
+Department: GREK
+Course Number: 202
+Section: 001
+Description: Completion of the grammatical foundations of Ancient Greek, Part II; introduction to the reading of unadapted passages of Greek literature.
+Pre-reqs: GREK 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: B219
+Instructor: DANIELS, MEGAN
+
+Department: GREK
+Course Number: 202
+Section: T01
+Description: Completion of the grammatical foundations of Ancient Greek, Part II; introduction to the reading of unadapted passages of Greek literature.
+Pre-reqs: GREK 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B219
+Instructor: DANIELS, MEGAN
+

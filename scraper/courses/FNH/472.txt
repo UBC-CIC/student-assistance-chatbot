@@ -1,0 +1,21 @@
+Department: FNH
+Course Number: 472
+Section: 001
+Description: Metabolic adaptations, nutrient metabolism, and special issues during pregnancy that may influence the maternal-fetal nutritional supply.
+Pre-reqs: FNH 350. (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Earth, Room: and
+Instructor: ELANGO, RAJAVEL
+
+Department: FNH
+Course Number: 472
+Section: 0W1
+Description: Metabolic adaptations, nutrient metabolism, and special issues during pregnancy that may influence the maternal-fetal nutritional supply.
+Pre-reqs: FNH 350. (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

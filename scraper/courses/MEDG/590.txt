@@ -1,0 +1,9 @@
+Department: MEDG
+Course Number: 590
+Section: 201
+Description: Genomic counselling skills and clinical insights; obtaining informed consent, variant appraisal, incidental and secondary findings, informing results, family communication. Online. Restricted to students in the Graduate Certificate in Genomic Counselling and Variant Interpretation or others with permission of instructor.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BIRCH, PATRICIA
+

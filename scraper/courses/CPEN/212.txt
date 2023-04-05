@@ -1,0 +1,114 @@
+Department: CPEN
+Course Number: 212
+Section: 201
+Description: Computer architecture and the hardware- software interface: pipelining; caches; virtual memory; memory management; linking; concurrency; introduction to compilers.
+Pre-reqs: CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: LIS, MIESZKO
+
+Department: CPEN
+Course Number: 212
+Section: L2A
+Description: Computer architecture and the hardware- software interface: pipelining; caches; virtual memory; memory management; linking; concurrency; introduction to compilers.
+Pre-reqs: CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: MacLeod, Room: 4006
+Instructor: LIS, MIESZKO
+
+Department: CPEN
+Course Number: 212
+Section: L2B
+Description: Computer architecture and the hardware- software interface: pipelining; caches; virtual memory; memory management; linking; concurrency; introduction to compilers.
+Pre-reqs: CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: MacLeod, Room: 4002
+Instructor: LIS, MIESZKO
+
+Department: CPEN
+Course Number: 212
+Section: L2C
+Description: Computer architecture and the hardware- software interface: pipelining; caches; virtual memory; memory management; linking; concurrency; introduction to compilers.
+Pre-reqs: CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: MacLeod, Room: 4002
+Instructor: LIS, MIESZKO
+
+Department: CPEN
+Course Number: 212
+Section: LWA
+Description: Computer architecture and the hardware- software interface: pipelining; caches; virtual memory; memory management; linking; concurrency; introduction to compilers.
+Pre-reqs: CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 212
+Section: LWB
+Description: Computer architecture and the hardware- software interface: pipelining; caches; virtual memory; memory management; linking; concurrency; introduction to compilers.
+Pre-reqs: CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 212
+Section: LWC
+Description: Computer architecture and the hardware- software interface: pipelining; caches; virtual memory; memory management; linking; concurrency; introduction to compilers.
+Pre-reqs: CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 212
+Section: 2W1
+Description: Computer architecture and the hardware- software interface: pipelining; caches; virtual memory; memory management; linking; concurrency; introduction to compilers.
+Pre-reqs: CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 212
+Section: LWA
+Description: Computer architecture and the hardware- software interface: pipelining; caches; virtual memory; memory management; linking; concurrency; introduction to compilers.
+Pre-reqs: CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 212
+Section: LWB
+Description: Computer architecture and the hardware- software interface: pipelining; caches; virtual memory; memory management; linking; concurrency; introduction to compilers.
+Pre-reqs: CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 212
+Section: LWC
+Description: Computer architecture and the hardware- software interface: pipelining; caches; virtual memory; memory management; linking; concurrency; introduction to compilers.
+Pre-reqs: CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

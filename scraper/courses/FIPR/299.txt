@@ -1,0 +1,9 @@
+Department: FIPR
+Course Number: 299
+Section: 001
+Description: On-campus film production field research. Based on film project work on campus productions. Restricted to Film Production students except with permission. Contact department.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DRLJACA, IGOR
+

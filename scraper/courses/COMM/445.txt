@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 445
+Section: 201
+Description: The characteristics of shipping services and the role of shipping services in the design and management of international logistics systems.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: MARONEY, BERNARD
+

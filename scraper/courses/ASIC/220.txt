@@ -1,0 +1,22 @@
+Department: ASIC
+Course Number: 220
+Section: 001
+Description: Sustainability examined from scientific, economic, and societal perspectives.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: WITTMAN, HANNAH
+
+Department: ASIC
+Course Number: 220
+Section: 2W2
+Description: Sustainability examined from scientific, economic, and societal perspectives.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu
+Instructor: TBA
+

@@ -1,0 +1,57 @@
+Department: ASTR
+Course Number: 310
+Section: 101
+Description: A survey of recent discoveries about the planets and other objects in the solar system, without the use of advanced mathematics. The Sun, the existence of planetary systems around other stars, and the search for life. Not open to first year students and not for credit in the Faculties of Science and Applied Science.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: VAN LAERHOVEN, CHRISTA
+
+Department: ASTR
+Course Number: 310
+Section: 10W
+Description: A survey of recent discoveries about the planets and other objects in the solar system, without the use of advanced mathematics. The Sun, the existence of planetary systems around other stars, and the search for life. Not open to first year students and not for credit in the Faculties of Science and Applied Science.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ASTR
+Course Number: 310
+Section: T1A
+Description: A survey of recent discoveries about the planets and other objects in the solar system, without the use of advanced mathematics. The Sun, the existence of planetary systems around other stars, and the search for life. Not open to first year students and not for credit in the Faculties of Science and Applied Science.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Hennings, Room: 312
+Instructor: TBA
+
+Department: ASTR
+Course Number: 310
+Section: T1B
+Description: A survey of recent discoveries about the planets and other objects in the solar system, without the use of advanced mathematics. The Sun, the existence of planetary systems around other stars, and the search for life. Not open to first year students and not for credit in the Faculties of Science and Applied Science.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Hennings, Room: 312
+Instructor: TBA
+
+Department: ASTR
+Course Number: 310
+Section: T1C
+Description: A survey of recent discoveries about the planets and other objects in the solar system, without the use of advanced mathematics. The Sun, the existence of planetary systems around other stars, and the search for life. Not open to first year students and not for credit in the Faculties of Science and Applied Science.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Hennings, Room: 312
+Instructor: TBA
+
+Department: ASTR
+Course Number: 310
+Section: T1W
+Description: A survey of recent discoveries about the planets and other objects in the solar system, without the use of advanced mathematics. The Sun, the existence of planetary systems around other stars, and the search for life. Not open to first year students and not for credit in the Faculties of Science and Applied Science.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

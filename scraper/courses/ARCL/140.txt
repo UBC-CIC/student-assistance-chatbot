@@ -1,0 +1,81 @@
+Department: ARCL
+Course Number: 140
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Mathematics, Room: 100
+Instructor: ROBERTSON, HEATHER
+
+Department: ARCL
+Course Number: 140
+Section: D1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ARCL
+Course Number: 140
+Section: D1B
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ARCL
+Course Number: 140
+Section: D1C
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ARCL
+Course Number: 140
+Section: D1D
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ARCL
+Course Number: 140
+Section: D1E
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ARCL
+Course Number: 140
+Section: D1F
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ARCL
+Course Number: 140
+Section: D1G
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ARCL
+Course Number: 140
+Section: D1H
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 16:00, End Time: 17:00, Building: Anthropology, Room: and
+Instructor: TBA
+

@@ -1,0 +1,9 @@
+Department: EOSC
+Course Number: 516
+Section: 101
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 16:00
+Instructor: GILLEY, BRETT
+

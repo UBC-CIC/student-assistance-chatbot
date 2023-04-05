@@ -1,0 +1,30 @@
+Department: PHAR
+Course Number: 548
+Section: 001
+Description: Attendance at regular seminars throughout the session and presentation of one or more papers on selected topics.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 12:00, End Time: 13:00
+Instructor: LI, SHYH-DAR
+
+Department: PHAR
+Course Number: 548
+Section: 002
+Description: Attendance at regular seminars throughout the session and presentation of one or more papers on selected topics.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 12:00, End Time: 13:00
+Instructor: LI, SHYH-DAR
+
+Department: PHAR
+Course Number: 548
+Section: 003
+Description: Attendance at regular seminars throughout the session and presentation of one or more papers on selected topics.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 12:00, End Time: 13:00
+Instructor: LI, SHYH-DAR
+

@@ -1,0 +1,70 @@
+Department: HIST
+Course Number: 220A
+Section: 201
+Description: Selected themes and historical approaches in European history; may include Europe's history of religious conflict, state formation, colonialism, nationalism, industrialization, revolution, total war, globalization, genocide, or environmental change.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: A203
+Instructor: LANTHIER, MICHAEL
+
+Department: HIST
+Course Number: 220A
+Section: L1C
+Description: Selected themes and historical approaches in European history; may include Europe's history of religious conflict, state formation, colonialism, nationalism, industrialization, revolution, total war, globalization, genocide, or environmental change.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D325
+Instructor: LANTHIER, MICHAEL
+
+Department: HIST
+Course Number: 220A
+Section: L1D
+Description: Selected themes and historical approaches in European history; may include Europe's history of religious conflict, state formation, colonialism, nationalism, industrialization, revolution, total war, globalization, genocide, or environmental change.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B312
+Instructor: LANTHIER, MICHAEL
+
+Department: HIST
+Course Number: 220A
+Section: L1E
+Description: Selected themes and historical approaches in European history; may include Europe's history of religious conflict, state formation, colonialism, nationalism, industrialization, revolution, total war, globalization, genocide, or environmental change.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D306
+Instructor: LANTHIER, MICHAEL
+
+Department: HIST
+Course Number: 220A
+Section: L1F
+Description: Selected themes and historical approaches in European history; may include Europe's history of religious conflict, state formation, colonialism, nationalism, industrialization, revolution, total war, globalization, genocide, or environmental change.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B312
+Instructor: LANTHIER, MICHAEL
+
+Department: HIST
+Course Number: 220A
+Section: L1G
+Description: Selected themes and historical approaches in European history; may include Europe's history of religious conflict, state formation, colonialism, nationalism, industrialization, revolution, total war, globalization, genocide, or environmental change.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D319
+Instructor: LANTHIER, MICHAEL
+
+Department: HIST
+Course Number: 220A
+Section: L1H
+Description: Selected themes and historical approaches in European history; may include Europe's history of religious conflict, state formation, colonialism, nationalism, industrialization, revolution, total war, globalization, genocide, or environmental change.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D319
+Instructor: LANTHIER, MICHAEL
+

@@ -1,0 +1,33 @@
+Department: MTRL
+Course Number: 359
+Section: L1A
+Description: Laboratory exercises on aqueous extraction of metals from ores and concentrates.
+Co-reqs: One of MMAT 358, MTRL 358.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Frank, Room: Forward
+Instructor: DEHKHODA, AMIR MEHDI(Coordinator)
+
+Department: MTRL
+Course Number: 359
+Section: L1B
+Description: Laboratory exercises on aqueous extraction of metals from ores and concentrates.
+Co-reqs: One of MMAT 358, MTRL 358.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Frank, Room: Forward
+Instructor: DEHKHODA, AMIR MEHDI(Coordinator)
+
+Department: MTRL
+Course Number: 359
+Section: L1C
+Description: Laboratory exercises on aqueous extraction of metals from ores and concentrates.
+Co-reqs: One of MMAT 358, MTRL 358.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 18:00, Building: Frank, Room: Forward
+Instructor: DEHKHODA, AMIR MEHDI(Coordinator)
+

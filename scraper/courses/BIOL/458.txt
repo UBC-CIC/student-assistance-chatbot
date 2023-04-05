@@ -1,0 +1,20 @@
+Department: BIOL
+Course Number: 458
+Section: 101
+Description: Developmental Neurobiology
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Civil, Room: and
+Instructor: RAMER, MATTHEW
+
+Department: BIOL
+Course Number: 458
+Section: 1W1
+Description: Developmental Neurobiology
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30
+Instructor: TBA
+

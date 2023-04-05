@@ -1,0 +1,11 @@
+Department: FNH
+Course Number: 405
+Section: 101
+Description: Fermentation methods, mechanism and microbiology of nonalcoholic fermented foods and alcoholic fermented beverages (beer, cider, sake).
+Pre-reqs: One of MICB 201, MICB 202, BIOL 201, BIOL 203, BIOC 203. (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: MacMillan, Room: 258
+Instructor: MARTINIUK, JONATHAN
+

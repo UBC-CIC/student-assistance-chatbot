@@ -1,0 +1,24 @@
+Department: PHYS
+Course Number: 599A
+Section: 001
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HINSHAW, GARY
+
+Department: PHYS
+Course Number: 599A
+Section: 101
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 599A
+Section: 201
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

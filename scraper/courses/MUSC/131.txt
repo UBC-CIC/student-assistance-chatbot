@@ -1,0 +1,9 @@
+Department: MUSC
+Course Number: 131
+Section: 001
+Description: Group instruction in music performance. Required of all first-time secondary voice students. Restricted to B.Mus. students.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: JUN, HYEJUNG
+

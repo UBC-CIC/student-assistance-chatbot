@@ -1,0 +1,670 @@
+Department: MATH
+Course Number: 152
+Section: 201
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: HOLMES-CERFON, MIRANDA
+
+Department: MATH
+Course Number: 152
+Section: L2A
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2B
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2C
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 9:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2D
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2E
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2F
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2G
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2H
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2I
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2J
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2K
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: 202
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Neville, Room: Scarfe
+Instructor: MADZWAMUSE, ANOTIDA
+
+Department: MATH
+Course Number: 152
+Section: L2A
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2B
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2C
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 9:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2D
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2E
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2F
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2G
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2H
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2I
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2J
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2K
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: 203
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Mathematics, Room: 100
+Instructor: ASURI MUKUNDAN, ANIRUDH
+
+Department: MATH
+Course Number: 152
+Section: L2A
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2B
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2C
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 9:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2D
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2E
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2F
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2G
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2H
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2I
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2J
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2K
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: 205
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: P., Room: A.
+Instructor: KARU, KALLE
+
+Department: MATH
+Course Number: 152
+Section: L2A
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2B
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2C
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 9:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2D
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2E
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2F
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2G
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2H
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2I
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2J
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2K
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: 207
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: West, Room: Mall
+Instructor: CHEN, WENZHAO
+
+Department: MATH
+Course Number: 152
+Section: L2A
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2B
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2C
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 9:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2D
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2E
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2F
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2G
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2H
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2I
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2J
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: L2K
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00
+Instructor: TBA
+
+Department: MATH
+Course Number: 152
+Section: 9AR
+Description: Linear Systems
+Co-reqs: MATH 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

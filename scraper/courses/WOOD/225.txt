@@ -1,0 +1,55 @@
+Department: WOOD
+Course Number: 225
+Section: 101
+Description: Strategies for thinking critically and writing effectively about topics that engage practitioners in Forestry, particularly in Wood Products Processing. Planning, drafting and editing of professional-quality documents for specialists and other stakeholders. Developing oral presentation skills.
+Pre-reqs: (Three credits of first-year English.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: LEVERIDGE, AUBREY
+
+Department: WOOD
+Course Number: 225
+Section: 102
+Description: Strategies for thinking critically and writing effectively about topics that engage practitioners in Forestry, particularly in Wood Products Processing. Planning, drafting and editing of professional-quality documents for specialists and other stakeholders. Developing oral presentation skills.
+Pre-reqs: (Three credits of first-year English.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:00, End Time: 16:30, Building: Forest, Room: Sciences
+Instructor: BROOKS, CARELLIN
+
+Department: WOOD
+Course Number: 225
+Section: 201
+Description: Strategies for thinking critically and writing effectively about topics that engage practitioners in Forestry, particularly in Wood Products Processing. Planning, drafting and editing of professional-quality documents for specialists and other stakeholders. Developing oral presentation skills.
+Pre-reqs: (Three credits of first-year English.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:00, End Time: 16:30, Building: Orchard, Room: Commons
+Instructor: LEVERIDGE, AUBREY
+
+Department: WOOD
+Course Number: 225
+Section: 202
+Description: Strategies for thinking critically and writing effectively about topics that engage practitioners in Forestry, particularly in Wood Products Processing. Planning, drafting and editing of professional-quality documents for specialists and other stakeholders. Developing oral presentation skills.
+Pre-reqs: (Three credits of first-year English.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Frank, Room: Forward
+Instructor: BROOKS, CARELLIN
+
+Department: WOOD
+Course Number: 225
+Section: 203
+Description: Strategies for thinking critically and writing effectively about topics that engage practitioners in Forestry, particularly in Wood Products Processing. Planning, drafting and editing of professional-quality documents for specialists and other stakeholders. Developing oral presentation skills.
+Pre-reqs: (Three credits of first-year English.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: BROOKS, CARELLIN
+

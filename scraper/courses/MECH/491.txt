@@ -1,0 +1,22 @@
+Department: MECH
+Course Number: 491
+Section: 201
+Description: NC programming and machining with interactive CAD/CAM systems. Curve and surface geometry for tool-path generation. Tool-path generation methodologies. Geometric modelling techniques for simulation and verification of manufacturing processes. Introduction to Computer-Aided Process Planning. Supplementary tutorial laboratory experiments.
+Co-reqs: One of MECH 392, MANU 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: CHEN, JACK
+
+Department: MECH
+Course Number: 491
+Section: L2A
+Description: NC programming and machining with interactive CAD/CAM systems. Curve and surface geometry for tool-path generation. Tool-path generation methodologies. Geometric modelling techniques for simulation and verification of manufacturing processes. Introduction to Computer-Aided Process Planning. Supplementary tutorial laboratory experiments.
+Co-reqs: One of MECH 392, MANU 380.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00
+Instructor: CHEN, JACK
+

@@ -1,0 +1,36 @@
+Department: LAW
+Course Number: 468
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:30, End Time: 16:30, Building: Allard, Room: Hall
+Instructor: MARTZ, LISA
+
+Department: LAW
+Course Number: 468
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Allard, Room: Hall
+Instructor: AFFOLDER, NATASHA
+
+Department: LAW
+Course Number: 468
+Section: 003
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 9:00, End Time: 10:30, Building: Allard, Room: Hall
+Instructor: MARTZ, LISA
+
+Department: LAW
+Course Number: 468
+Section: 004
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 18:30, End Time: 21:30, Building: Allard, Room: Hall
+Instructor: MORRIS, JOEL
+

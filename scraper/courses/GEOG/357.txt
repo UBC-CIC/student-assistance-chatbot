@@ -1,0 +1,19 @@
+Department: GEOG
+Course Number: 357
+Section: 201
+Description: The development of social and behavioural geography, focusing on how places, landscapes, and environments both reflect and shape social life. Third year standing is recommended.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Geography, Room: 200
+Instructor: KASERMAN, BONNIE
+
+Department: GEOG
+Course Number: 357
+Section: WL2
+Description: The development of social and behavioural geography, focusing on how places, landscapes, and environments both reflect and shape social life. Third year standing is recommended.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

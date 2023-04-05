@@ -1,0 +1,10 @@
+Department: SOWK
+Course Number: 440K
+Section: 001
+Description: Integrative Seminars in Social Work - INTGRTV SEM SOWK
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 18:00, End Time: 21:00, Building: Jack, Room: Bell
+Instructor: KIA, HANNAH
+

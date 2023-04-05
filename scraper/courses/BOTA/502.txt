@@ -1,0 +1,16 @@
+Department: BOTA
+Course Number: 502
+Section: 101
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BOTA
+Course Number: 502
+Section: 201
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

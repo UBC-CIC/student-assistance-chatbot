@@ -1,0 +1,9 @@
+Department: NAME
+Course Number: 578
+Section: 101
+Description: Marine propulsion systems; ship engines; shafting; ship vibrations; on-board systems (piping, HVAC, electrical); advanced propulsion systems.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: AHLGREN, FREDRIK
+

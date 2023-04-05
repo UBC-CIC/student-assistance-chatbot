@@ -1,0 +1,110 @@
+Department: WRDS
+Course Number: 350
+Section: 001
+Description: An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines.
+Pre-reqs: (Restricted to students with at least 3rd-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: B309
+Instructor: MCGEE, ALEXIS
+
+Department: WRDS
+Course Number: 350
+Section: 002
+Description: An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines.
+Pre-reqs: (Restricted to students with at least 3rd-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: D205
+Instructor: SCHANDORF, MICHAEL
+
+Department: WRDS
+Course Number: 350
+Section: 003
+Description: An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines.
+Pre-reqs: (Restricted to students with at least 3rd-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Hennings, Room: 302
+Instructor: DADUGBLOR, STEPHEN
+
+Department: WRDS
+Course Number: 350
+Section: 011
+Description: An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines.
+Pre-reqs: (Restricted to students with at least 3rd-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00
+Instructor: FERREIRA, LAILA
+
+Department: WRDS
+Course Number: 350
+Section: 012
+Description: An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines.
+Pre-reqs: (Restricted to students with at least 3rd-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: D207
+Instructor: MARAJ, LOUIS
+
+Department: WRDS
+Course Number: 350
+Section: W01
+Description: An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines.
+Pre-reqs: (Restricted to students with at least 3rd-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30
+Instructor: TBA
+
+Department: WRDS
+Course Number: 350
+Section: W02
+Description: An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines.
+Pre-reqs: (Restricted to students with at least 3rd-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: TBA
+
+Department: WRDS
+Course Number: 350
+Section: W03
+Description: An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines.
+Pre-reqs: (Restricted to students with at least 3rd-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00
+Instructor: TBA
+
+Department: WRDS
+Course Number: 350
+Section: W11
+Description: An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines.
+Pre-reqs: (Restricted to students with at least 3rd-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00
+Instructor: TBA
+
+Department: WRDS
+Course Number: 350
+Section: W12
+Description: An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines.
+Pre-reqs: (Restricted to students with at least 3rd-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30
+Instructor: TBA
+

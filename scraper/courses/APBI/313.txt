@@ -1,0 +1,11 @@
+Department: APBI
+Course Number: 313
+Section: 001
+Description: Case studies will be used to discover how behavioural principles explain complexity in the behaviour of individual animals and contribute to our understanding of animal welfare..
+Pre-reqs: (Third-year standing or higher. One of PSYC 100, PSYC 101 or PSYC 102 recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: West, Room: Mall
+Instructor: PROTOPOPOVA, ALEXANDRA
+

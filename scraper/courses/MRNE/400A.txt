@@ -1,0 +1,9 @@
+Department: MRNE
+Course Number: 400A
+Section: 611
+Description: A research project approved by the supervisor in the field of interest of the student designed to take advantage of the opportunities offered by the Bamfield Marine Sciences Centre. Note: the supervisor may be teaching at the Marine Centre; or a member of faculty of WCUMSS whether at the Marine Centre as a research investigator or as one of the members of WCUMSS.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,18 @@
+Department: FRE
+Course Number: 530
+Section: 002
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 17:30, End Time: 19:00, Building: MacMillan, Room: 154
+Instructor: NIQUIDET, KURT
+
+Department: FRE
+Course Number: 530
+Section: L02
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:30, End Time: 17:30, Building: MacMillan, Room: 154
+Instructor: NIQUIDET, KURT
+

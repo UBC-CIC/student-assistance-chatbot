@@ -1,0 +1,22 @@
+Department: FOPR
+Course Number: 464
+Section: 201
+Description: A comprehensive overview of operational planning, financial and contractual management. Includes an experiential learning opportunity that focuses on critical thinking and teamwork. These skills combined with the theoretical course content are applied in a practical application with an external stakeholder.
+Pre-reqs: FOPR 362.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: SALMON, LEE
+
+Department: FOPR
+Course Number: 464
+Section: L01
+Description: A comprehensive overview of operational planning, financial and contractual management. Includes an experiential learning opportunity that focuses on critical thinking and teamwork. These skills combined with the theoretical course content are applied in a practical application with an external stakeholder.
+Pre-reqs: FOPR 362.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:30, Building: Forest, Room: Sciences
+Instructor: SALMON, LEE
+

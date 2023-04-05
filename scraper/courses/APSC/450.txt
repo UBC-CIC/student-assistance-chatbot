@@ -1,0 +1,36 @@
+Department: APSC
+Course Number: 450
+Section: 101
+Description: Legislation affecting the practice of engineering; ethical principles and responsibilities. Management of engineering enterprises; labour relations, safety and environmental legislation. Restricted to engineering undergraduate students in the final year of their program.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: DUNBAR, W SCOTT
+
+Department: APSC
+Course Number: 450
+Section: 1W1
+Description: Legislation affecting the practice of engineering; ethical principles and responsibilities. Management of engineering enterprises; labour relations, safety and environmental legislation. Restricted to engineering undergraduate students in the final year of their program.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: APSC
+Course Number: 450
+Section: 201
+Description: Legislation affecting the practice of engineering; ethical principles and responsibilities. Management of engineering enterprises; labour relations, safety and environmental legislation. Restricted to engineering undergraduate students in the final year of their program.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TAGHIPOUR, FARIBORZ
+
+Department: APSC
+Course Number: 450
+Section: 2W1
+Description: Legislation affecting the practice of engineering; ethical principles and responsibilities. Management of engineering enterprises; labour relations, safety and environmental legislation. Restricted to engineering undergraduate students in the final year of their program.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

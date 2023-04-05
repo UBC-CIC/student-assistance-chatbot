@@ -1,0 +1,22 @@
+Department: ECON
+Course Number: 441
+Section: 001
+Description: Industrialization of an agrarian economy; how the West grew rich; history of Japanese development; technical progress and growth; evolution of the patterns of income distribution; role of international trade in development; environment and development.
+Pre-reqs: One of ECON 301, ECON 304, ECON 315.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Iona, Room: Building
+Instructor: SQUIRES, MUNIR
+
+Department: ECON
+Course Number: 441
+Section: 003
+Description: Industrialization of an agrarian economy; how the West grew rich; history of Japanese development; technical progress and growth; evolution of the patterns of income distribution; role of international trade in development; environment and development.
+Pre-reqs: One of ECON 301, ECON 304, ECON 315.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: B213
+Instructor: SQUIRES, MUNIR
+

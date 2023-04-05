@@ -1,0 +1,24 @@
+Department: CHBE
+Course Number: 376
+Section: 201
+Description: Theory and practice of computer flowsheeting in chemical plant design; hands-on use of modern process simulators, prediction of thermodynamic properties of fluids; behaviour of single and multiphase systems. Design of unit operations.
+Pre-reqs: CHBE 241.
+Co-reqs: All of CHBE 345, CHBE 355.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: UBC, Room: Life
+Instructor: MOHAGHEGH MONTAZERI, MAHYAR
+
+Department: CHBE
+Course Number: 376
+Section: T2A
+Description: Theory and practice of computer flowsheeting in chemical plant design; hands-on use of modern process simulators, prediction of thermodynamic properties of fluids; behaviour of single and multiphase systems. Design of unit operations.
+Pre-reqs: CHBE 241.
+Co-reqs: All of CHBE 345, CHBE 355.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Chemical, Room: and
+Instructor: MOHAGHEGH MONTAZERI, MAHYAR
+

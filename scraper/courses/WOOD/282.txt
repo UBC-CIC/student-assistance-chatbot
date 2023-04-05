@@ -1,0 +1,22 @@
+Department: WOOD
+Course Number: 282
+Section: 201
+Description: Wood-moisture relationships, transport phenomena, acoustical and electrical properties of wood. Effects of wood attributes at macro- and micro-levels on the strength properties of solid wood.
+Pre-reqs: WOOD 280.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: AVRAMIDIS, STAVROS
+
+Department: WOOD
+Course Number: 282
+Section: L01
+Description: Wood-moisture relationships, transport phenomena, acoustical and electrical properties of wood. Effects of wood attributes at macro- and micro-levels on the strength properties of solid wood.
+Pre-reqs: WOOD 280.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: AVRAMIDIS, STAVROS
+

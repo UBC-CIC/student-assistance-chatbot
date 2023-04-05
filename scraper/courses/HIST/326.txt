@@ -1,0 +1,9 @@
+Department: HIST
+Course Number: 326
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: D317
+Instructor: LOO, TINA MERRILL
+

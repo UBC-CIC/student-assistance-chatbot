@@ -1,0 +1,21 @@
+Department: KIN
+Course Number: 316
+Section: 001
+Description: Mechanics of muscular contraction and how the mechanical properties of the muscle, ligaments, tendons, and bone work synergistically.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: West, Room: Mall
+Instructor: BLOUIN, JEAN-SEBASTIEN
+
+Department: KIN
+Course Number: 316
+Section: 0W1
+Description: Mechanics of muscular contraction and how the mechanical properties of the muscle, ligaments, tendons, and bone work synergistically.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

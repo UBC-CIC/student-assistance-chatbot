@@ -1,0 +1,33 @@
+Department: THTR
+Course Number: 305
+Section: 001
+Description: Principles and practice of scenery design for the performing arts.
+Pre-reqs: THTR 205.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Neville, Room: Scarfe
+Instructor: RIZZOTTI, PATRICK
+
+Department: THTR
+Course Number: 305
+Section: L01
+Description: Principles and practice of scenery design for the performing arts.
+Pre-reqs: THTR 205.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: Theatre-Film, Room: Production
+Instructor: TBA
+
+Department: THTR
+Course Number: 305
+Section: L02
+Description: Principles and practice of scenery design for the performing arts.
+Pre-reqs: THTR 205.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: TBA
+

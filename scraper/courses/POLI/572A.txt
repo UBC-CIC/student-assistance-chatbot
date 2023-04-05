@@ -1,0 +1,20 @@
+Department: POLI
+Course Number: 572A
+Section: 001
+Description: Quantitative Techniques of Political Analysis - TECH POLI ANLYS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 17:00
+Instructor: OWEN, ANDREW
+
+Department: POLI
+Course Number: 572A
+Section: L1A
+Description: Quantitative Techniques of Political Analysis - TECH POLI ANLYS
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: B312
+Instructor: TBA
+

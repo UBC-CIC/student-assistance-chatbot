@@ -1,0 +1,10 @@
+Department: BEST
+Course Number: 202
+Section: 201
+Description: Introduction to safe, clean, and sustainable supplies of energy. Economic, social, environmental, and policy issues raised by current systems of energy use and production are examined.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 3002
+Instructor: GUTA, DAWIT
+

@@ -1,0 +1,11 @@
+Department: FNH
+Course Number: 375
+Section: 201
+Description: Etiology, pathophysiology, and nutrition therapy for selected diseases and conditions. Topics include metabolism, obesity, eating disorders, diabetes, hypertension, and cardiovascular disease. Restricted to students in year 3 of the dietetics major.
+Pre-reqs: All of FNH 350, FNH 370 and one of BIOL 153, BIOL 155.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:30, Building: MacLeod, Room: 3002
+Instructor: DONATTI CASTRO FALCI, BRUNA
+

@@ -1,0 +1,10 @@
+Department: LING
+Course Number: 518
+Section: 001
+Pre-reqs: One of LING 512, LING 522. (or equivalent.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: TFS, Room: 121
+Instructor: SOSKUTHY, MARTON
+

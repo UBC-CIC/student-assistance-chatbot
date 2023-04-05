@@ -1,0 +1,60 @@
+Department: MATH
+Course Number: 215
+Section: 101
+Description: Elementary Differential Equations I
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.
+Co-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: Buchanan, Room: A103
+Instructor: WACHS, ANTHONY
+
+Department: MATH
+Course Number: 215
+Section: 102
+Description: Elementary Differential Equations I
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.
+Co-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Chemistry, Room: B150
+Instructor: LOEWEN, PHILIP
+
+Department: MATH
+Course Number: 215
+Section: 104
+Description: Elementary Differential Equations I
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.
+Co-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Leonard, Room: S.
+Instructor: LOEWEN, PHILIP
+
+Department: MATH
+Course Number: 215
+Section: 201
+Description: Elementary Differential Equations I
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.
+Co-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Leonard, Room: S.
+Instructor: DANESHI, MASOUD
+
+Department: MATH
+Course Number: 215
+Section: 202
+Description: Elementary Differential Equations I
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.
+Co-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Hennings, Room: 202
+Instructor: TSAI, TAI-PENG
+

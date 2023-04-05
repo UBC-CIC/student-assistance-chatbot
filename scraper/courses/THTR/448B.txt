@@ -1,0 +1,17 @@
+Department: THTR
+Course Number: 448B
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FIRKINS, JACQUELINE
+
+Department: THTR
+Course Number: 448B
+Section: 932
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:00
+Instructor: POWERS, BRADLEY
+

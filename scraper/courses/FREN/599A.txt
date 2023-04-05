@@ -1,0 +1,27 @@
+Department: FREN
+Course Number: 599A
+Section: 001
+Description: Master's Thesis - MASTER'S THESIS
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FREN
+Course Number: 599A
+Section: 101
+Description: Master's Thesis - MASTER'S THESIS
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FREN
+Course Number: 599A
+Section: 201
+Description: Master's Thesis - MASTER'S THESIS
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

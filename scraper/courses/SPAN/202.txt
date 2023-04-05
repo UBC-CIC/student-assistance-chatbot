@@ -1,0 +1,69 @@
+Department: SPAN
+Course Number: 202
+Section: 201
+Pre-reqs: SPAN 201.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Geography, Room: 212
+Instructor: ESCUER RIERA, IRIS
+
+Department: SPAN
+Course Number: 202
+Section: 202
+Pre-reqs: SPAN 201.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D314
+Instructor: CARBONETTI, MARIA
+
+Department: SPAN
+Course Number: 202
+Section: 203
+Pre-reqs: SPAN 201.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00
+Instructor: CARBONETTI, MARIA
+
+Department: SPAN
+Course Number: 202
+Section: 204
+Pre-reqs: SPAN 201.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B208
+Instructor: ESCOBAR TRUJILLO, MARIA ADELAIDA
+
+Department: SPAN
+Course Number: 202
+Section: 205
+Pre-reqs: SPAN 201.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: B209
+Instructor: SPACCIANTE, STEPHANIE
+
+Department: SPAN
+Course Number: 202
+Section: 206
+Pre-reqs: SPAN 201.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Leon, Room: and
+Instructor: SPACCIANTE, STEPHANIE
+
+Department: SPAN
+Course Number: 202
+Section: W02
+Pre-reqs: SPAN 201.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: TBA
+

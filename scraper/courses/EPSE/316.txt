@@ -1,0 +1,31 @@
+Department: EPSE
+Course Number: 316
+Section: 074
+Description: Identification, assessment and needs of children with learning disabilities.
+Pre-reqs: One of EPSE 312, EPSE 317.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EPSE
+Course Number: 316
+Section: 075
+Description: Identification, assessment and needs of children with learning disabilities.
+Pre-reqs: One of EPSE 312, EPSE 317.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: HEIKKILA, MARY
+
+Department: EPSE
+Course Number: 316
+Section: W75
+Description: Identification, assessment and needs of children with learning disabilities.
+Pre-reqs: One of EPSE 312, EPSE 317.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

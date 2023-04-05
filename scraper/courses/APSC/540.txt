@@ -1,0 +1,10 @@
+Department: APSC
+Course Number: 540
+Section: 101
+Description: Issues and case studies in creating and running ventures, with a particular emphasis on exploring applied science projects through a new venture lens, strategic planning, finance and risk.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Food,, Room: Nutrition
+Instructor: ETMANNSKI, TAMARA
+

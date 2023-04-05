@@ -1,0 +1,11 @@
+Department: UFOR
+Course Number: 403
+Section: 201
+Description: Ecological principles relevant to restoration of ecosystems are applied to the restoration of several types of ecosystems.
+Pre-reqs: One of FRST 201, BIOL 230. (And third year standing)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30
+Instructor: PRESCOTT, CINDY
+

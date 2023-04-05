@@ -1,0 +1,10 @@
+Department: BIOC
+Course Number: 558
+Section: 001
+Description: Contemporary theoretical and experimental investigation of protein structure-function relationships. Topics will vary.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: P., Room: A.
+Instructor: VAN PETEGEM, FILIP
+

@@ -1,0 +1,43 @@
+Department: MECH
+Course Number: 328
+Section: 101
+Description: Applying the design process, making educated assumptions and decisions, and working in teams to provide a new mechanical design. Weekly lecture discussing product development and various factors affecting the design.
+Pre-reqs: MECH 223. ((And third year standing in Mechanical Engineering))
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: West, Room: Mall
+Instructor: FENGLER, MARKUS
+
+Department: MECH
+Course Number: 328
+Section: L1A
+Description: Applying the design process, making educated assumptions and decisions, and working in teams to provide a new mechanical design. Weekly lecture discussing product development and various factors affecting the design.
+Pre-reqs: MECH 223. ((And third year standing in Mechanical Engineering))
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:00, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: MECH
+Course Number: 328
+Section: T1A
+Description: Applying the design process, making educated assumptions and decisions, and working in teams to provide a new mechanical design. Weekly lecture discussing product development and various factors affecting the design.
+Pre-reqs: MECH 223. ((And third year standing in Mechanical Engineering))
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: West, Room: Mall
+Instructor: TBA
+
+Department: MECH
+Course Number: 328
+Section: WL1
+Description: Applying the design process, making educated assumptions and decisions, and working in teams to provide a new mechanical design. Weekly lecture discussing product development and various factors affecting the design.
+Pre-reqs: MECH 223. ((And third year standing in Mechanical Engineering))
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

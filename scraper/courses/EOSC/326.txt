@@ -1,0 +1,29 @@
+Department: EOSC
+Course Number: 326
+Section: 101
+Pre-reqs: (Biology 100-level and third-year standing in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Chemistry, Room: D300
+Instructor: LUKES, LAURA
+
+Department: EOSC
+Course Number: 326
+Section: 99C
+Description: Earth and Life Through Time
+Pre-reqs: (Biology 100-level and third-year standing in Science.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: LONGRIDGE, LOUISE
+
+Department: EOSC
+Course Number: 326
+Section: WL1
+Pre-reqs: (Biology 100-level and third-year standing in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 514A
+Section: 001
+Description: Comparative Western Governments - COMP WEST GOVT
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: JEONG, GYUNG-HO
+

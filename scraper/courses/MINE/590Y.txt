@@ -1,0 +1,11 @@
+Department: MINE
+Course Number: 590Y
+Section: 101
+Description: A special advanced course may be arranged upon the approval of the department head.
+Pre-reqs: (Permission of instructor is required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: MacMillan, Room: 160
+Instructor: GHOREISHI-MADISEH, SEYED
+

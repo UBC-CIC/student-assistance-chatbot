@@ -1,0 +1,11 @@
+Department: BIOC
+Course Number: 501B
+Section: 202
+Description: Practical applications of advanced biochemical techniques. Admission is limited and is by permission of the department head.
+Co-reqs: BIOC 404.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:30, End Time: 17:30, Building: Biological, Room: Sciences
+Instructor: COVEY, SCOTT
+

@@ -1,0 +1,30 @@
+Department: EDUC
+Course Number: 495C
+Section: 603
+Description: Pass/Fail.
+Pre-reqs: (Completion of recent elementary teaching methods courses in the subjects to be taught.)
+Credits: 8
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDUC
+Course Number: 495C
+Section: 623
+Description: Pass/Fail.
+Pre-reqs: (Completion of recent elementary teaching methods courses in the subjects to be taught.)
+Credits: 8
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDUC
+Course Number: 495C
+Section: 640
+Description: Pass/Fail.
+Pre-reqs: (Completion of recent elementary teaching methods courses in the subjects to be taught.)
+Credits: 8
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

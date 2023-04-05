@@ -1,0 +1,20 @@
+Department: ARCH
+Course Number: 549
+Section: 001
+Description: Design component, completion, and defense of the graduation design project. Honours/Pass/Fail.
+Pre-reqs: ARCH 548. (and no more than 18 credits outstanding beyond ARCH 549)
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MEYBOOM, ANNALISA
+
+Department: ARCH
+Course Number: 549
+Section: 003
+Description: Design component, completion, and defense of the graduation design project. Honours/Pass/Fail.
+Pre-reqs: ARCH 548. (and no more than 18 credits outstanding beyond ARCH 549)
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MEYBOOM, ANNALISA
+

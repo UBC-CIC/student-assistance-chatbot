@@ -1,0 +1,11 @@
+Department: PHIL
+Course Number: 323A
+Section: 001
+Description: One or more of conditional logic, deontic logic, epistemic logic, many-valued logic, systems of belief dynamics.
+Pre-reqs: PHIL 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Mathematics, Room: 204
+Instructor: GILBERT, DAVID ROBERT
+

@@ -1,0 +1,22 @@
+Department: GERM
+Course Number: 210
+Section: 002
+Description: Intermediate German II
+Pre-reqs: GERM 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D312
+Instructor: HEMPEN, DANIELA
+
+Department: GERM
+Course Number: 210
+Section: 003
+Description: Intermediate German II
+Pre-reqs: GERM 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B209
+Instructor: FALLER, FLORIAN
+

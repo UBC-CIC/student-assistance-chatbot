@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 341A
+Section: 002
+Description: Museums, galleries, monuments, and other cultural institutions' relations to our perception of history and geography.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: B208
+Instructor: BALCOMBE, ERIKA
+

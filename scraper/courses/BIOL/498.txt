@@ -1,0 +1,18 @@
+Department: BIOL
+Course Number: 498
+Section: 510
+Description: Work experience in an industrial research setting, taken during the Summer Session (Terms 1 and 2) following fourth year. Restricted to students admitted to the Co-operative Education Program in Biology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BIOL
+Course Number: 498
+Section: 610
+Description: Work experience in an industrial research setting, taken during the Summer Session (Terms 1 and 2) following fourth year. Restricted to students admitted to the Co-operative Education Program in Biology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

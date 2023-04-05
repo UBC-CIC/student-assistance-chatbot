@@ -1,0 +1,33 @@
+Department: GEOS
+Course Number: 308
+Section: 201
+Description: Quaternary landscape development emphasizing the history of glaciation with special reference to western North America; applications of geomorphology in resource development and land management; interpretation of Quaternary materials.
+Pre-reqs: One of EOSC 320, EOSC 330, GEOB 206, GEOS 206.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Geography, Room: 101
+Instructor: KOPPES, MICHELE
+
+Department: GEOS
+Course Number: 308
+Section: L2A
+Description: Quaternary landscape development emphasizing the history of glaciation with special reference to western North America; applications of geomorphology in resource development and land management; interpretation of Quaternary materials.
+Pre-reqs: One of EOSC 320, EOSC 330, GEOB 206, GEOS 206.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 14:00, Building: Geography, Room: 130
+Instructor: KOPPES, MICHELE
+
+Department: GEOS
+Course Number: 308
+Section: L2C
+Description: Quaternary landscape development emphasizing the history of glaciation with special reference to western North America; applications of geomorphology in resource development and land management; interpretation of Quaternary materials.
+Pre-reqs: One of EOSC 320, EOSC 330, GEOB 206, GEOS 206.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: Geography, Room: 215D
+Instructor: KOPPES, MICHELE
+

@@ -1,0 +1,35 @@
+Department: ETEC
+Course Number: 521
+Section: 61A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SHILLING, AMBER
+
+Department: ETEC
+Course Number: 521
+Section: 61B
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Start Time: Sat^, End Time: 9:00, Building: 13:00
+Instructor: GALLA, CANDACE
+
+Department: ETEC
+Course Number: 521
+Section: 64A
+Description: Indigeneity, Technology, and Education
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HARDMAN, SHIRLEY
+
+Department: ETEC
+Course Number: 521
+Section: W4A
+Description: Indigeneity, Technology, and Education
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

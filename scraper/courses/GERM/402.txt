@@ -1,0 +1,10 @@
+Department: GERM
+Course Number: 402
+Section: 001
+Description: Words and Music in German Literature (in English)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: B307
+Instructor: GASSNER, FLORIAN
+

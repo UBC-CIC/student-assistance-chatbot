@@ -1,0 +1,42 @@
+Department: MTRL
+Course Number: 251
+Section: 101
+Description: Behaviour of solutions, phase diagrams, electrochemistry, chemical potential and free energy diagrams applied to materials processing and thermodynamic modelling.
+Pre-reqs: MTRL 250.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MTRL
+Course Number: 251
+Section: 201
+Description: Behaviour of solutions, phase diagrams, electrochemistry, chemical potential and free energy diagrams applied to materials processing and thermodynamic modelling.
+Pre-reqs: MTRL 250.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: West, Room: Mall
+Instructor: DEHKHODA, AMIR MEHDI
+
+Department: MTRL
+Course Number: 251
+Section: T1A
+Description: Behaviour of solutions, phase diagrams, electrochemistry, chemical potential and free energy diagrams applied to materials processing and thermodynamic modelling.
+Pre-reqs: MTRL 250.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MTRL
+Course Number: 251
+Section: TA2
+Description: Behaviour of solutions, phase diagrams, electrochemistry, chemical potential and free energy diagrams applied to materials processing and thermodynamic modelling.
+Pre-reqs: MTRL 250.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: West, Room: Mall
+Instructor: LIU, WENYING
+

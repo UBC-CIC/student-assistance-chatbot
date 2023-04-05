@@ -1,0 +1,8 @@
+Department: OSOT
+Course Number: 547
+Section: 001
+Description: Enhances knowledge of research (or program evaluation) process and provides hands-on experience to create, inform, and disseminate evidence relevant to occupational science or occupational therapy.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

@@ -1,0 +1,69 @@
+Department: CPEN
+Course Number: 291
+Section: 201
+Description: Design projects involving hardware (electronic devices and circuits, microcomputers) and software.
+Pre-reqs: CPEN 211.
+Co-reqs: ELEC 201.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Earth, Room: Sciences
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 291
+Section: L2A
+Description: Design projects involving hardware (electronic devices and circuits, microcomputers) and software.
+Pre-reqs: CPEN 211.
+Co-reqs: ELEC 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 8:00, End Time: 11:00, Building: MacLeod, Room: 2038
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 291
+Section: L2B
+Description: Design projects involving hardware (electronic devices and circuits, microcomputers) and software.
+Pre-reqs: CPEN 211.
+Co-reqs: ELEC 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 11:00, Building: MacLeod, Room: 2038
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 291
+Section: 2W1
+Description: Design projects involving hardware (electronic devices and circuits, microcomputers) and software.
+Pre-reqs: CPEN 211.
+Co-reqs: ELEC 201.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 291
+Section: LWA
+Description: Design projects involving hardware (electronic devices and circuits, microcomputers) and software.
+Pre-reqs: CPEN 211.
+Co-reqs: ELEC 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 291
+Section: LWB
+Description: Design projects involving hardware (electronic devices and circuits, microcomputers) and software.
+Pre-reqs: CPEN 211.
+Co-reqs: ELEC 201.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

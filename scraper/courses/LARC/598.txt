@@ -1,0 +1,11 @@
+Department: LARC
+Course Number: 598
+Section: 001
+Description: Design component, completion, and defense of the graduation design project.
+Pre-reqs: LARC 595.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Fri, Start Time: 13:30, End Time: 18:00
+Instructor: HERRINGTON, SUSAN
+

@@ -1,0 +1,11 @@
+Department: ASIC
+Course Number: 200
+Section: BA2
+Description: Global Issues in the Arts and Sciences
+Pre-reqs: (Second year standing in the Faculty of Arts or Faculty of Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 18:00, End Time: 21:00, Building: To, Room: Be
+Instructor: NG, DAVID
+

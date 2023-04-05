@@ -1,0 +1,44 @@
+Department: BIOL
+Course Number: 372
+Section: 101
+Description: Examination of the neural systems underlying sensation, action, and complex behaviours using representative vertebrate and invertebrate species.
+Pre-reqs: BIOL 371.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Biological, Room: Sciences
+Instructor: GORDON, MICHAEL
+
+Department: BIOL
+Course Number: 372
+Section: 1W1
+Description: Examination of the neural systems underlying sensation, action, and complex behaviours using representative vertebrate and invertebrate species.
+Pre-reqs: BIOL 371.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30
+Instructor: TBA
+
+Department: BIOL
+Course Number: 372
+Section: 201
+Description: Examination of the neural systems underlying sensation, action, and complex behaviours using representative vertebrate and invertebrate species.
+Pre-reqs: BIOL 371.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Leonard, Room: S.
+Instructor: MATTHEWS, BENJAMIN
+
+Department: BIOL
+Course Number: 372
+Section: 2W1
+Description: Examination of the neural systems underlying sensation, action, and complex behaviours using representative vertebrate and invertebrate species.
+Pre-reqs: BIOL 371.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: TBA
+

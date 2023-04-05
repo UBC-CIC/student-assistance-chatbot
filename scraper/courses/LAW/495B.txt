@@ -1,0 +1,9 @@
+Department: LAW
+Course Number: 495B
+Section: 004
+Description: Enrolment restricted.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LEBARON, MICHELLE
+

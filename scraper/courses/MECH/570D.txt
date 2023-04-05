@@ -1,0 +1,9 @@
+Department: MECH
+Course Number: 570D
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Civil, Room: and
+Instructor: KIRCHEN, PATRICK
+

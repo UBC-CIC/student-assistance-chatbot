@@ -1,0 +1,21 @@
+Department: KIN
+Course Number: 442
+Section: 901
+Description: Processes, techniques and considerations in the planning, implementation and evaluation of physical education, sport and exercise programs in both public and private agencies.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 20:00, Building: Biological, Room: Sciences
+Instructor: SAMUHEL-COREWYN, JANKA
+
+Department: KIN
+Course Number: 442
+Section: 9W1
+Description: Processes, techniques and considerations in the planning, implementation and evaluation of physical education, sport and exercise programs in both public and private agencies.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

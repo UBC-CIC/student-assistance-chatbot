@@ -1,0 +1,21 @@
+Department: EDCP
+Course Number: 302A
+Section: 301
+Description: Pass/Fail.
+Pre-reqs: (A concentration in art or permission of the Head.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: RYOO, ANNA
+
+Department: EDCP
+Course Number: 302A
+Section: 640
+Description: Pass/Fail.
+Pre-reqs: (A concentration in art or permission of the Head.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

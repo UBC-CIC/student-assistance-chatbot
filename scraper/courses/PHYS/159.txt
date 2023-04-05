@@ -1,0 +1,262 @@
+Department: PHYS
+Course Number: 159
+Section: 9AR
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 159
+Section: L2A
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: Hebb, Room: 218
+Instructor: YE, ZILIANG
+
+Department: PHYS
+Course Number: 159
+Section: L2B
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 11:00, Building: Hebb, Room: 218
+Instructor: REZAIE, ERFAN
+
+Department: PHYS
+Course Number: 159
+Section: L2C
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Hebb, Room: 218
+Instructor: KANJILAL, CHIRONJEEV
+
+Department: PHYS
+Course Number: 159
+Section: L2E
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: REZAIE, ERFAN
+
+Department: PHYS
+Course Number: 159
+Section: L2F
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: KANJILAL, CHIRONJEEV
+
+Department: PHYS
+Course Number: 159
+Section: L2G
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 218
+Instructor: KANJILAL, CHIRONJEEV
+
+Department: PHYS
+Course Number: 159
+Section: L2J
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:30, End Time: 19:30, Building: Hebb, Room: 218
+Instructor: BURKE, SARAH
+
+Department: PHYS
+Course Number: 159
+Section: L2K
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:30, End Time: 19:30, Building: Hebb, Room: 218
+Instructor: BURKE, SARAH
+
+Department: PHYS
+Course Number: 159
+Section: L2T
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 12:00, Building: Hebb, Room: 218
+Instructor: BURKE, SARAH
+
+Department: PHYS
+Course Number: 159
+Section: L2U
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: BURKE, SARAH
+
+Department: PHYS
+Course Number: 159
+Section: L2X
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:30, End Time: 19:30, Building: Hebb, Room: 218
+Instructor: YE, ZILIANG
+
+Department: PHYS
+Course Number: 159
+Section: LB2
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 11:00, Building: Hebb, Room: 216
+Instructor: KANJILAL, CHIRONJEEV
+
+Department: PHYS
+Course Number: 159
+Section: LC2
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Hebb, Room: 216
+Instructor: MASSEY ALLARD, JONATHAN
+
+Department: PHYS
+Course Number: 159
+Section: LE2
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Hebb, Room: 216
+Instructor: DIERKER, STEVEN
+
+Department: PHYS
+Course Number: 159
+Section: LF2
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Hebb, Room: 216
+Instructor: MASSEY ALLARD, JONATHAN
+
+Department: PHYS
+Course Number: 159
+Section: LG2
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 216
+Instructor: YE, ZILIANG
+
+Department: PHYS
+Course Number: 159
+Section: LJ2
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:30, End Time: 19:30, Building: Hebb, Room: 216
+Instructor: REZAIE, ERFAN
+
+Department: PHYS
+Course Number: 159
+Section: LK2
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:30, End Time: 19:30, Building: Hebb, Room: 216
+Instructor: BURKE, SARAH
+
+Department: PHYS
+Course Number: 159
+Section: LT2
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 12:00, Building: Hebb, Room: 216
+Instructor: DIERKER, STEVEN
+
+Department: PHYS
+Course Number: 159
+Section: LU2
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: Hebb, Room: 216
+Instructor: DIERKER, STEVEN
+
+Department: PHYS
+Course Number: 159
+Section: LWL
+Description: A laboratory course with emphasis on experimental design, measurement and analysis techniques.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of PHYS 157, PHYS 158.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

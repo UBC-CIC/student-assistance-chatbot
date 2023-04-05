@@ -1,0 +1,10 @@
+Department: LWS
+Course Number: 550
+Section: 001
+Description: Communication strategies for natural resource management professionals, with an emphasis on written, oral and digital media communications in a multi-stakeholder context.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: MacMillan, Room: 258
+Instructor: LAVKULICH, LESLIE
+

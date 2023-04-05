@@ -1,0 +1,31 @@
+Department: ELEC
+Course Number: 271
+Section: 101
+Description: Effective communication in a multi-disciplinary environment, introduction to emerging areas of biomedical engineering and biotechnology, ethics, and responsibility. Restricted to students admitted to the Biomedical Engineering program in Electrical Engineering.
+Co-reqs: ELEC 202.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Civil, Room: and
+Instructor: BAYAT, SHARAREH
+
+Department: ELEC
+Course Number: 271
+Section: 1W1
+Description: Effective communication in a multi-disciplinary environment, introduction to emerging areas of biomedical engineering and biotechnology, ethics, and responsibility. Restricted to students admitted to the Biomedical Engineering program in Electrical Engineering.
+Co-reqs: ELEC 202.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 271
+Section: 2W1
+Description: Effective communication in a multi-disciplinary environment, introduction to emerging areas of biomedical engineering and biotechnology, ethics, and responsibility. Restricted to students admitted to the Biomedical Engineering program in Electrical Engineering.
+Co-reqs: ELEC 202.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

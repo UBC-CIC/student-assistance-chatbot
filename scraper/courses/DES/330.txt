@@ -1,0 +1,11 @@
+Department: DES
+Course Number: 330
+Section: 002
+Description: Basic structural systems in the built world including wood, steel, concrete, composite systems and essential structural logics of soil retention systems and drainage.
+Pre-reqs: All of DES 231, DES 232.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: POTVIN, JOSHUA
+

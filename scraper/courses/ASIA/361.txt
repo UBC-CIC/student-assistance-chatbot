@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 361
+Section: 001
+Description: A thematic survey of modern Chinese fiction and film in translation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: Buchanan, Room: D218
+Instructor: WU, MENG
+
+Department: ASIA
+Course Number: 361
+Section: W01
+Description: A thematic survey of modern Chinese fiction and film in translation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: To, Room: Be
+Instructor: WU, MENG
+

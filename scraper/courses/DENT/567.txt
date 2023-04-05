@@ -1,0 +1,9 @@
+Department: DENT
+Course Number: 567
+Section: 001
+Description: Continues in second year.
+Credits: 8
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: PLISKA, BENJAMIN
+

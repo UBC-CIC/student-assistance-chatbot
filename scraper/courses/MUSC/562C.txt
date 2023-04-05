@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 562C
+Section: 001
+Description: Open only to graduate students.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:30, End Time: 17:00, Building: Music, Room: 338
+Instructor: NOLAN, JULIA
+

@@ -1,0 +1,88 @@
+Department: VISA
+Course Number: 241
+Section: 001
+Description: Introduction to digital photography image creation in relation to contemporary art. Emphasis on digital camera use, file management, and digital print production. Only one of VISA 240 or VISA 241 may be used toward requirements for Major, Minor, or Honours programs in Visual Art.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183; or BMS student and VISA 110.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: B.C., Room: Binnings
+Instructor: BALUTA, DAMLA
+
+Department: VISA
+Course Number: 241
+Section: 002
+Description: Introduction to digital photography image creation in relation to contemporary art. Emphasis on digital camera use, file management, and digital print production. Only one of VISA 240 or VISA 241 may be used toward requirements for Major, Minor, or Honours programs in Visual Art.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183; or BMS student and VISA 110.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: B.C., Room: Binnings
+Instructor: MITCHELL, KARICE
+
+Department: VISA
+Course Number: 241
+Section: 003
+Description: Introduction to digital photography image creation in relation to contemporary art. Emphasis on digital camera use, file management, and digital print production. Only one of VISA 240 or VISA 241 may be used toward requirements for Major, Minor, or Honours programs in Visual Art.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183; or BMS student and VISA 110.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: B.C., Room: Binnings
+Instructor: MITCHELL, KARICE
+
+Department: VISA
+Course Number: 241
+Section: 01W
+Description: Introduction to digital photography image creation in relation to contemporary art. Emphasis on digital camera use, file management, and digital print production. Only one of VISA 240 or VISA 241 may be used toward requirements for Major, Minor, or Honours programs in Visual Art.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183; or BMS student and VISA 110.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: VISA
+Course Number: 241
+Section: 02W
+Description: Introduction to digital photography image creation in relation to contemporary art. Emphasis on digital camera use, file management, and digital print production. Only one of VISA 240 or VISA 241 may be used toward requirements for Major, Minor, or Honours programs in Visual Art.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183; or BMS student and VISA 110.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00
+Instructor: TBA
+
+Department: VISA
+Course Number: 241
+Section: 03W
+Description: Introduction to digital photography image creation in relation to contemporary art. Emphasis on digital camera use, file management, and digital print production. Only one of VISA 240 or VISA 241 may be used toward requirements for Major, Minor, or Honours programs in Visual Art.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183; or BMS student and VISA 110.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: TBA
+
+Department: VISA
+Course Number: 241
+Section: 227
+Description: Introduction to digital photography image creation in relation to contemporary art. Emphasis on digital camera use, file management, and digital print production. Only one of VISA 240 or VISA 241 may be used toward requirements for Major, Minor, or Honours programs in Visual Art.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183; or BMS student and VISA 110.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: B.C., Room: Binnings
+Instructor: BARBOSA, ALEJANDRO
+
+Department: VISA
+Course Number: 241
+Section: 228
+Description: Introduction to digital photography image creation in relation to contemporary art. Emphasis on digital camera use, file management, and digital print production. Only one of VISA 240 or VISA 241 may be used toward requirements for Major, Minor, or Honours programs in Visual Art.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183; or BMS student and VISA 110.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: B.C., Room: Binnings
+Instructor: AHADI, MOHAMMAD ALI
+

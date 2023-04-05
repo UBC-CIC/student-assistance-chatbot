@@ -1,0 +1,10 @@
+Department: BIOL
+Course Number: 509
+Section: 201
+Description: Population and Quantitative Genetics
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Jack, Room: Bell
+Instructor: WHITLOCK, MICHAEL
+

@@ -1,0 +1,65 @@
+Department: MICB
+Course Number: 301
+Section: 101
+Description: Dynamics and control of prokaryotic cellular processes in response to the biotic and abiotic environment including metabolic interactions and metabolic cooperation between microorganisms.
+Pre-reqs: Either (a) one of MICB 211, MICB 201 and one of BIOL 201, BIOC 202, BIOC 203; or (b) BIOT 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: P., Room: A.
+Instructor: ELTIS, LINDSAY
+
+Department: MICB
+Course Number: 301
+Section: T01
+Description: Dynamics and control of prokaryotic cellular processes in response to the biotic and abiotic environment including metabolic interactions and metabolic cooperation between microorganisms.
+Pre-reqs: Either (a) one of MICB 211, MICB 201 and one of BIOL 201, BIOC 202, BIOC 203; or (b) BIOT 380.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Civil, Room: and
+Instructor: TBA
+
+Department: MICB
+Course Number: 301
+Section: T02
+Description: Dynamics and control of prokaryotic cellular processes in response to the biotic and abiotic environment including metabolic interactions and metabolic cooperation between microorganisms.
+Pre-reqs: Either (a) one of MICB 211, MICB 201 and one of BIOL 201, BIOC 202, BIOC 203; or (b) BIOT 380.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: TBA
+
+Department: MICB
+Course Number: 301
+Section: T03
+Description: Dynamics and control of prokaryotic cellular processes in response to the biotic and abiotic environment including metabolic interactions and metabolic cooperation between microorganisms.
+Pre-reqs: Either (a) one of MICB 211, MICB 201 and one of BIOL 201, BIOC 202, BIOC 203; or (b) BIOT 380.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Frank, Room: Forward
+Instructor: TBA
+
+Department: MICB
+Course Number: 301
+Section: T04
+Description: Dynamics and control of prokaryotic cellular processes in response to the biotic and abiotic environment including metabolic interactions and metabolic cooperation between microorganisms.
+Pre-reqs: Either (a) one of MICB 211, MICB 201 and one of BIOL 201, BIOC 202, BIOC 203; or (b) BIOT 380.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Frank, Room: Forward
+Instructor: TBA
+
+Department: MICB
+Course Number: 301
+Section: WL1
+Description: Dynamics and control of prokaryotic cellular processes in response to the biotic and abiotic environment including metabolic interactions and metabolic cooperation between microorganisms.
+Pre-reqs: Either (a) one of MICB 211, MICB 201 and one of BIOL 201, BIOC 202, BIOC 203; or (b) BIOT 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

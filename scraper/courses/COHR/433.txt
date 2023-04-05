@@ -1,0 +1,11 @@
+Department: COHR
+Course Number: 433
+Section: 201
+Description: Introduction to legislation and application of legal principles that govern the employment relationship.
+Pre-reqs: All of COMM 203, COMM 393.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: COOKE, ELISABETH
+

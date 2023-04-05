@@ -1,0 +1,54 @@
+Department: PHYS
+Course Number: 319
+Section: 201
+Description: A project-oriented lab introducing the design and construction of microprocessor-controlled devices.
+Pre-reqs: One of PHYS 209, PHYS 219, ENPH 259.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:30, End Time: 12:30, Building: Hebb, Room: B112
+Instructor: KOTLICKI, ANDRZEJ
+
+Department: PHYS
+Course Number: 319
+Section: L2A
+Description: A project-oriented lab introducing the design and construction of microprocessor-controlled devices.
+Pre-reqs: One of PHYS 209, PHYS 219, ENPH 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 18:00, Building: Hebb, Room: 416
+Instructor: KOTLICKI, ANDRZEJ
+
+Department: PHYS
+Course Number: 319
+Section: L2B
+Description: A project-oriented lab introducing the design and construction of microprocessor-controlled devices.
+Pre-reqs: One of PHYS 209, PHYS 219, ENPH 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 18:00, Building: Hebb, Room: 416
+Instructor: KOTLICKI, ANDRZEJ
+
+Department: PHYS
+Course Number: 319
+Section: L2C
+Description: A project-oriented lab introducing the design and construction of microprocessor-controlled devices.
+Pre-reqs: One of PHYS 209, PHYS 219, ENPH 259.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 18:00, Building: Hebb, Room: 416
+Instructor: KOTLICKI, ANDRZEJ
+
+Department: PHYS
+Course Number: 319
+Section: 20W
+Description: A project-oriented lab introducing the design and construction of microprocessor-controlled devices.
+Pre-reqs: One of PHYS 209, PHYS 219, ENPH 259.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

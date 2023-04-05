@@ -1,0 +1,11 @@
+Department: FIPR
+Course Number: 433
+Section: 001
+Description: Advanced film and media production.
+Pre-reqs: One of FIPR 333, FILM 333.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 13:00, Building: Theatre-Film, Room: Production
+Instructor: DRLJACA, IGOR
+

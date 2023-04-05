@@ -1,0 +1,11 @@
+Department: PHAR
+Course Number: 380
+Section: 001
+Description: Preliminary skills and concepts for planning, delivering and critiquing a scientific presentation using selected topics in the pharmaceutical sciences.
+Pre-reqs: PHAR 280.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Pharmaceutical, Room: Sciences
+Instructor: KALRA, JESSICA
+

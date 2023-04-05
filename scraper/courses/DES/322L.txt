@@ -1,0 +1,19 @@
+Department: DES
+Course Number: 322L
+Section: 001
+Pre-reqs: DES 320.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B219
+Instructor: VUJOSEVIC, TIJANA
+
+Department: DES
+Course Number: 322L
+Section: WL1
+Pre-reqs: DES 320.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: VUJOSEVIC, TIJANA
+

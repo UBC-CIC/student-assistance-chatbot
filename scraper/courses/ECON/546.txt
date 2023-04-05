@@ -1,0 +1,18 @@
+Department: ECON
+Course Number: 546
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:30, Building: Buchanan, Room: B308
+Instructor: HNATKOVSKA, VIKTORIYA
+
+Department: ECON
+Course Number: 546
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:30
+Instructor: TBA
+

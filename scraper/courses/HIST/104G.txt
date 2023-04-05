@@ -1,0 +1,50 @@
+Department: HIST
+Course Number: 104G
+Section: 201
+Description: Thematically-organized topics will explore global aspects of human experience across time. Each section will examine a single theme. Check with the department for course offerings.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B215
+Instructor: AGOV, AVRAM
+
+Department: HIST
+Course Number: 104G
+Section: L01
+Description: Thematically-organized topics will explore global aspects of human experience across time. Each section will examine a single theme. Check with the department for course offerings.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B219
+Instructor: AGOV, AVRAM
+
+Department: HIST
+Course Number: 104G
+Section: L02
+Description: Thematically-organized topics will explore global aspects of human experience across time. Each section will examine a single theme. Check with the department for course offerings.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Allard, Room: Hall
+Instructor: AGOV, AVRAM
+
+Department: HIST
+Course Number: 104G
+Section: L03
+Description: Thematically-organized topics will explore global aspects of human experience across time. Each section will examine a single theme. Check with the department for course offerings.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Allard, Room: Hall
+Instructor: AGOV, AVRAM
+
+Department: HIST
+Course Number: 104G
+Section: L04
+Description: Thematically-organized topics will explore global aspects of human experience across time. Each section will examine a single theme. Check with the department for course offerings.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Allard, Room: Hall
+Instructor: AGOV, AVRAM
+

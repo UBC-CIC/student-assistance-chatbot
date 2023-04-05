@@ -1,0 +1,11 @@
+Department: BEST
+Course Number: 301
+Section: 101
+Description: Interdisciplinary approach to bioenergy. The technology of the systems involved, the social and environmental implications of biomass use for energy systems.
+Pre-reqs: BEST 202.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Robert, Room: F.
+Instructor: ZERRIFFI, HISHAM
+

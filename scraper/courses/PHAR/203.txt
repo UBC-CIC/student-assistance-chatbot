@@ -1,0 +1,50 @@
+Department: PHAR
+Course Number: 203
+Section: 001
+Description: Theoretical and practical knowledge of biopharmaceuticals, pharmaceutics, formulations, nanomedicine, and precision medicine as they apply to pharmaceutical sciences.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: Pharmaceutical, Room: Sciences
+Instructor: HAFELI, URS
+
+Department: PHAR
+Course Number: 203
+Section: L01
+Description: Theoretical and practical knowledge of biopharmaceuticals, pharmaceutics, formulations, nanomedicine, and precision medicine as they apply to pharmaceutical sciences.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Tue*, End Time: 8:00, Building: 12:00, Room: Pharmaceutical
+Instructor: SMITH, ALEXANDER
+
+Department: PHAR
+Course Number: 203
+Section: L02
+Description: Theoretical and practical knowledge of biopharmaceuticals, pharmaceutics, formulations, nanomedicine, and precision medicine as they apply to pharmaceutical sciences.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Thu*, End Time: 8:00, Building: 12:00, Room: Pharmaceutical
+Instructor: SMITH, ALEXANDER
+
+Department: PHAR
+Course Number: 203
+Section: L03
+Description: Theoretical and practical knowledge of biopharmaceuticals, pharmaceutics, formulations, nanomedicine, and precision medicine as they apply to pharmaceutical sciences.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Tue^, End Time: 8:00, Building: 12:00, Room: Pharmaceutical
+Instructor: SMITH, ALEXANDER
+
+Department: PHAR
+Course Number: 203
+Section: L04
+Description: Theoretical and practical knowledge of biopharmaceuticals, pharmaceutics, formulations, nanomedicine, and precision medicine as they apply to pharmaceutical sciences.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Thu^, End Time: 8:00, Building: 12:00, Room: Pharmaceutical
+Instructor: SMITH, ALEXANDER
+

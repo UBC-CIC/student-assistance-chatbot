@@ -1,0 +1,12 @@
+Department: NURS
+Course Number: 303
+Section: 001
+Description: Theory informing a life course perspective on nursing practice with people living with mental health challenges and their families is introduced.
+Pre-reqs: All of NURS 300, NURS 310, NURS 321, NURS 322, NURS 330, NURS 352, NURS 360.
+Co-reqs: NURS 363 and one of NURS 323, NURS 401.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: HIRANI, SAIMA
+

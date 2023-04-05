@@ -1,0 +1,50 @@
+Department: HIST
+Course Number: 425
+Section: 001
+Description: Continuity and change in the relations of war and society, the connections between the economy, society, the military, and government in peacetime as well as war; not a course in military history.
+Credits: 6
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Chemistry, Room: C126
+Instructor: FAIREY, JACK
+
+Department: HIST
+Course Number: 425
+Section: L1A
+Description: Continuity and change in the relations of war and society, the connections between the economy, society, the military, and government in peacetime as well as war; not a course in military history.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: D315
+Instructor: FAIREY, JACK
+
+Department: HIST
+Course Number: 425
+Section: L1B
+Description: Continuity and change in the relations of war and society, the connections between the economy, society, the military, and government in peacetime as well as war; not a course in military history.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Frederic, Room: Lasserre
+Instructor: FAIREY, JACK
+
+Department: HIST
+Course Number: 425
+Section: L1C
+Description: Continuity and change in the relations of war and society, the connections between the economy, society, the military, and government in peacetime as well as war; not a course in military history.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B312
+Instructor: FAIREY, JACK
+
+Department: HIST
+Course Number: 425
+Section: L1D
+Description: Continuity and change in the relations of war and society, the connections between the economy, society, the military, and government in peacetime as well as war; not a course in military history.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Irving, Room: K
+Instructor: FAIREY, JACK
+

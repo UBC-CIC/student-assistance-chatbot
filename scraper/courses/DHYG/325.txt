@@ -1,0 +1,9 @@
+Department: DHYG
+Course Number: 325
+Section: 325
+Description: Applied pharmacology concepts and principles for the dental health professional.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: PAU, HIN CHUNG
+

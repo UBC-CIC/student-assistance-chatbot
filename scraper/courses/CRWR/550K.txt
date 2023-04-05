@@ -1,0 +1,9 @@
+Department: CRWR
+Course Number: 550K
+Section: D01
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Wed
+Instructor: TATE, BRONWEN
+

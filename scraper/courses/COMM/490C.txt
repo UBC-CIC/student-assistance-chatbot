@@ -1,0 +1,9 @@
+Department: COMM
+Course Number: 490C
+Section: 101
+Description: An investigation and report on a topic to be agreed upon by a member of the faculty and a senior student.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,27 @@
+Department: BALA
+Course Number: 503
+Section: DD1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 12:00, Building: David, Room: Lam
+Instructor: PARK, VANESSA
+
+Department: BALA
+Course Number: 503
+Section: DD2
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 16:00, Building: David, Room: Lam
+Instructor: PARK, VANESSA
+
+Department: BALA
+Course Number: 503
+Section: MM1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: PARK, VANESSA
+

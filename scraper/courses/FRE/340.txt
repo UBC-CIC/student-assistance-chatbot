@@ -1,0 +1,21 @@
+Department: FRE
+Course Number: 340
+Section: 001
+Description: Characteristics, processes and sources of economic growth, role of agricultural and resource sectors in economic growth, analysis of output and input markets in those sectors, policy failures, tools for empirical analysis of rural markets, growth, and the environment.
+Pre-reqs: One of ECON 101, ECON 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: HOLOWAYCHUK, SEAN
+
+Department: FRE
+Course Number: 340
+Section: 0W1
+Description: Characteristics, processes and sources of economic growth, role of agricultural and resource sectors in economic growth, analysis of output and input markets in those sectors, policy failures, tools for empirical analysis of rural markets, growth, and the environment.
+Pre-reqs: One of ECON 101, ECON 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 254
+Section: 001
+Description: The integral role that sex, gender, and sexuality play in literary and cinematic works from Japan. Literary works will be read in translation, movies will be subtitled.
+Credits: 3
+Mode of Delivery: Multi-access
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Food,, Room: Nutrition
+Instructor: YOSHIMIZU, AYAKA
+
+Department: ASIA
+Course Number: 254
+Section: W01
+Description: The integral role that sex, gender, and sexuality play in literary and cinematic works from Japan. Literary works will be read in translation, movies will be subtitled.
+Credits: 3
+Mode of Delivery: Multi-access
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: To, Room: Be
+Instructor: YOSHIMIZU, AYAKA
+

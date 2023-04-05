@@ -1,0 +1,11 @@
+Department: JRNL
+Course Number: 420
+Section: 001
+Description: Examines the challenges, opportunities and foundational research related to the emergence of social media platforms, services and tools as part of an evolving media ecosystem. Political, social, ethical and legal implications for media organizations, journalists and citizens.
+Pre-reqs: (Restricted to fourth-year students. Prior to registration, a minimum of 12-credits of 300-level courses related to media, technology and/or communications recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:30, End Time: 16:30, Building: Sing, Room: Tao
+Instructor: TENENBOIM, ORI
+

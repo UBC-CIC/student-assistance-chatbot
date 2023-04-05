@@ -1,0 +1,76 @@
+Department: FREN
+Course Number: 301
+Section: 101
+Description: Refinement of reading, writing and speaking skills through the study of contemporary literature and other authentic documents of the French-speaking world. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 12, FREN 112, FREN 202. (or assignment bsed on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B210
+Instructor: BLANC, MAGALI
+
+Department: FREN
+Course Number: 301
+Section: 102
+Description: Refinement of reading, writing and speaking skills through the study of contemporary literature and other authentic documents of the French-speaking world. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 12, FREN 112, FREN 202. (or assignment bsed on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D316
+Instructor: ROCHELEAU, ALAIN-MICHEL
+
+Department: FREN
+Course Number: 301
+Section: 103
+Description: Refinement of reading, writing and speaking skills through the study of contemporary literature and other authentic documents of the French-speaking world. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 12, FREN 112, FREN 202. (or assignment bsed on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B141
+Instructor: BLANC, MAGALI
+
+Department: FREN
+Course Number: 301
+Section: 104
+Description: Refinement of reading, writing and speaking skills through the study of contemporary literature and other authentic documents of the French-speaking world. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 12, FREN 112, FREN 202. (or assignment bsed on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D317
+Instructor: BLANC, MAGALI
+
+Department: FREN
+Course Number: 301
+Section: 105
+Description: Refinement of reading, writing and speaking skills through the study of contemporary literature and other authentic documents of the French-speaking world. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 12, FREN 112, FREN 202. (or assignment bsed on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B213
+Instructor: LUBERT, JOYCE
+
+Department: FREN
+Course Number: 301
+Section: 107
+Description: Refinement of reading, writing and speaking skills through the study of contemporary literature and other authentic documents of the French-speaking world. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 12, FREN 112, FREN 202. (or assignment bsed on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Neville, Room: Scarfe
+Instructor: BLACK, CATHERINE
+
+Department: FREN
+Course Number: 301
+Section: W01
+Description: Refinement of reading, writing and speaking skills through the study of contemporary literature and other authentic documents of the French-speaking world. This course is aligned with level B1 objectives of the CEFR.
+Pre-reqs: One of FREN 12, FREN 112, FREN 202. (or assignment bsed on placement test.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

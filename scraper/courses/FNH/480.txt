@@ -1,0 +1,11 @@
+Department: FNH
+Course Number: 480
+Section: 001
+Description: Skill development and application for practice education placements and dietetic practice settings. Restricted to students in the Dietetics Major.
+Pre-reqs: All of FNH 380, FNH 381.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Food,, Room: Nutrition
+Instructor: BRISCO, ANNA
+

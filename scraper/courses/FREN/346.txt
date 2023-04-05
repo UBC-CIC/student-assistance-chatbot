@@ -1,0 +1,22 @@
+Department: FREN
+Course Number: 346
+Section: 101
+Description: Communicative French for students preparing for a career in the francophone world. This course is aligned with the B1 objectives of the CEFR.
+Pre-reqs: One of FREN 123, FREN 302.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B309
+Instructor: BASCOU VALLARINO, SYLVIA
+
+Department: FREN
+Course Number: 346
+Section: W01
+Description: Communicative French for students preparing for a career in the francophone world. This course is aligned with the B1 objectives of the CEFR.
+Pre-reqs: One of FREN 123, FREN 302.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: To, Room: Be
+Instructor: TBA
+

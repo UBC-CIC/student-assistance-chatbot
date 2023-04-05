@@ -1,0 +1,50 @@
+Department: HIST
+Course Number: 339
+Section: 201
+Description: American military and geo-political power during and after Cold War; wars in Korea, Vietnam, and Middle East; domestic issues including McCarthyism, social movements (blacks, women, youth, gays and lesbians, and Native Americans), consumerism, immigration, and rise of New Right.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B313
+Instructor: PARIS, LESLIE
+
+Department: HIST
+Course Number: 339
+Section: L01
+Description: American military and geo-political power during and after Cold War; wars in Korea, Vietnam, and Middle East; domestic issues including McCarthyism, social movements (blacks, women, youth, gays and lesbians, and Native Americans), consumerism, immigration, and rise of New Right.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B216
+Instructor: PARIS, LESLIE
+
+Department: HIST
+Course Number: 339
+Section: L02
+Description: American military and geo-political power during and after Cold War; wars in Korea, Vietnam, and Middle East; domestic issues including McCarthyism, social movements (blacks, women, youth, gays and lesbians, and Native Americans), consumerism, immigration, and rise of New Right.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D228
+Instructor: PARIS, LESLIE
+
+Department: HIST
+Course Number: 339
+Section: L03
+Description: American military and geo-political power during and after Cold War; wars in Korea, Vietnam, and Middle East; domestic issues including McCarthyism, social movements (blacks, women, youth, gays and lesbians, and Native Americans), consumerism, immigration, and rise of New Right.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D325
+Instructor: PARIS, LESLIE
+
+Department: HIST
+Course Number: 339
+Section: L04
+Description: American military and geo-political power during and after Cold War; wars in Korea, Vietnam, and Middle East; domestic issues including McCarthyism, social movements (blacks, women, youth, gays and lesbians, and Native Americans), consumerism, immigration, and rise of New Right.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B216
+Instructor: PARIS, LESLIE
+

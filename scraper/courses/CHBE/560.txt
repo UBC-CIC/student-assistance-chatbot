@@ -1,0 +1,18 @@
+Department: CHBE
+Course Number: 560
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Fri, Start Time: 10:00, End Time: 11:30, Building: Chemical, Room: and
+Instructor: PIRET, JAMES
+
+Department: CHBE
+Course Number: 560
+Section: T2A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Mon^, End Time: 14:00, Building: 16:00, Room: Chemical
+Instructor: PIRET, JAMES
+

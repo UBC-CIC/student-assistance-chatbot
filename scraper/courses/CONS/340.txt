@@ -1,0 +1,66 @@
+Department: CONS
+Course Number: 340
+Section: 101
+Description: Introduction to Geographic Information Systems for Forestry and Conservation
+Pre-reqs: (Third- or fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:00, End Time: 13:00, Building: Hugh, Room: Dempster
+Instructor: MEITNER, MICHAEL
+
+Department: CONS
+Course Number: 340
+Section: L01
+Description: Introduction to Geographic Information Systems for Forestry and Conservation
+Pre-reqs: (Third- or fourth-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 17:30, Building: Forest, Room: Sciences
+Instructor: MEITNER, MICHAEL
+
+Department: CONS
+Course Number: 340
+Section: L02
+Description: Introduction to Geographic Information Systems for Forestry and Conservation
+Pre-reqs: (Third- or fourth-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Forest, Room: Sciences
+Instructor: MEITNER, MICHAEL
+
+Department: CONS
+Course Number: 340
+Section: 201
+Description: Introduction to Geographic Information Systems for Forestry and Conservation
+Pre-reqs: (Third- or fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 8:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: COLTON, CHRISTOPHER
+
+Department: CONS
+Course Number: 340
+Section: LA1
+Description: Introduction to Geographic Information Systems for Forestry and Conservation
+Pre-reqs: (Third- or fourth-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 18:00, Building: Forest, Room: Sciences
+Instructor: TBA
+
+Department: CONS
+Course Number: 340
+Section: LA2
+Description: Introduction to Geographic Information Systems for Forestry and Conservation
+Pre-reqs: (Third- or fourth-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 18:00, Building: Forest, Room: Sciences
+Instructor: TBA
+

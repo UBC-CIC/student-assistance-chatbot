@@ -1,0 +1,21 @@
+Department: KIN
+Course Number: 464
+Section: 001
+Description: Current perspectives on health promotion and health education; design and implementation of health promotion strategies in a variety of arenas, particularly health promotion/education strategies aimed at encouraging physical activity.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: P., Room: A.
+Instructor: BUNDON, ANDREA
+
+Department: KIN
+Course Number: 464
+Section: 0W1
+Description: Current perspectives on health promotion and health education; design and implementation of health promotion strategies in a variety of arenas, particularly health promotion/education strategies aimed at encouraging physical activity.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

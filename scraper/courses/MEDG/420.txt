@@ -1,0 +1,11 @@
+Department: MEDG
+Course Number: 420
+Section: 001
+Description: Sequence and structure of the human genome. Human genetic evolution. Identification of genes affecting normal and pathological variation. Molecular mechanisms of genetic diseases and disorders. Medical applications of human genetics.
+Pre-reqs: One of BIOL 335, BIOL 338. (A standing of 'B' or higher is recommended, however, higher grades take priority in the registration process.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:00, End Time: 10:30
+Instructor: ARBOUR, LAURA
+

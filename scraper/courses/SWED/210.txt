@@ -1,0 +1,10 @@
+Department: SWED
+Course Number: 210
+Section: 001
+Description: Intermediate Swedish II
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D204
+Instructor: KARLSTROM, LENA
+

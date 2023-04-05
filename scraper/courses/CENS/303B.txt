@@ -1,0 +1,19 @@
+Department: CENS
+Course Number: 303B
+Section: 001
+Description: Representations of the Holocaust (in English) - REPRESENTNS HOLO
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Leon, Room: and
+Instructor: SWITZER, ANIA
+
+Department: CENS
+Course Number: 303B
+Section: 002
+Description: Representations of the Holocaust (in English) - REPRESENTNS HOLO
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: KARWOWSKA, BOZENA
+

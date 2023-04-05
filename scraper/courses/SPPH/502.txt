@@ -1,0 +1,22 @@
+Department: SPPH
+Course Number: 502
+Section: 001
+Description: Sources and uses of epidemiologic data for health services planning and administration including methods of data collection and study design.
+Pre-reqs: (Enrolment in a Health Care and Epidemiology graduate program, or permission of instructor.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue, Start Time: 14:30, End Time: 16:00
+Instructor: DUMMER, TREVOR
+
+Department: SPPH
+Course Number: 502
+Section: BL1
+Description: Sources and uses of epidemiologic data for health services planning and administration including methods of data collection and study design.
+Pre-reqs: (Enrolment in a Health Care and Epidemiology graduate program, or permission of instructor.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Start Time: Fri*, End Time: 13:30, Building: 17:00, Room: Hebb
+Instructor: PALIS, HEATHER
+

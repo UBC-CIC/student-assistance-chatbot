@@ -1,0 +1,8 @@
+Department: EPSE
+Course Number: 538
+Section: 075
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: ZEBEHAZY, KIM
+

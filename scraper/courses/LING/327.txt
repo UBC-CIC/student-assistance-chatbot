@@ -1,0 +1,11 @@
+Department: LING
+Course Number: 327
+Section: 001
+Description: The analysis and theory of linguistic meaning with emphasis on formal techniques for semantic analysis and their application to empirical phenomena in language, including pragmatics.
+Pre-reqs: LING 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Frank, Room: Forward
+Instructor: MORZYCKI, MARCIN
+

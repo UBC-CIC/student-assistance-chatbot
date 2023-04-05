@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 539A
+Section: 001
+Description: Studies in the Twentieth Century - STUDIES 20TH C
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:30, End Time: 12:30, Building: Buchanan, Room: Tower
+Instructor: PALTIN, JUDITH
+
+Department: ENGL
+Course Number: 539A
+Section: 01W
+Description: Studies in the Twentieth Century - STUDIES 20TH C
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

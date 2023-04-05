@@ -1,0 +1,24 @@
+Department: MECH
+Course Number: 500E
+Section: 001
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: EYKING, ADRIANNA
+
+Department: MECH
+Course Number: 500E
+Section: 101
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: EYKING, ADRIANNA
+
+Department: MECH
+Course Number: 500E
+Section: 201
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: EYKING, ADRIANNA
+

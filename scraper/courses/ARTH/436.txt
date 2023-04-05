@@ -1,0 +1,18 @@
+Department: ARTH
+Course Number: 436
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: B312
+Instructor: MONTEYNE, JOSEPH
+
+Department: ARTH
+Course Number: 436
+Section: 01W
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+

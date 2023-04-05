@@ -1,0 +1,36 @@
+Department: CHBE
+Course Number: 201
+Section: 101
+Description: Written and oral communication in chemical and biological engineering: business correspondence, laboratory reports, technical description, and poster presentations. Restricted to students in second year of the Chemical and Biological Engineering programs.
+Pre-reqs: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.
+Co-reqs: CHBE 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: QI, HONGXING ESTELLA
+
+Department: CHBE
+Course Number: 201
+Section: 102
+Description: Written and oral communication in chemical and biological engineering: business correspondence, laboratory reports, technical description, and poster presentations. Restricted to students in second year of the Chemical and Biological Engineering programs.
+Pre-reqs: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.
+Co-reqs: CHBE 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: QI, HONGXING ESTELLA
+
+Department: CHBE
+Course Number: 201
+Section: 103
+Description: Written and oral communication in chemical and biological engineering: business correspondence, laboratory reports, technical description, and poster presentations. Restricted to students in second year of the Chemical and Biological Engineering programs.
+Pre-reqs: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.
+Co-reqs: CHBE 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: MacLeod, Room: 3002
+Instructor: QI, HONGXING ESTELLA
+

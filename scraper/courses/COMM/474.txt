@@ -1,0 +1,22 @@
+Department: COMM
+Course Number: 474
+Section: 201
+Description: Fixed income instruments and derivatives. Risk profiles and their use in establishing fixed income investment portfolios. Performance attribution techniques.
+Co-reqs: COMM 374.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: HEINKEL, ROBERT LEE
+
+Department: COMM
+Course Number: 474
+Section: 202
+Description: Fixed income instruments and derivatives. Risk profiles and their use in establishing fixed income investment portfolios. Performance attribution techniques.
+Co-reqs: COMM 374.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: HEINKEL, ROBERT LEE
+

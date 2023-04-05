@@ -1,0 +1,9 @@
+Department: ISCI
+Course Number: 448C
+Section: 102
+Description: Permission of the Director is required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GROAT, LEE
+

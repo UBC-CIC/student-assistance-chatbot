@@ -1,0 +1,11 @@
+Department: THTR
+Course Number: 406
+Section: 001
+Description: Complex problems and selected historical studies in costume design.
+Pre-reqs: THTR 306.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: Frederic, Room: Wood
+Instructor: FIRKINS, JACQUELINE
+

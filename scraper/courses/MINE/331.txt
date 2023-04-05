@@ -1,0 +1,22 @@
+Department: MINE
+Course Number: 331
+Section: 101
+Description: Mineral processing unit operations and sampling, crushing, grinding, screening, classification, gravity separation, magnetic separation, electrostatic separation, concentrate dewatering practices.
+Pre-reqs: (Third Year Standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Fri, Start Time: 8:00, End Time: 9:30, Building: Frank, Room: Forward
+Instructor: MISKOVIC, SANJA
+
+Department: MINE
+Course Number: 331
+Section: L1A
+Description: Mineral processing unit operations and sampling, crushing, grinding, screening, classification, gravity separation, magnetic separation, electrostatic separation, concentrate dewatering practices.
+Pre-reqs: (Third Year Standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:30, Building: Frank, Room: Forward
+Instructor: MISKOVIC, SANJA
+

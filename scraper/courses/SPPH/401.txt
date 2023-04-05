@@ -1,0 +1,9 @@
+Department: SPPH
+Course Number: 401
+Section: 001
+Description: Epidemiology, study, design and analysis, and outbreak investigation as it applies to institutional infection control.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: LLOYD-SMITH, ELISA
+

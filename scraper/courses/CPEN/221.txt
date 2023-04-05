@@ -1,0 +1,178 @@
+Department: CPEN
+Course Number: 221
+Section: 101
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: UBC, Room: Life
+Instructor: GOPALAKRISHNAN, SATHISH
+
+Department: CPEN
+Course Number: 221
+Section: L1A
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: MacLeod, Room: 4006
+Instructor: GOPALAKRISHNAN, SATHISH
+
+Department: CPEN
+Course Number: 221
+Section: L1B
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: MacLeod, Room: 4002
+Instructor: GOPALAKRISHNAN, SATHISH
+
+Department: CPEN
+Course Number: 221
+Section: L1C
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: MacLeod, Room: 4006
+Instructor: GOPALAKRISHNAN, SATHISH
+
+Department: CPEN
+Course Number: 221
+Section: L1D
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: MacLeod, Room: 4006
+Instructor: GOPALAKRISHNAN, SATHISH
+
+Department: CPEN
+Course Number: 221
+Section: L1E
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: MacLeod, Room: 4006
+Instructor: GOPALAKRISHNAN, SATHISH
+
+Department: CPEN
+Course Number: 221
+Section: L1F
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: MacLeod, Room: 4002
+Instructor: GOPALAKRISHNAN, SATHISH
+
+Department: CPEN
+Course Number: 221
+Section: LWA
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 221
+Section: LWB
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 221
+Section: LWC
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 221
+Section: LWD
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 221
+Section: LWE
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 221
+Section: LWF
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 221
+Section: T1A
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Fri*, End Time: 16:00, Building: 18:00, Room: Earth
+Instructor: GOPALAKRISHNAN, SATHISH
+
+Department: CPEN
+Course Number: 221
+Section: T1W
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 221
+Section: 1W1
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 221
+Section: T1W
+Description: Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

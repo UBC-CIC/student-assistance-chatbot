@@ -1,0 +1,64 @@
+Department: CHEM
+Course Number: 325
+Section: 113
+Description: Principles and techniques of modern chemistry applied by integrating experiments chosen from organic, inorganic, physical, and analytical chemistry. Open only to students in Chemistry specializations.
+Pre-reqs: One of CHEM 211, CHEM 215 and all of CHEM 208, CHEM 213, CHEM 245.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 325
+Section: 115
+Description: Principles and techniques of modern chemistry applied by integrating experiments chosen from organic, inorganic, physical, and analytical chemistry. Open only to students in Chemistry specializations.
+Pre-reqs: One of CHEM 211, CHEM 215 and all of CHEM 208, CHEM 213, CHEM 245.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 325
+Section: 135
+Description: Principles and techniques of modern chemistry applied by integrating experiments chosen from organic, inorganic, physical, and analytical chemistry. Open only to students in Chemistry specializations.
+Pre-reqs: One of CHEM 211, CHEM 215 and all of CHEM 208, CHEM 213, CHEM 245.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Wed, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 325
+Section: 1W1
+Description: Principles and techniques of modern chemistry applied by integrating experiments chosen from organic, inorganic, physical, and analytical chemistry. Open only to students in Chemistry specializations.
+Pre-reqs: One of CHEM 211, CHEM 215 and all of CHEM 208, CHEM 213, CHEM 245.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CHEM
+Course Number: 325
+Section: 215
+Description: Principles and techniques of modern chemistry applied by integrating experiments chosen from organic, inorganic, physical, and analytical chemistry. Open only to students in Chemistry specializations.
+Pre-reqs: One of CHEM 211, CHEM 215 and all of CHEM 208, CHEM 213, CHEM 245.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 325
+Section: 2W1
+Description: Principles and techniques of modern chemistry applied by integrating experiments chosen from organic, inorganic, physical, and analytical chemistry. Open only to students in Chemistry specializations.
+Pre-reqs: One of CHEM 211, CHEM 215 and all of CHEM 208, CHEM 213, CHEM 245.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

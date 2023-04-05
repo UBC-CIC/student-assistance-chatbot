@@ -1,0 +1,30 @@
+Department: MUSC
+Course Number: 103
+Section: 001
+Description: Concepts of rhythm, pitch, timbre, and texture. Notation and aural recognition of rhythmic and pitch patterns. Basic principles of melody and form. This course is not applicable to the B.Mus.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Music, Room: 462
+Instructor: KONOVAL, MICHAEL BRANDON
+
+Department: MUSC
+Course Number: 103
+Section: 002
+Description: Concepts of rhythm, pitch, timbre, and texture. Notation and aural recognition of rhythmic and pitch patterns. Basic principles of melody and form. This course is not applicable to the B.Mus.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Music, Room: 302
+Instructor: REIMER, SARAH(Coordinator)
+
+Department: MUSC
+Course Number: 103
+Section: 1W1
+Description: Concepts of rhythm, pitch, timbre, and texture. Notation and aural recognition of rhythmic and pitch patterns. Basic principles of melody and form. This course is not applicable to the B.Mus.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00
+Instructor: KONOVAL, MICHAEL BRANDON
+

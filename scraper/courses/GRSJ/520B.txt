@@ -1,0 +1,27 @@
+Department: GRSJ
+Course Number: 520B
+Section: 001
+Description: Pass/Fail.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: GRSJ
+Course Number: 520B
+Section: 101
+Description: Pass/Fail.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: GRSJ
+Course Number: 520B
+Section: 201
+Description: Pass/Fail.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,11 @@
+Department: FNH
+Course Number: 414
+Section: 101
+Description: Regenerative sustainability and the sustainability nexus; health and environmental impacts of the food industry; environmental performance indicators and management systems; approaches to enhance sustainability in the food industry.
+Pre-reqs: One of FNH 309, FNH 313.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: West, Room: Mall
+Instructor: MENDOZA, ALBERTO
+

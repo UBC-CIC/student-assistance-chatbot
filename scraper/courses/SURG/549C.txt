@@ -1,0 +1,24 @@
+Department: SURG
+Course Number: 549C
+Section: 001
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: SURG
+Course Number: 549C
+Section: 002
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: SURG
+Course Number: 549C
+Section: 003
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

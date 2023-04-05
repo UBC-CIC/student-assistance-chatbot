@@ -1,0 +1,840 @@
+Department: ENGL
+Course Number: 110
+Section: 001
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: A201
+Instructor: POTTER, TIFFANY
+
+Department: ENGL
+Course Number: 110
+Section: LA1
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D317
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LA2
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D201
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LA3
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D204
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LA4
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B209
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LA5
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B218
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LA6
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B304
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 002
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 11:00, Building: Leonard, Room: S.
+Instructor: LUGER, MOBERLEY
+
+Department: ENGL
+Course Number: 110
+Section: LB1
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D204
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LB2
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D205
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LB3
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D314
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LB4
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B302
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LB5
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B208
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LB6
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D218
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 003
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: A102
+Instructor: MCNEILLY, KEVIN
+
+Department: ENGL
+Course Number: 110
+Section: LC1
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B302
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LC2
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B310
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LC3
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B304
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LC4
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B308
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LC5
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B307
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 004
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: A201
+Instructor: MOTA, MIGUEL
+
+Department: ENGL
+Course Number: 110
+Section: LF1
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B307
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LF2
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B306
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LF3
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D323
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LF4
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B308
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LF5
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B302
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LF6
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D221
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 005
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:00
+Instructor: BAXTER, GISELE MARIE
+
+Department: ENGL
+Course Number: 110
+Section: LE1
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Mathematics, Room: 105
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LE2
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B313
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LE3
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D314
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LE4
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B303
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LE5
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B310
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LE6
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B306
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 006
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Geography, Room: 201
+Instructor: CULBERT, JOHN
+
+Department: ENGL
+Course Number: 110
+Section: 007
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: A104
+Instructor: JAMES, SUZANNE
+
+Department: ENGL
+Course Number: 110
+Section: LP1
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D304
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LP2
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B306
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LP3
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D221
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LP4
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D213
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LP5
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D229
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 008
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: A104
+Instructor: CAVELL, RICHARD ANTHONY
+
+Department: ENGL
+Course Number: 110
+Section: LQ1
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Hennings, Room: 301
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LQ2
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D301
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LQ3
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B310
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LQ4
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B309
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LQ5
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B302
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 009
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:00, End Time: 13:00, Building: Centre, Room: for
+Instructor: HUDSON, NICHOLAS JAMES
+
+Department: ENGL
+Course Number: 110
+Section: LR1
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B308
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LR2
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B307
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LR3
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B310
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LR4
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B306
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LR5
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D304
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LR6
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B302
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 010
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: West, Room: Mall
+Instructor: ROUSE, ROBERT
+
+Department: ENGL
+Course Number: 110
+Section: LS1
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B306
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LS2
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B308
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LS3
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B304
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LS4
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B209
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LS5
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D304
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LS6
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D323
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 011
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:00, Building: West, Room: Mall
+Instructor: ANGER, SUZY
+
+Department: ENGL
+Course Number: 110
+Section: LT1
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B306
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LT2
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D213
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LT3
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B307
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LT4
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B302
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: LT5
+Description: Approaches to Literature and Culture
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B211
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 012
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: B141
+Instructor: INNISS, SCOTT
+
+Department: ENGL
+Course Number: 110
+Section: 013
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: D222
+Instructor: GIFFEN, SHEILA
+
+Department: ENGL
+Course Number: 110
+Section: 015
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: B213
+Instructor: SHARPE, JILLIAN
+
+Department: ENGL
+Course Number: 110
+Section: 01W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 02W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 03W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 04W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 05W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 06W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 07W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 08W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 09W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 10W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 11W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 12W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 13W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30
+Instructor: TBA
+
+Department: ENGL
+Course Number: 110
+Section: 15W
+Description: Approaches to Literature and Culture
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30
+Instructor: TBA
+

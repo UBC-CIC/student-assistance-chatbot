@@ -1,0 +1,11 @@
+Department: NAME
+Course Number: 591
+Section: 201
+Description: A capstone design project designed to give students experience in the preliminary design of a special purpose ship. Students work individually and in teams, using advanced design software and databases, to design a vessel according to specified criteria.
+Pre-reqs: All of NAME 581, NAME 578.
+Co-reqs: All of NAME 502, NAME 522, NAME 501, NAME 566.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MCGREER, DAN
+

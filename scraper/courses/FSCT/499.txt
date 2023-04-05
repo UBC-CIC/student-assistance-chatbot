@@ -1,0 +1,30 @@
+Department: FSCT
+Course Number: 499
+Section: 610
+Description: Approved and supervised technical work experience in either an industrial, public, or academic laboratory or a law enforcement agency for a minimum of 14 weeks. Technical report required. Restricted to students admitted to the Co-op Program in Biochemistry and Forensic Science.
+Pre-reqs: FSCT 498.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FSCT
+Course Number: 499
+Section: 615
+Description: Approved and supervised technical work experience in either an industrial, public, or academic laboratory or a law enforcement agency for a minimum of 14 weeks. Technical report required. Restricted to students admitted to the Co-op Program in Biochemistry and Forensic Science.
+Pre-reqs: FSCT 498.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FSCT
+Course Number: 499
+Section: 941
+Description: Approved and supervised technical work experience in either an industrial, public, or academic laboratory or a law enforcement agency for a minimum of 14 weeks. Technical report required. Restricted to students admitted to the Co-op Program in Biochemistry and Forensic Science.
+Pre-reqs: FSCT 498.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

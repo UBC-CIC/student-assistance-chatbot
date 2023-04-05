@@ -1,0 +1,39 @@
+Department: BIOC
+Course Number: 202
+Section: 001
+Pre-reqs: One of CHEM 203, CHEM 223, CHEM 233.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: Friedman, Room: Building
+Instructor: BROWN, LINDSAY
+
+Department: BIOC
+Course Number: 202
+Section: 002
+Pre-reqs: One of CHEM 203, CHEM 223, CHEM 233.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 100
+Instructor: WILLIAMS, WARREN
+
+Department: BIOC
+Course Number: 202
+Section: 003
+Pre-reqs: One of CHEM 203, CHEM 223, CHEM 233.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:30, End Time: 10:00, Building: P., Room: A.
+Instructor: KRISINGER, MICHAEL
+
+Department: BIOC
+Course Number: 202
+Section: WL2
+Pre-reqs: One of CHEM 203, CHEM 223, CHEM 233.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

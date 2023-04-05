@@ -1,0 +1,44 @@
+Department: ARTH
+Course Number: 300
+Section: 001
+Description: Theories, problems, and literature in the study of art history. Required of all Major and Honours students in art history.
+Pre-reqs: (3 credits of ARTH coursework at any level.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: D304
+Instructor: MONTEYNE, JOSEPH
+
+Department: ARTH
+Course Number: 300
+Section: 002
+Description: Theories, problems, and literature in the study of art history. Required of all Major and Honours students in art history.
+Pre-reqs: (3 credits of ARTH coursework at any level.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: Buchanan, Room: B302
+Instructor: SMITH, TAI
+
+Department: ARTH
+Course Number: 300
+Section: 01W
+Description: Theories, problems, and literature in the study of art history. Required of all Major and Honours students in art history.
+Pre-reqs: (3 credits of ARTH coursework at any level.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+
+Department: ARTH
+Course Number: 300
+Section: 02W
+Description: Theories, problems, and literature in the study of art history. Required of all Major and Honours students in art history.
+Pre-reqs: (3 credits of ARTH coursework at any level.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00
+Instructor: TBA
+

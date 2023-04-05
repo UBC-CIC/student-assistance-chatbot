@@ -1,0 +1,22 @@
+Department: COMM
+Course Number: 336
+Section: 201
+Description: Business fundamentals in the digital economy: leveraging digitization and automation; data and analytics; platforms; crowdsourcing; understanding the impact of digital technologies on firms, markets, economies as well as individuals and society.
+Pre-reqs: COMM 205.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: SAUNDERS, ADAM
+
+Department: COMM
+Course Number: 336
+Section: 202
+Description: Business fundamentals in the digital economy: leveraging digitization and automation; data and analytics; platforms; crowdsourcing; understanding the impact of digital technologies on firms, markets, economies as well as individuals and society.
+Pre-reqs: COMM 205.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: SAUNDERS, ADAM
+

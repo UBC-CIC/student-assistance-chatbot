@@ -1,0 +1,8 @@
+Department: OSOT
+Course Number: 513
+Section: 001
+Description: Concepts and models of occupation, health, and illness are introduced and appraised. Narratives from persons with lived experience and interactive assignments are used for acquiring biopsychosocial information on health conditions that impact occupational performance across lifespan and diverse life experiences.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

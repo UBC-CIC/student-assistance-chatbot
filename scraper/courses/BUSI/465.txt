@@ -1,0 +1,22 @@
+Department: BUSI
+Course Number: 465
+Section: 101
+Description: Basic considerations affecting the domestic and international marketing of goods and services.
+Pre-reqs: All of BUSI 293, BUSI 295.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: VAUGHAN, JARRETT
+
+Department: BUSI
+Course Number: 465
+Section: 203
+Description: Basic considerations affecting the domestic and international marketing of goods and services.
+Pre-reqs: All of BUSI 293, BUSI 295.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 18:00, End Time: 21:00, Building: Henry, Room: Angus
+Instructor: VAUGHAN, JARRETT
+

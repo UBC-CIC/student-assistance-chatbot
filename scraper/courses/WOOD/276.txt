@@ -1,0 +1,22 @@
+Department: WOOD
+Course Number: 276
+Section: 101
+Description: Introduction to the strength of materials with emphasis on the elastic properties and ultimate strength of wood and wood products.
+Pre-reqs: One of PHYS 101, PHYS 117, PHYS 170 and one of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: LAM, FRANK
+
+Department: WOOD
+Course Number: 276
+Section: L01
+Description: Introduction to the strength of materials with emphasis on the elastic properties and ultimate strength of wood and wood products.
+Pre-reqs: One of PHYS 101, PHYS 117, PHYS 170 and one of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: Frank, Room: Forward
+Instructor: LAM, FRANK
+

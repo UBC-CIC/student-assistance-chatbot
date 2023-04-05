@@ -1,0 +1,9 @@
+Department: BIOL
+Course Number: 548T
+Section: 101
+Credits: 1
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30
+Instructor: TEIXEIRA HIGINO, GRACIELLE
+

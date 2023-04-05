@@ -1,0 +1,10 @@
+Department: PHYS
+Course Number: 543
+Section: 101
+Description: Biomedical Optics
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:30, End Time: 11:00
+Instructor: ZENG, HAISHAN
+

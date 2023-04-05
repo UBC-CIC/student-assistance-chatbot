@@ -1,0 +1,11 @@
+Department: POLI
+Course Number: 307
+Section: 001
+Description: Quebec Government and Politics
+Pre-reqs: POLI 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Frederic, Room: Lasserre
+Instructor: RIVARD, ALEXANDRE
+

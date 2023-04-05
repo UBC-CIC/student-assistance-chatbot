@@ -1,0 +1,11 @@
+Department: GEOG
+Course Number: 419
+Section: 201
+Description: Details available from Geography Undergraduate Advisor. Not necessarily offered each year.
+Pre-reqs: (Major or Honours in Geography with at least 75 credits, or permission of the instructor. GEOG 313 and 314 recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 14:00, Building: Geography, Room: 229
+Instructor: BAADA, JEMIMA
+

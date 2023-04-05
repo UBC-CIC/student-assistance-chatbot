@@ -1,0 +1,18 @@
+Department: BA
+Course Number: 530D
+Section: 001
+Description: Restricted to students in one of the following programs: M.B.A., J.D../M.B.A., M.Sc.B., Ph.D. with B.A.D.M. specialization, or M.M. with either ECMS or ECMJ. M.M. ECMS or ECMJ students are limited to a maximum of 12 credits in this course.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BA
+Course Number: 530D
+Section: 002
+Description: Restricted to students in one of the following programs: M.B.A., J.D../M.B.A., M.Sc.B., Ph.D. with B.A.D.M. specialization, or M.M. with either ECMS or ECMJ. M.M. ECMS or ECMJ students are limited to a maximum of 12 credits in this course.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

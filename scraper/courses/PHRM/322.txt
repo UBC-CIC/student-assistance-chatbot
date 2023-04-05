@@ -1,0 +1,9 @@
+Department: PHRM
+Course Number: 322
+Section: 001
+Description: Development and delivery of patient counselling role-playing activities.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Instructor: GROSSHUESCH, JONATHAN
+

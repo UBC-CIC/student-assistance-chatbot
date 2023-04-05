@@ -1,0 +1,40 @@
+Department: FIPR
+Course Number: 133
+Section: 001
+Description: A hands-on introduction to Film and Multi/New Media production, focusing on fundamental techniques for creating effective presentations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 12:00, Building: Theatre-Film, Room: Production
+Instructor: BROWN, WILLIAM
+
+Department: FIPR
+Course Number: 133
+Section: 002
+Description: A hands-on introduction to Film and Multi/New Media production, focusing on fundamental techniques for creating effective presentations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Theatre-Film, Room: Production
+Instructor: JOHNSON, JESSICA
+
+Department: FIPR
+Course Number: 133
+Section: WL1
+Description: A hands-on introduction to Film and Multi/New Media production, focusing on fundamental techniques for creating effective presentations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 12:00
+Instructor: TBA
+
+Department: FIPR
+Course Number: 133
+Section: WL2
+Description: A hands-on introduction to Film and Multi/New Media production, focusing on fundamental techniques for creating effective presentations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00
+Instructor: TBA
+

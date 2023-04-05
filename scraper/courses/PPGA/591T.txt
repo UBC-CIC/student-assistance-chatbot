@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 591T
+Section: 001
+Description: Special Topics in Public Policy - TOPS PUBLIC PLCY
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: School, Room: of
+Instructor: BERMAN, PETER
+

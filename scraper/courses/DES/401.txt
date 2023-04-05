@@ -1,0 +1,11 @@
+Department: DES
+Course Number: 401
+Section: 101
+Description: Relationships between communities and environment, urban infrastructure and ecological systems.
+Pre-reqs: DES 302.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Thu, Start Time: 13:30, End Time: 17:00
+Instructor: WATANABE, YUICHI
+

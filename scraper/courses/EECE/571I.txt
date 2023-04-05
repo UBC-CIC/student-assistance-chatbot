@@ -1,0 +1,17 @@
+Department: EECE
+Course Number: 571I
+Section: 105
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: School, Room: of
+Instructor: IVANOV, ANDRE
+
+Department: EECE
+Course Number: 571I
+Section: 1W5
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 307D
+Section: 001
+Description: A survey of feminist approaches to law, with reference to selected substantive areas of the law.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: PARKES, DEBRA
+

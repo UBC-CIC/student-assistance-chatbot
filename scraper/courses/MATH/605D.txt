@@ -1,0 +1,10 @@
+Department: MATH
+Course Number: 605D
+Section: 101
+Description: Topics in Applied Mathematics - TPC APPLIED MATH
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Mathematics, Room: Annex
+Instructor: ROBEVA, ELINA
+

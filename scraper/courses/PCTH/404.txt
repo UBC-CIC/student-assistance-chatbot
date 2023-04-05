@@ -1,0 +1,11 @@
+Department: PCTH
+Course Number: 404
+Section: 001
+Description: The techniques, including methods of statistical analysis, used to detect and measure the actions of endogenous or exogenous chemicals, using chemical assays and bioassays as appropriate. Enrolment limited to students in Pharmacology and others with permission of the department head.
+Pre-reqs: All of PCTH 300, BIOL 300.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Medical, Room: Sciences
+Instructor: BARR, ALASDAIR
+

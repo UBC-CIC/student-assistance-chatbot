@@ -1,0 +1,77 @@
+Department: BIOL
+Course Number: 306
+Section: 101
+Description: Advanced Ecology
+Pre-reqs: BIOL 230.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: Aquatic, Room: Ecosystems
+Instructor: MICHALETZ, SEAN
+
+Department: BIOL
+Course Number: 306
+Section: L01
+Description: Advanced Ecology
+Pre-reqs: BIOL 230.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 306
+Section: L02
+Description: Advanced Ecology
+Pre-reqs: BIOL 230.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 306
+Section: L03
+Description: Advanced Ecology
+Pre-reqs: BIOL 230.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 306
+Section: L04
+Description: Advanced Ecology
+Pre-reqs: BIOL 230.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 306
+Section: L05
+Description: Advanced Ecology
+Pre-reqs: BIOL 230.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 306
+Section: 1W1
+Description: Advanced Ecology
+Pre-reqs: BIOL 230.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:00
+Instructor: TBA
+

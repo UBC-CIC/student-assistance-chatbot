@@ -1,0 +1,9 @@
+Department: THFL
+Course Number: 599C
+Section: 001
+Description: Assigned projects in Theatre and Film design and production. Restricted to students in the MFA THTR and MFA FIPR programs.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: PENNEFATHER, PATRICK
+

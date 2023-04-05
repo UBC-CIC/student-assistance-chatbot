@@ -1,0 +1,20 @@
+Department: ECON
+Course Number: 627
+Section: 001
+Pre-reqs: ECON 626.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: D312
+Instructor: MARMER, VADIM
+
+Department: ECON
+Course Number: 627
+Section: L1A
+Pre-reqs: ECON 626.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: B306
+Instructor: TBA
+

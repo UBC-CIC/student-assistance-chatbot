@@ -1,0 +1,50 @@
+Department: CHEM
+Course Number: 205
+Section: 203
+Description: Chemical kinetics and thermodynamics and spectroscopy useful in biological, medical, agricultural, earth, and related sciences.
+Pre-reqs: Either (a) SCIE 001 or (b) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of CHEM 130, CHEM 123, CHEM 154.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Chemistry, Room: B250
+
+Department: CHEM
+Course Number: 205
+Section: 210
+Description: Chemical kinetics and thermodynamics and spectroscopy useful in biological, medical, agricultural, earth, and related sciences.
+Pre-reqs: Either (a) SCIE 001 or (b) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of CHEM 130, CHEM 123, CHEM 154.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Chemistry, Room: B250
+
+Department: CHEM
+Course Number: 205
+Section: 222
+Description: Chemical kinetics and thermodynamics and spectroscopy useful in biological, medical, agricultural, earth, and related sciences.
+Pre-reqs: Either (a) SCIE 001 or (b) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of CHEM 130, CHEM 123, CHEM 154.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Geography, Room: 200
+
+Department: CHEM
+Course Number: 205
+Section: 2W1
+Description: Chemical kinetics and thermodynamics and spectroscopy useful in biological, medical, agricultural, earth, and related sciences.
+Pre-reqs: Either (a) SCIE 001 or (b) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of CHEM 130, CHEM 123, CHEM 154.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CHEM
+Course Number: 205
+Section: T01
+Description: Chemical kinetics and thermodynamics and spectroscopy useful in biological, medical, agricultural, earth, and related sciences.
+Pre-reqs: Either (a) SCIE 001 or (b) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of CHEM 130, CHEM 123, CHEM 154.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

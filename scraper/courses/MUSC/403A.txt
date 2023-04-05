@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 403A
+Section: 001
+Description: See School of Music schedule for description and prerequisites. Restricted to B. Mus. and B.A. in Music students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00
+Instructor: SHARON, RENA
+

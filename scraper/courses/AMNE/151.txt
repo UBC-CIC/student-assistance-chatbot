@@ -1,0 +1,394 @@
+Department: AMNE
+Course Number: 151
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 202
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D01
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D214
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D02
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B219
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D03
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B216
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D04
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D05
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Irving, Room: K
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D06
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Allard, Room: Hall
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B313
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D09
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D323
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D10
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 302
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D20
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D228
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: 003
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SURMAN, EDWARD
+
+Department: AMNE
+Course Number: 151
+Section: D11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B219
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B209
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D14
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D229
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D15
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D213
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D16
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D229
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D17
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D221
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: WL2
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: WL3
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 8:00, End Time: 8:30
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 202
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D01
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D214
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D02
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B219
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D03
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B216
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D04
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D05
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Irving, Room: K
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D06
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Allard, Room: Hall
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B313
+Instructor: MINARD, ANTONE
+
+Department: AMNE
+Course Number: 151
+Section: D09
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D323
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D10
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 302
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D20
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D21
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D228
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: 003
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SURMAN, EDWARD
+
+Department: AMNE
+Course Number: 151
+Section: D11
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B219
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D12
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B209
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D14
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D229
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D15
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D213
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D16
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D229
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: D17
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D221
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: WL2
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: AMNE
+Course Number: 151
+Section: WL3
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 8:00, End Time: 8:30
+Instructor: TBA
+

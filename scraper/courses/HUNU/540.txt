@@ -1,0 +1,22 @@
+Department: HUNU
+Course Number: 540
+Section: 001
+Description: Restricted to students in the Master of Nutrition and Dietetics graduate program.
+Co-reqs: All of HUNU 545, HUNU 573.
+Credits: 4.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:30, End Time: 15:00, Building: Hebb, Room: B112
+Instructor: BAROHN, JOEL
+
+Department: HUNU
+Course Number: 540
+Section: L01
+Description: Restricted to students in the Master of Nutrition and Dietetics graduate program.
+Co-reqs: All of HUNU 545, HUNU 573.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:30, End Time: 12:30, Building: Food,, Room: Nutrition
+Instructor: BAROHN, JOEL
+

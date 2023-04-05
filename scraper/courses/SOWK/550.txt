@@ -1,0 +1,10 @@
+Department: SOWK
+Course Number: 550
+Section: 001
+Description: Social Work and Social Justice
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Jack, Room: Bell
+Instructor: CARAGATA, LEA
+

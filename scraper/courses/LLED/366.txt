@@ -1,0 +1,29 @@
+Department: LLED
+Course Number: 366
+Section: 301
+Description: Curriculum and pedagogy related to the theories, concepts, and strategies relevant in secondary school classrooms.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:00, End Time: 10:30, Building: Neville, Room: Scarfe
+Instructor: GUPTA, GUNITA
+
+Department: LLED
+Course Number: 366
+Section: 302
+Description: Curriculum and pedagogy related to the theories, concepts, and strategies relevant in secondary school classrooms.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: GUPTA, GUNITA
+
+Department: LLED
+Course Number: 366
+Section: 640
+Description: Curriculum and pedagogy related to the theories, concepts, and strategies relevant in secondary school classrooms.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CRAVEN, MEAGHAN
+

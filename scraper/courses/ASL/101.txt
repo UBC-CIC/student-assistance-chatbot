@@ -1,0 +1,11 @@
+Department: ASL
+Course Number: 101
+Section: 002
+Description: Skills in using ASL in a range of social contexts. Training in grammar and vocabulary that builds fluency, and in using the language appropriately for meaningful interactions with members of the Deaf community. For students with basic ASL conversational ability.
+Pre-reqs: ASL 100. (or by placement.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 16:00, Building: Frank, Room: Forward
+Instructor: HOWARD, NIGEL
+

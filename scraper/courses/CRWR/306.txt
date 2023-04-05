@@ -1,0 +1,43 @@
+Department: CRWR
+Course Number: 306
+Section: 002
+Description: An exploration of and practice in writing for the screen, focusing on how a writer employs the technical elements of the craft of screenwriting. Manuscript submission is not required for admission.
+Pre-reqs: CRWR 206.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KINCH, MARTIN
+
+Department: CRWR
+Course Number: 306
+Section: FPR
+Description: An exploration of and practice in writing for the screen, focusing on how a writer employs the technical elements of the craft of screenwriting. Manuscript submission is not required for admission.
+Pre-reqs: CRWR 206.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B307
+Instructor: TBA
+
+Department: CRWR
+Course Number: 306
+Section: LS1
+Description: An exploration of and practice in writing for the screen, focusing on how a writer employs the technical elements of the craft of screenwriting. Manuscript submission is not required for admission.
+Pre-reqs: CRWR 206.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: D323
+Instructor: TBA
+
+Department: CRWR
+Course Number: 306
+Section: LS2
+Description: An exploration of and practice in writing for the screen, focusing on how a writer employs the technical elements of the craft of screenwriting. Manuscript submission is not required for admission.
+Pre-reqs: CRWR 206.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B302
+Instructor: TBA
+

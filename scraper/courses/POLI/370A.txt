@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 370A
+Section: 001
+Description: Issues in International Conflict Management - IS INTCNFT MNGT
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: A202
+Instructor: PETERSON, JENNY
+

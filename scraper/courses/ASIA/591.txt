@@ -1,0 +1,10 @@
+Department: ASIA
+Course Number: 591
+Section: 009
+Description: Proseminar introducing major methodological and conceptual themes in the contemporary study of Asia, modern and pre-modern. Required of all Asian Studies PhD students, normally in their first year.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Buchanan, Room: B209
+Instructor: MOSTOW, JOSHUA SCOTT
+

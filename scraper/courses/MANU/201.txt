@@ -1,0 +1,11 @@
+Department: MANU
+Course Number: 201
+Section: 101
+Description: Written and oral communication in business correspondence, engineering design methods, report preparation and oral presentations of technical material. Restricted to students in second year of the Manufacturing Engineering Program.
+Pre-reqs: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:00, End Time: 10:30, Building: West, Room: Mall
+Instructor: WONG, MATTHEW
+

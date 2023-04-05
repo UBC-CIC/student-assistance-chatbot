@@ -1,0 +1,9 @@
+Department: CHEM
+Course Number: 402
+Section: 2W1
+Pre-reqs: CHEM 208.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

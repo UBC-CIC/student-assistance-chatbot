@@ -1,0 +1,22 @@
+Department: ARBM
+Course Number: 102
+Section: 001
+Description: Continued development of basic listening, speaking, reading and writing skills in Modern Standard Arabic. Introduction to various aspects of Arab and Islamic culture.
+Pre-reqs: ARBM 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 9:00, End Time: 11:00, Building: Buchanan, Room: B319
+Instructor: BASHEER, NESRINE
+
+Department: ARBM
+Course Number: 102
+Section: W01
+Description: Continued development of basic listening, speaking, reading and writing skills in Modern Standard Arabic. Introduction to various aspects of Arab and Islamic culture.
+Pre-reqs: ARBM 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 9:00, End Time: 11:00
+Instructor: BASHEER, NESRINE
+

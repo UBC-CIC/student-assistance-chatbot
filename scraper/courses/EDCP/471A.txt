@@ -1,0 +1,17 @@
+Department: EDCP
+Course Number: 471A
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDCP
+Course Number: 471A
+Section: 301
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:00, End Time: 10:30, Building: Neville, Room: Scarfe
+Instructor: FORDE, KIERAN
+

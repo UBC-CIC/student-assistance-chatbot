@@ -1,0 +1,19 @@
+Department: BMEG
+Course Number: 400C
+Section: 201
+Description: Topics in Biomedical Engineering - MDRN BME OPT IMG
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Neville, Room: Scarfe
+Instructor: JU, MYEONG JIN
+
+Department: BMEG
+Course Number: 400C
+Section: WL1
+Description: Topics in Biomedical Engineering - MDRN BME OPT IMG
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

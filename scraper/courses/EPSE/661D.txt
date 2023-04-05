@@ -1,0 +1,30 @@
+Department: EPSE
+Course Number: 661D
+Section: 075
+Description: Pass/fail.
+Pre-reqs: EPSE 561.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: RAHIMI, DORNA
+
+Department: EPSE
+Course Number: 661D
+Section: 076
+Description: Pass/fail.
+Pre-reqs: EPSE 561.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SCHANDING, GEORGE
+
+Department: EPSE
+Course Number: 661D
+Section: 077
+Description: Pass/fail.
+Pre-reqs: EPSE 561.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SCHANDING, GEORGE
+

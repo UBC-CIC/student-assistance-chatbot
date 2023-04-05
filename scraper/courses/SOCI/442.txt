@@ -1,0 +1,10 @@
+Department: SOCI
+Course Number: 442
+Section: 101
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102, SOCI 200.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 18:30, Building: Anthropology, Room: and
+Instructor: FULLER, SYLVIA
+

@@ -1,0 +1,9 @@
+Department: GEOS
+Course Number: 500
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Geography, Room: 229
+Instructor: KOPPES, MICHELE
+

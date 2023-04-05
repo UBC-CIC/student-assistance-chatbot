@@ -1,0 +1,28 @@
+Department: APPP
+Course Number: 506C
+Section: 003
+Description: A capstone design project designed to give students experience in leading complex multidisciplinary projects relevant to their professional specialization. Collaboratively delivered with the Faculty of Commerce and Business Administration.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Tue*, End Time: 10:00, Building: 11:00, Room: School
+Instructor: KEULEN, CASEY
+
+Department: APPP
+Course Number: 506C
+Section: 101
+Description: A capstone design project designed to give students experience in leading complex multidisciplinary projects relevant to their professional specialization. Collaboratively delivered with the Faculty of Commerce and Business Administration.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GOPALAKRISHNAN, SATHISH
+
+Department: APPP
+Course Number: 506C
+Section: 103
+Description: A capstone design project designed to give students experience in leading complex multidisciplinary projects relevant to their professional specialization. Collaboratively delivered with the Faculty of Commerce and Business Administration.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: PRODANOVIC, VLADAN
+

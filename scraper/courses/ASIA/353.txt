@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 353
+Section: 001
+Description: Introduction to Hindi Film
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 18:00, Building: Buchanan, Room: D218
+Instructor: KUMAR BHATT, SUNIL
+
+Department: ASIA
+Course Number: 353
+Section: W01
+Description: History, aesthetics, politics, and social roles of Bollywood films. Films will be subtitled.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 18:00, Building: To, Room: Be
+Instructor: KUMAR BHATT, SUNIL
+

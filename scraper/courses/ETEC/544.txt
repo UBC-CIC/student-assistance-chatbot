@@ -1,0 +1,27 @@
+Department: ETEC
+Course Number: 544
+Section: 65A
+Description: Digital Games and Learning
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: EWART, KERI
+
+Department: ETEC
+Course Number: 544
+Section: 65B
+Description: Digital Games and Learning
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MCCREADY, SAMUEL
+
+Department: ETEC
+Course Number: 544
+Section: W5A
+Description: Digital Games and Learning
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

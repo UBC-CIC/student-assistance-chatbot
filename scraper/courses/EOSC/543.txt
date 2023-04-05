@@ -1,0 +1,25 @@
+Department: EOSC
+Course Number: 543
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SAYLOR, JOEL EDWARD
+
+Department: EOSC
+Course Number: 543
+Section: 102
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BOSTOCK, MICHAEL
+
+Department: EOSC
+Course Number: 543
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Buchanan, Room: B209
+Instructor: KUNZ, NADJA
+

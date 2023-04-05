@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 560
+Section: 001
+Description: Completion of an upper-level 300- or 400-level J.D. seminar or workshop course 4 credit minimum, completion of a substantial research paper consisting of an advanced analysis relating to the subject matter of the particular seminar or workshop.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: WOOD, JOHN
+

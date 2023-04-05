@@ -1,0 +1,20 @@
+Department: DENT
+Course Number: 410
+Section: 001
+Description: Fundamentals of human biology, body systems, diseases, and supporting basic oral health sciences. Learning in small groups, classroom, laboratory, and clinical settings utilizing technology. Professionalism, ethics, interprofessional education and the social contract, communication skills, and critical evaluation of the literature. Begin to apply foundation knowledge and skills to patient assessment and care.
+Credits: 35
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Wed Thu Fri, Start Time: 8:00, End Time: 12:00
+Instructor: ALEKSEJUNIENE, JOLANTA
+
+Department: DENT
+Course Number: 410
+Section: DMO
+Description: Fundamentals of human biology, body systems, diseases, and supporting basic oral health sciences. Learning in small groups, classroom, laboratory, and clinical settings utilizing technology. Professionalism, ethics, interprofessional education and the social contract, communication skills, and critical evaluation of the literature. Begin to apply foundation knowledge and skills to patient assessment and care.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: School, Room: of
+Instructor: TBA
+

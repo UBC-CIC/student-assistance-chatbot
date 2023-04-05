@@ -1,0 +1,80 @@
+Department: COMM
+Course Number: 191
+Section: 101
+Pre-reqs: One of COMM 190, COMM 290.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: ESSAK, MARTHA
+
+Department: COMM
+Course Number: 191
+Section: 201
+Pre-reqs: One of COMM 190, COMM 290.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: BERKOWITZ, JONATHAN
+
+Department: COMM
+Course Number: 191
+Section: 202
+Pre-reqs: One of COMM 190, COMM 290.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: BERKOWITZ, JONATHAN
+
+Department: COMM
+Course Number: 191
+Section: 203
+Pre-reqs: One of COMM 190, COMM 290.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: BERKOWITZ, JONATHAN
+
+Department: COMM
+Course Number: 191
+Section: 204
+Pre-reqs: One of COMM 190, COMM 290.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: BERKOWITZ, JONATHAN
+
+Department: COMM
+Course Number: 191
+Section: T01
+Pre-reqs: One of COMM 190, COMM 290.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 191
+Section: T02
+Pre-reqs: One of COMM 190, COMM 290.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 191
+Section: T03
+Pre-reqs: One of COMM 190, COMM 290.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+

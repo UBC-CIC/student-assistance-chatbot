@@ -1,0 +1,22 @@
+Department: GRSJ
+Course Number: 327
+Section: 101
+Description: Feminist scholarship emphasizing languages and processes of representation and the construction of difference in cultural discourses and institutions.
+Pre-reqs: Either (a) all of GRSJ 101, GRSJ 102 or (b) all of WMST 101, WMST 102. (or third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: B211
+Instructor: BANDALI, ALIFA
+
+Department: GRSJ
+Course Number: 327
+Section: WL3
+Description: Feminist scholarship emphasizing languages and processes of representation and the construction of difference in cultural discourses and institutions.
+Pre-reqs: Either (a) all of GRSJ 101, GRSJ 102 or (b) all of WMST 101, WMST 102. (or third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: To, Room: Be
+Instructor: TBA
+

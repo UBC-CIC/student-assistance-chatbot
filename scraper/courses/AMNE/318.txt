@@ -1,0 +1,20 @@
+Department: AMNE
+Course Number: 318
+Section: 001
+Pre-reqs: One of CLST 232, AMNE 216.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D207
+Instructor: HUEMOELLER, KATHARINE
+
+Department: AMNE
+Course Number: 318
+Section: 001
+Pre-reqs: One of CLST 232, AMNE 216.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: D207
+Instructor: HUEMOELLER, KATHARINE
+

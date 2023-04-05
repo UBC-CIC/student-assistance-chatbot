@@ -1,0 +1,450 @@
+Department: POLI
+Course Number: 101
+Section: 001
+Description: The Government of Canada
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: A101
+Instructor: BAIER, GERALD
+
+Department: POLI
+Course Number: 101
+Section: L1A
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1B
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D306
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1C
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1D
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1E
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 9:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1F
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 19:00, End Time: 20:00, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1G
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1H
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1J
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1K
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1L
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B316
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1M
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Mathematics, Room: 225
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1N
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Auditorium, Room: Annex
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1O
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Allard, Room: Hall
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L1P
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: 002
+Description: The Government of Canada
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: A101
+Instructor: DOBERSTEIN, CAREY
+
+Department: POLI
+Course Number: 101
+Section: L2A
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B216
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2B
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: B216
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2C
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2D
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2E
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D214
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2F
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D306
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2G
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: B216
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2H
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2I
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2J
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:30, End Time: 10:30, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2K
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B216
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2L
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2M
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D315
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: L2O
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: 099
+Description: The Government of Canada
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Mathematics, Room: Annex
+Instructor: IE, KENNY
+
+Department: POLI
+Course Number: 101
+Section: LZ1
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 13:30, Building: Buchanan, Room: D306
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: LZ2
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: LZ3
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D306
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: LZ4
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: LZ5
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: LZ6
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: 227
+Description: The Government of Canada
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Irving, Room: K
+Instructor: IE, KENNY
+
+Department: POLI
+Course Number: 101
+Section: LX1
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D306
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: LX2
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: LX3
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D216
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: LX4
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: LX5
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D214
+Instructor: TBA
+
+Department: POLI
+Course Number: 101
+Section: LX6
+Description: The Government of Canada
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: TBA
+

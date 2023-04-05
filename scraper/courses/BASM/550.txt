@@ -1,0 +1,10 @@
+Department: BASM
+Course Number: 550
+Section: MM1
+Description: Not available to MBA students.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 8:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: PARRA PEREZ, ALVARO
+

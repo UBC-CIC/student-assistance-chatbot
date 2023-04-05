@@ -1,0 +1,21 @@
+Department: KIN
+Course Number: 468
+Section: 002
+Description: The complex social, cultural, historical, and economic factors that shape health and wellness within Indigenous communities will be explored through extensive blended learning and experiential learning opportunities.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Wesbrook, Room: 201
+Instructor: WARBURTON, DARREN
+
+Department: KIN
+Course Number: 468
+Section: 0W2
+Description: The complex social, cultural, historical, and economic factors that shape health and wellness within Indigenous communities will be explored through extensive blended learning and experiential learning opportunities.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

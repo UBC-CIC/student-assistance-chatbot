@@ -1,0 +1,20 @@
+Department: LLED
+Course Number: 336
+Section: 177
+Description: Knowledge and development of skills necessary to create a transactional style of teaching.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 16:00, Building: Ponderosa, Room: Commons
+Instructor: POINT, MARNY
+
+Department: LLED
+Course Number: 336
+Section: 624
+Description: Knowledge and development of skills necessary to create a transactional style of teaching.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 17:00, End Time: 19:00
+Instructor: KAISER, KEVIN
+

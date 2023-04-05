@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 386A
+Section: 101
+Description: An examination of the political, economic, social, and cultural transformations of Korea since the late nineteenth century. Topics include the end of the Choson Dynasty, the history of Japanese colonial rule, the Korean war, and the two Koreas in the international system.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: MacMillan, Room: 158
+Instructor: SHIN, JIHYUN
+

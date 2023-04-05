@@ -1,0 +1,9 @@
+Department: NRSC
+Course Number: 501
+Section: 001
+Description: Continuation of NRSC 500 with emphasis on the integrative functions of the brain, behaviour, and selected neural disorders. Permission of Neuroscience Chair is required. Normally to be taken in conjunction with NRSC 500.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SWINDALE, NICHOLAS VAUGHAN
+

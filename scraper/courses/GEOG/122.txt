@@ -1,0 +1,170 @@
+Department: GEOG
+Course Number: 122
+Section: 201
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Geography, Room: 100
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2A
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Geography, Room: 242
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2B
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Geography, Room: 242
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2C
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Geography, Room: 242
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2D
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Geography, Room: 242
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2E
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 16:00, Building: Geography, Room: 242
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2F
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Geography, Room: 242
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2G
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Geography, Room: 242
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2H
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Geography, Room: 242
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2I
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Geography, Room: 242
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2J
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: Geography, Room: 242
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2K
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Geography, Room: 242
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: 299
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Geography, Room: 200
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2V
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Geography, Room: 130
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2W
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Mathematics, Room: 202
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2X
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Geography, Room: 130
+Instructor: BARNES, TREVOR
+
+Department: GEOG
+Course Number: 122
+Section: L2Y
+Description: The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 18:00, End Time: 19:00, Building: Geography, Room: 130
+Instructor: BARNES, TREVOR
+

@@ -1,0 +1,20 @@
+Department: MECH
+Course Number: 493
+Section: 001
+Description: Introduction to Academic Research
+Pre-reqs: (Fourth-year standing and at least 80% average in third-year courses and permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BUSHE, WILLIAM KENDAL
+
+Department: MECH
+Course Number: 493
+Section: L0A
+Description: Research project directed by a faculty member in Mechanical Engineering.
+Pre-reqs: (Fourth-year standing and at least 80% average in third-year courses and permission of instructor.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BUSHE, WILLIAM KENDAL
+

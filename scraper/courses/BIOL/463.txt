@@ -1,0 +1,22 @@
+Department: BIOL
+Course Number: 463
+Section: 101
+Description: Control of gene expression in development; the genetic and physiological basis of epigenetic determination; inductive interactions.
+Pre-reqs: BIOL 335 and one of BIOL 201, BIOC 202, BIOC 203. (BIOL 331 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Neville, Room: Scarfe
+Instructor: KALAS, PAMELA
+
+Department: BIOL
+Course Number: 463
+Section: 1W1
+Description: Control of gene expression in development; the genetic and physiological basis of epigenetic determination; inductive interactions.
+Pre-reqs: BIOL 335 and one of BIOL 201, BIOC 202, BIOC 203. (BIOL 331 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00
+Instructor: TBA
+

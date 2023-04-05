@@ -1,0 +1,10 @@
+Department: EDUC
+Course Number: 419D
+Section: 110
+Description: Pass/Fail.
+Pre-reqs: (Normally all requirements set to precede this practicum.)
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, ROD
+

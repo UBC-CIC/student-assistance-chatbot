@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 462
+Section: 001
+Description: The corporation, taxation, accounting, insurance and estate planning aspects of the close corporation. Not offered each year, consult Faculty.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 18:30, End Time: 21:30, Building: Allard, Room: Hall
+Instructor: FLORIO, CASSANDRA
+

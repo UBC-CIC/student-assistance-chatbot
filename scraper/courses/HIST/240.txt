@@ -1,0 +1,50 @@
+Department: HIST
+Course Number: 240
+Section: 101
+Description: History of western medicine, from the Ancient World to the Enlightenment, with a focus on social and cultural ideas surrounding the body, health, and disease, and the development of medical institutions.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B315
+Instructor: CHRISTOPOULOS, JOHN
+
+Department: HIST
+Course Number: 240
+Section: L01
+Description: History of western medicine, from the Ancient World to the Enlightenment, with a focus on social and cultural ideas surrounding the body, health, and disease, and the development of medical institutions.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B312
+Instructor: CHRISTOPOULOS, JOHN
+
+Department: HIST
+Course Number: 240
+Section: L02
+Description: History of western medicine, from the Ancient World to the Enlightenment, with a focus on social and cultural ideas surrounding the body, health, and disease, and the development of medical institutions.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D306
+Instructor: CHRISTOPOULOS, JOHN
+
+Department: HIST
+Course Number: 240
+Section: L03
+Description: History of western medicine, from the Ancient World to the Enlightenment, with a focus on social and cultural ideas surrounding the body, health, and disease, and the development of medical institutions.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D319
+Instructor: CHRISTOPOULOS, JOHN
+
+Department: HIST
+Course Number: 240
+Section: L04
+Description: History of western medicine, from the Ancient World to the Enlightenment, with a focus on social and cultural ideas surrounding the body, health, and disease, and the development of medical institutions.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Hennings, Room: 302
+Instructor: CHRISTOPOULOS, JOHN
+

@@ -1,0 +1,10 @@
+Department: BAAC
+Course Number: 501
+Section: 001
+Pre-reqs: All of BAAC 550, BAAC 551.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Sat, Start Time: 8:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: YEE, DOUGLAS
+

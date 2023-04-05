@@ -1,0 +1,16 @@
+Department: PLNT
+Course Number: 530G
+Section: 005
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLNT
+Course Number: 530G
+Section: 005
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

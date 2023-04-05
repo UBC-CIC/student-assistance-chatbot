@@ -1,0 +1,44 @@
+Department: ECON
+Course Number: 345
+Section: 001
+Description: Financial markets and financial institutions in theory and practice; structure and development of the Canadian financial system; development and theory of the regulation of the financial system; process of monetary control; theory and history of central banking and monetary policy.
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 18:00, End Time: 19:00, Building: Buchanan, Room: A102
+Instructor: KHAN, ANICHUL
+
+Department: ECON
+Course Number: 345
+Section: 002
+Description: Financial markets and financial institutions in theory and practice; structure and development of the Canadian financial system; development and theory of the regulation of the financial system; process of monetary control; theory and history of central banking and monetary policy.
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 18:00, End Time: 19:00, Building: Buchanan, Room: A104
+Instructor: NEWMAN, GEOFFREY
+
+Department: ECON
+Course Number: 345
+Section: 003
+Description: Financial markets and financial institutions in theory and practice; structure and development of the Canadian financial system; development and theory of the regulation of the financial system; process of monetary control; theory and history of central banking and monetary policy.
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: A102
+Instructor: NEWMAN, GEOFFREY
+
+Department: ECON
+Course Number: 345
+Section: 004
+Description: Financial markets and financial institutions in theory and practice; structure and development of the Canadian financial system; development and theory of the regulation of the financial system; process of monetary control; theory and history of central banking and monetary policy.
+Pre-reqs: All of ECON 101, ECON 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 18:00, End Time: 19:00, Building: Buchanan, Room: A104
+Instructor: KHAN, ANICHUL
+

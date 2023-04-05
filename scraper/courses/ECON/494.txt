@@ -1,0 +1,44 @@
+Department: ECON
+Course Number: 494
+Section: 001
+Description: Focus on a particular aspect of applied international economics. Independent empirical research project required. Registration restricted to students in the Bachelor of International Economics Program.
+Pre-reqs: ECON 493.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: Iona, Room: Building
+Instructor: BAYLIS, PATRICK
+
+Department: ECON
+Course Number: 494
+Section: 002
+Description: Focus on a particular aspect of applied international economics. Independent empirical research project required. Registration restricted to students in the Bachelor of International Economics Program.
+Pre-reqs: ECON 493.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Iona, Room: Building
+Instructor: ANDERSON, KRISTIN SIWAN
+
+Department: ECON
+Course Number: 494
+Section: 003
+Description: Focus on a particular aspect of applied international economics. Independent empirical research project required. Registration restricted to students in the Bachelor of International Economics Program.
+Pre-reqs: ECON 493.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Neville, Room: Scarfe
+Instructor: JUHASZ, REKA
+
+Department: ECON
+Course Number: 494
+Section: 004
+Description: Focus on a particular aspect of applied international economics. Independent empirical research project required. Registration restricted to students in the Bachelor of International Economics Program.
+Pre-reqs: ECON 493.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: D304
+Instructor: FISHER, ADLAI
+

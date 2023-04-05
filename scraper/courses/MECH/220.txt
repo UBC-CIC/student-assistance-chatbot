@@ -1,0 +1,56 @@
+Department: MECH
+Course Number: 220
+Section: 101
+Description: Engineering graphics, spatial visualization, CAD, equation solvers, machine shop practice, electronic circuit construction and troubleshooting, elements of engineering science.
+Pre-reqs: All of APSC 160, MATH 101, MATH 152, PHYS 158, PHYS 170 and one of APSC 100, APSC 150, APSC 151 and one of BMEG 102, PHYS 159 and one of APSC 176, ENGL 112, WRDS 150.
+Co-reqs: MECH 221.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Wed Thu Fri, Start Time: 13:00, End Time: 18:00
+Instructor: ABELLO RUBIO, JUAN
+
+Department: MECH
+Course Number: 220
+Section: L1A
+Description: Engineering graphics, spatial visualization, CAD, equation solvers, machine shop practice, electronic circuit construction and troubleshooting, elements of engineering science.
+Pre-reqs: All of APSC 160, MATH 101, MATH 152, PHYS 158, PHYS 170 and one of APSC 100, APSC 150, APSC 151 and one of BMEG 102, PHYS 159 and one of APSC 176, ENGL 112, WRDS 150.
+Co-reqs: MECH 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MECH
+Course Number: 220
+Section: L1B
+Description: Engineering graphics, spatial visualization, CAD, equation solvers, machine shop practice, electronic circuit construction and troubleshooting, elements of engineering science.
+Pre-reqs: All of APSC 160, MATH 101, MATH 152, PHYS 158, PHYS 170 and one of APSC 100, APSC 150, APSC 151 and one of BMEG 102, PHYS 159 and one of APSC 176, ENGL 112, WRDS 150.
+Co-reqs: MECH 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MECH
+Course Number: 220
+Section: L1C
+Description: Engineering graphics, spatial visualization, CAD, equation solvers, machine shop practice, electronic circuit construction and troubleshooting, elements of engineering science.
+Pre-reqs: All of APSC 160, MATH 101, MATH 152, PHYS 158, PHYS 170 and one of APSC 100, APSC 150, APSC 151 and one of BMEG 102, PHYS 159 and one of APSC 176, ENGL 112, WRDS 150.
+Co-reqs: MECH 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MECH
+Course Number: 220
+Section: L1D
+Description: Engineering graphics, spatial visualization, CAD, equation solvers, machine shop practice, electronic circuit construction and troubleshooting, elements of engineering science.
+Pre-reqs: All of APSC 160, MATH 101, MATH 152, PHYS 158, PHYS 170 and one of APSC 100, APSC 150, APSC 151 and one of BMEG 102, PHYS 159 and one of APSC 176, ENGL 112, WRDS 150.
+Co-reqs: MECH 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

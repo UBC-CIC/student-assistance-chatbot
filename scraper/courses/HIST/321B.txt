@@ -1,0 +1,9 @@
+Department: HIST
+Course Number: 321B
+Section: 201
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: Tower
+Instructor: LOO, TINA MERRILL
+

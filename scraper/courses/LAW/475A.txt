@@ -1,0 +1,9 @@
+Department: LAW
+Course Number: 475A
+Section: 001
+Description: Trial advocacy. Restricted to students participating in one or more faculty approved trial advocacy competitions. Students enrolled in this course must also be enrolled in LAW 474.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,30 @@
+Department: PHIL
+Course Number: 371
+Section: 001
+Description: Chinese thought from the Han dynasty (206 BCE to 220 CE) in its historical and cultural contexts. Includes among others: Confucius; Mo Zi; the Legalists/Authoritarians; Zhuang Zi; the Lao Zi book.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B307
+Instructor: SLINGERLAND, EDWARD
+
+Department: PHIL
+Course Number: 371
+Section: 002
+Description: Chinese thought from the Han dynasty (206 BCE to 220 CE) in its historical and cultural contexts. Includes among others: Confucius; Mo Zi; the Legalists/Authoritarians; Zhuang Zi; the Lao Zi book.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B308
+Instructor: SLINGERLAND, EDWARD
+
+Department: PHIL
+Course Number: 371
+Section: 003
+Description: Chinese thought from the Han dynasty (206 BCE to 220 CE) in its historical and cultural contexts. Includes among others: Confucius; Mo Zi; the Legalists/Authoritarians; Zhuang Zi; the Lao Zi book.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B304
+Instructor: SLINGERLAND, EDWARD
+

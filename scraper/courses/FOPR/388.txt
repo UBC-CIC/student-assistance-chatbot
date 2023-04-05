@@ -1,0 +1,22 @@
+Department: FOPR
+Course Number: 388
+Section: 101
+Description: Analytical methods in forest hydrology and their applications in the planning of forest operations with a focus on the hydrologic and hydraulic design procedures for stream crossings.
+Co-reqs: FOPR 262.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Centre, Room: for
+Instructor: ALILA, YOUNES
+
+Department: FOPR
+Course Number: 388
+Section: L03
+Description: Analytical methods in forest hydrology and their applications in the planning of forest operations with a focus on the hydrologic and hydraulic design procedures for stream crossings.
+Co-reqs: FOPR 262.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: ALILA, YOUNES
+

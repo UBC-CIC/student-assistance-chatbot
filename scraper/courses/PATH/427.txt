@@ -1,0 +1,18 @@
+Department: PATH
+Course Number: 427
+Section: 002
+Description: This course provides the basic principles to prevent the spread of microorganisms pathogenic to humans. It may be taken towards a Certificate in Infection Control.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HADZIC, AMIR
+
+Department: PATH
+Course Number: 427
+Section: 2W1
+Description: This course provides the basic principles to prevent the spread of microorganisms pathogenic to humans. It may be taken towards a Certificate in Infection Control.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: AL RAWAHI, GHADA
+

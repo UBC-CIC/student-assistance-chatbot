@@ -1,0 +1,25 @@
+Department: MICB
+Course Number: 549
+Section: 001
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MICB
+Course Number: 549
+Section: 101
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MICB
+Course Number: 549
+Section: 201
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 7:00, End Time: 8:00
+Instructor: TBA
+

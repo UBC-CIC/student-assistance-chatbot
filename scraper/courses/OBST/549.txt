@@ -1,0 +1,24 @@
+Department: OBST
+Course Number: 549
+Section: 001
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: OBST
+Course Number: 549
+Section: 002
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: OBST
+Course Number: 549
+Section: 003
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

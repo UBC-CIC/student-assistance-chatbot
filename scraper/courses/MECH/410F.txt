@@ -1,0 +1,10 @@
+Department: MECH
+Course Number: 410F
+Section: 201
+Description: Lectures and readings on specialized topics of current interest in Mechanical Engineering.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue
+Instructor: BUSHE, WILLIAM KENDAL
+

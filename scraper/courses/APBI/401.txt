@@ -1,0 +1,32 @@
+Department: APBI
+Course Number: 401
+Section: 001
+Description: Integration of soil physics, chemistry, and biology in understanding essential soil processes.
+Pre-reqs: APBI 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: CORNELIS, JEAN THOMAS
+
+Department: APBI
+Course Number: 401
+Section: T01
+Description: Integration of soil physics, chemistry, and biology in understanding essential soil processes.
+Pre-reqs: APBI 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 16:30, Building: MacLeod, Room: 3014
+Instructor: CORNELIS, JEAN THOMAS
+
+Department: APBI
+Course Number: 401
+Section: 0W1
+Description: Integration of soil physics, chemistry, and biology in understanding essential soil processes.
+Pre-reqs: APBI 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

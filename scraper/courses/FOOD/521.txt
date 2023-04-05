@@ -1,0 +1,9 @@
+Department: FOOD
+Course Number: 521
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:30, Building: P., Room: A.
+Instructor: CASTELLARIN, SIMONE
+

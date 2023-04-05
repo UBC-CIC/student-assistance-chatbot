@@ -1,0 +1,11 @@
+Department: ARCL
+Course Number: 424
+Section: 001
+Description: Survey of the use of archaeology in the public context and interest, particularly the identification, evaluation, conservation, and management of archaeological resources. Laws and policies, principles, methods, and ethical concerns guiding current practices, public involvement, relationships with indigenous communities, and contemporary issues in cultural resources management.
+Pre-reqs: ARCL 203.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: MASON, ANDREW
+

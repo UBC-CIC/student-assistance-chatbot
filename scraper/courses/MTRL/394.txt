@@ -1,0 +1,20 @@
+Department: MTRL
+Course Number: 394
+Section: 201
+Description: The structure and properties of polymeric materials, reinforced polymers and polymer matrix composites with emphasis on their engineering properties and applications.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Frank, Room: Forward
+Instructor: KRAVCHENKO, SERGII
+
+Department: MTRL
+Course Number: 394
+Section: T2A
+Description: The structure and properties of polymeric materials, reinforced polymers and polymer matrix composites with emphasis on their engineering properties and applications.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Frank, Room: Forward
+Instructor: KRAVCHENKO, SERGII
+

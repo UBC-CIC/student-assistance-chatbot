@@ -1,0 +1,10 @@
+Department: ARCH
+Course Number: 511
+Section: 001
+Description: Architectural technology, including materials and methods, construction types, and building system integration. Strong emphasis on enclosure performance with focus on smaller buildings and light wood framing construction.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Frederic, Room: Lasserre
+Instructor: JOHNSON, GREGORY
+

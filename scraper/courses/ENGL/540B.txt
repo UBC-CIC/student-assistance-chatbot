@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 540B
+Section: 001
+Description: Studies in American Literature to 1890 - AMER LIT TO 1890
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:30, End Time: 16:30, Building: Buchanan, Room: Tower
+Instructor: TOMC, SANDRA
+
+Department: ENGL
+Course Number: 540B
+Section: 01W
+Description: Studies in American Literature to 1890 - AMER LIT TO 1890
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

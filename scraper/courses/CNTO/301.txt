@@ -1,0 +1,22 @@
+Department: CNTO
+Course Number: 301
+Section: 001
+Description: Elementary level (part I) course in Cantonese for non-heritage learners with no prior exposure to or background in Cantonese. Focus on training for basic listening and conversational skills in Cantonese. Heritage speakers of Mandarin are NOT eligible.
+Pre-reqs: One of CHIN 107, CHIN 233, CHIN 108, CHIN 234. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: D307
+Instructor: LAM, WAI MAN
+
+Department: CNTO
+Course Number: 301
+Section: W01
+Description: Elementary level (part I) course in Cantonese for non-heritage learners with no prior exposure to or background in Cantonese. Focus on training for basic listening and conversational skills in Cantonese. Heritage speakers of Mandarin are NOT eligible.
+Pre-reqs: One of CHIN 107, CHIN 233, CHIN 108, CHIN 234. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu Fri, Start Time: 12:00, End Time: 13:00
+Instructor: LAM, WAI MAN
+

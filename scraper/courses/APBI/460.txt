@@ -1,0 +1,11 @@
+Department: APBI
+Course Number: 460
+Section: 001
+Description: The relationship between biological diversity and sustainability in food producing agroecosystems; emphasis on ecological similarities between natural ecosystems and managed agroecosystems.
+Pre-reqs: APBI 360. (or equivalent.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: RISEMAN, ANDREW
+

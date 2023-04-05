@@ -1,0 +1,22 @@
+Department: BABS
+Course Number: 502
+Section: BA1
+Description: Time series forecasting including common smoothing methods and autocorrelation methods; students will work with publicly available data.
+Pre-reqs: One of BABS 500, BABS 507, COMM 581.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: ESSAK, MARTHA
+
+Department: BABS
+Course Number: 502
+Section: BA2
+Description: Time series forecasting including common smoothing methods and autocorrelation methods; students will work with publicly available data.
+Pre-reqs: One of BABS 500, BABS 507, COMM 581.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 16:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: ESSAK, MARTHA
+

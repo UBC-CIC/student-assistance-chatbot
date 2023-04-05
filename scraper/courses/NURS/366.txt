@@ -1,0 +1,11 @@
+Department: NURS
+Course Number: 366
+Section: 001
+Description: Nursing practice to integrate and consolidate professional nursing knowledge, skills and competencies in the care of infants, children, youth and their families.
+Pre-reqs: All of NURS 300, NURS 310, NURS 321, NURS 322, NURS 330, NURS 352.
+Co-reqs: NURS 346 and one of NURS 323, NURS 401.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FOSTER, SUE
+

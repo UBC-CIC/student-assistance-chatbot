@@ -1,0 +1,26 @@
+Department: SOWK
+Course Number: 560C
+Section: 001
+Description: Directed Field Studies in Social Work II - DIR FLD STUDIES
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: SOWK
+Course Number: 560C
+Section: 002
+Description: Directed Field Studies in Social Work II - DIR FLD STUDIES
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: WILSON, TINA
+
+Department: SOWK
+Course Number: 560C
+Section: 003
+Description: Directed Field Studies in Social Work II - DIR FLD STUDIES
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

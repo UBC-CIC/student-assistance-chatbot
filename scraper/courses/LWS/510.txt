@@ -1,0 +1,10 @@
+Department: LWS
+Course Number: 510
+Section: 003
+Description: Current and emerging issues relevant within the general context of land and water systems, and the significance of professional credibility and exposure.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: MacMillan, Room: 258
+Instructor: LAVKULICH, LESLIE
+

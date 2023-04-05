@@ -1,0 +1,9 @@
+Department: STAT
+Course Number: 520B
+Section: 201
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Neville, Room: Scarfe
+Instructor: CAMPBELL, TREVOR
+

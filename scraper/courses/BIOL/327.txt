@@ -1,0 +1,66 @@
+Department: BIOL
+Course Number: 327
+Section: 101
+Description: Introduction to Entomology
+Pre-reqs: One of BIOL 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:00, Building: West, Room: Mall
+Instructor: AKHTAR, YASMIN
+
+Department: BIOL
+Course Number: 327
+Section: L11
+Description: Introduction to Entomology
+Pre-reqs: One of BIOL 121, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: MacMillan, Room: 240
+Instructor: AKHTAR, YASMIN
+
+Department: BIOL
+Course Number: 327
+Section: L12
+Description: Introduction to Entomology
+Pre-reqs: One of BIOL 121, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: MacMillan, Room: 240
+Instructor: AKHTAR, YASMIN
+
+Department: BIOL
+Course Number: 327
+Section: L13
+Description: Introduction to Entomology
+Pre-reqs: One of BIOL 121, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:30, End Time: 15:30, Building: MacMillan, Room: 240
+Instructor: AKHTAR, YASMIN
+
+Department: BIOL
+Course Number: 327
+Section: L14
+Description: Introduction to Entomology
+Pre-reqs: One of BIOL 121, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:30, End Time: 15:30, Building: MacMillan, Room: 240
+Instructor: AKHTAR, YASMIN
+
+Department: BIOL
+Course Number: 327
+Section: 1W1
+Description: Introduction to Entomology
+Pre-reqs: One of BIOL 121, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:00
+Instructor: TBA
+

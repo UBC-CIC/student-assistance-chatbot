@@ -1,0 +1,43 @@
+Department: MICB
+Course Number: 325
+Section: 201
+Description: Genetic, molecular biological and bioinformatic approaches for the analysis of microbial genomes, gene structure-function and gene expression with emphasis on bacteria.
+Pre-reqs: One of MICB 211, MICB 201, BIOL 234.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Biological, Room: Sciences
+Instructor: ELTIS, LINDSAY
+
+Department: MICB
+Course Number: 325
+Section: T03
+Description: Genetic, molecular biological and bioinformatic approaches for the analysis of microbial genomes, gene structure-function and gene expression with emphasis on bacteria.
+Pre-reqs: One of MICB 211, MICB 201, BIOL 234.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: MICB
+Course Number: 325
+Section: T04
+Description: Genetic, molecular biological and bioinformatic approaches for the analysis of microbial genomes, gene structure-function and gene expression with emphasis on bacteria.
+Pre-reqs: One of MICB 211, MICB 201, BIOL 234.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Aquatic, Room: Ecosystems
+Instructor: TBA
+
+Department: MICB
+Course Number: 325
+Section: WL2
+Description: Genetic, molecular biological and bioinformatic approaches for the analysis of microbial genomes, gene structure-function and gene expression with emphasis on bacteria.
+Pre-reqs: One of MICB 211, MICB 201, BIOL 234.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

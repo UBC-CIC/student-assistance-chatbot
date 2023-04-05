@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 350A
+Section: 001
+Description: Major cultural groupings in Polynesia and Micronesia, emphasizing both traditional cultures and the incorporation of the region into modern international institutions.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: RYNIKER, DAVID
+

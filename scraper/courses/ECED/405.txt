@@ -1,0 +1,18 @@
+Department: ECED
+Course Number: 405
+Section: 63A
+Description: Foundations of Curriculum and Instruction in Early Childhood Education
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BURBEE, CAROL
+
+Department: ECED
+Course Number: 405
+Section: 63C
+Description: Foundations of Curriculum and Instruction in Early Childhood Education
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BAILLIE, TRACI
+

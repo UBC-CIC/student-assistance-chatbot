@@ -1,0 +1,21 @@
+Department: CAPS
+Course Number: 390
+Section: 001
+Description: Organ system development, structure and function at the microscopic level.
+Pre-reqs: One of BIOL 121, SCIE 001. (BIOL 200 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: P., Room: A.
+Instructor: KOPP, JANEL
+
+Department: CAPS
+Course Number: 390
+Section: 01W
+Description: Organ system development, structure and function at the microscopic level.
+Pre-reqs: One of BIOL 121, SCIE 001. (BIOL 200 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

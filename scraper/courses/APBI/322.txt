@@ -1,0 +1,20 @@
+Department: APBI
+Course Number: 322
+Section: 001
+Description: Horticulture theory and methodology in an experiential learning format. Plant identification, seeding, propagation, canopy management, cultivation media, horticultural systems examined in the context of integrated crop management.
+Credits: 4
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: MacMillan, Room: 260
+Instructor: MCCABE, ALLISON
+
+Department: APBI
+Course Number: 322
+Section: L01
+Description: Horticulture theory and methodology in an experiential learning format. Plant identification, seeding, propagation, canopy management, cultivation media, horticultural systems examined in the context of integrated crop management.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: MacMillan, Room: 260
+Instructor: MCCABE, ALLISON
+

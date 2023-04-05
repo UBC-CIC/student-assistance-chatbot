@@ -1,0 +1,18 @@
+Department: PATH
+Course Number: 467
+Section: 002
+Description: The identification, clinical significance, and transmission of pathogenic organisms are presented. This course is available by correspondence or webCT. It may be taken towards fulfillment of the Certificate in Infection Control.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: AL RAWAHI, GHADA
+
+Department: PATH
+Course Number: 467
+Section: 2W1
+Description: The identification, clinical significance, and transmission of pathogenic organisms are presented. This course is available by correspondence or webCT. It may be taken towards fulfillment of the Certificate in Infection Control.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

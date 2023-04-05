@@ -1,0 +1,88 @@
+Department: VISA
+Course Number: 230
+Section: 001
+Description: Development of a variety of techniques and approaches to painting. Emphasis on developing a strong paint vocabulary as well as acquiring knowledge of historical and contemporary issues in painting.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Dorothy, Room: Somerset
+Instructor: STOCKBRIDGE, CAROLYN
+
+Department: VISA
+Course Number: 230
+Section: 002
+Description: Development of a variety of techniques and approaches to painting. Emphasis on developing a strong paint vocabulary as well as acquiring knowledge of historical and contemporary issues in painting.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Dorothy, Room: Somerset
+Instructor: STOCKBRIDGE, CAROLYN
+
+Department: VISA
+Course Number: 230
+Section: 003
+Description: Development of a variety of techniques and approaches to painting. Emphasis on developing a strong paint vocabulary as well as acquiring knowledge of historical and contemporary issues in painting.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Dorothy, Room: Somerset
+Instructor: MCCRUM, PHILLIP
+
+Department: VISA
+Course Number: 230
+Section: 004
+Description: Development of a variety of techniques and approaches to painting. Emphasis on developing a strong paint vocabulary as well as acquiring knowledge of historical and contemporary issues in painting.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Dorothy, Room: Somerset
+Instructor: STOCKBRIDGE, CAROLYN
+
+Department: VISA
+Course Number: 230
+Section: 01W
+Description: Development of a variety of techniques and approaches to painting. Emphasis on developing a strong paint vocabulary as well as acquiring knowledge of historical and contemporary issues in painting.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+
+Department: VISA
+Course Number: 230
+Section: 02W
+Description: Development of a variety of techniques and approaches to painting. Emphasis on developing a strong paint vocabulary as well as acquiring knowledge of historical and contemporary issues in painting.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+
+Department: VISA
+Course Number: 230
+Section: 03W
+Description: Development of a variety of techniques and approaches to painting. Emphasis on developing a strong paint vocabulary as well as acquiring knowledge of historical and contemporary issues in painting.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+
+Department: VISA
+Course Number: 230
+Section: 04W
+Description: Development of a variety of techniques and approaches to painting. Emphasis on developing a strong paint vocabulary as well as acquiring knowledge of historical and contemporary issues in painting.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+

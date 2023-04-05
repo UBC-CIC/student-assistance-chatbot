@@ -1,0 +1,11 @@
+Department: ENVR
+Course Number: 440
+Section: 201
+Description: Sustainability analysis through a series of case studies. Example approaches include cost-benefit analysis, trade-offs analysis, and life-cycle analysis. Active learning in a computer lab using real-world data.
+Pre-reqs: One of ENVR 200, ASIC 220, SCIE 220, GEOG 211. (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: SIDHU, BALSHER SINGH
+

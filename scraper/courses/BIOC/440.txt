@@ -1,0 +1,21 @@
+Department: BIOC
+Course Number: 440
+Section: 001
+Description: Developing areas of molecular biology, focusing on experimental design and data analysis. Signal transduction, the use of model eukaryotes, and the regulation of gene expression.
+Pre-reqs: One of BIOC 303, BIOT 380 and all of BIOC 402, BIOC 410.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: HOWE, LEANN
+
+Department: BIOC
+Course Number: 440
+Section: 00W
+Description: Developing areas of molecular biology, focusing on experimental design and data analysis. Signal transduction, the use of model eukaryotes, and the regulation of gene expression.
+Pre-reqs: One of BIOC 303, BIOT 380 and all of BIOC 402, BIOC 410.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

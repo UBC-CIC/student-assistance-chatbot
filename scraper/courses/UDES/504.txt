@@ -1,0 +1,20 @@
+Department: UDES
+Course Number: 504
+Section: 002
+Description: History and Theory of Urban Design
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:30, End Time: 11:30, Building: Neville, Room: Scarfe
+Instructor: STEVENS, SARA
+
+Department: UDES
+Course Number: 504
+Section: T01
+Description: History and Theory of Urban Design
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: STEVENS, SARA
+

@@ -1,0 +1,30 @@
+Department: WOOD
+Course Number: 493
+Section: 201
+Description: A report (approved by a faculty supervisor and the Program Director) based on either a technical description of a study, an extension of the senior co-op report, a detailed literature review, a research-based project, or a guided independent study developed by the student.
+Pre-reqs: (Fourth-year standing)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LEUNG, VINCENT
+
+Department: WOOD
+Course Number: 493
+Section: 610
+Description: A report (approved by a faculty supervisor and the Program Director) based on either a technical description of a study, an extension of the senior co-op report, a detailed literature review, a research-based project, or a guided independent study developed by the student.
+Pre-reqs: (Fourth-year standing)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LEUNG, VINCENT
+
+Department: WOOD
+Course Number: 493
+Section: 611
+Description: A report (approved by a faculty supervisor and the Program Director) based on either a technical description of a study, an extension of the senior co-op report, a detailed literature review, a research-based project, or a guided independent study developed by the student.
+Pre-reqs: (Fourth-year standing)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LEUNG, VINCENT
+

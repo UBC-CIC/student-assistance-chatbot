@@ -1,0 +1,11 @@
+Department: SOWK
+Course Number: 442
+Section: 001
+Description: Covers the statutory bases and practices associated with the continuum of child welfare services from prevention through permanency planning.
+Pre-reqs: SOWK 441. (or another course in child development.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 13:00, Building: West, Room: Mall
+Instructor: MONTGOMERY, HARPELL
+

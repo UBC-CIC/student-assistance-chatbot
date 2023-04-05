@@ -1,0 +1,36 @@
+Department: BIOL
+Course Number: 326
+Section: 201
+Description: Behaviour and ecology of invertebrates as revealed by hands-on experiments in the laboratory and field. Marine emphasis.
+Pre-reqs: BIOL 205.
+Co-reqs: Either (a) STAT 200 or (b) BIOL 300.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: Biological, Room: Sciences
+Instructor: GEHMAN, ALYSSA-LOIS
+
+Department: BIOL
+Course Number: 326
+Section: L01
+Description: Behaviour and ecology of invertebrates as revealed by hands-on experiments in the laboratory and field. Marine emphasis.
+Pre-reqs: BIOL 205.
+Co-reqs: Either (a) STAT 200 or (b) BIOL 300.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 326
+Section: 2W1
+Description: Behaviour and ecology of invertebrates as revealed by hands-on experiments in the laboratory and field. Marine emphasis.
+Pre-reqs: BIOL 205.
+Co-reqs: Either (a) STAT 200 or (b) BIOL 300.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:00
+Instructor: TBA
+

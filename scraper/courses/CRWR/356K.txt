@@ -1,0 +1,11 @@
+Department: CRWR
+Course Number: 356K
+Section: 001
+Description: An intermediate level workshop class in writing for the screen. Manuscript submission is not required for admission.
+Pre-reqs: CRWR 306.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B308
+Instructor: KINCH, MARTIN
+

@@ -1,0 +1,9 @@
+Department: FOOD
+Course Number: 512
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 14:00, End Time: 15:30, Building: Biological, Room: Sciences
+Instructor: ROSS, NANCY
+

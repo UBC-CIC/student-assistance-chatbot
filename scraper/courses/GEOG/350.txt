@@ -1,0 +1,19 @@
+Department: GEOG
+Course Number: 350
+Section: 101
+Description: City systems and theories of urban location; internal spatial structure of the city; commercial and industrial location; social areas; neighbourhood and land use change; urban trends and public policy.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Leonard, Room: S.
+Instructor: FREDERIKSEN, LIA
+
+Department: GEOG
+Course Number: 350
+Section: 99C
+Description: City systems and theories of urban location; internal spatial structure of the city; commercial and industrial location; social areas; neighbourhood and land use change; urban trends and public policy.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SHMUELY, ANDREW
+

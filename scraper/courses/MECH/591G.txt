@@ -1,0 +1,9 @@
+Department: MECH
+Course Number: 591G
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 14:00, Building: To, Room: Be
+Instructor: KIRCHEN, PATRICK
+

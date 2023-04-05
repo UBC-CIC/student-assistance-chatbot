@@ -1,0 +1,131 @@
+Department: FIST
+Course Number: 100
+Section: 001
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:30, Building: Chan, Room: Centre
+Instructor: EVANS, CHRISTINE
+
+Department: FIST
+Course Number: 100
+Section: D11
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B309
+
+Department: FIST
+Course Number: 100
+Section: D12
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B218
+
+Department: FIST
+Course Number: 100
+Section: D13
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Geography, Room: 101
+
+Department: FIST
+Course Number: 100
+Section: 003
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:30, Building: Chan, Room: Centre
+Instructor: EVANS, CHRISTINE
+
+Department: FIST
+Course Number: 100
+Section: D31
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B309
+
+Department: FIST
+Course Number: 100
+Section: D32
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B303
+
+Department: FIST
+Course Number: 100
+Section: D33
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Geography, Room: 201
+
+Department: FIST
+Course Number: 100
+Section: 004
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:30, Building: Chan, Room: Centre
+Instructor: SANTOS, ALESSANDRA
+
+Department: FIST
+Course Number: 100
+Section: D41
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 19:00, End Time: 20:00, Building: Buchanan, Room: B218
+
+Department: FIST
+Course Number: 100
+Section: D42
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Hennings, Room: 304
+
+Department: FIST
+Course Number: 100
+Section: D43
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B318
+
+Department: FIST
+Course Number: 100
+Section: WL1
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:30
+Instructor: TBA
+
+Department: FIST
+Course Number: 100
+Section: WL3
+Description: Basic aesthetic, economic, sociological, and technological aspects of film.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:30
+Instructor: TBA
+

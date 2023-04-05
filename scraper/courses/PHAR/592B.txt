@@ -1,0 +1,8 @@
+Department: PHAR
+Course Number: 592B
+Section: 001
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CHANG, THOMAS
+

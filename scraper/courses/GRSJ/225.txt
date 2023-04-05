@@ -1,0 +1,20 @@
+Department: GRSJ
+Course Number: 225
+Section: 101
+Description: A critical engagement with major issues, debates, and politics in feminist and social justice scholarship through an exploration of youth movements with a focus on activists, popular culture, digital activism, fan cultures, and literature by and for youth.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: SNOWDEN, KIM
+
+Department: GRSJ
+Course Number: 225
+Section: WL1
+Description: A critical engagement with major issues, debates, and politics in feminist and social justice scholarship through an exploration of youth movements with a focus on activists, popular culture, digital activism, fan cultures, and literature by and for youth.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: To, Room: Be
+Instructor: TBA
+

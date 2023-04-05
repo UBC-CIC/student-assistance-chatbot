@@ -1,0 +1,10 @@
+Department: PHIL
+Course Number: 310
+Section: 001
+Description: A study of Plato's dialogues and his influence on subsequent philosophy. PHIL/CLST 211 or AMNE 235 and PHIL/CLST 212 or AMNE 236 are recommended.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B215
+Instructor: HECKMAN, IAN
+

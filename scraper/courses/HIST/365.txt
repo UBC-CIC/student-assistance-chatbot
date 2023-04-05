@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 365
+Section: 101
+Description: The interplay between new and traditional ideas, styles, and institutions from the fourteenth to the mid-sixteenth century, with emphasis upon the relationship of social, economic, and political factors to intellectual and cultural change.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: D322
+Instructor: CHRISTOPOULOS, JOHN
+

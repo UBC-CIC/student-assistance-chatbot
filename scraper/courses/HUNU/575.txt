@@ -1,0 +1,11 @@
+Department: HUNU
+Course Number: 575
+Section: 001
+Description: Restricted to students in the Master of Nutrition and Dietetics graduate program.
+Pre-reqs: All of HUNU 500, HUNU 510, HUNU 550.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:30, Building: MacLeod, Room: 3002
+Instructor: DONATTI CASTRO FALCI, BRUNA
+

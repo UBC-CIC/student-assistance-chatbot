@@ -1,0 +1,20 @@
+Department: GREK
+Course Number: 101
+Section: 001
+Description: Classical and Hellenistic Greek, Part I.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B218
+Instructor: YOON, FLORENCE
+
+Department: GREK
+Course Number: 101
+Section: WL1
+Description: Classical and Hellenistic Greek, Part I.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri
+Instructor: TBA
+

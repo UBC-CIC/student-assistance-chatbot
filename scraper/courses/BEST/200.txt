@@ -1,0 +1,11 @@
+Department: BEST
+Course Number: 200
+Section: 101
+Description: Introduction to the production, use, and attributes of renewable products and energy derived from biobased materials. Sustainability paradigms related to the bioeconomy; potential environmental and socio-political impacts associated with biobased technologies and transitions to sustainable economies.
+Pre-reqs: CHEM 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: West, Room: Mall
+Instructor: RENNECKAR, SCOTT
+

@@ -1,0 +1,19 @@
+Department: PLAN
+Course Number: 548G
+Section: 001
+Description: Each year the school may offer one or more courses on a topical issue covering recent advances in the field.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 548G
+Section: 002
+Description: Each year the school may offer one or more courses on a topical issue covering recent advances in the field.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 18:00, Building: West, Room: Mall
+Instructor: WALLACE, CAMERON
+

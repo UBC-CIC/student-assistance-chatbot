@@ -1,0 +1,40 @@
+Department: PSYC
+Course Number: 278
+Section: 001
+Pre-reqs: One of PSYC 217, PSYC 277.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Hennings, Room: 201
+Instructor: ENNS, JAMES
+
+Department: PSYC
+Course Number: 278
+Section: L01
+Pre-reqs: One of PSYC 217, PSYC 277.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Buchanan, Room: B215
+Instructor: TBA
+
+Department: PSYC
+Course Number: 278
+Section: L02
+Pre-reqs: One of PSYC 217, PSYC 277.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Buchanan, Room: B213
+Instructor: TBA
+
+Department: PSYC
+Course Number: 278
+Section: L03
+Pre-reqs: One of PSYC 217, PSYC 277.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Buchanan, Room: B313
+Instructor: TBA
+

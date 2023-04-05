@@ -1,0 +1,43 @@
+Department: FRST
+Course Number: 422
+Section: 101
+Description: Modelling techniques used in strategic and tactical forest resources analyses.
+Pre-reqs: (Fourth-year standing in the BSF degree.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Forest, Room: Sciences
+Instructor: COUPLAND, KATHLEEN DAWN
+
+Department: FRST
+Course Number: 422
+Section: T01
+Description: Modelling techniques used in strategic and tactical forest resources analyses.
+Pre-reqs: (Fourth-year standing in the BSF degree.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Forest, Room: Sciences
+Instructor: COUPLAND, KATHLEEN DAWN
+
+Department: FRST
+Course Number: 422
+Section: T02
+Description: Modelling techniques used in strategic and tactical forest resources analyses.
+Pre-reqs: (Fourth-year standing in the BSF degree.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 16:00, Building: Forest, Room: Sciences
+Instructor: COUPLAND, KATHLEEN DAWN
+
+Department: FRST
+Course Number: 422
+Section: 99A
+Description: Modelling techniques used in strategic and tactical forest resources analyses.
+Pre-reqs: (Fourth-year standing in the BSF degree.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: COUPLAND, KATHLEEN DAWN
+

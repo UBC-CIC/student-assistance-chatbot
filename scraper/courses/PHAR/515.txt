@@ -1,0 +1,10 @@
+Department: PHAR
+Course Number: 515
+Section: 001
+Description: Nano-sized drug delivery systems and their interactions with biological systems.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30
+Instructor: LI, SHYH-DAR
+

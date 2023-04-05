@@ -1,0 +1,21 @@
+Department: GEOG
+Course Number: 412
+Section: 201
+Description: Interdisciplinary analysis of critical water issues, in Canada and internationally. Focus on social science perspectives. Emphasis on presentation, research, and essay-writing skills.
+Pre-reqs: GEOG 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 14:00, Building: Geography, Room: 214
+Instructor: CHAPPELLS, HEATHER
+
+Department: GEOG
+Course Number: 412
+Section: WL2
+Description: Interdisciplinary analysis of critical water issues, in Canada and internationally. Focus on social science perspectives. Emphasis on presentation, research, and essay-writing skills.
+Pre-reqs: GEOG 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

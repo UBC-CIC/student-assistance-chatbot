@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 542
+Section: 001
+Description: Role and influence of science and technology in society, and its relationship to public policy development including: history and economics of technological change.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: KANDLIKAR, MILIND
+

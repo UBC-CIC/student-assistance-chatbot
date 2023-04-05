@@ -1,0 +1,42 @@
+Department: KIN
+Course Number: 465
+Section: 001
+Description: Examination of multiculturalism and interculturalism in the delivery of community-based physical activities for diverse populations; connections between physical activity and health in different cultural contexts. Community service learning and participation in culturally unfamiliar physical activities are core elements.
+Pre-reqs: (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Food,, Room: Nutrition
+Instructor: KOPELOW, BRYNA
+
+Department: KIN
+Course Number: 465
+Section: 002
+Description: Examination of multiculturalism and interculturalism in the delivery of community-based physical activities for diverse populations; connections between physical activity and health in different cultural contexts. Community service learning and participation in culturally unfamiliar physical activities are core elements.
+Pre-reqs: (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Food,, Room: Nutrition
+Instructor: KOPELOW, BRYNA
+
+Department: KIN
+Course Number: 465
+Section: 0W1
+Description: Examination of multiculturalism and interculturalism in the delivery of community-based physical activities for diverse populations; connections between physical activity and health in different cultural contexts. Community service learning and participation in culturally unfamiliar physical activities are core elements.
+Pre-reqs: (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 465
+Section: 0W2
+Description: Examination of multiculturalism and interculturalism in the delivery of community-based physical activities for diverse populations; connections between physical activity and health in different cultural contexts. Community service learning and participation in culturally unfamiliar physical activities are core elements.
+Pre-reqs: (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

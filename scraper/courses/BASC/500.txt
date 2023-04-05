@@ -1,0 +1,45 @@
+Department: BASC
+Course Number: 500
+Section: 001
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: KRISHNAN, HARISH
+
+Department: BASC
+Course Number: 500
+Section: 301
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Sat*, End Time: 8:30, Building: 16:00, Room: Henry
+Instructor: KRISHNAN, HARISH
+
+Department: BASC
+Course Number: 500
+Section: 821
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri Sat Sun
+Instructor: HUH, WOONGHEE TIM
+
+Department: BASC
+Course Number: 500
+Section: BA1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: KRISHNAN, HARISH
+
+Department: BASC
+Course Number: 500
+Section: BA2
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 10:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: KRISHNAN, HARISH
+

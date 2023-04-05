@@ -1,0 +1,10 @@
+Department: ANAT
+Course Number: 550
+Section: 001
+Description: Lectures, demonstrations, discussions and student seminars on selected and current topics in cell biology and the anatomical sciences. Attendance is required of all M.Sc. and Ph.D. students in Anatomy and Cell Biology.
+Pre-reqs: (Students must be registered in graduate-level studies in Anatomy & Cell Biology.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: NABI, IVAN ROBERT
+

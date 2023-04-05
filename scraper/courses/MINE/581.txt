@@ -1,0 +1,11 @@
+Department: MINE
+Course Number: 581
+Section: 101
+Description: Safety evaluation of tailings storage facilities as a system, including tailings transport and containment structures. Consequence classifications. Credible failure modes. Breach analyses. Risk management and reporting. Emergency planning. Critical controls. Change management. Governance frameworks.
+Pre-reqs: (Permission of instructor is required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 20:00, Building: Orchard, Room: Commons
+Instructor: PRISCU, CAIUS
+

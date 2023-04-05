@@ -1,0 +1,11 @@
+Department: STS
+Course Number: 502
+Section: 002
+Description: Thematizes the relations of historical, philosophical, literary, rhetorical, sociological, and anthropological approaches to science and technology.
+Pre-reqs: STS 501.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 12:30
+Instructor: KOJEVNIKOV, ALEXEI
+

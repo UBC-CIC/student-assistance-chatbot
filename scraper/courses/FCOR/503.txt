@@ -1,0 +1,10 @@
+Department: FCOR
+Course Number: 503
+Section: 201
+Description: Fundamentals of policy analysis and project evaluation, with an emphasis on the practical decision making and behavioral considerations that underlie policy making, stakeholder engagement, and implementation processes.
+Credits: 1.5
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon Wed, Start Time: 13:30, End Time: 15:00
+Instructor: FRASER, JOCELYNN
+

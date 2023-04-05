@@ -1,0 +1,19 @@
+Department: ELEC
+Course Number: 462
+Section: 101
+Description: The mechanisms, design, fabrication, and testing of microsensors, actuators, and microelectromechanical systems (MEMS).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Chemical, Room: and
+Instructor: STOEBER, BORIS
+
+Department: ELEC
+Course Number: 462
+Section: 1W1
+Description: The mechanisms, design, fabrication, and testing of microsensors, actuators, and microelectromechanical systems (MEMS).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,19 @@
+Department: PLAN
+Course Number: 580
+Section: 001
+Description: Topics include the relationship between transportation and urban activity systems; analysis of supply and demand; accessibility and environment; institutional arrangements and public finance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:30, End Time: 12:30, Building: West, Room: Mall
+Instructor: RAAD, TAMIM
+
+Department: PLAN
+Course Number: 580
+Section: 0W1
+Description: Topics include the relationship between transportation and urban activity systems; analysis of supply and demand; accessibility and environment; institutional arrangements and public finance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: RAAD, TAMIM
+

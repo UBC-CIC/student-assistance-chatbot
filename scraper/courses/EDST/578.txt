@@ -1,0 +1,9 @@
+Department: EDST
+Course Number: 578
+Section: 021
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Sat, Start Time: 9:00, End Time: 16:00, Building: Ponderosa, Room: Commons
+Instructor: DE OLIVEIRA ANDREOTTI, VANESSA
+

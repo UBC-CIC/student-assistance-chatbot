@@ -1,0 +1,9 @@
+Department: LLED
+Course Number: 454
+Section: 061
+Pre-reqs: (or corequisite: an introductory-level reading, language arts, or English education course.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

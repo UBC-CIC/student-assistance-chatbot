@@ -1,0 +1,10 @@
+Department: MINE
+Course Number: 497J
+Section: 201
+Description: Requires approval of the department head.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu
+Instructor: PAWLIK, MAREK
+

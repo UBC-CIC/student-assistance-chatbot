@@ -1,0 +1,480 @@
+Department: BIOL
+Course Number: 180
+Section: 101
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: 2
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: STEINWAND, BLAIRE(Coordinator)
+
+Department: BIOL
+Course Number: 180
+Section: 1D1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: West, Room: Mall
+Instructor: SUN, CHIN
+
+Department: BIOL
+Course Number: 180
+Section: 1D2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30
+Instructor: VAN WERSCH, SOLVEIG
+
+Department: BIOL
+Course Number: 180
+Section: 1F1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Orchard, Room: Commons
+Instructor: ROSEN, DAVID
+
+Department: BIOL
+Course Number: 180
+Section: 1F2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: STEINWAND, BLAIRE
+
+Department: BIOL
+Course Number: 180
+Section: 1G1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: SUN, CHIN
+
+Department: BIOL
+Course Number: 180
+Section: 1G2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00
+Instructor: ZHAO, HAN QI
+
+Department: BIOL
+Course Number: 180
+Section: 1I1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: West, Room: Mall
+Instructor: ZHAO, HAN QI
+
+Department: BIOL
+Course Number: 180
+Section: 1I2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: TRITES, ANDREW
+
+Department: BIOL
+Course Number: 180
+Section: 1J1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: West, Room: Mall
+Instructor: VAN WERSCH, SOLVEIG
+
+Department: BIOL
+Course Number: 180
+Section: 1J2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: JOHANNSSON, ORA
+
+Department: BIOL
+Course Number: 180
+Section: 1L1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: UBC, Room: Life
+Instructor: ROSEN, DAVID
+
+Department: BIOL
+Course Number: 180
+Section: 1L2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: TRITES, ANDREW
+
+Department: BIOL
+Course Number: 180
+Section: 1WD
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: To, Room: Be
+Instructor: SUN, CHIN(Coordinator)
+
+Department: BIOL
+Course Number: 180
+Section: 1WF
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 1WG
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 1WI
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 1WJ
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 1WL
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 1N1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 20:00
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 1W1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 201
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: 2
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: STEINWAND, BLAIRE(Coordinator)
+
+Department: BIOL
+Course Number: 180
+Section: 2D1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: West, Room: Mall
+Instructor: CREPEAULT, HANNAH
+
+Department: BIOL
+Course Number: 180
+Section: 2D2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: West, Room: Mall
+Instructor: LOBO, SHANIA
+
+Department: BIOL
+Course Number: 180
+Section: 2F1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: West, Room: Mall
+Instructor: STEINWAND, BLAIRE
+
+Department: BIOL
+Course Number: 180
+Section: 2F2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: VAN WERSCH, SOLVEIG
+
+Department: BIOL
+Course Number: 180
+Section: 2F3
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00
+Instructor: SUN, CHIN
+
+Department: BIOL
+Course Number: 180
+Section: 2G1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: West, Room: Mall
+Instructor: SUN, CHIN
+
+Department: BIOL
+Course Number: 180
+Section: 2G2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00
+Instructor: ZHAO, HAN QI
+
+Department: BIOL
+Course Number: 180
+Section: 2I1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: West, Room: Mall
+Instructor: ZHAO, HAN QI
+
+Department: BIOL
+Course Number: 180
+Section: 2I2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 180
+Section: 2I3
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: WONG, DONALD
+
+Department: BIOL
+Course Number: 180
+Section: 2J1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: West, Room: Mall
+Instructor: WONG, DONALD
+
+Department: BIOL
+Course Number: 180
+Section: 2J2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: ZHAO, HAN QI
+
+Department: BIOL
+Course Number: 180
+Section: 2L1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: West, Room: Mall
+Instructor: LAZARO GUEVARA, JOSE MIGUEL
+
+Department: BIOL
+Course Number: 180
+Section: 2L2
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Food,, Room: Nutrition
+Instructor: LAM, VIVIENNE
+
+Department: BIOL
+Course Number: 180
+Section: 2L3
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: VAN WERSCH, SOLVEIG
+
+Department: BIOL
+Course Number: 180
+Section: 2WD
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: To, Room: Be
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 2WF
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 2WG
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 2WI
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 2WJ
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: To, Room: Be
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 2WL
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: BIOL
+Course Number: 180
+Section: 2W1
+Description: Science as a process, the skills of scientists, and the exploration of a current biological challenge with a practicing UBC scientist.
+Pre-reqs: One of BIOL 11, BIOL 12, BIOL 111.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

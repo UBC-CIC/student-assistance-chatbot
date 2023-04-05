@@ -1,0 +1,19 @@
+Department: LLED
+Course Number: 510
+Section: 062
+Pre-reqs: (Preference to students admitted to TESL graduate program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Ponderosa, Room: Commons
+Instructor: NORTON, BONNY
+
+Department: LLED
+Course Number: 510
+Section: 62A
+Pre-reqs: (Preference to students admitted to TESL graduate program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: NORTON, BONNY
+

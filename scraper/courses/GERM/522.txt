@@ -1,0 +1,10 @@
+Department: GERM
+Course Number: 522
+Section: 001
+Description: This course is taught in English.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: Tower
+Instructor: IURASCU, ILINCA
+

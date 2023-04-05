@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 378
+Section: 001
+Description: Anthropology of Media
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: No
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: A202
+Instructor: SHIVA, AMIRPOUYAN
+

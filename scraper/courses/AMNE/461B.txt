@@ -1,0 +1,10 @@
+Department: AMNE
+Course Number: 461B
+Section: 001
+Description: Selected topics in biblical and related texts. A maximum of 6 credits will be granted for AMNE 461 or RELG 475. Students should consult the AMNE Undergraduate Advisor before registering.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Buchanan, Room: D216
+Instructor: MILSTEIN, SARA
+

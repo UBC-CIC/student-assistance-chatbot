@@ -1,0 +1,18 @@
+Department: MTRL
+Course Number: 598
+Section: 101
+Description: Presentation and discussion of current topics in metals and materials research. A required course for graduate students in metals and materials which carries no academic credit.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MTRL
+Course Number: 598
+Section: 201
+Description: Presentation and discussion of current topics in metals and materials research. A required course for graduate students in metals and materials which carries no academic credit.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

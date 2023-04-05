@@ -1,0 +1,11 @@
+Department: MATH
+Course Number: 253
+Section: 10R
+Description: Multivariable Calculus
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Chemistry, Room: B150
+Instructor: COLLIANDER, JAMES
+

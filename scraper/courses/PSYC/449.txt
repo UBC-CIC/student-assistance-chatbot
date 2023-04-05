@@ -1,0 +1,22 @@
+Department: PSYC
+Course Number: 449
+Section: 001
+Description: Students carry out a research project and report on its development during seminars. Students also discuss research by Departmental staff, with emphasis on choice of problems, research design and data analysis.
+Pre-reqs: PSYC 349. (Fourth-year standing. Restricted to students in Honours. Intended for students in their graduating year.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: HAMLIN, JANE
+
+Department: PSYC
+Course Number: 449
+Section: 002
+Description: Students carry out a research project and report on its development during seminars. Students also discuss research by Departmental staff, with emphasis on choice of problems, research design and data analysis.
+Pre-reqs: PSYC 349. (Fourth-year standing. Restricted to students in Honours. Intended for students in their graduating year.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: West, Room: Mall
+Instructor: ENNS, JAMES
+

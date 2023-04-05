@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 433
+Section: 001
+Description: Continuation of MUSC 333 with emphasis on more advanced continuo and obbligato techniques.
+Pre-reqs: MUSC 333.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:30, End Time: 12:00, Building: Music, Room: 471
+Instructor: WEIMANN, ALEXANDER
+

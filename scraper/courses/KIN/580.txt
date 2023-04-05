@@ -1,0 +1,10 @@
+Department: KIN
+Course Number: 580
+Section: 001
+Description: Personal, social, and cultural significance of the body in sport, exercise, and physical culture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:30, End Time: 16:30, Building: Ponderosa, Room: Commons
+Instructor: VERTINSKY, PATRICIA
+

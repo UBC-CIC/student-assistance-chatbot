@@ -1,0 +1,10 @@
+Department: BIOF
+Course Number: 520
+Section: 002
+Description: Develops the student's ability to exchange ideas in small groups focused on real but simplified problems in bioinformatics. Problems are carefully selected to cover all aspects of Bioinformatics research. Required of students in the Bioinformatics graduate program. Students not registered in the Bioinformatics graduate program must get permission to register in this course.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:00, End Time: 17:00
+Instructor: JONES, STEVEN J
+

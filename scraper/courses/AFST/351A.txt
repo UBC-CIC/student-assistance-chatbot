@@ -1,0 +1,22 @@
+Department: AFST
+Course Number: 351A
+Section: 001
+Description: Major issues and theoretical approaches.
+Co-reqs: AFST 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B213
+Instructor: DINAT, DEENA
+
+Department: AFST
+Course Number: 351A
+Section: 001
+Description: Major issues and theoretical approaches.
+Co-reqs: AFST 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B213
+Instructor: DINAT, DEENA
+

@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 542
+Section: BL1
+Description: Analysis of the evolution and structure of the Canadian health care system.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 10:30, Building: MacLeod, Room: 3014
+Instructor: MORGAN, STEVEN
+

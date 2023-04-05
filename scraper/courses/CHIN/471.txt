@@ -1,0 +1,100 @@
+Department: CHIN
+Course Number: 471
+Section: 001
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 17:00
+Instructor: ZHENG, BIN
+
+Department: CHIN
+Course Number: 471
+Section: 002
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Geography, Room: 101
+Instructor: CAI, ZHENG
+
+Department: CHIN
+Course Number: 471
+Section: 003
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: MacLeod, Room: 3002
+Instructor: CAI, ZHENG
+
+Department: CHIN
+Course Number: 471
+Section: 004
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Neville, Room: Scarfe
+Instructor: LIU, XUE SHUN
+
+Department: CHIN
+Course Number: 471
+Section: 005
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30
+Instructor: LIU, XUE SHUN
+
+Department: CHIN
+Course Number: 471
+Section: W01
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: To, Room: Be
+Instructor: ZHENG, BIN
+
+Department: CHIN
+Course Number: 471
+Section: W02
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: To, Room: Be
+Instructor: CAI, ZHENG
+
+Department: CHIN
+Course Number: 471
+Section: W03
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: To, Room: Be
+Instructor: CAI, ZHENG
+
+Department: CHIN
+Course Number: 471
+Section: W04
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: To, Room: Be
+Instructor: LIU, XUE SHUN
+
+Department: CHIN
+Course Number: 471
+Section: W05
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: To, Room: Be
+Instructor: LIU, XUE SHUN
+

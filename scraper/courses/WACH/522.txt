@@ -1,0 +1,9 @@
+Department: WACH
+Course Number: 522
+Section: 001
+Description: Dietary assessment and nutrient requirements in children and youth, assessment of growth and adiposity, application of nutritional biochemistry and animal models, energy balance, macronutrient and micronutrient metabolism and research, restricted diets in children, nutritional interventions in children.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:30
+

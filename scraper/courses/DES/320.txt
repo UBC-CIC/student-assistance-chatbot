@@ -1,0 +1,10 @@
+Department: DES
+Course Number: 320
+Section: 001
+Description: A broad historical introduction to architectural and landscape architectural design within the context of politics, economics and culture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: GRAY, CHRISTINA
+

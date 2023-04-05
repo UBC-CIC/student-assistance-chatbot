@@ -1,0 +1,8 @@
+Department: FOPE
+Course Number: 507
+Section: 101
+Description: Major contemporary global natural resources management issues emphasis on Forestry.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+

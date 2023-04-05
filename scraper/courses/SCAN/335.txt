@@ -1,0 +1,10 @@
+Department: SCAN
+Course Number: 335
+Section: 001
+Description: Vikings and Norse Mythology (in English)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Leonard, Room: S.
+Instructor: WINTHROP-YOUNG, GEOFFREY
+

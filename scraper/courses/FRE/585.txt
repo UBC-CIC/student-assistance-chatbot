@@ -1,0 +1,9 @@
+Department: FRE
+Course Number: 585
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: MacMillan, Room: 154
+Instructor: JOHNSON, MICHAEL
+

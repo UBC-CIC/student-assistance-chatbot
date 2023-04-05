@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 271
+Section: 101
+Description: Roles of capital market institutions and participants. Skill development for basic financial principles in the quantitative and qualitative evaluation of bond and stock investments.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: CARLSON, MURRAY
+

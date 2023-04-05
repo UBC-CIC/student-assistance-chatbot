@@ -1,0 +1,9 @@
+Department: GSAT
+Course Number: 501
+Section: 001
+Description: Theory, application, and operation of instrumentation employed in modern genomics research: data analysis.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

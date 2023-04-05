@@ -1,0 +1,17 @@
+Department: EECE
+Course Number: 571E
+Section: 205
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: MOSAYEBI, REZA
+
+Department: EECE
+Course Number: 571E
+Section: 2W5
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

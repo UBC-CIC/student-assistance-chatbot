@@ -1,0 +1,21 @@
+Department: FNH
+Course Number: 313
+Section: 001
+Description: Roles of microorganisms in food production, preservation, spoilage, and foodborne disease; factors affecting growth, survival and inactivation of microorganisms in foods; methods for identifying, enumerating, and eliminating microorganisms in food-production environments.
+Pre-reqs: BIOL 112. (third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Chemical, Room: and
+Instructor: HINGSTON, PATRICIA
+
+Department: FNH
+Course Number: 313
+Section: 0W1
+Description: Roles of microorganisms in food production, preservation, spoilage, and foodborne disease; factors affecting growth, survival and inactivation of microorganisms in foods; methods for identifying, enumerating, and eliminating microorganisms in food-production environments.
+Pre-reqs: BIOL 112. (third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

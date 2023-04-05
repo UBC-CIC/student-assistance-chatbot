@@ -1,0 +1,9 @@
+Department: PCTH
+Course Number: 448E
+Section: 002
+Description: Advanced investigation of a specific topic in Pharmacology.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

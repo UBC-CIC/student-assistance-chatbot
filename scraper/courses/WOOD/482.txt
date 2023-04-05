@@ -1,0 +1,33 @@
+Department: WOOD
+Course Number: 482
+Section: 201
+Description: Introduction to computer assisted design and manufacturing with a focus on the fundamental issues of geometry and machine tools including an understanding of standard computer tools. Applications to secondary wood products manufacturing.
+Pre-reqs: All of WOOD 290, WOOD 292.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Forest, Room: Sciences
+Instructor: LEUNG, VINCENT
+
+Department: WOOD
+Course Number: 482
+Section: LA1
+Description: Introduction to computer assisted design and manufacturing with a focus on the fundamental issues of geometry and machine tools including an understanding of standard computer tools. Applications to secondary wood products manufacturing.
+Pre-reqs: All of WOOD 290, WOOD 292.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: LEUNG, VINCENT
+
+Department: WOOD
+Course Number: 482
+Section: LA2
+Description: Introduction to computer assisted design and manufacturing with a focus on the fundamental issues of geometry and machine tools including an understanding of standard computer tools. Applications to secondary wood products manufacturing.
+Pre-reqs: All of WOOD 290, WOOD 292.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: LEUNG, VINCENT
+

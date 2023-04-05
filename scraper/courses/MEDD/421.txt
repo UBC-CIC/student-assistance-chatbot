@@ -1,0 +1,10 @@
+Department: MEDD
+Course Number: 421
+Section: 001
+Description: Increasingly complex clinical presentations integrating foundational sciences and clinical practice themes. Developmental, case-based approach fostering the development of evidence-based clinical reasoning and clinical skills. Pass/Fail.
+Credits: 15
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Wed Thu Fri, Start Time: 8:00, End Time: 12:00
+Instructor: TBA
+

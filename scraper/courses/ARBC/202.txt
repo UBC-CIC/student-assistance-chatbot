@@ -1,0 +1,11 @@
+Department: ARBC
+Course Number: 202
+Section: 001
+Description: Classical Arabic. Designed to further enrich vocabulary and grammar and to enhance fluency in reading and interpreting longer texts from Qur'an, Hadith and other genres.
+Pre-reqs: ARBC 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: D313
+Instructor: GHAZI, BUSHRA SEEMI YASMIN
+

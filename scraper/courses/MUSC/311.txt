@@ -1,0 +1,32 @@
+Department: MUSC
+Course Number: 311
+Section: 001
+Description: Basic conducting techniques: patterns, cueing, dynamic shading, and physical presentation.
+Pre-reqs: One of MUSC 111, MUSC 200. (and completion of the second-year piano requirement.)
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:00, End Time: 11:30, Building: Chan, Room: Centre
+Instructor: BHATE, JAELEM
+
+Department: MUSC
+Course Number: 311
+Section: 002
+Description: Basic conducting techniques: patterns, cueing, dynamic shading, and physical presentation.
+Pre-reqs: One of MUSC 111, MUSC 200. (and completion of the second-year piano requirement.)
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Chan, Room: Centre
+Instructor: BHATE, JAELEM
+
+Department: MUSC
+Course Number: 311
+Section: 1W4
+Description: Basic conducting techniques: patterns, cueing, dynamic shading, and physical presentation.
+Pre-reqs: One of MUSC 111, MUSC 200. (and completion of the second-year piano requirement.)
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

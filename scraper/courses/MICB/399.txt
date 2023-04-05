@@ -1,0 +1,20 @@
+Department: MICB
+Course Number: 399
+Section: 610
+Description: Work experience. Restricted to students admitted to the Co-operative Education Program in the Biotechnology or Microbiology and Immunology specializations. Pass/Fail
+Pre-reqs: MICB 398.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MICB
+Course Number: 399
+Section: 620
+Description: Work experience. Restricted to students admitted to the Co-operative Education Program in the Biotechnology or Microbiology and Immunology specializations. Pass/Fail
+Pre-reqs: MICB 398.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

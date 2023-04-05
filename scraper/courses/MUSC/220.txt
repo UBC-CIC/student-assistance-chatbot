@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 220
+Section: 001
+Description: History of Music III
+Pre-reqs: MUSC 121 and one of MUSC 100, MUSC 110.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Music, Room: 462
+Instructor: VELLUTINI, CLAUDIO
+

@@ -1,0 +1,9 @@
+Department: BA
+Course Number: 501
+Section: 300
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Wed Thu Fri Sat Sun, Start Time: 8:00, End Time: 18:00
+Instructor: DAHL, DARREN
+

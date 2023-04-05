@@ -1,0 +1,22 @@
+Department: FNIS
+Course Number: 454
+Section: 001
+Description: New media and digital storytelling works designed and implemented by Indigenous artists, authors, and programmers.
+Pre-reqs: One of FNIS 100, FNSP 200, FNIS 210, FNSP 210, FNIS 220, FNSP 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 14:00, Building: Buchanan, Room: D228
+Instructor: GAERTNER, DAVID
+
+Department: FNIS
+Course Number: 454
+Section: WL1
+Description: New media and digital storytelling works designed and implemented by Indigenous artists, authors, and programmers.
+Pre-reqs: One of FNIS 100, FNSP 200, FNIS 210, FNSP 210, FNIS 220, FNSP 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 14:00
+Instructor: GAERTNER, DAVID
+

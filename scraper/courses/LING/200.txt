@@ -1,0 +1,70 @@
+Department: LING
+Course Number: 200
+Section: 001
+Description: Introduction to phonetics and phonology; training in the identification and production of speech sounds; principles and methods for describing and writing the sound system of a language; phonological theory with reference to selected languages; the interface between phonology and morphology. Analytical practice and seminar discussion.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: West, Room: Mall
+Instructor: ISLAM, MD JAHURUL
+
+Department: LING
+Course Number: 200
+Section: L01
+Description: Introduction to phonetics and phonology; training in the identification and production of speech sounds; principles and methods for describing and writing the sound system of a language; phonological theory with reference to selected languages; the interface between phonology and morphology. Analytical practice and seminar discussion.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: LING
+Course Number: 200
+Section: L02
+Description: Introduction to phonetics and phonology; training in the identification and production of speech sounds; principles and methods for describing and writing the sound system of a language; phonological theory with reference to selected languages; the interface between phonology and morphology. Analytical practice and seminar discussion.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: LING
+Course Number: 200
+Section: L03
+Description: Introduction to phonetics and phonology; training in the identification and production of speech sounds; principles and methods for describing and writing the sound system of a language; phonological theory with reference to selected languages; the interface between phonology and morphology. Analytical practice and seminar discussion.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: LING
+Course Number: 200
+Section: L04
+Description: Introduction to phonetics and phonology; training in the identification and production of speech sounds; principles and methods for describing and writing the sound system of a language; phonological theory with reference to selected languages; the interface between phonology and morphology. Analytical practice and seminar discussion.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: LING
+Course Number: 200
+Section: L05
+Description: Introduction to phonetics and phonology; training in the identification and production of speech sounds; principles and methods for describing and writing the sound system of a language; phonological theory with reference to selected languages; the interface between phonology and morphology. Analytical practice and seminar discussion.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: LING
+Course Number: 200
+Section: L06
+Description: Introduction to phonetics and phonology; training in the identification and production of speech sounds; principles and methods for describing and writing the sound system of a language; phonological theory with reference to selected languages; the interface between phonology and morphology. Analytical practice and seminar discussion.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: TBA
+

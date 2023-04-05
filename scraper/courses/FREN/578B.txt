@@ -1,0 +1,10 @@
+Department: FREN
+Course Number: 578B
+Section: 101
+Description: Studies in Romance Philology - ROMANCE PHILOLGY
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 18:00, Building: Buchanan, Room: D315
+Instructor: SALAMON, ANNE
+

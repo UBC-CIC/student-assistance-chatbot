@@ -1,0 +1,27 @@
+Department: SPPH
+Course Number: 529
+Section: 001
+Description: Required for all M.H.Sc. students.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: SPPH
+Course Number: 529
+Section: 002
+Description: Required for all M.H.Sc. students.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: SPPH
+Course Number: 529
+Section: 003
+Description: Required for all M.H.Sc. students.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

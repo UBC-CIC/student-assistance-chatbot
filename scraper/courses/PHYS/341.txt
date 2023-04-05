@@ -1,0 +1,19 @@
+Department: PHYS
+Course Number: 341
+Section: 201
+Description: An introduction to the physical principles important to the production, transmission and perception of musical sounds. The treatment will be non-mathematical; with emphasis on demonstrations. Topics may include the description of sound waves, resonances, scales, physics of hearing, examination of specific musical instruments, etc. Not for credit in the Faculties of Science and Applied Science.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Hebb, Room: B112
+Instructor: VAN RAAMSDONK, MARK
+
+Department: PHYS
+Course Number: 341
+Section: 20W
+Description: An introduction to the physical principles important to the production, transmission and perception of musical sounds. The treatment will be non-mathematical; with emphasis on demonstrations. Topics may include the description of sound waves, resonances, scales, physics of hearing, examination of specific musical instruments, etc. Not for credit in the Faculties of Science and Applied Science.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

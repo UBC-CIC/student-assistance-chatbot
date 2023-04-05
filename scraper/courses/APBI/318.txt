@@ -1,0 +1,19 @@
+Department: APBI
+Course Number: 318
+Section: 001
+Description: Small-scale classical (i.e., non-biotechnological) plant breeding. Hands-on, application-oriented approach to techniques and procedures for managing seed inventories, designing and implementing a simple plant breeding program, and evaluating the impact of selection on breeding populations and desired outcomes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: RISEMAN, ANDREW
+
+Department: APBI
+Course Number: 318
+Section: 0W1
+Description: Small-scale classical (i.e., non-biotechnological) plant breeding. Hands-on, application-oriented approach to techniques and procedures for managing seed inventories, designing and implementing a simple plant breeding program, and evaluating the impact of selection on breeding populations and desired outcomes.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,9 @@
+Department: DENT
+Course Number: 781
+Section: 001
+Description: Continues in year 6.
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: RICHMAN, JOY MARION
+

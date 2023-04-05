@@ -1,0 +1,11 @@
+Department: HGSE
+Course Number: 394
+Section: 610
+Description: Perspectives and methodologies applied to the conservation of marine environments in British Columbia. On-line course.
+Pre-reqs: (3rd Year Standing)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 13:00, End Time: 14:30
+Instructor: TBA
+

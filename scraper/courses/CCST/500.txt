@@ -1,0 +1,10 @@
+Department: CCST
+Course Number: 500
+Section: 001
+Description: Theoretical and historical foundations of visual representations and expressive culture. It explores the history of museums and galleries, and changes in the meaning of art and material culture as debates about cultural property intensify.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Frederic, Room: Lasserre
+Instructor: SILVER, ERIN
+

@@ -1,0 +1,10 @@
+Department: GEOG
+Course Number: 391
+Section: 101
+Description: An introduction to the present-day human geography of the regions and places between the Atlantic and the Ural Mountains.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Geography, Room: 212
+Instructor: KUUS, MERJE
+

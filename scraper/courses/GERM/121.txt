@@ -1,0 +1,20 @@
+Department: GERM
+Course Number: 121
+Section: 001
+Description: German Fairy Tales and Popular Culture (in English)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: B210
+Instructor: NIJDAM, ELIZABETH
+
+Department: GERM
+Course Number: 121
+Section: 002
+Description: German Fairy Tales and Popular Culture (in English)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: NIJDAM, ELIZABETH
+

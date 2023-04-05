@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 365
+Section: 001
+Description: Song Repertoire I
+Pre-reqs: MUSC 221.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:30, Building: Music, Room: 301
+Instructor: GRANT, ANDREA
+

@@ -1,0 +1,20 @@
+Department: CHIN
+Course Number: 437
+Section: 001
+Pre-reqs: One of CHIN 217, CHIN 218, CHIN 347, CHIN 348.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:30, Building: Buchanan, Room: B306
+Instructor: LU, MING ZHU
+
+Department: CHIN
+Course Number: 437
+Section: W01
+Pre-reqs: One of CHIN 217, CHIN 218, CHIN 347, CHIN 348.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: To, Room: Be
+Instructor: LU, MING ZHU
+

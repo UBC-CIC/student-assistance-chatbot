@@ -1,0 +1,22 @@
+Department: ENVE
+Course Number: 301
+Section: 201
+Description: Real-time, fully-integrated, conceptual and detailed design experiences that address an ill-structured, socially and technically complex environmental engineering problem for communities with consideration to the cultural history and needs of the communities.
+Pre-reqs: All of ENVE 202, ENVE 203. (and Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: MacMillan, Room: 158
+Instructor: SCHOLES, RACHEL
+
+Department: ENVE
+Course Number: 301
+Section: T2A
+Description: Real-time, fully-integrated, conceptual and detailed design experiences that address an ill-structured, socially and technically complex environmental engineering problem for communities with consideration to the cultural history and needs of the communities.
+Pre-reqs: All of ENVE 202, ENVE 203. (and Third-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 15:00, Building: Frank, Room: Forward
+Instructor: SCHOLES, RACHEL
+

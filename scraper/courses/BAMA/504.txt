@@ -1,0 +1,18 @@
+Department: BAMA
+Course Number: 504
+Section: 001
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: STONE, ANN
+
+Department: BAMA
+Course Number: 504
+Section: 002
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 16:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: STONE, ANN
+

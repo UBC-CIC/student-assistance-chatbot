@@ -1,0 +1,21 @@
+Department: KIN
+Course Number: 453
+Section: 001
+Description: Examining the influence of psychological factors across different settings and populations, with a particular focus on interventions aimed at enhancing mental health. Understanding psychology can be used to design effective interventions at the individual and community level.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: MacMillan, Room: 160
+Instructor: FAULKNER, GUY
+
+Department: KIN
+Course Number: 453
+Section: 0W1
+Description: Examining the influence of psychological factors across different settings and populations, with a particular focus on interventions aimed at enhancing mental health. Understanding psychology can be used to design effective interventions at the individual and community level.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

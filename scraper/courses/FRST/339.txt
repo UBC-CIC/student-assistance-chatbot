@@ -1,0 +1,22 @@
+Department: FRST
+Course Number: 339
+Section: 201
+Description: Obtaining and forecasting information for stands and forests.
+Pre-reqs: FRST 239.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: Forest, Room: Sciences
+Instructor: MARSHALL, PETER
+
+Department: FRST
+Course Number: 339
+Section: L01
+Description: Obtaining and forecasting information for stands and forests.
+Pre-reqs: FRST 239.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Forest, Room: Sciences
+Instructor: MARSHALL, PETER
+

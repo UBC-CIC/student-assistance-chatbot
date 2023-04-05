@@ -1,0 +1,30 @@
+Department: DSCI
+Course Number: 513
+Section: 001
+Description: Relational schemas. SQL queries. Database programming using embedded SQL. XML and XQuery.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Hennings, Room: 200
+Instructor: SEYED-AHMADI, ARMAN
+
+Department: DSCI
+Course Number: 513
+Section: L01
+Description: Relational schemas. SQL queries. Database programming using embedded SQL. XML and XQuery.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: SEYED-AHMADI, ARMAN
+
+Department: DSCI
+Course Number: 513
+Section: L02
+Description: Relational schemas. SQL queries. Database programming using embedded SQL. XML and XQuery.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: SEYED-AHMADI, ARMAN
+

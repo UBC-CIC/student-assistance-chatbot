@@ -1,0 +1,11 @@
+Department: LING
+Course Number: 314
+Section: 002
+Description: Physiological and/or acoustic phonetics. Focus on experimental methods and analysis techniques. Topics may include: source-filter theory; spectral and temporal acoustic analysis, inter-articulator timing and motor coordination.
+Pre-reqs: LING 200. (Recommended: LING 313)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Hugh, Room: Dempster
+Instructor: SCHELLENBERG, MURRAY
+

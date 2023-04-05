@@ -1,0 +1,9 @@
+Department: ARST
+Course Number: 592B
+Section: 002
+Pre-reqs: ARST 590.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

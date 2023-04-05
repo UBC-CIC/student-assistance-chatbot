@@ -1,0 +1,66 @@
+Department: VISA
+Course Number: 250
+Section: 001
+Description: Visual print culture, and contemporary and historical technical print practices. Emphasis on hand-drawn intaglio, relief, screen and/or stencil printing, and graphic digital applications.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Ponderosa, Room: Commons
+Instructor: KATZOFF, MARTIN
+
+Department: VISA
+Course Number: 250
+Section: 002
+Description: Visual print culture, and contemporary and historical technical print practices. Emphasis on hand-drawn intaglio, relief, screen and/or stencil printing, and graphic digital applications.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Ponderosa, Room: Commons
+Instructor: STARLING, DAN
+
+Department: VISA
+Course Number: 250
+Section: 003
+Description: Visual print culture, and contemporary and historical technical print practices. Emphasis on hand-drawn intaglio, relief, screen and/or stencil printing, and graphic digital applications.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Ponderosa, Room: Commons
+Instructor: BORDO, ROSAMUNDE
+
+Department: VISA
+Course Number: 250
+Section: 01W
+Description: Visual print culture, and contemporary and historical technical print practices. Emphasis on hand-drawn intaglio, relief, screen and/or stencil printing, and graphic digital applications.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: VISA
+Course Number: 250
+Section: 02W
+Description: Visual print culture, and contemporary and historical technical print practices. Emphasis on hand-drawn intaglio, relief, screen and/or stencil printing, and graphic digital applications.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 12:30
+Instructor: TBA
+
+Department: VISA
+Course Number: 250
+Section: 03W
+Description: Visual print culture, and contemporary and historical technical print practices. Emphasis on hand-drawn intaglio, relief, screen and/or stencil printing, and graphic digital applications.
+Pre-reqs: (A score of 72% or higher in two of VISA 110, VISA 180, VISA 183.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: DES
+Course Number: 442
+Section: 001
+Description: Supervised, technical work experience in an established company or organization for a minimum of three months. Career Development Report required. Restricted to students meeting the requirements of the Bachelor of Design and the Co-operative Education Program.
+Pre-reqs: DES 341.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,86 @@
+Department: PSYC
+Course Number: 300A
+Section: 002
+Description: The definition, history, and scope of abnormal behaviour; emphasis on the psychological factors that control its origins, maintenance, and modification.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 227.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Hennings, Room: 201
+Instructor: WOODY, SHEILA
+
+Department: PSYC
+Course Number: 300A
+Section: 003
+Description: The definition, history, and scope of abnormal behaviour; emphasis on the psychological factors that control its origins, maintenance, and modification.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 227.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: A102
+Instructor: HEWITT, PAUL
+
+Department: PSYC
+Course Number: 300A
+Section: 004
+Description: The definition, history, and scope of abnormal behaviour; emphasis on the psychological factors that control its origins, maintenance, and modification.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 227.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: P., Room: A.
+Instructor: LEMOULT, JOELLE
+
+Department: PSYC
+Course Number: 300A
+Section: 005
+Description: The definition, history, and scope of abnormal behaviour; emphasis on the psychological factors that control its origins, maintenance, and modification.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 227.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Irving, Room: K
+Instructor: ALDEN, LYNN
+
+Department: PSYC
+Course Number: 300A
+Section: 901
+Description: The definition, history, and scope of abnormal behaviour; emphasis on the psychological factors that control its origins, maintenance, and modification.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 227.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 20:00, Building: Friedman, Room: Building
+Instructor: SKIBA, RAFAL
+
+Department: PSYC
+Course Number: 300A
+Section: 902
+Description: The definition, history, and scope of abnormal behaviour; emphasis on the psychological factors that control its origins, maintenance, and modification.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 227.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 18:00, End Time: 21:00, Building: Irving, Room: K
+Instructor: MICHEL, BETHANY
+
+Department: PSYC
+Course Number: 300A
+Section: 991
+Description: The definition, history, and scope of abnormal behaviour; emphasis on the psychological factors that control its origins, maintenance, and modification.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 227.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MICHEL, BETHANY
+
+Department: PSYC
+Course Number: 300A
+Section: 992
+Description: The definition, history, and scope of abnormal behaviour; emphasis on the psychological factors that control its origins, maintenance, and modification.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217. (Strongly recommended: PSYC 101, 102, and PSYC 216 or one of PSYC 217 or 227.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MICHEL, BETHANY
+

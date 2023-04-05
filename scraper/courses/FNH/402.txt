@@ -1,0 +1,21 @@
+Department: FNH
+Course Number: 402
+Section: 001
+Description: Functional food concepts related to efficacy and safety; examples of bioactive component-disease relationships; natural health products; approval of functional food and health claims; the importance of clinical studies in support of efficacy for health claims; market determinants of functional foods.
+Pre-reqs: (BIOL 201 or equivalent; third-year standing)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Food,, Room: Nutrition
+Instructor: ZAWISTOWSKI, JERZY
+
+Department: FNH
+Course Number: 402
+Section: 0W1
+Description: Functional food concepts related to efficacy and safety; examples of bioactive component-disease relationships; natural health products; approval of functional food and health claims; the importance of clinical studies in support of efficacy for health claims; market determinants of functional foods.
+Pre-reqs: (BIOL 201 or equivalent; third-year standing)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

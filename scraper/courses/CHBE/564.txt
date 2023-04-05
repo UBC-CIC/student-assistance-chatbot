@@ -1,0 +1,18 @@
+Department: CHBE
+Course Number: 564
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Civil, Room: and
+Instructor: CREAGH, AIMEE LOUISE
+
+Department: CHBE
+Course Number: 564
+Section: L2A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 17:00, Building: Chemical, Room: and
+Instructor: CREAGH, AIMEE LOUISE
+

@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 508A
+Section: 001
+Description: Linguistic Studies of Contemporary English - LING CNTMPRY ENG
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: Tower
+Instructor: DANCYGIER, BARBARA
+
+Department: ENGL
+Course Number: 508A
+Section: 01W
+Description: Linguistic Studies of Contemporary English - LING CNTMPRY ENG
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

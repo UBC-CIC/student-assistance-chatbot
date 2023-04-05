@@ -1,0 +1,44 @@
+Department: MTRL
+Course Number: 381
+Section: 201
+Description: Structure and properties of ferrous and non-ferrous metals; heat treatment; hardenability; metallography; age hardening.
+Co-reqs: All of MTRL 365, MTRL 378.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Thu*, End Time: 14:00, Building: 17:00, Room: Frank
+Instructor: NAKANE, JONATHAN
+
+Department: MTRL
+Course Number: 381
+Section: 202
+Description: Structure and properties of ferrous and non-ferrous metals; heat treatment; hardenability; metallography; age hardening.
+Co-reqs: All of MTRL 365, MTRL 378.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Thu^, End Time: 14:00, Building: 17:00, Room: Frank
+Instructor: NAKANE, JONATHAN
+
+Department: MTRL
+Course Number: 381
+Section: 203
+Description: Structure and properties of ferrous and non-ferrous metals; heat treatment; hardenability; metallography; age hardening.
+Co-reqs: All of MTRL 365, MTRL 378.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Thu*, End Time: 10:00, Building: 13:00, Room: Frank
+Instructor: NAKANE, JONATHAN
+
+Department: MTRL
+Course Number: 381
+Section: 204
+Description: Structure and properties of ferrous and non-ferrous metals; heat treatment; hardenability; metallography; age hardening.
+Co-reqs: All of MTRL 365, MTRL 378.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Thu^, End Time: 10:00, Building: 13:00, Room: Frank
+Instructor: NAKANE, JONATHAN
+

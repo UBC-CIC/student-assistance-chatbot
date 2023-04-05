@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 311
+Section: 001
+Description: Topics will vary from year to year.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 15:30, Building: Buchanan, Room: B209
+Instructor: LIU, SIYUAN
+

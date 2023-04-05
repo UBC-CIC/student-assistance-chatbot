@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 371S
+Section: 001
+Description: Private instruction, vocal or instrumental.
+Pre-reqs: (One of MUSC 271-295.)
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 16:30
+Instructor: SHARON, RENA
+

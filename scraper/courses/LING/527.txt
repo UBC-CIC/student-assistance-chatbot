@@ -1,0 +1,10 @@
+Department: LING
+Course Number: 527
+Section: 001
+Pre-reqs: LING 525.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:30, End Time: 18:30, Building: TFS, Room: 121
+Instructor: MORZYCKI, MARCIN
+

@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 383
+Section: 001
+Description: The law relating to commitment and treatment issues for persons with mental disabilities.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: Allard, Room: Hall
+Instructor: JOHNSTON, LAURA M
+

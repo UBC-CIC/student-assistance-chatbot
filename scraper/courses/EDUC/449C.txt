@@ -1,0 +1,9 @@
+Department: EDUC
+Course Number: 449C
+Section: 003
+Description: Available only to outstanding students approved by the Associate Dean (Teacher Education).
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

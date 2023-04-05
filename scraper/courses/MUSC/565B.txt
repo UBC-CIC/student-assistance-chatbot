@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 565B
+Section: 001
+Description: Training on traditional instruments and their techniques, with emphasis on ensemble performance. Different sections focus on the music of different cultures, e.g., Bali, China, Ghana, Korea.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 13:00, End Time: 15:00, Building: Asian, Room: Centre
+Instructor: TENZER, MICHAEL
+

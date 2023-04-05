@@ -1,0 +1,30 @@
+Department: DSCI
+Course Number: 511
+Section: 001
+Description: Pseudo-code. Program design and structure. Flow control. Iteration. Lists (arrays). Functions. File I/O. Classes, objects, methods, and libraries.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Hennings, Room: 200
+Instructor: SEYED-AHMADI, ARMAN
+
+Department: DSCI
+Course Number: 511
+Section: L01
+Description: Pseudo-code. Program design and structure. Flow control. Iteration. Lists (arrays). Functions. File I/O. Classes, objects, methods, and libraries.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: SEYED-AHMADI, ARMAN
+
+Department: DSCI
+Course Number: 511
+Section: L02
+Description: Pseudo-code. Program design and structure. Flow control. Iteration. Lists (arrays). Functions. File I/O. Classes, objects, methods, and libraries.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: SEYED-AHMADI, ARMAN
+

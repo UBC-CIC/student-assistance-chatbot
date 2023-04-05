@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 478
+Section: 201
+Description: The lives of leading and controversial figures in the Middle Ages and the means by which they have portrayed themselves and been portrayed by others.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Allard, Room: Hall
+Instructor: TIMMERMANN, JOSHUA
+

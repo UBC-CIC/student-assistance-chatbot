@@ -1,0 +1,11 @@
+Department: MATH
+Course Number: 440
+Section: 101
+Description: Complex Analysis
+Pre-reqs: MATH 300 and a score of 68% or higher in MATH 320.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Mathematics, Room: 202
+Instructor: MURUGAN, MATHAV
+

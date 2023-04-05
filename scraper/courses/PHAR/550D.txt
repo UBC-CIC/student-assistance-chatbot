@@ -1,0 +1,23 @@
+Department: PHAR
+Course Number: 550D
+Section: 001
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHAR
+Course Number: 550D
+Section: 002
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: PHAR
+Course Number: 550D
+Section: 003
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

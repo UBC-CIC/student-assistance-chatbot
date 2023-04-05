@@ -1,0 +1,142 @@
+Department: SCIE
+Course Number: 300
+Section: 0W1
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: SCIE
+Course Number: 300
+Section: 109
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00
+Instructor: ARNOTT, ARALIYA
+
+Department: SCIE
+Course Number: 300
+Section: GP1
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Chemistry, Room: C124
+Instructor: BERTRAM, ALLAN
+
+Department: SCIE
+Course Number: 300
+Section: 111
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00
+Instructor: BERTRAM, ALLAN
+
+Department: SCIE
+Course Number: 300
+Section: GP1
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Chemistry, Room: C124
+Instructor: BERTRAM, ALLAN
+
+Department: SCIE
+Course Number: 300
+Section: 112
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00
+Instructor: RODRÍGUEZ ARELIS, GILBERTO ALEXI
+
+Department: SCIE
+Course Number: 300
+Section: GP1
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Chemistry, Room: C124
+Instructor: BERTRAM, ALLAN
+
+Department: SCIE
+Course Number: 300
+Section: 211
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Irving, Room: K
+Instructor: ARNOTT, ARALIYA
+
+Department: SCIE
+Course Number: 300
+Section: GP2
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Irving, Room: K
+Instructor: BERTRAM, ALLAN
+
+Department: SCIE
+Course Number: 300
+Section: 212
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Irving, Room: K
+Instructor: DUNHAM, BRUCE
+
+Department: SCIE
+Course Number: 300
+Section: GP2
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Irving, Room: K
+Instructor: BERTRAM, ALLAN
+
+Department: SCIE
+Course Number: 300
+Section: 213
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: JETTER, REINHARD
+
+Department: SCIE
+Course Number: 300
+Section: GP2
+Description: Effective communication and presentation skills in science.
+Co-reqs: One of BIOL 300, STAT 200, STAT 241. (and 3rd or 4th year standing in Combined Major in Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Irving, Room: K
+Instructor: BERTRAM, ALLAN
+

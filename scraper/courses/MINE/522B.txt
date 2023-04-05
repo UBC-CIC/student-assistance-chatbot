@@ -1,0 +1,8 @@
+Department: MINE
+Course Number: 522B
+Section: 101
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: PAWLIK, MAREK
+

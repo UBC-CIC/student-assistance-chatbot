@@ -1,0 +1,19 @@
+Department: FIST
+Course Number: 331
+Section: 002
+Description: A seminar introducing the many theoretical approaches to film: formalist, historical, Marxist, psychoanalytic, semiotic, and structuralist.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 11:30, Building: Chan, Room: Centre
+Instructor: EVANS, CHRISTINE
+
+Department: FIST
+Course Number: 331
+Section: WL1
+Description: A seminar introducing the many theoretical approaches to film: formalist, historical, Marxist, psychoanalytic, semiotic, and structuralist.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 11:30
+

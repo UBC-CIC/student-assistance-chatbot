@@ -1,0 +1,114 @@
+Department: CPEN
+Course Number: 223
+Section: 101
+Description: Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).
+Pre-reqs: APSC 160.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Fri, Start Time: 15:00, End Time: 16:30, Building: P., Room: A.
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 223
+Section: L1A
+Description: Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: MacLeod, Room: 4002
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 223
+Section: L1B
+Description: Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: MacLeod, Room: 4002
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 223
+Section: L1C
+Description: Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:30, End Time: 12:30, Building: MacLeod, Room: 4002
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 223
+Section: LWA
+Description: Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 223
+Section: LWB
+Description: Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 223
+Section: LWC
+Description: Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 223
+Section: 1W1
+Description: Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).
+Pre-reqs: APSC 160.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 223
+Section: LWA
+Description: Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 223
+Section: LWB
+Description: Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 223
+Section: LWC
+Description: Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

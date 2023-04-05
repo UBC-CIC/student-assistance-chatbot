@@ -1,0 +1,17 @@
+Department: ETEC
+Course Number: 533
+Section: 65A
+Description: Technology in the Mathematics and Science Classroom
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: ROZITIS, CHRISTOPHER
+
+Department: ETEC
+Course Number: 533
+Section: W5A
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

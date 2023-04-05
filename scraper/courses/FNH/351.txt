@@ -1,0 +1,42 @@
+Department: FNH
+Course Number: 351
+Section: 001
+Description: Vitamin and mineral nutrition and their role in maintaining and promoting health.
+Pre-reqs: FNH 250 and one of BIOL 201, BIOC 202.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: P., Room: A.
+Instructor: DONATTI CASTRO FALCI, BRUNA
+
+Department: FNH
+Course Number: 351
+Section: 002
+Description: Vitamin and mineral nutrition and their role in maintaining and promoting health.
+Pre-reqs: FNH 250 and one of BIOL 201, BIOC 202.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Aquatic, Room: Ecosystems
+Instructor: LAMERS, KATJA YVONNE
+
+Department: FNH
+Course Number: 351
+Section: 0W1
+Description: Vitamin and mineral nutrition and their role in maintaining and promoting health.
+Pre-reqs: FNH 250 and one of BIOL 201, BIOC 202.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FNH
+Course Number: 351
+Section: 0W2
+Description: Vitamin and mineral nutrition and their role in maintaining and promoting health.
+Pre-reqs: FNH 250 and one of BIOL 201, BIOC 202.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

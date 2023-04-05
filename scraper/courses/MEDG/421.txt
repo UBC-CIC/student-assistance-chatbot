@@ -1,0 +1,11 @@
+Department: MEDG
+Course Number: 421
+Section: 001
+Description: Molecular mechanisms of oncogenes and tumor suppressors in cancer biology, methods of and insights from studying cancer genomes, and current topics in cancer research.
+Pre-reqs: BIOL 335 and one of BIOC 302, BIOC 303.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Food,, Room: Nutrition
+Instructor: EVGIN, LAURA
+

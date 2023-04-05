@@ -1,0 +1,21 @@
+Department: PLAN
+Course Number: 351
+Section: 001
+Description: The key social and technological challenges, contradictions, and opportunities in planning for ecologically sound urbanization.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Hugh, Room: Dempster
+Instructor: CONNOLLY, JAMES JOHN TIMOTHY
+
+Department: PLAN
+Course Number: 351
+Section: 0W1
+Description: The key social and technological challenges, contradictions, and opportunities in planning for ecologically sound urbanization.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CONNOLLY, JAMES JOHN TIMOTHY
+

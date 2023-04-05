@@ -1,0 +1,42 @@
+Department: ELEC
+Course Number: 315
+Section: 101
+Description: Fundamental aspects of electronic materials such as: semiconductors, metals, dielectrics, piezoelectrics, magnetic materials, and their applications in devices such as diodes, transistors, and transducers.
+Pre-reqs: One of ELEC 211, ENPH 253.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed Fri, Start Time: 9:00, End Time: 11:00, Building: MacLeod, Room: 2018
+Instructor: MADDEN, JOHN
+
+Department: ELEC
+Course Number: 315
+Section: 1W1
+Description: Fundamental aspects of electronic materials such as: semiconductors, metals, dielectrics, piezoelectrics, magnetic materials, and their applications in devices such as diodes, transistors, and transducers.
+Pre-reqs: One of ELEC 211, ENPH 253.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 315
+Section: 201
+Description: Fundamental aspects of electronic materials such as: semiconductors, metals, dielectrics, piezoelectrics, magnetic materials, and their applications in devices such as diodes, transistors, and transducers.
+Pre-reqs: One of ELEC 211, ENPH 253.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:00, Building: Food,, Room: Nutrition
+Instructor: SERVATI, PEYMAN
+
+Department: ELEC
+Course Number: 315
+Section: 2W1
+Description: Fundamental aspects of electronic materials such as: semiconductors, metals, dielectrics, piezoelectrics, magnetic materials, and their applications in devices such as diodes, transistors, and transducers.
+Pre-reqs: One of ELEC 211, ENPH 253.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

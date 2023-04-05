@@ -1,0 +1,19 @@
+Department: BIOL
+Course Number: 398
+Section: 510
+Description: Work experience in an industrial setting, taken during Winter Session (Term 2) of third year. Restricted to students admitted to the Co-operative Education Program in Biology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BIOL
+Course Number: 398
+Section: 610
+Description: Work experience in an industrial setting, taken during Winter Session (Term 2) of third year. Restricted to students admitted to the Co-operative Education Program in Biology.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 7:00, End Time: 7:30
+Instructor: TBA
+

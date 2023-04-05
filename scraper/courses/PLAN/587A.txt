@@ -1,0 +1,19 @@
+Department: PLAN
+Course Number: 587A
+Section: 001
+Description: A studio/seminar on the history of the physical form of cities and theories of city design. Topics include social impacts, heritage and environmental conservation, urban revitalization, and the legal and administrative instruments for the implementation of city designs.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: Frederic, Room: Lasserre
+Instructor: VILLAGOMEZ, ERICK
+
+Department: PLAN
+Course Number: 587A
+Section: 0W1
+Description: A studio/seminar on the history of the physical form of cities and theories of city design. Topics include social impacts, heritage and environmental conservation, urban revitalization, and the legal and administrative instruments for the implementation of city designs.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: VILLAGOMEZ, ERICK
+

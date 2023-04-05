@@ -1,0 +1,20 @@
+Department: EOSC
+Course Number: 532
+Section: 201
+Description: Hydraulic head measurements, water-quality sampling, pump and slug testing, infiltration measurements, profiling techniques. Computer analysis of field data. Held after spring term at the Richmond groundwater hydrology field site. Enrolment limitations.
+Pre-reqs: EOSC 533.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: AMELI, ALI
+
+Department: EOSC
+Course Number: 532
+Section: W-L
+Description: Hydraulic head measurements, water-quality sampling, pump and slug testing, infiltration measurements, profiling techniques. Computer analysis of field data. Held after spring term at the Richmond groundwater hydrology field site. Enrolment limitations.
+Pre-reqs: EOSC 533.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,8 @@
+Department: GRSJ
+Course Number: 505B
+Section: 102
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

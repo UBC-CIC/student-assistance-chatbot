@@ -1,0 +1,44 @@
+Department: SOCI
+Course Number: 301
+Section: 101
+Description: Processes of social change in the Third World and other developing countries.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: P., Room: A.
+Instructor: ROBINSON, ORAL
+
+Department: SOCI
+Course Number: 301
+Section: 102
+Description: Processes of social change in the Third World and other developing countries.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: UBC, Room: Life
+Instructor: RYNIKER, DAVID
+
+Department: SOCI
+Course Number: 301
+Section: 201
+Description: Processes of social change in the Third World and other developing countries.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Chemical, Room: and
+Instructor: RYNIKER, DAVID
+
+Department: SOCI
+Course Number: 301
+Section: 203
+Description: Processes of social change in the Third World and other developing countries.
+Pre-reqs: One of SOCI 100, SOCI 101, SOCI 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: Anthropology, Room: and
+Instructor: VIVALDI PASQUA, ANA
+

@@ -1,0 +1,54 @@
+Department: BMEG
+Course Number: 102
+Section: 201
+Pre-reqs: (One of PHYS 12, PHYS 100)
+Co-reqs: BMEG 101.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: P., Room: A.
+Instructor: DHILLON, SUKHNEET KAUR
+
+Department: BMEG
+Course Number: 102
+Section: L2A
+Pre-reqs: (One of PHYS 12, PHYS 100)
+Co-reqs: BMEG 101.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: Chemical, Room: and
+Instructor: DHILLON, SUKHNEET KAUR
+
+Department: BMEG
+Course Number: 102
+Section: L2B
+Pre-reqs: (One of PHYS 12, PHYS 100)
+Co-reqs: BMEG 101.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Chemical, Room: and
+Instructor: DHILLON, SUKHNEET KAUR
+
+Department: BMEG
+Course Number: 102
+Section: L2C
+Pre-reqs: (One of PHYS 12, PHYS 100)
+Co-reqs: BMEG 101.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:30, End Time: 18:30, Building: Chemical, Room: and
+Instructor: DHILLON, SUKHNEET KAUR
+
+Department: BMEG
+Course Number: 102
+Section: 9AR
+Pre-reqs: (One of PHYS 12, PHYS 100)
+Co-reqs: BMEG 101.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

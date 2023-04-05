@@ -1,0 +1,10 @@
+Department: MINE
+Course Number: 554
+Section: 201
+Description: Mine valuation using discounted cash flow analysis and option pricing methods. Sources of mine finance and requirements. Sensitivity and risk assessment. Introduction to metals marketing, hedging and risk management.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 20:00, Building: Biological, Room: Sciences
+Instructor: LOPES DA COSTA, JOSE
+

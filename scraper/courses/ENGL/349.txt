@@ -1,0 +1,11 @@
+Department: ENGL
+Course Number: 349
+Section: 001
+Description: Seventeenth-Century Literature
+Pre-reqs: (Third-year standing and 3 credits from one of (a) 100-level ENGL or (b) 200-level ENGL or (c) ARTS 001 or (d) ASTU 100 or (e) ASTU 101 or (f) WRDS 150 or (g) WRDS 350. 6 credits of 100- and/or 200-level English courses is recommended. Prerequisites must be met by the first day of class or students will be withdrawn.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Mathematics, Room: 203
+Instructor: HODGSON, ELIZABETH
+

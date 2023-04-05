@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 547
+Section: BL2
+Description: Resource allocation, economics and ethics based approaches for decision making, uptake of evidence to inform resource use in health care.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 2, Start Time: Tue^, End Time: 14:30, Building: 17:30
+Instructor: MITTON, CRAIG
+

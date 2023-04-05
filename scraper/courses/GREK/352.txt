@@ -1,0 +1,11 @@
+Department: GREK
+Course Number: 352
+Section: 001
+Description: Readings in the major authors in Greek verse.
+Pre-reqs: GREK 202.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B216
+Instructor: LOUGHEED, CHRISTOPHER
+

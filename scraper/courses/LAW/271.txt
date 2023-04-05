@@ -1,0 +1,40 @@
+Department: LAW
+Course Number: 271
+Section: 001
+Description: An introduction to the structure, powers, duties of and relationships among the various institutions and actors that comprise the Canadian state, the principles of statutory interpretation, and the Canadian Charter of Rights and Freedoms.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 9:30, End Time: 11:00, Building: Allard, Room: Hall
+Instructor: LISTON, MARY ANN
+
+Department: LAW
+Course Number: 271
+Section: 002
+Description: An introduction to the structure, powers, duties of and relationships among the various institutions and actors that comprise the Canadian state, the principles of statutory interpretation, and the Canadian Charter of Rights and Freedoms.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 9:30, End Time: 11:00, Building: Allard, Room: Hall
+Instructor: YOUNG, MARGOT
+
+Department: LAW
+Course Number: 271
+Section: 003
+Description: An introduction to the structure, powers, duties of and relationships among the various institutions and actors that comprise the Canadian state, the principles of statutory interpretation, and the Canadian Charter of Rights and Freedoms.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 9:30, End Time: 11:00, Building: Allard, Room: Hall
+Instructor: JOSHI, YUVRAJ
+
+Department: LAW
+Course Number: 271
+Section: 004
+Description: An introduction to the structure, powers, duties of and relationships among the various institutions and actors that comprise the Canadian state, the principles of statutory interpretation, and the Canadian Charter of Rights and Freedoms.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 9:30, End Time: 11:00, Building: Allard, Room: Hall
+Instructor: KONG, HOI
+

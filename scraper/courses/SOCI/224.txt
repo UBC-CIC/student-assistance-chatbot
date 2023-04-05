@@ -1,0 +1,10 @@
+Department: SOCI
+Course Number: 224
+Section: 208
+Description: A sociological examination of everyday life exploring the social in the personal.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: West, Room: Mall
+Instructor: ARMITAGE, NEIL
+

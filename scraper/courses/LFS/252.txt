@@ -1,0 +1,131 @@
+Department: LFS
+Course Number: 252
+Section: 002
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Geography, Room: 100
+Instructor: ALILA, YOUNES
+
+Department: LFS
+Course Number: 252
+Section: T01
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Ponderosa, Room: Commons
+Instructor: ALILA, YOUNES
+
+Department: LFS
+Course Number: 252
+Section: T02
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: P., Room: A.
+Instructor: ALILA, YOUNES
+
+Department: LFS
+Course Number: 252
+Section: T03
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: MacLeod, Room: 2014
+Instructor: ALILA, YOUNES
+
+Department: LFS
+Course Number: 252
+Section: T04
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: P., Room: A.
+Instructor: ALILA, YOUNES
+
+Department: LFS
+Course Number: 252
+Section: T05
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: MacMillan, Room: 256
+Instructor: ALILA, YOUNES
+
+Department: LFS
+Course Number: 252
+Section: T06
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 16:00, End Time: 17:00, Building: P., Room: A.
+Instructor: ALILA, YOUNES
+
+Department: LFS
+Course Number: 252
+Section: T07
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 13:30, Building: P., Room: A.
+Instructor: ALILA, YOUNES
+
+Department: LFS
+Course Number: 252
+Section: T08
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:30, End Time: 14:30, Building: P., Room: A.
+Instructor: ALILA, YOUNES
+
+Department: LFS
+Course Number: 252
+Section: T09
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:30, End Time: 15:30, Building: P., Room: A.
+Instructor: ALILA, YOUNES
+
+Department: LFS
+Course Number: 252
+Section: T10
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:30, End Time: 16:30, Building: Orchard, Room: Commons
+Instructor: ALILA, YOUNES
+
+Department: LFS
+Course Number: 252
+Section: 0W2
+Description: Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems.
+Pre-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

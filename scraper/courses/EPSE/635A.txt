@@ -1,0 +1,11 @@
+Department: EPSE
+Course Number: 635A
+Section: 074
+Description: Admission to the SACP Ph.D. program required.
+Pre-reqs: All of CNPS 362, EPSE 552, EPSE 557.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 16:00, Building: Jack, Room: Bell
+Instructor: KASSAN, ANUSHA
+

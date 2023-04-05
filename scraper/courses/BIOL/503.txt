@@ -1,0 +1,20 @@
+Department: BIOL
+Course Number: 503
+Section: 201
+Description: Theoretical and applied ecology of microbes. Focus on microbial symbionts of animals, plants and seaweeds. Critical analysis of microbial ecological literature and computational analysis of ecological data.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: PARFREY, LAURA
+
+Department: BIOL
+Course Number: 503
+Section: L01
+Description: Theoretical and applied ecology of microbes. Focus on microbial symbionts of animals, plants and seaweeds. Critical analysis of microbial ecological literature and computational analysis of ecological data.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+

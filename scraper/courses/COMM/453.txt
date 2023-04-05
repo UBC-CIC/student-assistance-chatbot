@@ -1,0 +1,55 @@
+Department: COMM
+Course Number: 453
+Section: 101
+Description: An examination of advanced financial accounting.
+Pre-reqs: All of COMM 353, COMM 450.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: WYNTJES, BARBARA
+
+Department: COMM
+Course Number: 453
+Section: 201
+Description: An examination of advanced financial accounting.
+Pre-reqs: All of COMM 353, COMM 450.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: WYNTJES, BARBARA
+
+Department: COMM
+Course Number: 453
+Section: 202
+Description: An examination of advanced financial accounting.
+Pre-reqs: All of COMM 353, COMM 450.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: WYNTJES, BARBARA
+
+Department: COMM
+Course Number: 453
+Section: 203
+Description: An examination of advanced financial accounting.
+Pre-reqs: All of COMM 353, COMM 450.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: WYNTJES, BARBARA
+
+Department: COMM
+Course Number: 453
+Section: 204
+Description: An examination of advanced financial accounting.
+Pre-reqs: All of COMM 353, COMM 450.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: WYNTJES, BARBARA
+

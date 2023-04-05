@@ -1,0 +1,98 @@
+Department: GEOS
+Course Number: 372
+Section: 101
+Description: Cartographic methods: development of cartography; projections; data ordering, compilation and symbolization; cartographic design, map reproduction.
+Pre-reqs: One of GEOB 102, GEOS 102, GEOB 103, GEOS 103.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:00, End Time: 13:00, Building: Chemistry, Room: C126
+Instructor: MOONEY, DAWN
+
+Department: GEOS
+Course Number: 372
+Section: L1A
+Description: Cartographic methods: development of cartography; projections; data ordering, compilation and symbolization; cartographic design, map reproduction.
+Pre-reqs: One of GEOB 102, GEOS 102, GEOB 103, GEOS 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Geography, Room: 239
+Instructor: MOONEY, DAWN
+
+Department: GEOS
+Course Number: 372
+Section: L1B
+Description: Cartographic methods: development of cartography; projections; data ordering, compilation and symbolization; cartographic design, map reproduction.
+Pre-reqs: One of GEOB 102, GEOS 102, GEOB 103, GEOS 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Geography, Room: 239
+Instructor: MOONEY, DAWN
+
+Department: GEOS
+Course Number: 372
+Section: L1C
+Description: Cartographic methods: development of cartography; projections; data ordering, compilation and symbolization; cartographic design, map reproduction.
+Pre-reqs: One of GEOB 102, GEOS 102, GEOB 103, GEOS 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 18:00, Building: Geography, Room: 239
+Instructor: MOONEY, DAWN
+
+Department: GEOS
+Course Number: 372
+Section: 201
+Description: Cartographic methods: development of cartography; projections; data ordering, compilation and symbolization; cartographic design, map reproduction.
+Pre-reqs: One of GEOB 102, GEOS 102, GEOB 103, GEOS 103.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Fri, Start Time: 11:00, End Time: 12:00, Building: Geography, Room: 101
+Instructor: MOONEY, DAWN
+
+Department: GEOS
+Course Number: 372
+Section: L2A
+Description: Cartographic methods: development of cartography; projections; data ordering, compilation and symbolization; cartographic design, map reproduction.
+Pre-reqs: One of GEOB 102, GEOS 102, GEOB 103, GEOS 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 18:00, Building: Geography, Room: 239
+Instructor: MOONEY, DAWN
+
+Department: GEOS
+Course Number: 372
+Section: L2B
+Description: Cartographic methods: development of cartography; projections; data ordering, compilation and symbolization; cartographic design, map reproduction.
+Pre-reqs: One of GEOB 102, GEOS 102, GEOB 103, GEOS 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Geography, Room: 239
+Instructor: MOONEY, DAWN
+
+Department: GEOS
+Course Number: 372
+Section: L2C
+Description: Cartographic methods: development of cartography; projections; data ordering, compilation and symbolization; cartographic design, map reproduction.
+Pre-reqs: One of GEOB 102, GEOS 102, GEOB 103, GEOS 103.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 14:00, Building: Geography, Room: 239
+Instructor: MOONEY, DAWN
+
+Department: GEOS
+Course Number: 372
+Section: WL2
+Description: Cartographic methods: development of cartography; projections; data ordering, compilation and symbolization; cartographic design, map reproduction.
+Pre-reqs: One of GEOB 102, GEOS 102, GEOB 103, GEOS 103.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,8 @@
+Department: PSYC
+Course Number: 549
+Section: 001
+Credits: 18
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

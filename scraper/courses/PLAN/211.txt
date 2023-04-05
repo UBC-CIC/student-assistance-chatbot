@@ -1,0 +1,59 @@
+Department: PLAN
+Course Number: 211
+Section: 001
+Description: Contemporary city development trends, policies, and practices across the globe as explored against the backdrop of culture and technology. Includes hands-on learning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 14:00, Building: Frederic, Room: Lasserre
+Instructor: YEO, SU-JAN
+
+Department: PLAN
+Course Number: 211
+Section: 0T1
+Description: Contemporary city development trends, policies, and practices across the globe as explored against the backdrop of culture and technology. Includes hands-on learning.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+
+Department: PLAN
+Course Number: 211
+Section: 0T2
+Description: Contemporary city development trends, policies, and practices across the globe as explored against the backdrop of culture and technology. Includes hands-on learning.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+
+Department: PLAN
+Course Number: 211
+Section: 0T3
+Description: Contemporary city development trends, policies, and practices across the globe as explored against the backdrop of culture and technology. Includes hands-on learning.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+
+Department: PLAN
+Course Number: 211
+Section: 0T4
+Description: Contemporary city development trends, policies, and practices across the globe as explored against the backdrop of culture and technology. Includes hands-on learning.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+
+Department: PLAN
+Course Number: 211
+Section: 0W1
+Description: Contemporary city development trends, policies, and practices across the globe as explored against the backdrop of culture and technology. Includes hands-on learning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: YEO, SU-JAN
+

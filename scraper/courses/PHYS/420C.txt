@@ -1,0 +1,19 @@
+Department: PHYS
+Course Number: 420C
+Section: 001
+Description: The students will prepare, under the supervision of a faculty member, a demonstration or series of demonstrations intended to illustrate physical principles to diverse audiences. Intended for third- or fourth-year Physics Majors and Math/Science Education students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 212
+Instructor: KOTLICKI, ANDRZEJ
+
+Department: PHYS
+Course Number: 420C
+Section: 00W
+Description: The students will prepare, under the supervision of a faculty member, a demonstration or series of demonstrations intended to illustrate physical principles to diverse audiences. Intended for third- or fourth-year Physics Majors and Math/Science Education students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

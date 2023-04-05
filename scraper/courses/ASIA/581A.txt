@@ -1,0 +1,9 @@
+Department: ASIA
+Course Number: 581A
+Section: 027
+Description: Research Methods and Source Materials in Korean Studies - RSCH MAT-KOREAN
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FULTON, BRUCE
+

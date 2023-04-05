@@ -1,0 +1,10 @@
+Department: PPGA
+Course Number: 591V
+Section: 001
+Description: Special Topics in Public Policy - INDIG POLI & GOV
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 20:00, Building: C., Room: K.
+Instructor: LOGAN, TRICIA
+

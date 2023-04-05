@@ -1,0 +1,80 @@
+Department: PHRM
+Course Number: 494
+Section: 001
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of ambulatory or primary care settings. Pass/Fail.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DHALIWAL, NEELAM(Coordinator)
+
+Department: PHRM
+Course Number: 494
+Section: 002
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of ambulatory or primary care settings. Pass/Fail.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DHALIWAL, NEELAM(Coordinator)
+
+Department: PHRM
+Course Number: 494
+Section: 003
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of ambulatory or primary care settings. Pass/Fail.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DHALIWAL, NEELAM(Coordinator)
+
+Department: PHRM
+Course Number: 494
+Section: 004
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of ambulatory or primary care settings. Pass/Fail.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DHALIWAL, NEELAM(Coordinator)
+
+Department: PHRM
+Course Number: 494
+Section: 005
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of ambulatory or primary care settings. Pass/Fail.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DHALIWAL, NEELAM(Coordinator)
+
+Department: PHRM
+Course Number: 494
+Section: 006
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of ambulatory or primary care settings. Pass/Fail.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DHALIWAL, NEELAM(Coordinator)
+
+Department: PHRM
+Course Number: 494
+Section: 007
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of ambulatory or primary care settings. Pass/Fail.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DHALIWAL, NEELAM(Coordinator)
+
+Department: PHRM
+Course Number: 494
+Section: 008
+Description: Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of ambulatory or primary care settings. Pass/Fail.
+Pre-reqs: All of PHRM 451, PHRM 452, PHRM 453, PHRM 461.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DHALIWAL, NEELAM(Coordinator)
+

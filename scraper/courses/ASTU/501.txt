@@ -1,0 +1,18 @@
+Department: ASTU
+Course Number: 501
+Section: 101
+Description: Approved and supervised paid work experience with a public or private organization for a minimum of 13 weeks full-time. Final written report required. Restricted to Master's degree students in departments with approved co-op programs.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ASTU
+Course Number: 501
+Section: 201
+Description: Approved and supervised paid work experience with a public or private organization for a minimum of 13 weeks full-time. Final written report required. Restricted to Master's degree students in departments with approved co-op programs.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,90 @@
+Department: ECON
+Course Number: 326
+Section: 001
+Pre-reqs: One of ECON 325, ECON 327.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: A203
+Instructor: GRAVES, JONATHAN
+
+Department: ECON
+Course Number: 326
+Section: L01
+Pre-reqs: One of ECON 325, ECON 327.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: D217
+Instructor: TBA
+
+Department: ECON
+Course Number: 326
+Section: L02
+Pre-reqs: One of ECON 325, ECON 327.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: D217
+Instructor: TBA
+
+Department: ECON
+Course Number: 326
+Section: 004
+Pre-reqs: One of ECON 325, ECON 327.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: A103
+Instructor: HASAN, EMRUL
+
+Department: ECON
+Course Number: 326
+Section: L03
+Pre-reqs: One of ECON 325, ECON 327.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: D219
+Instructor: TBA
+
+Department: ECON
+Course Number: 326
+Section: L04
+Pre-reqs: One of ECON 325, ECON 327.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 18:00, Building: Buchanan, Room: D219
+Instructor: TBA
+
+Department: ECON
+Course Number: 326
+Section: 005
+Pre-reqs: One of ECON 325, ECON 327.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Buchanan, Room: A103
+Instructor: GRAVES, JONATHAN
+
+Department: ECON
+Course Number: 326
+Section: L05
+Pre-reqs: One of ECON 325, ECON 327.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: D217
+Instructor: TBA
+
+Department: ECON
+Course Number: 326
+Section: L06
+Pre-reqs: One of ECON 325, ECON 327.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: D219
+Instructor: TBA
+

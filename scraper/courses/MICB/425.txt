@@ -1,0 +1,21 @@
+Department: MICB
+Course Number: 425
+Section: 201
+Description: Intrinsic and extrinsic forces driving prokaryotic genome evolution. Gene transfer; microbial species concepts; community genome structure, function and dynamics; ecological impacts of microbial genome diversity. Emphasis on problem solving and experimental design.
+Pre-reqs: One of BIOL 335, MICB 325, BIOT 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Hebb, Room: 116
+Instructor: CROWE, SEAN
+
+Department: MICB
+Course Number: 425
+Section: WL2
+Description: Intrinsic and extrinsic forces driving prokaryotic genome evolution. Gene transfer; microbial species concepts; community genome structure, function and dynamics; ecological impacts of microbial genome diversity. Emphasis on problem solving and experimental design.
+Pre-reqs: One of BIOL 335, MICB 325, BIOT 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

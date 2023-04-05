@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 235
+Section: 001
+Description: Opera Repertoire II
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: Auditorium, Room: 200
+Instructor: GRANT, ANDREA
+

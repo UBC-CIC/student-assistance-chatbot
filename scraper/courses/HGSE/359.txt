@@ -1,0 +1,10 @@
+Department: HGSE
+Course Number: 359
+Section: 610
+Description: History, definitions, and applications of EBM; challenges of achieving both economic and environmental well-being with a focus on resource use and management on Haida Gwaii. Part of the Haida Gwaii Fall Semester.
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

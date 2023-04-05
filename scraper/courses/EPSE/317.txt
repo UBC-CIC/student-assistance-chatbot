@@ -1,0 +1,36 @@
+Department: EPSE
+Course Number: 317
+Section: 63C
+Description: The teacher's role in dealing with major developmental and special educational issues and problems within the regular classroom program, including working with supportive services, parents, and communities. Designated sections will focus on early childhood, middle childhood or adolescence. Pass/Fail.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HEIKKILA, MARY
+
+Department: EPSE
+Course Number: 317
+Section: 640
+Description: The teacher's role in dealing with major developmental and special educational issues and problems within the regular classroom program, including working with supportive services, parents, and communities. Designated sections will focus on early childhood, middle childhood or adolescence. Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KELLEY, LEAH
+
+Department: EPSE
+Course Number: 317
+Section: 641
+Description: The teacher's role in dealing with major developmental and special educational issues and problems within the regular classroom program, including working with supportive services, parents, and communities. Designated sections will focus on early childhood, middle childhood or adolescence. Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KELLEY, LEAH
+
+Department: EPSE
+Course Number: 317
+Section: W3C
+Description: The teacher's role in dealing with major developmental and special educational issues and problems within the regular classroom program, including working with supportive services, parents, and communities. Designated sections will focus on early childhood, middle childhood or adolescence. Pass/Fail.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

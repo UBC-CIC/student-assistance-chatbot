@@ -1,0 +1,420 @@
+Department: COMM
+Course Number: 105
+Section: 101
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: GURTON, TRACEY
+
+Department: COMM
+Course Number: 105
+Section: T01
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T02
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 102
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: DANIELS, MICHAEL
+
+Department: COMM
+Course Number: 105
+Section: T03
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T04
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 8:30, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 103
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: DANIELS, MICHAEL
+
+Department: COMM
+Course Number: 105
+Section: T05
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:30, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T06
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:30, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 104
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: GURTON, TRACEY
+
+Department: COMM
+Course Number: 105
+Section: T07
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T08
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 105
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: GURTON, TRACEY
+
+Department: COMM
+Course Number: 105
+Section: T09
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:30, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T10
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:30, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 106
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: DANIELS, MICHAEL
+
+Department: COMM
+Course Number: 105
+Section: T11
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T12
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 107
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 17:30, End Time: 19:00, Building: Henry, Room: Angus
+Instructor: DANIELS, MICHAEL
+
+Department: COMM
+Course Number: 105
+Section: T13
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T14
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 108
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: DANIELS, MICHAEL
+
+Department: COMM
+Course Number: 105
+Section: T15
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T16
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 109
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: GURTON, TRACEY
+
+Department: COMM
+Course Number: 105
+Section: T17
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T18
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 110
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: GURTON, TRACEY
+
+Department: COMM
+Course Number: 105
+Section: T19
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T20
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 111
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: DANIELS, MICHAEL
+
+Department: COMM
+Course Number: 105
+Section: T21
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T22
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 112
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: GURTON, TRACEY
+
+Department: COMM
+Course Number: 105
+Section: T23
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T24
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 113
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Henry, Room: Angus
+Instructor: GURTON, TRACEY
+
+Department: COMM
+Course Number: 105
+Section: T25
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T26
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: 201
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: DODDS, COLIN
+
+Department: COMM
+Course Number: 105
+Section: T27
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: COMM
+Course Number: 105
+Section: T28
+Description: An introduction to the roles and responsibilities of business at individual, organizational, and societal levels. Students will examine their personal values and lay the foundation for ongoing, active exploration of career paths through which they can achieve their goals.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: TBA
+

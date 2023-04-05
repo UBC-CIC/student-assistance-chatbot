@@ -1,0 +1,40 @@
+Department: CENS
+Course Number: 201
+Section: 001
+Description: Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: D316
+Instructor: GASSNER, FLORIAN
+
+Department: CENS
+Course Number: 201
+Section: 002
+Description: Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: Tower
+Instructor: MOROZOVA, OLENA
+
+Department: CENS
+Course Number: 201
+Section: 003
+Description: Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: B141
+Instructor: MOROZOVA, OLENA
+
+Department: CENS
+Course Number: 201
+Section: 004
+Description: Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: D304
+Instructor: FRANDY, TIM
+

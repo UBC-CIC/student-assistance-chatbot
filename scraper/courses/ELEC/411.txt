@@ -1,0 +1,21 @@
+Department: ELEC
+Course Number: 411
+Section: 101
+Description: Basic antenna concepts; antennas for low, medium and high frequencies; terrestrial and satellite propagation links; environmental effects on electromagnetic radiation.
+Pre-reqs: One of ELEC 311, PHYS 301, PHYS 354.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: MacLeod, Room: 3038
+Instructor: MICHELSON, DAVID
+
+Department: ELEC
+Course Number: 411
+Section: 1W1
+Description: Basic antenna concepts; antennas for low, medium and high frequencies; terrestrial and satellite propagation links; environmental effects on electromagnetic radiation.
+Pre-reqs: One of ELEC 311, PHYS 301, PHYS 354.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

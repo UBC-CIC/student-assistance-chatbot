@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 420D
+Section: 201
+Description: May include immigration, French-English relations, the growth of the state, health and welfare, or the family.
+Credits: 3
+Mode of Delivery: Multi-access
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: B303
+Instructor: ISHIGURO, LAURA
+

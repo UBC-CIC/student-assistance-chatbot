@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 410
+Section: 001
+Description: Introduction to Schenkerian Analysis
+Pre-reqs: MUSC 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 16:30, Building: Music, Room: 475
+Instructor: POUDRIER, EVE
+

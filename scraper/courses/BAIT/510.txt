@@ -1,0 +1,9 @@
+Department: BAIT
+Course Number: 510
+Section: MM1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 10:00, End Time: 12:00, Building: David, Room: Lam
+Instructor: SVEDIC, ZORANA
+

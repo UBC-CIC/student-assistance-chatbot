@@ -1,0 +1,9 @@
+Department: EDCP
+Course Number: 598C
+Section: 033
+Description: Field experiences in community-based or museum contexts. Focus on curriculum design and evaluation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

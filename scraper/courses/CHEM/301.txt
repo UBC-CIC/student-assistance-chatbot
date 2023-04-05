@@ -1,0 +1,21 @@
+Department: CHEM
+Course Number: 301
+Section: 109
+Description: Properties and composition of natural waters, including gas and solid equilibria, pH and acidification, redox chemistry, complexation, corrosion, ion exchange, colloids and microbial transformations.
+Pre-reqs: One of CHEM 123, CHEM 130, CHBE 220. (and Third year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Geography, Room: 100
+Instructor: ORIANS, KRISTIN
+
+Department: CHEM
+Course Number: 301
+Section: 1W1
+Description: Properties and composition of natural waters, including gas and solid equilibria, pH and acidification, redox chemistry, complexation, corrosion, ion exchange, colloids and microbial transformations.
+Pre-reqs: One of CHEM 123, CHEM 130, CHBE 220. (and Third year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

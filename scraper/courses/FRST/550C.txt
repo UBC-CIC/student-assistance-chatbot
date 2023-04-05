@@ -1,0 +1,24 @@
+Department: FRST
+Course Number: 550C
+Section: 001
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FRST
+Course Number: 550C
+Section: 101
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: FRST
+Course Number: 550C
+Section: 201
+Credits: 18
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 210
+Section: 001
+Description: Principles of evidence-informed midwifery, what counts as evidence? Making sense of the evidence, applying the evidence in practice.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 16:00, Building: To, Room: Be
+Instructor: NETHERY, ELIZABETH
+

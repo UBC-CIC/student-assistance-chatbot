@@ -1,0 +1,41 @@
+Department: EOSC
+Course Number: 116
+Section: 201
+Description: Earth's tectonics, climate, and oceans during the time of the dinosaurs. Reading the fossil record of Earth from its earliest origins up to and including the Mesozoic, 250 - 65 million years ago.
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Chemical, Room: and
+Instructor: SUTHERLAND, STUART
+
+Department: EOSC
+Course Number: 116
+Section: 99A
+Description: Mesozoic Earth: Time of the Dinosaurs.
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: LONGRIDGE, LOUISE
+
+Department: EOSC
+Course Number: 116
+Section: 99C
+Description: Mesozoic Earth: Time of the Dinosaurs.
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: LONGRIDGE, LOUISE
+
+Department: EOSC
+Course Number: 116
+Section: W2L
+Description: Earth's tectonics, climate, and oceans during the time of the dinosaurs. Reading the fossil record of Earth from its earliest origins up to and including the Mesozoic, 250 - 65 million years ago.
+Co-reqs: (EOSC 111 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: MATH
+Course Number: 510
+Section: 201
+Description: Functional Analysis
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Mathematics, Room: 204
+Instructor: BACHMANN, SVEN
+

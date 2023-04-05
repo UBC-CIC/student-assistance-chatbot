@@ -1,0 +1,10 @@
+Department: ANAT
+Course Number: 392
+Section: 001
+Description: Lectures and laboratory sessions on the human gross and functional anatomy of the limbs and trunk. The course includes the study of predissected specimens. For credit only in the Department of Physical Therapy.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30
+Instructor: ALIMOHAMMADI, MAJID
+

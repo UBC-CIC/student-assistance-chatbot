@@ -1,0 +1,114 @@
+Department: CPEN
+Course Number: 322
+Section: 101
+Description: Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session-oriented systems; security and scalability; models of application deployment.
+Pre-reqs: All of CPEN 221, CPSC 221.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Wesbrook, Room: 100
+Instructor: PATTABIRAMAN, KARTHIK
+
+Department: CPEN
+Course Number: 322
+Section: L1A
+Description: Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session-oriented systems; security and scalability; models of application deployment.
+Pre-reqs: All of CPEN 221, CPSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: MacLeod, Room: 4002
+Instructor: PATTABIRAMAN, KARTHIK
+
+Department: CPEN
+Course Number: 322
+Section: L1B
+Description: Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session-oriented systems; security and scalability; models of application deployment.
+Pre-reqs: All of CPEN 221, CPSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: MacLeod, Room: 4002
+Instructor: PATTABIRAMAN, KARTHIK
+
+Department: CPEN
+Course Number: 322
+Section: L1C
+Description: Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session-oriented systems; security and scalability; models of application deployment.
+Pre-reqs: All of CPEN 221, CPSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: MacLeod, Room: 4002
+Instructor: PATTABIRAMAN, KARTHIK
+
+Department: CPEN
+Course Number: 322
+Section: LWA
+Description: Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session-oriented systems; security and scalability; models of application deployment.
+Pre-reqs: All of CPEN 221, CPSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 322
+Section: LWB
+Description: Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session-oriented systems; security and scalability; models of application deployment.
+Pre-reqs: All of CPEN 221, CPSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 322
+Section: LWC
+Description: Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session-oriented systems; security and scalability; models of application deployment.
+Pre-reqs: All of CPEN 221, CPSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 322
+Section: 1W1
+Description: Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session-oriented systems; security and scalability; models of application deployment.
+Pre-reqs: All of CPEN 221, CPSC 221.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 322
+Section: LWA
+Description: Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session-oriented systems; security and scalability; models of application deployment.
+Pre-reqs: All of CPEN 221, CPSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 322
+Section: LWB
+Description: Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session-oriented systems; security and scalability; models of application deployment.
+Pre-reqs: All of CPEN 221, CPSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 322
+Section: LWC
+Description: Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session-oriented systems; security and scalability; models of application deployment.
+Pre-reqs: All of CPEN 221, CPSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

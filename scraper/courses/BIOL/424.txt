@@ -1,0 +1,33 @@
+Department: BIOL
+Course Number: 424
+Section: 201
+Description: Ecology, function, history and conservation of tropical systems. Focus on ecological and evolutionary principles using tropical landscapes as a geographic template. Assessment of factors that make tropical systems vulnerable to degradation. Research project development using analysis of tropical ecology literature.
+Pre-reqs: BIOL 121 and one of BIOL 230, FRST 201, GEOS 207, GEOB 207.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: P., Room: A.
+Instructor: JANKOWSKI, JILL
+
+Department: BIOL
+Course Number: 424
+Section: L01
+Description: Ecology, function, history and conservation of tropical systems. Focus on ecological and evolutionary principles using tropical landscapes as a geographic template. Assessment of factors that make tropical systems vulnerable to degradation. Research project development using analysis of tropical ecology literature.
+Pre-reqs: BIOL 121 and one of BIOL 230, FRST 201, GEOS 207, GEOB 207.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Food,, Room: Nutrition
+Instructor: TBA
+
+Department: BIOL
+Course Number: 424
+Section: 2W1
+Description: Ecology, function, history and conservation of tropical systems. Focus on ecological and evolutionary principles using tropical landscapes as a geographic template. Assessment of factors that make tropical systems vulnerable to degradation. Research project development using analysis of tropical ecology literature.
+Pre-reqs: BIOL 121 and one of BIOL 230, FRST 201, GEOS 207, GEOB 207.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: To, Room: Be
+Instructor: TBA
+

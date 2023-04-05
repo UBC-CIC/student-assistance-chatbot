@@ -1,0 +1,18 @@
+Department: EDCP
+Course Number: 564
+Section: 032
+Description: Texts, Politics, and Ideologies of Curriculum Development
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDCP
+Course Number: 564
+Section: 62A
+Description: Texts, Politics, and Ideologies of Curriculum Development
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: PINAR, WILLIAM
+

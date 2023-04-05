@@ -1,0 +1,9 @@
+Department: BIOL
+Course Number: 548R
+Section: 201
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:00, End Time: 16:30
+Instructor: WOOD, CHRISTOPHER
+

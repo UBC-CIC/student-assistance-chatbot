@@ -1,0 +1,24 @@
+Department: CIVL
+Course Number: 599
+Section: 003
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CIVL
+Course Number: 599
+Section: 103
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CIVL
+Course Number: 599
+Section: 203
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

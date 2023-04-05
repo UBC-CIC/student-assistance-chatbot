@@ -1,0 +1,80 @@
+Department: PHRM
+Course Number: 304B
+Section: 001
+Description: Individual assignments involving library and scholarly inquiry related to pharmacy education.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LADAK, ALI REZA
+
+Department: PHRM
+Course Number: 304B
+Section: 002
+Description: Individual assignments involving library and scholarly inquiry related to pharmacy education.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: FANG, KAYLA
+
+Department: PHRM
+Course Number: 304B
+Section: 003
+Description: Individual assignments involving library and scholarly inquiry related to pharmacy education.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: PACHEV, GEORGE
+
+Department: PHRM
+Course Number: 304B
+Section: 004
+Description: Individual assignments involving library and scholarly inquiry related to pharmacy education.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DHALIWAL, NEELAM
+
+Department: PHRM
+Course Number: 304B
+Section: 005
+Description: Individual assignments involving library and scholarly inquiry related to pharmacy education.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MIRA, AILEEN
+
+Department: PHRM
+Course Number: 304B
+Section: 006
+Description: Individual assignments involving library and scholarly inquiry related to pharmacy education.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CHAN, FONG
+
+Department: PHRM
+Course Number: 304B
+Section: 007
+Description: Individual assignments involving library and scholarly inquiry related to pharmacy education.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+
+Department: PHRM
+Course Number: 304B
+Section: 008
+Description: Individual assignments involving library and scholarly inquiry related to pharmacy education.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: PAMMETT, ROBERT
+
+Department: PHRM
+Course Number: 304B
+Section: 009
+Description: Individual assignments involving library and scholarly inquiry related to pharmacy education.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LEUNG, LARRY
+

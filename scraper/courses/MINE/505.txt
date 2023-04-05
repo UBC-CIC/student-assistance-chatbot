@@ -1,0 +1,10 @@
+Department: MINE
+Course Number: 505
+Section: 101
+Description: Rock mass properties and numerical modelling applied to rock engineering design with particular emphasis on applications in rock slopes and tunneling.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Frank, Room: Forward
+Instructor: ELMO, DAVIDE
+

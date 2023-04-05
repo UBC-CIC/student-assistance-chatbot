@@ -1,0 +1,104 @@
+Department: ELEC
+Course Number: 221
+Section: 101
+Description: Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and transforms, z-transform, sampling, introduction to filtering and modulation, feedback systems, stability.
+Pre-reqs: One of MATH 256, MATH 255.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: DI MATTEO, OLIVIA
+
+Department: ELEC
+Course Number: 221
+Section: T1A
+Description: Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and transforms, z-transform, sampling, introduction to filtering and modulation, feedback systems, stability.
+Pre-reqs: One of MATH 256, MATH 255.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:30, End Time: 19:30, Building: Hugh, Room: Dempster
+Instructor: DI MATTEO, OLIVIA
+
+Department: ELEC
+Course Number: 221
+Section: T1W
+Description: Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and transforms, z-transform, sampling, introduction to filtering and modulation, feedback systems, stability.
+Pre-reqs: One of MATH 256, MATH 255.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 221
+Section: 1W1
+Description: Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and transforms, z-transform, sampling, introduction to filtering and modulation, feedback systems, stability.
+Pre-reqs: One of MATH 256, MATH 255.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 221
+Section: T1W
+Description: Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and transforms, z-transform, sampling, introduction to filtering and modulation, feedback systems, stability.
+Pre-reqs: One of MATH 256, MATH 255.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 221
+Section: 201
+Description: Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and transforms, z-transform, sampling, introduction to filtering and modulation, feedback systems, stability.
+Pre-reqs: One of MATH 256, MATH 255.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:30, End Time: 19:00, Building: Leonard, Room: S.
+Instructor: THRAMPOULIDIS, CHRISTOS
+
+Department: ELEC
+Course Number: 221
+Section: T2A
+Description: Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and transforms, z-transform, sampling, introduction to filtering and modulation, feedback systems, stability.
+Pre-reqs: One of MATH 256, MATH 255.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 14:00, Building: Centre, Room: for
+Instructor: THRAMPOULIDIS, CHRISTOS
+
+Department: ELEC
+Course Number: 221
+Section: T2W
+Description: Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and transforms, z-transform, sampling, introduction to filtering and modulation, feedback systems, stability.
+Pre-reqs: One of MATH 256, MATH 255.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 221
+Section: 2W1
+Description: Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and transforms, z-transform, sampling, introduction to filtering and modulation, feedback systems, stability.
+Pre-reqs: One of MATH 256, MATH 255.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 221
+Section: T2W
+Description: Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and transforms, z-transform, sampling, introduction to filtering and modulation, feedback systems, stability.
+Pre-reqs: One of MATH 256, MATH 255.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,19 @@
+Department: PHRM
+Course Number: 325
+Section: 001
+Description: Lectures and discussions of topics on the application of pharmacokinetic principles and the use of therapeutic drug level monitoring in clinical pharmacy practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: Pharmaceutical, Room: Sciences
+Instructor: WONG, HARVEY
+
+Department: PHRM
+Course Number: 325
+Section: WL1
+Description: Lectures and discussions of topics on the application of pharmacokinetic principles and the use of therapeutic drug level monitoring in clinical pharmacy practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: Dr. Harvey Wong
+

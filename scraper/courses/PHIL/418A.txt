@@ -1,0 +1,11 @@
+Department: PHIL
+Course Number: 418A
+Section: 001
+Description: Intensive study of a major philosopher such as Wittgenstein, Russell, or Heidegger, or school, such as pragmatism or logical empiricism.
+Pre-reqs: PHIL 340.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: D205
+Instructor: SIMCHEN, ORI
+

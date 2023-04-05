@@ -1,0 +1,21 @@
+Department: MICB
+Course Number: 398
+Section: 610
+Description: Work experience. Restricted to students admitted to the Co-operative Education Program in the Biotechnology or Microbiology and Immunology specializations. Pass/Fail
+Pre-reqs: Either (a) one of MICB 211, MICB 201 and one of MICB 212, MICB 202; or (b) BIOT 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: MICB
+Course Number: 398
+Section: 620
+Description: Work experience. Restricted to students admitted to the Co-operative Education Program in the Biotechnology or Microbiology and Immunology specializations. Pass/Fail
+Pre-reqs: Either (a) one of MICB 211, MICB 201 and one of MICB 212, MICB 202; or (b) BIOT 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 7:00, End Time: 7:30
+Instructor: TBA
+

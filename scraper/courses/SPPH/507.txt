@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 507
+Section: BL1
+Description: SPPH 507 in conjunction with SPPH 607 is a required course for students in the M.Sc. program. Students present and discuss their research and other topics of interest.
+Credits: 1.5
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 1, Start Time: Fri*, End Time: 9:00, Building: 11:30, Room: School
+Instructor: KAZANJIAN, ARMINEE
+

@@ -1,0 +1,99 @@
+Department: CPSC
+Course Number: 259
+Section: 101
+Description: Advanced procedural programming. Fundamental algorithms for sorting and searching. Data structures including lists, trees, and hash tables. Introduction to scripting languages and file input/output.
+Pre-reqs: APSC 160.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: Forest, Room: Sciences
+Instructor: TIEN, GEOFFREY
+
+Department: CPSC
+Course Number: 259
+Section: L1A
+Description: Advanced procedural programming. Fundamental algorithms for sorting and searching. Data structures including lists, trees, and hash tables. Introduction to scripting languages and file input/output.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 259
+Section: L1B
+Description: Advanced procedural programming. Fundamental algorithms for sorting and searching. Data structures including lists, trees, and hash tables. Introduction to scripting languages and file input/output.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 259
+Section: L1D
+Description: Advanced procedural programming. Fundamental algorithms for sorting and searching. Data structures including lists, trees, and hash tables. Introduction to scripting languages and file input/output.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 259
+Section: L1E
+Description: Advanced procedural programming. Fundamental algorithms for sorting and searching. Data structures including lists, trees, and hash tables. Introduction to scripting languages and file input/output.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 259
+Section: L1F
+Description: Advanced procedural programming. Fundamental algorithms for sorting and searching. Data structures including lists, trees, and hash tables. Introduction to scripting languages and file input/output.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 259
+Section: L1G
+Description: Advanced procedural programming. Fundamental algorithms for sorting and searching. Data structures including lists, trees, and hash tables. Introduction to scripting languages and file input/output.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 259
+Section: L1H
+Description: Advanced procedural programming. Fundamental algorithms for sorting and searching. Data structures including lists, trees, and hash tables. Introduction to scripting languages and file input/output.
+Pre-reqs: APSC 160.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 259
+Section: 1W1
+Description: Advanced procedural programming. Fundamental algorithms for sorting and searching. Data structures including lists, trees, and hash tables. Introduction to scripting languages and file input/output.
+Pre-reqs: APSC 160.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: To, Room: Be
+Instructor: TIEN, GEOFFREY
+

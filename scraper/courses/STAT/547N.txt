@@ -1,0 +1,10 @@
+Department: STAT
+Course Number: 547N
+Section: 101
+Description: Topics in Statistics - ECO + MAR STAT
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Neville, Room: Scarfe
+Instructor: AUGER-METHE, MARIE
+

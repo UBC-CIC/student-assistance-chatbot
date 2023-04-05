@@ -1,0 +1,42 @@
+Department: FNH
+Course Number: 250
+Section: 001
+Description: Fundamental concepts and principles of human nutrition applied to current nutrition issues.
+Pre-reqs: Either (a) one of BIOL 111, BIOL 112, BIOL 153, BIOL 155 or (b) all of KIN 131, KIN 132. (At least second-year standing required.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: HAMMOND, GAIL
+
+Department: FNH
+Course Number: 250
+Section: 003
+Description: Fundamental concepts and principles of human nutrition applied to current nutrition issues.
+Pre-reqs: Either (a) one of BIOL 111, BIOL 112, BIOL 153, BIOL 155 or (b) all of KIN 131, KIN 132. (At least second-year standing required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: West, Room: Mall
+Instructor: DONATTI CASTRO FALCI, BRUNA
+
+Department: FNH
+Course Number: 250
+Section: 0W1
+Description: Fundamental concepts and principles of human nutrition applied to current nutrition issues.
+Pre-reqs: Either (a) one of BIOL 111, BIOL 112, BIOL 153, BIOL 155 or (b) all of KIN 131, KIN 132. (At least second-year standing required.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: FNH
+Course Number: 250
+Section: 0W3
+Description: Fundamental concepts and principles of human nutrition applied to current nutrition issues.
+Pre-reqs: Either (a) one of BIOL 111, BIOL 112, BIOL 153, BIOL 155 or (b) all of KIN 131, KIN 132. (At least second-year standing required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

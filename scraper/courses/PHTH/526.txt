@@ -1,0 +1,9 @@
+Department: PHTH
+Course Number: 526
+Section: 001
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:30, End Time: 13:30
+Instructor: SCOTT, ALEXANDER
+

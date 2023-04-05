@@ -1,0 +1,44 @@
+Department: MICB
+Course Number: 322
+Section: 101
+Description: Aseptic handling and characterization of microbes, growth properties, enzyme assays, protein analysis and plasmid isolation. Restricted to students in Microbiology and Immunology specializations.
+Pre-reqs: All of BIOL 200, BIOL 201, CHEM 233 and one of MICB 211, MICB 201 and one of MICB 212, MICB 202.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: P., Room: A.
+Instructor: SIBLEY, JENNIFER
+
+Department: MICB
+Course Number: 322
+Section: L01
+Description: Aseptic handling and characterization of microbes, growth properties, enzyme assays, protein analysis and plasmid isolation. Restricted to students in Microbiology and Immunology specializations.
+Pre-reqs: All of BIOL 200, BIOL 201, CHEM 233 and one of MICB 211, MICB 201 and one of MICB 212, MICB 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: SIBLEY, JENNIFER
+
+Department: MICB
+Course Number: 322
+Section: L02
+Description: Aseptic handling and characterization of microbes, growth properties, enzyme assays, protein analysis and plasmid isolation. Restricted to students in Microbiology and Immunology specializations.
+Pre-reqs: All of BIOL 200, BIOL 201, CHEM 233 and one of MICB 211, MICB 201 and one of MICB 212, MICB 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: SIBLEY, JENNIFER
+
+Department: MICB
+Course Number: 322
+Section: L03
+Description: Aseptic handling and characterization of microbes, growth properties, enzyme assays, protein analysis and plasmid isolation. Restricted to students in Microbiology and Immunology specializations.
+Pre-reqs: All of BIOL 200, BIOL 201, CHEM 233 and one of MICB 211, MICB 201 and one of MICB 212, MICB 202.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: SIBLEY, JENNIFER
+

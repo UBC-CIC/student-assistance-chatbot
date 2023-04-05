@@ -1,0 +1,18 @@
+Department: BOTA
+Course Number: 546B
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:30, End Time: 15:30
+Instructor: FUJITA, MIKI
+
+Department: BOTA
+Course Number: 546B
+Section: L01
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:30, End Time: 17:30
+Instructor: FUJITA, MIKI
+

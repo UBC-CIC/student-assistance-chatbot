@@ -1,0 +1,33 @@
+Department: BIOC
+Course Number: 402
+Section: 101
+Description: Structural components of proteins, classification by primary, secondary and tertiary structure, protein chemistry and purification, peptide and protein synthesis by chemical means and three-dimensional structure determination using X-ray diffraction and NMR.
+Pre-reqs: One of BIOC 302, BIOC 303, BIOT 380. (A minimum standing of 65% is recommended in these courses.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: P., Room: A.
+Instructor: GSPONER, JOERG
+
+Department: BIOC
+Course Number: 402
+Section: T01
+Description: Structural components of proteins, classification by primary, secondary and tertiary structure, protein chemistry and purification, peptide and protein synthesis by chemical means and three-dimensional structure determination using X-ray diffraction and NMR.
+Pre-reqs: One of BIOC 302, BIOC 303, BIOT 380. (A minimum standing of 65% is recommended in these courses.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00
+Instructor: TBA
+
+Department: BIOC
+Course Number: 402
+Section: T02
+Description: Structural components of proteins, classification by primary, secondary and tertiary structure, protein chemistry and purification, peptide and protein synthesis by chemical means and three-dimensional structure determination using X-ray diffraction and NMR.
+Pre-reqs: One of BIOC 302, BIOC 303, BIOT 380. (A minimum standing of 65% is recommended in these courses.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 16:00
+Instructor: TBA
+

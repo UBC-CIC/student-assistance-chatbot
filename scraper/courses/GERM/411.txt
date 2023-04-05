@@ -1,0 +1,9 @@
+Department: GERM
+Course Number: 411
+Section: 001
+Description: Major Controversies in German Culture (in English)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

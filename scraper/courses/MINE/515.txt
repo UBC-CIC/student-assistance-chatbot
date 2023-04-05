@@ -1,0 +1,9 @@
+Department: MINE
+Course Number: 515
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: Orchard, Room: Commons
+Instructor: DUNBAR, W SCOTT
+

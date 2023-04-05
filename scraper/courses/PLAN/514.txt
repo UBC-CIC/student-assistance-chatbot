@@ -1,0 +1,16 @@
+Department: PLAN
+Course Number: 514
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LOW, MARGARET
+
+Department: PLAN
+Course Number: 514
+Section: 0W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,9 @@
+Department: THTR
+Course Number: 555
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 11:00, Building: Theatre-Film, Room: Production
+Instructor: POWERS, BRADLEY
+

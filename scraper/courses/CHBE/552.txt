@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 552
+Section: 201
+Description: Basic concepts of optimization and structure of mathematical models. Gradient methods. Direct search methods. Gauss-Newton method for parameter optimization in models described by ordinary and partial differential equations. Constrained optimization. Statistical inferences. Design of experiments.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Chemical, Room: and
+Instructor: ENGLEZOS, PETROS
+

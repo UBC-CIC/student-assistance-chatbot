@@ -1,0 +1,18 @@
+Department: BUSI
+Course Number: 451
+Section: 001
+Description: Continuation of BUSI 441.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BUSI
+Course Number: 451
+Section: 002
+Description: Continuation of BUSI 441.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

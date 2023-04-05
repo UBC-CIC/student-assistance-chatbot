@@ -1,0 +1,10 @@
+Department: SOCI
+Course Number: 514
+Section: 201
+Pre-reqs: (SOCI 502 is a prerequisite for Sociology graduate students. A background in material such as that covered in SOCI 502 is highly recommended for all others.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 13:00, Building: Anthropology, Room: and
+Instructor: HIRSH, CHARLOTTE
+

@@ -1,0 +1,27 @@
+Department: ASIA
+Course Number: 699
+Section: 001
+Description: In Chinese, Japanese, Korean, or South Asian Studies only.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ASIA
+Course Number: 699
+Section: 002
+Description: In Chinese, Japanese, Korean, or South Asian Studies only.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ASIA
+Course Number: 699
+Section: 101
+Description: In Chinese, Japanese, Korean, or South Asian Studies only.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

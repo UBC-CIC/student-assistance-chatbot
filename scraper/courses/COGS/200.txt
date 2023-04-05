@@ -1,0 +1,44 @@
+Department: COGS
+Course Number: 200
+Section: 002
+Description: Interdisciplinary examination of human mental processes and how these are mediated by the brain. Will draw on cognitive psychology, linguistics, cognitive neuroscience, philosophy, artificial intelligence.
+Pre-reqs: (second-year standing in the Faculty of Arts or Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Mathematics, Room: 100
+Instructor: BITTNER, THOMAS JACOB
+
+Department: COGS
+Course Number: 200
+Section: 004
+Description: Interdisciplinary examination of human mental processes and how these are mediated by the brain. Will draw on cognitive psychology, linguistics, cognitive neuroscience, philosophy, artificial intelligence.
+Pre-reqs: (second-year standing in the Faculty of Arts or Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Mathematics, Room: 100
+Instructor: CONATI, CRISTINA
+
+Department: COGS
+Course Number: 200
+Section: WL1
+Description: Interdisciplinary examination of human mental processes and how these are mediated by the brain. Will draw on cognitive psychology, linguistics, cognitive neuroscience, philosophy, artificial intelligence.
+Pre-reqs: (second-year standing in the Faculty of Arts or Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30
+Instructor: TBA
+
+Department: COGS
+Course Number: 200
+Section: WL2
+Description: Interdisciplinary examination of human mental processes and how these are mediated by the brain. Will draw on cognitive psychology, linguistics, cognitive neuroscience, philosophy, artificial intelligence.
+Pre-reqs: (second-year standing in the Faculty of Arts or Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00
+Instructor: TBA
+

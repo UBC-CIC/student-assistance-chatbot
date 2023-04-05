@@ -1,0 +1,11 @@
+Department: STS
+Course Number: 501
+Section: 001
+Description: Classic work in the history, philosophy, rhetoric, and sociology of science, and the development of a unified science and technology studies. Required for all students in the STS Program. This course is co-taught.
+Pre-reqs: (Enrolment in STS Program or permssion of the STS Advisory Committee.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00
+Instructor: RICHARDSON, ALAN WALTER
+

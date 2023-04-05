@@ -1,0 +1,678 @@
+Department: PHYS
+Course Number: 170
+Section: 101
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Hebb, Room: 100
+Instructor: MATTISON, THOMAS
+
+Department: PHYS
+Course Number: 170
+Section: T1A
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T1B
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T1C
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 16:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T1D
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T1M
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T1W
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: 1WL
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T1W
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: 201
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Hebb, Room: 100
+Instructor: LITINSKAYA, MARINA
+
+Department: PHYS
+Course Number: 170
+Section: T2A
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Chemistry, Room: B250
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2B
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2C
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2D
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2E
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2F
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 202
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2G
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2H
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2I
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Chemistry, Room: B250
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2J
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2K
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2M
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2N
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: A101
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2P
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: 202
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Centre, Room: for
+Instructor: LITINSKAYA, MARINA
+
+Department: PHYS
+Course Number: 170
+Section: T2A
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Chemistry, Room: B250
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2B
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2C
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2D
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2E
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2F
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 202
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2G
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2H
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2I
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Chemistry, Room: B250
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2J
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2K
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2M
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2N
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: A101
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2P
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: 203
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Hebb, Room: 100
+Instructor: CHOPTUIK, MATTHEW
+
+Department: PHYS
+Course Number: 170
+Section: T2A
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 12:00, Building: Chemistry, Room: B250
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2B
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2C
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2D
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2E
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2F
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 202
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2G
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2H
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2I
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Chemistry, Room: B250
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2J
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2K
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2M
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2N
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: A101
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2P
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 10:00, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: 2WL
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: T2W
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 170
+Section: 9AR
+Description: Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics: Newton's second law, friction, impulse, momentum, work and energy.
+Pre-reqs: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Co-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

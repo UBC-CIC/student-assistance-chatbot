@@ -1,0 +1,21 @@
+Department: CHEM
+Course Number: 250
+Section: 111
+Description: Chemistry of selected groups of inorganic compounds, considered in relation to industrial processes.
+Pre-reqs: One of CHEM 123, CHEM 130, CHEM 154, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Aquatic, Room: Ecosystems
+Instructor: MONGA, VISHAKHA
+
+Department: CHEM
+Course Number: 250
+Section: 1W1
+Description: Chemistry of selected groups of inorganic compounds, considered in relation to industrial processes.
+Pre-reqs: One of CHEM 123, CHEM 130, CHEM 154, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

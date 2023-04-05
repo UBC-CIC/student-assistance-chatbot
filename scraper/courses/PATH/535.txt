@@ -1,0 +1,30 @@
+Department: PATH
+Course Number: 535
+Section: 001
+Description: Attendance required of all M.Sc. candidates in the Department.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00
+Instructor: COTE, HELENE
+
+Department: PATH
+Course Number: 535
+Section: 002
+Description: Attendance required of all M.Sc. candidates in the Department.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 17:00
+Instructor: COTE, HELENE
+
+Department: PATH
+Course Number: 535
+Section: 003
+Description: Attendance required of all M.Sc. candidates in the Department.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00
+Instructor: COTE, HELENE
+

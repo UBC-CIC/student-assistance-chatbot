@@ -1,0 +1,54 @@
+Department: EOSC
+Course Number: 322
+Section: 201
+Description: Deciphering lithospheric processes as recorded by the mineralogy, chemistry and textures of metamorphosed rocks.
+Pre-reqs: EOSC 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:00, Building: Earth, Room: and
+Instructor: PEACOCK, SIMON
+
+Department: EOSC
+Course Number: 322
+Section: L2A
+Description: Deciphering lithospheric processes as recorded by the mineralogy, chemistry and textures of metamorphosed rocks.
+Pre-reqs: EOSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 18:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 322
+Section: L2B
+Description: Deciphering lithospheric processes as recorded by the mineralogy, chemistry and textures of metamorphosed rocks.
+Pre-reqs: EOSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 18:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 322
+Section: L2C
+Description: Deciphering lithospheric processes as recorded by the mineralogy, chemistry and textures of metamorphosed rocks.
+Pre-reqs: EOSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 18:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 322
+Section: 2W1
+Description: Deciphering lithospheric processes as recorded by the mineralogy, chemistry and textures of metamorphosed rocks.
+Pre-reqs: EOSC 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

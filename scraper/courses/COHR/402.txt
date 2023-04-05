@@ -1,0 +1,11 @@
+Department: COHR
+Course Number: 402
+Section: 101
+Description: Explores the characteristics of effective leadership and examines how to be a better leader.
+Pre-reqs: COMM 203.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: STANLEY, AMY
+

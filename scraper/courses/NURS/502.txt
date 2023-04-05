@@ -1,0 +1,17 @@
+Department: NURS
+Course Number: 502
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: UBC, Room: Hospital
+Instructor: CLARK, DREW
+
+Department: NURS
+Course Number: 502
+Section: 02W
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: No
+Instructor: TBA
+

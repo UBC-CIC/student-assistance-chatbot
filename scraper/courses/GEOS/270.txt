@@ -1,0 +1,109 @@
+Department: GEOS
+Course Number: 270
+Section: 101
+Description: Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Geography, Room: 200
+Instructor: SKEETER, JUNE
+
+Department: GEOS
+Course Number: 270
+Section: L1A
+Description: Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 18:00
+Instructor: SKEETER, JUNE
+
+Department: GEOS
+Course Number: 270
+Section: L1B
+Description: Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 12:00
+Instructor: SKEETER, JUNE
+
+Department: GEOS
+Course Number: 270
+Section: L1C
+Description: Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:00, End Time: 14:00
+Instructor: SKEETER, JUNE
+
+Department: GEOS
+Course Number: 270
+Section: L1D
+Description: Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00
+Instructor: SKEETER, JUNE
+
+Department: GEOS
+Course Number: 270
+Section: 201
+Description: Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Geography, Room: 200
+Instructor: SKEETER, JUNE(Coordinator)
+
+Department: GEOS
+Course Number: 270
+Section: L2A
+Description: Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Geography, Room: 115
+Instructor: TBA
+
+Department: GEOS
+Course Number: 270
+Section: L2B
+Description: Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 18:00, Building: Geography, Room: 115
+Instructor: TBA
+
+Department: GEOS
+Course Number: 270
+Section: L2C
+Description: Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Geography, Room: 115
+Instructor: TBA
+
+Department: GEOS
+Course Number: 270
+Section: L2D
+Description: Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 18:00, Building: Geography, Room: 115
+Instructor: TBA
+
+Department: GEOS
+Course Number: 270
+Section: 2W1
+Description: Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

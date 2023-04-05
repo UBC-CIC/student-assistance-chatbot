@@ -1,0 +1,10 @@
+Department: HGSE
+Course Number: 352
+Section: 610
+Description: The political, economic, and legal environment of Aboriginal-Canadian relations and its influence on resource use and management; review of historic relationships, emerging case law, and new reconciliation frameworks. A core element of the Haida Gwaii Semester.
+Co-reqs: All of HGSE 350, HGSE 351, HGSE 353, HGSE 354.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,22 @@
+Department: PHIL
+Course Number: 441A
+Section: 001
+Description: The contribution of the senses to knowledge of the external world; the nature of perception and its contribution to empirical knowledge.
+Pre-reqs: Either (a) PHIL 240 or (b) COGS 200. (If COGS 200, accompanied by 3 credits in PHIL at the 200-level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Geography, Room: 147
+Instructor: HENRY, AARON
+
+Department: PHIL
+Course Number: 441A
+Section: 002
+Description: The contribution of the senses to knowledge of the external world; the nature of perception and its contribution to empirical knowledge.
+Pre-reqs: Either (a) PHIL 240 or (b) COGS 200. (If COGS 200, accompanied by 3 credits in PHIL at the 200-level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: MacLeod, Room: 2002
+Instructor: ALFORD-DUGUID, DOMINIC
+

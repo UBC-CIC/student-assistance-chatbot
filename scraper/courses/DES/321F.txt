@@ -1,0 +1,29 @@
+Department: DES
+Course Number: 321F
+Section: 001
+Pre-reqs: DES 320.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: Frederic, Room: Lasserre
+Instructor: STEVENS, SARA
+
+Department: DES
+Course Number: 321F
+Section: T01
+Pre-reqs: DES 320.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:30, Building: Frederic, Room: Lasserre
+Instructor: STEVENS, SARA
+
+Department: DES
+Course Number: 321F
+Section: WL1
+Pre-reqs: DES 320.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: STEVENS, SARA
+

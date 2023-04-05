@@ -1,0 +1,11 @@
+Department: CIVL
+Course Number: 478
+Section: 101
+Description: Building science concepts associated with the design of modern buildings, focusing particularly on the building envelope's role in environmental separation, controlling the movement of heat, air, and water in liquid and vapour states.
+Pre-reqs: (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 20:00, Building: Civil, Room: and
+Instructor: RICKETTS, LORNE(Coordinator)
+

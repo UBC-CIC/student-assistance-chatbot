@@ -1,0 +1,10 @@
+Department: PCTH
+Course Number: 548A
+Section: 002
+Description: Directed Studies in Pharmacology - DIRECTED STUDIES
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Sun, Start Time: 20:30, End Time: 21:30, Building: To, Room: Be
+Instructor: BERNATCHEZ, PASCAL
+

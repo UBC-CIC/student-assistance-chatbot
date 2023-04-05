@@ -1,0 +1,77 @@
+Department: BIOC
+Course Number: 203
+Section: 001
+Pre-reqs: BIOL 200 and one of CHEM 203, CHEM 223.
+Co-reqs: CHEM 213.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: West, Room: Mall
+Instructor: BROWN, LINDSAY
+
+Department: BIOC
+Course Number: 203
+Section: T01
+Pre-reqs: BIOL 200 and one of CHEM 203, CHEM 223.
+Co-reqs: CHEM 213.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: P., Room: A.
+Instructor: BROWN, LINDSAY
+
+Department: BIOC
+Course Number: 203
+Section: T02
+Pre-reqs: BIOL 200 and one of CHEM 203, CHEM 223.
+Co-reqs: CHEM 213.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Food,, Room: Nutrition
+Instructor: BROWN, LINDSAY
+
+Department: BIOC
+Course Number: 203
+Section: T03
+Pre-reqs: BIOL 200 and one of CHEM 203, CHEM 223.
+Co-reqs: CHEM 213.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 10:30, Building: Civil, Room: and
+Instructor: BROWN, LINDSAY
+
+Department: BIOC
+Course Number: 203
+Section: T04
+Pre-reqs: BIOL 200 and one of CHEM 203, CHEM 223.
+Co-reqs: CHEM 213.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:30, End Time: 11:30, Building: Civil, Room: and
+Instructor: BROWN, LINDSAY
+
+Department: BIOC
+Course Number: 203
+Section: T05
+Pre-reqs: BIOL 200 and one of CHEM 203, CHEM 223.
+Co-reqs: CHEM 213.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:30, End Time: 12:30, Building: P., Room: A.
+Instructor: BROWN, LINDSAY
+
+Department: BIOC
+Course Number: 203
+Section: T06
+Pre-reqs: BIOL 200 and one of CHEM 203, CHEM 223.
+Co-reqs: CHEM 213.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: P., Room: A.
+Instructor: BROWN, LINDSAY
+

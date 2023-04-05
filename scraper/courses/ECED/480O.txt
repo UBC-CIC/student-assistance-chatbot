@@ -1,0 +1,8 @@
+Department: ECED
+Course Number: 480O
+Section: 63C
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: HIRSCHE, KAILEE
+

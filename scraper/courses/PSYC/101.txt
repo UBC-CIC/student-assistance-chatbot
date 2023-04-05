@@ -1,0 +1,106 @@
+Department: PSYC
+Course Number: 101
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Centre, Room: for
+Instructor: LOLLIOT, SIMON
+
+Department: PSYC
+Course Number: 101
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Centre, Room: for
+Instructor: LOLLIOT, SIMON
+
+Department: PSYC
+Course Number: 101
+Section: 003
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Irving, Room: K
+Instructor: LAM, MARK
+
+Department: PSYC
+Course Number: 101
+Section: 005
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Centre, Room: for
+Instructor: KRYKLYWY, JAMES
+
+Department: PSYC
+Course Number: 101
+Section: 006
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Centre, Room: for
+Instructor: KRYKLYWY, JAMES
+
+Department: PSYC
+Course Number: 101
+Section: 007
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Hebb, Room: 100
+Instructor: IM, HEE YEON
+
+Department: PSYC
+Course Number: 101
+Section: 009
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Earth, Room: Sciences
+Instructor: CLARK, LUKE
+
+Department: PSYC
+Course Number: 101
+Section: 010
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Earth, Room: Sciences
+Instructor: RANKIN, CATHARINE
+
+Department: PSYC
+Course Number: 101
+Section: 011
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Chemistry, Room: B250
+Instructor: IM, HEE YEON
+
+Department: PSYC
+Course Number: 101
+Section: 901
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 20:00, Building: West, Room: Mall
+Instructor: HOSKING, JEREMY
+
+Department: PSYC
+Course Number: 101
+Section: 990
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BARNES, STEVEN
+
+Department: PSYC
+Course Number: 101
+Section: 991
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BARNES, STEVEN
+

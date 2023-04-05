@@ -1,0 +1,120 @@
+Department: MECH
+Course Number: 698
+Section: BM0
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 8:00, End Time: 9:30
+Instructor: OXLAND, THOMAS
+
+Department: MECH
+Course Number: 698
+Section: BM1
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 9:30
+Instructor: OXLAND, THOMAS
+
+Department: MECH
+Course Number: 698
+Section: BM2
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 8:00, End Time: 9:00
+Instructor: ANASAVARAPU, SRIKANTHA
+
+Department: MECH
+Course Number: 698
+Section: DA0
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: P., Room: A.
+Instructor: TBA
+
+Department: MECH
+Course Number: 698
+Section: DA1
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00
+Instructor: ANASAVARAPU, SRIKANTHA
+
+Department: MECH
+Course Number: 698
+Section: DA2
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00
+Instructor: ANASAVARAPU, SRIKANTHA
+
+Department: MECH
+Course Number: 698
+Section: MM0
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Civil, Room: and
+Instructor: CHIAO, MU
+
+Department: MECH
+Course Number: 698
+Section: MM1
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00
+Instructor: DE SILVA, CLARENCE WILFRED
+
+Department: MECH
+Course Number: 698
+Section: MM2
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00
+Instructor: CHIAO, MU
+
+Department: MECH
+Course Number: 698
+Section: TF0
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: MacLeod, Room: 3008
+Instructor: KIRCHEN, PATRICK
+
+Department: MECH
+Course Number: 698
+Section: TF1
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00
+Instructor: KIRCHEN, PATRICK
+
+Department: MECH
+Course Number: 698
+Section: TF2
+Description: Current topics in mechanical engineering for doctoral students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 17:00
+Instructor: KIRCHEN, PATRICK
+

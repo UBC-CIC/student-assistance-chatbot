@@ -1,0 +1,21 @@
+Department: CHEM
+Course Number: 313
+Section: 208
+Description: Chemistry of organic substances having particular relevance to the life sciences.
+Pre-reqs: CHEM 213.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: Hennings, Room: 200
+Instructor: SHERMAN, JOHN
+
+Department: CHEM
+Course Number: 313
+Section: 2W1
+Description: Chemistry of organic substances having particular relevance to the life sciences.
+Pre-reqs: CHEM 213.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

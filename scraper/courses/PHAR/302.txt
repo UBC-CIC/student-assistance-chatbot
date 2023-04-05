@@ -1,0 +1,10 @@
+Department: PHAR
+Course Number: 302
+Section: 001
+Description: Basic pharmacokinetic concepts: metabolism, clearance, volume of distribution, half-life, and hepatic clearance. Basic pharmacogenomics concepts of genetic polymorphism.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Pharmaceutical, Room: Sciences
+Instructor: LOUCKS, CATRINA
+

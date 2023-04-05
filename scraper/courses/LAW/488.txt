@@ -1,0 +1,18 @@
+Department: LAW
+Course Number: 488
+Section: 001
+Pre-reqs: LAW 476.
+Credits: 11
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GERVIN, MARK
+
+Department: LAW
+Course Number: 488
+Section: 002
+Pre-reqs: LAW 476.
+Credits: 11
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GERVIN, MARK
+

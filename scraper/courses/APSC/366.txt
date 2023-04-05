@@ -1,0 +1,10 @@
+Department: APSC
+Course Number: 366
+Section: 201
+Description: An introduction to engineering for the non-specialist. A case-studies approach includes examples from sustainability-related technology, consumer products, structures, and energy conversion.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Hebb, Room: 116
+Instructor: D'ENTREMONT, AGNES(Coordinator)
+

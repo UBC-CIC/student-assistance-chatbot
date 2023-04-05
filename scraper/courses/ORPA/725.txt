@@ -1,0 +1,9 @@
+Department: ORPA
+Course Number: 725
+Section: 001
+Description: A review of musculoskeletal oncology and related problems with presentation of clinical and laboratory information, radiographs and pathological materials. One and one-half hours monthly.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

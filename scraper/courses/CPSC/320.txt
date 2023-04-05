@@ -1,0 +1,451 @@
+Department: CPSC
+Course Number: 320
+Section: 101
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Biological, Room: Sciences
+Instructor: BELLEVILLE, PATRICE
+
+Department: CPSC
+Course Number: 320
+Section: T1A
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1B
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 2002
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1C
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 16:30, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1D
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1E
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1F
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Chemical, Room: and
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1G
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Frank, Room: Forward
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: 102
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Chemical, Room: and
+Instructor: BRADLEY, SUSANNE
+
+Department: CPSC
+Course Number: 320
+Section: T1A
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1B
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 2002
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1C
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 16:30, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1D
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1E
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1F
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Chemical, Room: and
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1G
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Frank, Room: Forward
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: 103
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Hugh, Room: Dempster
+Instructor: BRADLEY, SUSANNE
+
+Department: CPSC
+Course Number: 320
+Section: T1A
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1B
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 13:00, Building: MacLeod, Room: 2002
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1C
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 16:30, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1D
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1E
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1F
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Chemical, Room: and
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T1G
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Frank, Room: Forward
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: 1W1
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00
+Instructor: BELLEVILLE, PATRICE
+
+Department: CPSC
+Course Number: 320
+Section: 1W2
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00
+Instructor: BRADLEY, SUSANNE
+
+Department: CPSC
+Course Number: 320
+Section: 1W3
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00
+Instructor: BRADLEY, SUSANNE
+
+Department: CPSC
+Course Number: 320
+Section: 201
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: West, Room: Mall
+Instructor: HU, ALAN
+
+Department: CPSC
+Course Number: 320
+Section: T2A
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T2C
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:30, End Time: 9:30, Building: MacLeod, Room: 2002
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T2D
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T2E
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T2P
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: 202
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: HU, ALAN
+
+Department: CPSC
+Course Number: 320
+Section: T2A
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T2C
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:30, End Time: 9:30, Building: MacLeod, Room: 2002
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T2D
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T2E
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 18:00, Building: Hugh, Room: Dempster
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: T2P
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 18:00, Building: Earth, Room: Sciences
+Instructor: TBA
+
+Department: CPSC
+Course Number: 320
+Section: 2W1
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00
+Instructor: HU, ALAN
+
+Department: CPSC
+Course Number: 320
+Section: 2W2
+Description: Intermediate Algorithm Design and Analysis
+Pre-reqs: CPSC 221. (and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00
+Instructor: HU, ALAN
+

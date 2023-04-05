@@ -1,0 +1,9 @@
+Department: MEDD
+Course Number: 448
+Section: 001
+Description: Enables students to effectively transition from medical school to residency and medical practice. Complex clinical presentations that integrate foundational sciences and practice themes. Prepares students for practice as residents and physicians. Pass/Fail.
+Credits: 9
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

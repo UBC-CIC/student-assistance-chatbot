@@ -1,0 +1,9 @@
+Department: COMM
+Course Number: 386T
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: BULL, JUSTIN
+

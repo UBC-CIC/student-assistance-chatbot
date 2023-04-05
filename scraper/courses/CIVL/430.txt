@@ -1,0 +1,33 @@
+Department: CIVL
+Course Number: 430
+Section: 101
+Description: Non-linear response of reinforced concrete members subjected to axial load, bending and shear; design of simple one-way members including beams, columns, slabs and footings.
+Pre-reqs: CIVL 332.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: Hugh, Room: Dempster
+Instructor: ADEBAR, PERRY ERWIN
+
+Department: CIVL
+Course Number: 430
+Section: L1A
+Description: Non-linear response of reinforced concrete members subjected to axial load, bending and shear; design of simple one-way members including beams, columns, slabs and footings.
+Pre-reqs: CIVL 332.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Civil, Room: and
+Instructor: ADEBAR, PERRY ERWIN
+
+Department: CIVL
+Course Number: 430
+Section: L1B
+Description: Non-linear response of reinforced concrete members subjected to axial load, bending and shear; design of simple one-way members including beams, columns, slabs and footings.
+Pre-reqs: CIVL 332.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Civil, Room: and
+Instructor: ADEBAR, PERRY ERWIN
+

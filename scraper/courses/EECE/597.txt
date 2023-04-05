@@ -1,0 +1,24 @@
+Department: EECE
+Course Number: 597
+Section: 001
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: STOCCO, LEO
+
+Department: EECE
+Course Number: 597
+Section: 101
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: STOCCO, LEO
+
+Department: EECE
+Course Number: 597
+Section: 201
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: STOCCO, LEO
+

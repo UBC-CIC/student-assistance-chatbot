@@ -1,0 +1,10 @@
+Department: FRST
+Course Number: 399
+Section: 001
+Description: Lectures and seminars in research philosophies and the scientific method, with special emphasis on field research.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: MCKOWN, ATHENA
+

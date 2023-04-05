@@ -1,0 +1,53 @@
+Department: PSYC
+Course Number: 307
+Section: 102
+Description: Cultural influences on human thought and behaviour; interactions of culture and self; multicultural experiences; intercultural relations; methodological issues.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: A201
+Instructor: CHEUNG, BENJAMIN
+
+Department: PSYC
+Course Number: 307
+Section: 103
+Description: Cultural influences on human thought and behaviour; interactions of culture and self; multicultural experiences; intercultural relations; methodological issues.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: A201
+Instructor: CHEUNG, BENJAMIN
+
+Department: PSYC
+Course Number: 307
+Section: 901
+Description: Cultural influences on human thought and behaviour; interactions of culture and self; multicultural experiences; intercultural relations; methodological issues.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 20:00, Building: Leonard, Room: S.
+Instructor: HEINE, STEVEN
+
+Department: PSYC
+Course Number: 307
+Section: 991
+Description: Cultural influences on human thought and behaviour; interactions of culture and self; multicultural experiences; intercultural relations; methodological issues.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MARTENS, JASON
+
+Department: PSYC
+Course Number: 307
+Section: 992
+Description: Cultural influences on human thought and behaviour; interactions of culture and self; multicultural experiences; intercultural relations; methodological issues.
+Pre-reqs: Either (a) PSYC 100 or (b) two of PSYC 101, PSYC 102, PSYC 205, PSYC 207, PSYC 208, PSYC 216, PSYC 217, PSYC 277. (Strongly recommended: PSYC 102 and either PSYC 216 or one of PSYC 217 or 277.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MARTENS, JASON
+

@@ -1,0 +1,21 @@
+Department: FNEL
+Course Number: 481
+Section: 001
+Description: Examines the complementary and intersecting roles of libraries, archives, and museums in collections acquisition, development, curation, preservation, and access traditions pertaining to First Nations languages, to explore how each can contribute to endangered language and cultural heritage sustainability.
+Pre-reqs: One of FNEL 180, FNEL 281, FNEL 282. (or permission of the instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: ROSENBLUM, DAISY
+
+Department: FNEL
+Course Number: 481
+Section: WL1
+Description: Examines the complementary and intersecting roles of libraries, archives, and museums in collections acquisition, development, curation, preservation, and access traditions pertaining to First Nations languages, to explore how each can contribute to endangered language and cultural heritage sustainability.
+Pre-reqs: One of FNEL 180, FNEL 281, FNEL 282. (or permission of the instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: ROSENBLUM, DAISY
+

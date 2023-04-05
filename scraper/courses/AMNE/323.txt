@@ -1,0 +1,20 @@
+Department: AMNE
+Course Number: 323
+Section: 001
+Pre-reqs: Either (a) one of CLST 231, AMNE 215 or (b) one of CLST 232, AMNE 216 or (c) one of CLST 260, AMNE 225.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: B209
+Instructor: HUEMOELLER, KATHARINE
+
+Department: AMNE
+Course Number: 323
+Section: 001
+Pre-reqs: Either (a) one of CLST 231, AMNE 215 or (b) one of CLST 232, AMNE 216 or (c) one of CLST 260, AMNE 225.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: B209
+Instructor: HUEMOELLER, KATHARINE
+

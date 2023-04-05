@@ -1,0 +1,11 @@
+Department: EPSE
+Course Number: 556
+Section: 075
+Description: Admission to the SACP MA or PhD program or the CNPS PhD Program required.
+Co-reqs: All of EPSE 528, EPSE 553.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: FORD, LAURIE
+

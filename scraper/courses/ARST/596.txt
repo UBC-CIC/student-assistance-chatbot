@@ -1,0 +1,30 @@
+Department: ARST
+Course Number: 596
+Section: 001
+Description: Project-based experience undertaken with a faculty associate occupying a minimum of ten hours a week for 12 consecutive weeks or the equivalent time. Evaluation: Pass/Fail.
+Pre-reqs: (24 credits in the program are required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARST
+Course Number: 596
+Section: 002
+Description: Project-based experience undertaken with a faculty associate occupying a minimum of ten hours a week for 12 consecutive weeks or the equivalent time. Evaluation: Pass/Fail.
+Pre-reqs: (24 credits in the program are required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARST
+Course Number: 596
+Section: 003
+Description: Project-based experience undertaken with a faculty associate occupying a minimum of ten hours a week for 12 consecutive weeks or the equivalent time. Evaluation: Pass/Fail.
+Pre-reqs: (24 credits in the program are required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,21 @@
+Department: EDCP
+Course Number: 342A
+Section: 301
+Description: Pass/Fail.
+Pre-reqs: (A completed concentration in mathematics or permission of the Head.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Neville, Room: Scarfe
+Instructor: HAQUE, ASIF SAMI
+
+Department: EDCP
+Course Number: 342A
+Section: 640
+Description: Pass/Fail.
+Pre-reqs: (A completed concentration in mathematics or permission of the Head.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: WEBB, KERRI
+

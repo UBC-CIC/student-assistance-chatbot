@@ -1,0 +1,18 @@
+Department: BUSI
+Course Number: 344
+Section: 001
+Description: Explores creative, practical uses of statistical and computer applications in determining and analyzing real estate value. Through case studies and hands-on computer work, students will learn the fundamentals of exploratory data analysis and appraisal valuation modelling.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BUSI
+Course Number: 344
+Section: 002
+Description: Explores creative, practical uses of statistical and computer applications in determining and analyzing real estate value. Through case studies and hands-on computer work, students will learn the fundamentals of exploratory data analysis and appraisal valuation modelling.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

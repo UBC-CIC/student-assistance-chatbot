@@ -1,0 +1,33 @@
+Department: MECH
+Course Number: 457
+Section: 001
+Pre-reqs: All of MECH 325, MECH 328, MECH 329, MECH 360. (and fourth-year standing in Mechanical Engineering.)
+Co-reqs: All of MECH 327, MECH 426.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 17:00, Building: P., Room: A.
+Instructor: ANASAVARAPU, SRIKANTHA
+
+Department: MECH
+Course Number: 457
+Section: L0A
+Pre-reqs: All of MECH 325, MECH 328, MECH 329, MECH 360. (and fourth-year standing in Mechanical Engineering.)
+Co-reqs: All of MECH 327, MECH 426.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: MECH
+Course Number: 457
+Section: T0A
+Pre-reqs: All of MECH 325, MECH 328, MECH 329, MECH 360. (and fourth-year standing in Mechanical Engineering.)
+Co-reqs: All of MECH 327, MECH 426.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Irving, Room: K
+Instructor: TBA
+

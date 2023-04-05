@@ -1,0 +1,624 @@
+Department: PHYS
+Course Number: 100
+Section: 101
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Hebb, Room: 100
+Instructor: LITINSKAYA, MARINA
+
+Department: PHYS
+Course Number: 100
+Section: T1A
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1C
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1D
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1E
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1F
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1G
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1H
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1J
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1M
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TB1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TC1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TD1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TE1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TF1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TG1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TH1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TJ1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: 102
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Hebb, Room: 100
+Instructor: LITINSKAYA, MARINA
+
+Department: PHYS
+Course Number: 100
+Section: T1A
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1C
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1D
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1E
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1F
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1G
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1H
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1J
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1M
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TB1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TC1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TD1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TE1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TF1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TG1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TH1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TJ1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: 103
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Hebb, Room: 100
+Instructor: LITINSKAYA, MARINA
+
+Department: PHYS
+Course Number: 100
+Section: T1A
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1C
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1D
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1E
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1F
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1G
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1H
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1J
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1M
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: T1W
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TB1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 218
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TC1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TD1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TE1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TF1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TG1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TH1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: TJ1
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: 10W
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 100
+Section: 9AR
+Description: Kinematics, force, energy, momentum, use of graphs and vectors in physics; thermal energy, heat transfer, Earth's energy balance; electricity. Students with credit for Physics 12 may not obtain credit for this course unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100.
+Pre-reqs: Not open to students with credit for PHYS 12. (Principles of Mathematics 12 or Pre-calculus 12 is required; Physics 11 is required for first-year students, strongly recommended for others.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

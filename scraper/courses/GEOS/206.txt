@@ -1,0 +1,44 @@
+Department: GEOS
+Course Number: 206
+Section: 201
+Description: Earth surface processes shaping the landscape; identification of hazards and hazardous areas associated with these processes; introduction to techniques for measurement and analysis at various spatial and time scales; field trips are required.
+Pre-reqs: One of GEOB 103, GEOS 103, EOSC 110, PHYS 101, PHYS 107, PHYS 153, SCIE 001.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Geography, Room: 101
+Instructor: BOOKER, WILLIAM
+
+Department: GEOS
+Course Number: 206
+Section: L2A
+Description: Earth surface processes shaping the landscape; identification of hazards and hazardous areas associated with these processes; introduction to techniques for measurement and analysis at various spatial and time scales; field trips are required.
+Pre-reqs: One of GEOB 103, GEOS 103, EOSC 110, PHYS 101, PHYS 107, PHYS 153, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Geography, Room: 242
+Instructor: TBA
+
+Department: GEOS
+Course Number: 206
+Section: L2B
+Description: Earth surface processes shaping the landscape; identification of hazards and hazardous areas associated with these processes; introduction to techniques for measurement and analysis at various spatial and time scales; field trips are required.
+Pre-reqs: One of GEOB 103, GEOS 103, EOSC 110, PHYS 101, PHYS 107, PHYS 153, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Geography, Room: 242
+Instructor: TBA
+
+Department: GEOS
+Course Number: 206
+Section: L2C
+Description: Earth surface processes shaping the landscape; identification of hazards and hazardous areas associated with these processes; introduction to techniques for measurement and analysis at various spatial and time scales; field trips are required.
+Pre-reqs: One of GEOB 103, GEOS 103, EOSC 110, PHYS 101, PHYS 107, PHYS 153, SCIE 001.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Geography, Room: 242
+Instructor: TBA
+

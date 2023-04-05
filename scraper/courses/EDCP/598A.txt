@@ -1,0 +1,36 @@
+Department: EDCP
+Course Number: 598A
+Section: 031
+Description: Field experiences in community-based or museum contexts. Focus on curriculum design and evaluation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDCP
+Course Number: 598A
+Section: 61A
+Description: Field experiences in community-based or museum contexts. Focus on curriculum design and evaluation.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MUNOZ, JOAQUIN
+
+Department: EDCP
+Course Number: 598A
+Section: 61B
+Description: Field experiences in community-based or museum contexts. Focus on curriculum design and evaluation.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MCINTOSH, LISA
+
+Department: EDCP
+Course Number: 598A
+Section: 62A
+Description: Field experiences in community-based or museum contexts. Focus on curriculum design and evaluation.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: ANDERSON, DAVID
+

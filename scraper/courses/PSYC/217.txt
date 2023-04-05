@@ -1,0 +1,100 @@
+Department: PSYC
+Course Number: 217
+Section: 001
+Co-reqs: Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Aquatic, Room: Ecosystems
+Instructor: RIVERS, ANDREW
+
+Department: PSYC
+Course Number: 217
+Section: 002
+Co-reqs: Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Aquatic, Room: Ecosystems
+Instructor: RIVERS, ANDREW
+
+Department: PSYC
+Course Number: 217
+Section: 004
+Co-reqs: Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: BURR, SABRINA
+
+Department: PSYC
+Course Number: 217
+Section: 005
+Co-reqs: Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: A203
+Instructor: LAM, MARK
+
+Department: PSYC
+Course Number: 217
+Section: 006
+Co-reqs: Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: A203
+Instructor: LAM, MARK
+
+Department: PSYC
+Course Number: 217
+Section: 007
+Co-reqs: Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Geography, Room: 100
+Instructor: GOODERHAM, GEOFFREY
+
+Department: PSYC
+Course Number: 217
+Section: 008
+Co-reqs: Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: P., Room: A.
+Instructor: TRUONG, GRACE
+
+Department: PSYC
+Course Number: 217
+Section: 009
+Co-reqs: Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: P., Room: A.
+Instructor: TRUONG, GRACE
+
+Department: PSYC
+Course Number: 217
+Section: 901
+Co-reqs: Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 20:00, Building: Buchanan, Room: A103
+Instructor: RIVERS, ANDREW
+
+Department: PSYC
+Course Number: 217
+Section: 990
+Co-reqs: Either (a) PSYC 100 or (b) all of PSYC 101, PSYC 102.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:30, End Time: 18:30, Building: Irving, Room: K
+Instructor: GOODERHAM, GEOFFREY
+

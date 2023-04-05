@@ -1,0 +1,9 @@
+Department: ORPA
+Course Number: 509
+Section: 001
+Description: The second year of the above program which will be given in alternate years.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

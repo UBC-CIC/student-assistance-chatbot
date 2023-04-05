@@ -1,0 +1,11 @@
+Department: CHEM
+Course Number: 417
+Section: 212
+Description: Basic treatment of the nucleus, with analogy to concepts in chemistry. Nuclear stabilities and associated radioactive decay processes. Nuclear structure. Applications of radioisotopes in chemistry. The interaction of radiation with matter.
+Pre-reqs: One of CHEM 123, CHEM 130. (and Third year standing. CHEM 312 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Chemistry, Room: D215
+Instructor: MACFARLANE, WILLIAM ANDREW
+

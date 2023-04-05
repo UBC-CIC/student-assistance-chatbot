@@ -1,0 +1,18 @@
+Department: AMNE
+Course Number: 261
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: UBC, Room: Life
+Instructor: YOO, PHILIP
+
+Department: AMNE
+Course Number: 261
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: UBC, Room: Life
+Instructor: YOO, PHILIP
+

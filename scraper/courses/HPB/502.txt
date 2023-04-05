@@ -1,0 +1,10 @@
+Department: HPB
+Course Number: 502
+Section: 101
+Description: The relationship between human and natural systems in the context of regenerative design. Provides an understanding of how regenerative approaches differ from green design and how they can offer new insights and directions for design.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:30, End Time: 12:30, Building: Frederic, Room: Lasserre
+Instructor: LABRIE, MICHEL
+

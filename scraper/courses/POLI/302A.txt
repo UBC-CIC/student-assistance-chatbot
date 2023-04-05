@@ -1,0 +1,11 @@
+Department: POLI
+Course Number: 302A
+Section: 001
+Description: Public Administration - PUBLIC ADMIN
+Pre-reqs: POLI 101.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: A202
+Instructor: DOBERSTEIN, CAREY
+

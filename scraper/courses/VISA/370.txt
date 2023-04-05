@@ -1,0 +1,22 @@
+Department: VISA
+Course Number: 370
+Section: 001
+Description: Intermediate tutorial. Not offered every year.
+Pre-reqs: (6 credits of 200-level VISA.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Ponderosa, Room: Commons
+Instructor: STARLING, DAN
+
+Department: VISA
+Course Number: 370
+Section: 01W
+Description: Intermediate tutorial. Not offered every year.
+Pre-reqs: (6 credits of 200-level VISA.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: TBA
+

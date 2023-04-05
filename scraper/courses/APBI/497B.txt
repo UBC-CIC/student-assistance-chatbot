@@ -1,0 +1,18 @@
+Department: APBI
+Course Number: 497B
+Section: 001
+Pre-reqs: (Approval of program advisor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: APBI
+Course Number: 497B
+Section: 002
+Pre-reqs: (Approval of program advisor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

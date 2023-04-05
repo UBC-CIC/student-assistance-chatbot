@@ -1,0 +1,150 @@
+Department: VANT
+Course Number: 140D
+Section: V01
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Orchard, Room: Commons
+Instructor: FAZEL, ISMAEIL
+
+Department: VANT
+Course Number: 140D
+Section: V02
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Orchard, Room: Commons
+Instructor: FERREIRA, ALFREDO
+
+Department: VANT
+Course Number: 140D
+Section: V03
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: RICCARDI, DANIEL
+
+Department: VANT
+Course Number: 140D
+Section: V04
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: LIGHTFOOT, JENNIFER
+
+Department: VANT
+Course Number: 140D
+Section: V05
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:30, End Time: 18:30, Building: Orchard, Room: Commons
+Instructor: MARTIN, JODIE
+
+Department: VANT
+Course Number: 140D
+Section: V06
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:30, End Time: 18:30, Building: Orchard, Room: Commons
+Instructor: SHAW, AMBER
+
+Department: VANT
+Course Number: 140D
+Section: V11
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Orchard, Room: Commons
+Instructor: FAZEL, ISMAEIL
+
+Department: VANT
+Course Number: 140D
+Section: V12
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Orchard, Room: Commons
+Instructor: FERREIRA, ALFREDO
+
+Department: VANT
+Course Number: 140D
+Section: V13
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: RICCARDI, DANIEL
+
+Department: VANT
+Course Number: 140D
+Section: V14
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: LIGHTFOOT, JENNIFER
+
+Department: VANT
+Course Number: 140D
+Section: V15
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:30, End Time: 18:30, Building: Orchard, Room: Commons
+Instructor: MARTIN, JODIE
+
+Department: VANT
+Course Number: 140D
+Section: V26
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:30, End Time: 18:30, Building: Orchard, Room: Commons
+Instructor: SHAW, AMBER
+
+Department: VANT
+Course Number: 140D
+Section: VE1
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: MAHMOOD, FATIMAH
+
+Department: VANT
+Course Number: 140D
+Section: VE2
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Orchard, Room: Commons
+Instructor: MAHMOOD, FATIMAH
+
+Department: VANT
+Course Number: 140D
+Section: VE3
+Description: Sustained language support for linked content courses in International Program. Students develop strategies for self-directed learning.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 15:00, Building: Orchard, Room: Commons
+Instructor: MAHMOOD, FATIMAH
+

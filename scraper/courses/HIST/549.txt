@@ -1,0 +1,27 @@
+Department: HIST
+Course Number: 549
+Section: 001
+Description: Master's Thesis
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: HIST
+Course Number: 549
+Section: 101
+Description: Master's Thesis
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: HIST
+Course Number: 549
+Section: 201
+Description: Master's Thesis
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,166 @@
+Department: CPEN
+Course Number: 333
+Section: 101
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Hugh, Room: Dempster
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 333
+Section: L1A
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:30, End Time: 19:30, Building: MacLeod, Room: 4002
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 333
+Section: L1B
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: MacLeod, Room: 4002
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 333
+Section: LWA
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 333
+Section: LWB
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 333
+Section: 1W1
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 333
+Section: LWA
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 333
+Section: LWB
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 333
+Section: 201
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Aquatic, Room: Ecosystems
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 333
+Section: L2A
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: MacLeod, Room: 4002
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 333
+Section: L2B
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: MacLeod, Room: 4002
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 333
+Section: LW1
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 333
+Section: LW2
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 333
+Section: 2W1
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: AGHAREBPARAST, FARSHID
+
+Department: CPEN
+Course Number: 333
+Section: LW1
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 333
+Section: LW2
+Description: Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing.
+Pre-reqs: One of CPSC 259, CPEN 223.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

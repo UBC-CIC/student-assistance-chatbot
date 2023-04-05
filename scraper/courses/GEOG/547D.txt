@@ -1,0 +1,8 @@
+Department: GEOG
+Course Number: 547D
+Section: 101
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

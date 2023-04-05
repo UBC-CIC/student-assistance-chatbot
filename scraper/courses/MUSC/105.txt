@@ -1,0 +1,60 @@
+Department: MUSC
+Course Number: 105
+Section: 001
+Description: Sight singing; melodic and harmonic dictation; rhythm production; error detection; tuning; perception of harmony, form, and tonality; improvisation in set idioms. Restricted to B.Mus. students.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 12:00, End Time: 13:00, Building: Music, Room: 201
+Instructor: PARSONS, LAUREL
+
+Department: MUSC
+Course Number: 105
+Section: 110
+Description: Sight singing; melodic and harmonic dictation; rhythm production; error detection; tuning; perception of harmony, form, and tonality; improvisation in set idioms. Restricted to B.Mus. students.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Music, Room: 301
+Instructor: SAWATZKY, GRANT
+
+Department: MUSC
+Course Number: 105
+Section: 111
+Description: Sight singing; melodic and harmonic dictation; rhythm production; error detection; tuning; perception of harmony, form, and tonality; improvisation in set idioms. Restricted to B.Mus. students.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Music, Room: 304
+Instructor: SAWATZKY, GRANT(Coordinator)
+
+Department: MUSC
+Course Number: 105
+Section: 120
+Description: Sight singing; melodic and harmonic dictation; rhythm production; error detection; tuning; perception of harmony, form, and tonality; improvisation in set idioms. Restricted to B.Mus. students.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Music, Room: 301
+Instructor: SAWATZKY, GRANT
+
+Department: MUSC
+Course Number: 105
+Section: 121
+Description: Sight singing; melodic and harmonic dictation; rhythm production; error detection; tuning; perception of harmony, form, and tonality; improvisation in set idioms. Restricted to B.Mus. students.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Music, Room: 304
+Instructor: TBA
+
+Department: MUSC
+Course Number: 105
+Section: 130
+Description: Sight singing; melodic and harmonic dictation; rhythm production; error detection; tuning; perception of harmony, form, and tonality; improvisation in set idioms. Restricted to B.Mus. students.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Music, Room: 301
+Instructor: SAWATZKY, GRANT
+

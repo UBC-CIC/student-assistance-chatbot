@@ -1,0 +1,9 @@
+Department: NAME
+Course Number: 566
+Section: 201
+Description: Equations of motion; ocean wave spectrums, response amplitude operators; seakeeping; maneuvering; stability; dynamic positioning.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HANNAN, MOHAMMED
+

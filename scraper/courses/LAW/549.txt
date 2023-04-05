@@ -1,0 +1,24 @@
+Department: LAW
+Course Number: 549
+Section: 001
+Credits: 20
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: LAW
+Course Number: 549
+Section: 002
+Credits: 20
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: LAW
+Course Number: 549
+Section: 003
+Credits: 20
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

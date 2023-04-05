@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 651
+Section: 001
+Description: Analysis of Accounting Information in Markets
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:30, End Time: 18:30, Building: Henry, Room: Angus
+Instructor: LUNDHOLM, RUSSELL
+

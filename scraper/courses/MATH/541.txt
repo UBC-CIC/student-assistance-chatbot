@@ -1,0 +1,10 @@
+Department: MATH
+Course Number: 541
+Section: 101
+Description: Harmonic Analysis I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 302
+Instructor: ZAHL, JOSHUA
+

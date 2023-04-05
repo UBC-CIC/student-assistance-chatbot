@@ -1,0 +1,79 @@
+Department: PHIL
+Course Number: 230A
+Section: 001
+Description: Theories of obligation and value; moral reasoning; normative ethics, descriptive ethics and meta-ethics. Readings in classic and contemporary texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: A203
+Instructor: AYARS, ALISABETH
+
+Department: PHIL
+Course Number: 230A
+Section: 002
+Description: Theories of obligation and value; moral reasoning; normative ethics, descriptive ethics and meta-ethics. Readings in classic and contemporary texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:00, Building: P., Room: A.
+Instructor: ANDERSON, SCOTT ALLEN
+
+Department: PHIL
+Course Number: 230A
+Section: L01
+Description: Theories of obligation and value; moral reasoning; normative ethics, descriptive ethics and meta-ethics. Readings in classic and contemporary texts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B309
+Instructor: TBA
+
+Department: PHIL
+Course Number: 230A
+Section: L02
+Description: Theories of obligation and value; moral reasoning; normative ethics, descriptive ethics and meta-ethics. Readings in classic and contemporary texts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: PHIL
+Course Number: 230A
+Section: L03
+Description: Theories of obligation and value; moral reasoning; normative ethics, descriptive ethics and meta-ethics. Readings in classic and contemporary texts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHIL
+Course Number: 230A
+Section: L04
+Description: Theories of obligation and value; moral reasoning; normative ethics, descriptive ethics and meta-ethics. Readings in classic and contemporary texts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: PHIL
+Course Number: 230A
+Section: L05
+Description: Theories of obligation and value; moral reasoning; normative ethics, descriptive ethics and meta-ethics. Readings in classic and contemporary texts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B307
+Instructor: TBA
+
+Department: PHIL
+Course Number: 230A
+Section: 003
+Description: Theories of obligation and value; moral reasoning; normative ethics, descriptive ethics and meta-ethics. Readings in classic and contemporary texts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Chemistry, Room: D300
+Instructor: VERKERK, WILLOW
+

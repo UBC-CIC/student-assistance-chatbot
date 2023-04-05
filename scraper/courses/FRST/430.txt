@@ -1,0 +1,22 @@
+Department: FRST
+Course Number: 430
+Section: 101
+Description: Analysis of variance, multiple regression and analysis of covariance. Design and analysis of experiments.
+Pre-reqs: One of FRST 231, BIOL 300, STAT 200. (And FRST 399 or equivalent. Restricted to students with 4th year standing or by permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Forest, Room: Sciences
+Instructor: ESKELSON, BIANCA
+
+Department: FRST
+Course Number: 430
+Section: L01
+Description: Analysis of variance, multiple regression and analysis of covariance. Design and analysis of experiments.
+Pre-reqs: One of FRST 231, BIOL 300, STAT 200. (And FRST 399 or equivalent. Restricted to students with 4th year standing or by permission of instructor.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: ESKELSON, BIANCA
+

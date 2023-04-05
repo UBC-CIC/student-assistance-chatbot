@@ -1,0 +1,10 @@
+Department: MINE
+Course Number: 592A
+Section: 201
+Description: Mining or mineral processing engineering internship in which concepts, theory and practice of mining and mineral processing engineering are applied by working with industry on appropriate technical projects. Pass/fail.
+Pre-reqs: MINE 591.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

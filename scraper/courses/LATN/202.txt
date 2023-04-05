@@ -1,0 +1,44 @@
+Department: LATN
+Course Number: 202
+Section: 001
+Description: Completion of the grammatical foundations of classical Latin, Part II; an introduction to the reading of unadapted passages of Latin literature and discussion of thier cultural contexts.
+Pre-reqs: LATN 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B304
+Instructor: GORRIE, CHARMAINE
+
+Department: LATN
+Course Number: 202
+Section: 002
+Description: Completion of the grammatical foundations of classical Latin, Part II; an introduction to the reading of unadapted passages of Latin literature and discussion of thier cultural contexts.
+Pre-reqs: LATN 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B210
+Instructor: LOUGHEED, CHRISTOPHER
+
+Department: LATN
+Course Number: 202
+Section: WL1
+Description: Completion of the grammatical foundations of classical Latin, Part II; an introduction to the reading of unadapted passages of Latin literature and discussion of thier cultural contexts.
+Pre-reqs: LATN 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri
+Instructor: GORRIE, CHARMAINE
+
+Department: LATN
+Course Number: 202
+Section: WL2
+Description: Completion of the grammatical foundations of classical Latin, Part II; an introduction to the reading of unadapted passages of Latin literature and discussion of thier cultural contexts.
+Pre-reqs: LATN 201.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri
+Instructor: MULDER, TARA
+

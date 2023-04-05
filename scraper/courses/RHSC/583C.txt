@@ -1,0 +1,45 @@
+Department: RHSC
+Course Number: 583C
+Section: 002
+Pre-reqs: RHSC 501.
+Credits: 1.5
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: GIESBRECHT, RONALD
+
+Department: RHSC
+Course Number: 583C
+Section: 005
+Pre-reqs: RHSC 501.
+Credits: 1.5
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: FIELD, DEBRA ANN
+
+Department: RHSC
+Course Number: 583C
+Section: 015
+Pre-reqs: RHSC 501.
+Credits: 1.5
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: RHSC
+Course Number: 583C
+Section: 020
+Pre-reqs: RHSC 501.
+Credits: 1.5
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: GRUENIG, SIMONE
+
+Department: RHSC
+Course Number: 583C
+Section: 021
+Pre-reqs: RHSC 501.
+Credits: 1.5
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: GIESBRECHT, RONALD
+

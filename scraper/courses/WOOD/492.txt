@@ -1,0 +1,22 @@
+Department: WOOD
+Course Number: 492
+Section: 101
+Description: Applications of mathematical modelling, optimization, and simulation in forest planning and manufacturing; formulating models and interpreting results for decision support.
+Pre-reqs: One of FRST 232, WOOD 245.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: MacMillan, Room: 160
+Instructor: SOWLATI, TARANEH
+
+Department: WOOD
+Course Number: 492
+Section: L01
+Description: Applications of mathematical modelling, optimization, and simulation in forest planning and manufacturing; formulating models and interpreting results for decision support.
+Pre-reqs: One of FRST 232, WOOD 245.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Forest, Room: Sciences
+Instructor: SOWLATI, TARANEH
+

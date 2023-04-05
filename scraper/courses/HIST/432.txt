@@ -1,0 +1,70 @@
+Department: HIST
+Course Number: 432
+Section: 001
+Description: History of international relations from the beginning of the twentieth century to the present. Questions of war, peace, balance of power, and the evolution of the international system in global economic, cultural, and social contexts.
+Credits: 6
+Mode of Delivery: Multi-access
+Requires in Person Attendance: See Section Comments
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 18:00, Building: Buchanan, Room: A102
+Instructor: EVANS, HEIDI
+
+Department: HIST
+Course Number: 432
+Section: L1A
+Description: History of international relations from the beginning of the twentieth century to the present. Questions of war, peace, balance of power, and the evolution of the international system in global economic, cultural, and social contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 18:00, End Time: 19:00, Building: Buchanan, Room: D306
+Instructor: EVANS, HEIDI
+
+Department: HIST
+Course Number: 432
+Section: L1B
+Description: History of international relations from the beginning of the twentieth century to the present. Questions of war, peace, balance of power, and the evolution of the international system in global economic, cultural, and social contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 18:00, End Time: 19:00, Building: Buchanan, Room: B312
+Instructor: EVANS, HEIDI
+
+Department: HIST
+Course Number: 432
+Section: L1C
+Description: History of international relations from the beginning of the twentieth century to the present. Questions of war, peace, balance of power, and the evolution of the international system in global economic, cultural, and social contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: D325
+Instructor: EVANS, HEIDI
+
+Department: HIST
+Course Number: 432
+Section: L1D
+Description: History of international relations from the beginning of the twentieth century to the present. Questions of war, peace, balance of power, and the evolution of the international system in global economic, cultural, and social contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: EVANS, HEIDI
+
+Department: HIST
+Course Number: 432
+Section: L1E
+Description: History of international relations from the beginning of the twentieth century to the present. Questions of war, peace, balance of power, and the evolution of the international system in global economic, cultural, and social contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D319
+Instructor: EVANS, HEIDI
+
+Department: HIST
+Course Number: 432
+Section: L1F
+Description: History of international relations from the beginning of the twentieth century to the present. Questions of war, peace, balance of power, and the evolution of the international system in global economic, cultural, and social contexts.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D325
+Instructor: EVANS, HEIDI
+

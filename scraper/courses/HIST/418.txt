@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 418
+Section: 101
+Description: The history of the 1960s from a transnational perspective: culture, social change, student activism, and global conflict.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: D322
+Instructor: MYERS, TAMARA
+

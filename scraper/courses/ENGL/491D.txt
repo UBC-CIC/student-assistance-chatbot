@@ -1,0 +1,10 @@
+Department: ENGL
+Course Number: 491D
+Section: 004
+Description: Senior Honours Seminar - SR HONORS SEMNR1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: D214
+Instructor: VESSEY, MARK
+

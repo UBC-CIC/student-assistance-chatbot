@@ -1,0 +1,11 @@
+Department: MATH
+Course Number: 406
+Section: 101
+Description: Variational and Approximate Methods in Applied Mathematics
+Pre-reqs: One of MATH 307, CPSC 302 and either (a) a score of 80% or higher in one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312 or (b) MATH 400.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Mathematics, Room: 203
+Instructor: PEIRCE, ANTHONY
+

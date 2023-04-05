@@ -1,0 +1,10 @@
+Department: PHIL
+Course Number: 313
+Section: 001
+Description: Survey of Western European thought from Augustine to the 14th century. Possible topics and authors include: Augustine; Abelard; the influence of Islam; the rediscovery of Aristotle; Aquinas; Scotus; Ockham.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Buchanan, Room: B215
+Instructor: KRAAL, ANDERS
+

@@ -1,0 +1,20 @@
+Department: ASTU
+Course Number: 400J
+Section: 001
+Description: For upper-division students in the Faculty of Arts. Topics announced annually.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: DAWSON, SAMANTHA
+
+Department: ASTU
+Course Number: 400J
+Section: WL1
+Description: For upper-division students in the Faculty of Arts. Topics announced annually.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30
+Instructor: TBA
+

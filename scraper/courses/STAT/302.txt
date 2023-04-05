@@ -1,0 +1,48 @@
+Department: STAT
+Course Number: 302
+Section: 101
+Pre-reqs: One of MATH 200, MATH 226, MATH 217, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:30, End Time: 12:00, Building: Geography, Room: 100
+Instructor: SALIBIAN-BARRERA, MATIAS
+
+Department: STAT
+Course Number: 302
+Section: 201
+Pre-reqs: One of MATH 200, MATH 226, MATH 217, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Friedman, Room: Building
+Instructor: CHEN, JIAHUA
+
+Department: STAT
+Course Number: 302
+Section: 202
+Pre-reqs: One of MATH 200, MATH 226, MATH 217, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed Fri, Start Time: 9:00, End Time: 10:30, Building: Friedman, Room: Building
+Instructor: MENG, VIVIAN
+
+Department: STAT
+Course Number: 302
+Section: WL1
+Pre-reqs: One of MATH 200, MATH 226, MATH 217, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: STAT
+Course Number: 302
+Section: WL2
+Pre-reqs: One of MATH 200, MATH 226, MATH 217, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

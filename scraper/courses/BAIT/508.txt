@@ -1,0 +1,20 @@
+Department: BAIT
+Course Number: 508
+Section: BA1
+Description: Programming for business analytics; problem definition, software design, program design, and system implementation; development of systems to implement common business applications.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: LEE, GENE
+
+Department: BAIT
+Course Number: 508
+Section: BA2
+Description: Programming for business analytics; problem definition, software design, program design, and system implementation; development of systems to implement common business applications.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: LEE, GENE
+

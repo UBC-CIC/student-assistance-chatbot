@@ -1,0 +1,60 @@
+Department: CRWR
+Course Number: 200
+Section: 001
+Description: Techniques of and practice in multiple genres of writing, including fiction, poetry, creative nonfiction, screenplay, stageplay, graphic forms, lyric forms, children's literature, and writing for new media. Manuscript submission is not required for admission.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Earth, Room: Sciences
+Instructor: BROWN-EVANS, TAYLOR
+
+Department: CRWR
+Course Number: 200
+Section: 002
+Description: Techniques of and practice in multiple genres of writing, including fiction, poetry, creative nonfiction, screenplay, stageplay, graphic forms, lyric forms, children's literature, and writing for new media. Manuscript submission is not required for admission.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00
+Instructor: HUSSAIN, TARIQ
+
+Department: CRWR
+Course Number: 200
+Section: 003
+Description: Techniques of and practice in multiple genres of writing, including fiction, poetry, creative nonfiction, screenplay, stageplay, graphic forms, lyric forms, children's literature, and writing for new media. Manuscript submission is not required for admission.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: A101
+Instructor: HUSSAIN, TARIQ
+
+Department: CRWR
+Course Number: 200
+Section: 004
+Description: Techniques of and practice in multiple genres of writing, including fiction, poetry, creative nonfiction, screenplay, stageplay, graphic forms, lyric forms, children's literature, and writing for new media. Manuscript submission is not required for admission.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:00, End Time: 13:30, Building: Buchanan, Room: A101
+Instructor: BROWN-EVANS, TAYLOR
+
+Department: CRWR
+Course Number: 200
+Section: 005
+Description: Techniques of and practice in multiple genres of writing, including fiction, poetry, creative nonfiction, screenplay, stageplay, graphic forms, lyric forms, children's literature, and writing for new media. Manuscript submission is not required for admission.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue, Start Time: 18:00, End Time: 21:00
+Instructor: HUSSAIN, TARIQ
+
+Department: CRWR
+Course Number: 200
+Section: 006
+Description: Techniques of and practice in multiple genres of writing, including fiction, poetry, creative nonfiction, screenplay, stageplay, graphic forms, lyric forms, children's literature, and writing for new media. Manuscript submission is not required for admission.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00
+Instructor: BROWN-EVANS, TAYLOR
+

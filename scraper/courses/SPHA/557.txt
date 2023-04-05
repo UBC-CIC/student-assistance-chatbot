@@ -1,0 +1,10 @@
+Department: SPHA
+Course Number: 557
+Section: 002
+Description: Current concepts, methods, and applications in health care quality assessment and improvement.
+Credits: 1.5
+Mode of Delivery: Multi-access
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 21:00
+Instructor: KRAUSE, CHRISTINA
+

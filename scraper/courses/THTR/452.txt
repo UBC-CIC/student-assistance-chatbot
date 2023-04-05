@@ -1,0 +1,11 @@
+Department: THTR
+Course Number: 452
+Section: 001
+Description: Study of selected scene painting styles.
+Pre-reqs: THTR 352.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue, Start Time: 18:00, End Time: 21:00, Building: Frederic, Room: Wood
+Instructor: DOTSON, EMILY
+

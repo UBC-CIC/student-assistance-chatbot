@@ -1,0 +1,22 @@
+Department: ENGL
+Course Number: 223
+Section: 001
+Description: Literature in the United States
+Pre-reqs: (Second-year standing and 3 credits from one of (a) 100-level ENGL or (b) ARTS 001 or (c) ASTU 100 or (d) ASTU 101 or (e) WRDS 150 or (f) WRDS 350. Prerequisites must be met by the first day of class or students will be withdrawn.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: B141
+Instructor: TOMC, SANDRA
+
+Department: ENGL
+Course Number: 223
+Section: 002
+Description: Literature in the United States
+Pre-reqs: (Second-year standing and 3 credits from one of (a) 100-level ENGL or (b) ARTS 001 or (c) ASTU 100 or (d) ASTU 101 or (e) WRDS 150 or (f) WRDS 350. Prerequisites must be met by the first day of class or students will be withdrawn.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: West, Room: Mall
+Instructor: SEVERS, JEFFREY
+

@@ -1,0 +1,10 @@
+Department: PATH
+Course Number: 722
+Section: 001
+Description: Review in depth of syndromes caused by common human pathogenic bacteria, fungi and viruses, including principles of current laboratory diagnostic procedures and the rational use of antibiotics and prophylactic agents. For medical residents.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Wed Thu Fri, Start Time: 9:00, End Time: 17:00
+Instructor: TBA
+

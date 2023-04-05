@@ -1,0 +1,10 @@
+Department: EDCP
+Course Number: 546
+Section: 032
+Description: Pedagogical implications of Indigenous art making and visual expression both for Indigenous peoples and for non-Indigenous viewers and consumers through the lenses of misrepresentation, self-representation, and auto-pedagogical potential and practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: LEDDY, SHANNON
+

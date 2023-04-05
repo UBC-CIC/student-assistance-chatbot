@@ -1,0 +1,9 @@
+Department: MUSC
+Course Number: 509B
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Music, Room: 301
+Instructor: HAMEL, KEITH
+

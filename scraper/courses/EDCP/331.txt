@@ -1,0 +1,117 @@
+Department: EDCP
+Course Number: 331
+Section: 101
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:30, End Time: 12:00, Building: Neville, Room: Scarfe
+Instructor: KEENAN, HARPER
+
+Department: EDCP
+Course Number: 331
+Section: 102
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: RANDHAWA, LAKHBIR
+
+Department: EDCP
+Course Number: 331
+Section: 103
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Neville, Room: Scarfe
+Instructor: PAUL, ALISA
+
+Department: EDCP
+Course Number: 331
+Section: 104
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: ANDERSON REDMOND, STEPHANIE
+
+Department: EDCP
+Course Number: 331
+Section: 105
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:30, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: MENDONÇA DOS SANTOS, RODRIGO
+
+Department: EDCP
+Course Number: 331
+Section: 107
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 12:30, Building: Ponderosa, Room: Commons
+Instructor: MENDONÇA DOS SANTOS, RODRIGO
+
+Department: EDCP
+Course Number: 331
+Section: 108
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:30, End Time: 10:30, Building: Neville, Room: Scarfe
+Instructor: ANDERSON REDMOND, STEPHANIE
+
+Department: EDCP
+Course Number: 331
+Section: 109
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Tue*, End Time: 13:30, Building: 15:30, Room: Neville
+Instructor: RANDHAWA, LAKHBIR
+
+Department: EDCP
+Course Number: 331
+Section: 110
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Neville, Room: Scarfe
+Instructor: LIVINGSTONE, CHRISTI
+
+Department: EDCP
+Course Number: 331
+Section: 623
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GIBSON, LINDSAY
+
+Department: EDCP
+Course Number: 331
+Section: 640
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KUHN, NICOLA
+
+Department: EDCP
+Course Number: 331
+Section: 650
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SADOWSKY, KIM
+

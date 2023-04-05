@@ -1,0 +1,17 @@
+Department: BAIT
+Course Number: 516
+Section: 001
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 18:00, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: TIGHE, ALLYSON
+
+Department: BAIT
+Course Number: 516
+Section: WL1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: EDCP
+Course Number: 530
+Section: 031
+Description: Developing an integrated approach toward curriculum planning and instruction by examining curriculum models. Rethinking the PE curriculum.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: FORDE, SHAWN
+

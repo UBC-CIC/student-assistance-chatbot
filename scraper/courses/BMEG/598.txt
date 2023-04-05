@@ -1,0 +1,30 @@
+Department: BMEG
+Course Number: 598
+Section: 001
+Description: Presentation and discussion of current topics in biomedical engineering research and development. A required course for all graduate students in Biomedical Engineering.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00
+Instructor: CHEUNG, KAREN
+
+Department: BMEG
+Course Number: 598
+Section: 101
+Description: Presentation and discussion of current topics in biomedical engineering research and development. A required course for all graduate students in Biomedical Engineering.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00
+Instructor: TBA
+
+Department: BMEG
+Course Number: 598
+Section: 201
+Description: Presentation and discussion of current topics in biomedical engineering research and development. A required course for all graduate students in Biomedical Engineering.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:00
+Instructor: TBA
+

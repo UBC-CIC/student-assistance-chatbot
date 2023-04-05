@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 414
+Section: 002
+Description: Theories on the global flow of people, commodities, images, and ideas with critical ethnographic attention to the different ways people respond to globalization.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Anthropology, Room: and
+Instructor: CREIGHTON, MILLIE
+

@@ -1,0 +1,11 @@
+Department: PHYS
+Course Number: 504
+Section: 101
+Description: Boundary-value problems, Green's functions and multipole expansions, magnetostatics, Faraday's law of induction, retarded potentials, Poynting's theorem and conservation laws, gauge invariance. Propagation of electromagnetic waves. Presentation of radiation from moving charges, classical electron theory.
+Pre-reqs: (A background in electricity and magnetism such as covered PHYS 401 is highly recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Mathematics, Room: 225
+Instructor: SCHLEICH, KRISTIN
+

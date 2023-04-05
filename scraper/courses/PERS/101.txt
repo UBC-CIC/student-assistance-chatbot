@@ -1,0 +1,22 @@
+Department: PERS
+Course Number: 101
+Section: 001
+Description: Continuation of PERS 100.
+Pre-reqs: PERS 100.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: Leon, Room: and
+Instructor: DEHGHANI, HESSAM
+
+Department: PERS
+Course Number: 101
+Section: W01
+Description: Continuation of PERS 100.
+Pre-reqs: PERS 100.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: To, Room: Be
+Instructor: DEHGHANI, HESSAM
+

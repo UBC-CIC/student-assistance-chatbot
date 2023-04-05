@@ -1,0 +1,21 @@
+Department: GREK
+Course Number: 201
+Section: 001
+Description: Completion of the grammatical foundations of Ancient Greek, Part I.
+Pre-reqs: GREK 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: B216
+Instructor: YOON, FLORENCE
+
+Department: GREK
+Course Number: 201
+Section: T01
+Description: Completion of the grammatical foundations of Ancient Greek, Part I.
+Pre-reqs: GREK 102.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

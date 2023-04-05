@@ -1,0 +1,9 @@
+Department: CHBE
+Course Number: 402
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: West, Room: Mall
+Instructor: TRAJANO, HEATHER
+

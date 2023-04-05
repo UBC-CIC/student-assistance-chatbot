@@ -1,0 +1,22 @@
+Department: ENVE
+Course Number: 401
+Section: 001
+Description: Application of chemical, biological, and environmental science; engineering concepts; sustainable development and health and safety considerations; engineering economics; and life cycle analysis. Conceptual and detailed design for a multi-scale and complex environment health and protection problem.
+Pre-reqs: ENVE 301. (and Fourth-year standing.)
+Credits: 8
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Chemical, Room: and
+Instructor: BAALBAKI, ZEINA
+
+Department: ENVE
+Course Number: 401
+Section: T0A
+Description: Application of chemical, biological, and environmental science; engineering concepts; sustainable development and health and safety considerations; engineering economics; and life cycle analysis. Conceptual and detailed design for a multi-scale and complex environment health and protection problem.
+Pre-reqs: ENVE 301. (and Fourth-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: MacMillan, Room: 260
+Instructor: BAALBAKI, ZEINA
+

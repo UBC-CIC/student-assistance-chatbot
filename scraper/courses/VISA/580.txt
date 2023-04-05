@@ -1,0 +1,18 @@
+Department: VISA
+Course Number: 580
+Section: 001
+Description: M.F.A. only.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: VISA
+Course Number: 580
+Section: 002
+Description: M.F.A. only.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

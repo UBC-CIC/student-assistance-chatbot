@@ -1,0 +1,10 @@
+Department: MRNE
+Course Number: 437
+Section: 610
+Description: Emphasis on interactions among organisms and between organisms and their physiochemical environment, and on biological diversity.
+Pre-reqs: (Completion of second year in a biology program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

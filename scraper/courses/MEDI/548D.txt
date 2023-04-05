@@ -1,0 +1,8 @@
+Department: MEDI
+Course Number: 548D
+Section: 008
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

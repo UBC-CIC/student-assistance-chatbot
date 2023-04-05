@@ -1,0 +1,33 @@
+Department: DSCI
+Course Number: 522
+Section: 001
+Description: Interactive and non-interactive data analysis. Scripting. Dynamic reporting. Reproducibility. Project and file management. Version control. Automated workflows.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Earth, Room: Sciences
+Instructor: D' ANDREA, MARIA FLORENCIA
+
+Department: DSCI
+Course Number: 522
+Section: L01
+Description: Interactive and non-interactive data analysis. Scripting. Dynamic reporting. Reproducibility. Project and file management. Version control. Automated workflows.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: D' ANDREA, MARIA FLORENCIA
+
+Department: DSCI
+Course Number: 522
+Section: L02
+Description: Interactive and non-interactive data analysis. Scripting. Dynamic reporting. Reproducibility. Project and file management. Version control. Automated workflows.
+Pre-reqs: All of DSCI 511, DSCI 521.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: D' ANDREA, MARIA FLORENCIA
+

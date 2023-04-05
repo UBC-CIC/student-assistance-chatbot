@@ -1,0 +1,10 @@
+Department: MANU
+Course Number: 270
+Section: 201
+Description: Impact of operations in increasing productivity and reducing waste.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu, Start Time: 16:00, End Time: 17:30, Building: Frank, Room: Forward
+Instructor: HOSSEINI, ABBAS
+

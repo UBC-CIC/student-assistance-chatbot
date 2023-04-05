@@ -1,0 +1,42 @@
+Department: KIN
+Course Number: 216
+Section: 001
+Description: Application of elementary principles of physics and math to a quantitative analysis of movement. Analysis will also focus on the development of forces within muscles and their effect on initiating and controlling human movement.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: West, Room: Mall
+Instructor: FEWSTER, KAYLA
+
+Department: KIN
+Course Number: 216
+Section: 002
+Description: Application of elementary principles of physics and math to a quantitative analysis of movement. Analysis will also focus on the development of forces within muscles and their effect on initiating and controlling human movement.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Friedman, Room: Building
+Instructor: FEWSTER, KAYLA
+
+Department: KIN
+Course Number: 216
+Section: 0W1
+Description: Application of elementary principles of physics and math to a quantitative analysis of movement. Analysis will also focus on the development of forces within muscles and their effect on initiating and controlling human movement.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KIN
+Course Number: 216
+Section: 0W2
+Description: Application of elementary principles of physics and math to a quantitative analysis of movement. Analysis will also focus on the development of forces within muscles and their effect on initiating and controlling human movement.
+Pre-reqs: (Second-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

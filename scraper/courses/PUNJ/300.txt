@@ -1,0 +1,22 @@
+Department: PUNJ
+Course Number: 300
+Section: 001
+Description: Advanced grammar and conversation. Major genres of Punjabi literature. As of 2011W, credit will be granted for only one of PUNJ 301/302 or PUNJ 300.
+Pre-reqs: One of PUNJ 200, PUNJ 202.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 19:00, Building: Buchanan, Room: B308
+Instructor: MANN, GURINDERPAL
+
+Department: PUNJ
+Course Number: 300
+Section: W01
+Description: Advanced grammar and conversation. Major genres of Punjabi literature. As of 2011W, credit will be granted for only one of PUNJ 301/302 or PUNJ 300.
+Pre-reqs: One of PUNJ 200, PUNJ 202.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 19:00, Building: To, Room: Be
+Instructor: MANN, GURINDERPAL
+

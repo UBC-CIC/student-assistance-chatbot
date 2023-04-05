@@ -1,0 +1,11 @@
+Department: HGSE
+Course Number: 356
+Section: 610
+Description: Nutrient cycling between the marine environment and coastal forest ecosystems; how the physical characteristics of this interface affect inputs; which species play a pivotal role in driving interactions. Part of the Haida Gwaii Fall Semester.
+Pre-reqs: (Third-year standing.)
+Co-reqs: All of HGSE 355, HGSE 357, HGSE 358, HGSE 359.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

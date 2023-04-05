@@ -1,0 +1,1006 @@
+Department: PHYS
+Course Number: 131
+Section: 101
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 100
+Instructor: IQBAL, MOHAMMED
+
+Department: PHYS
+Course Number: 131
+Section: T1B
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T1C
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T1D
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T1E
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T1F
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T1H
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TA1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TB1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TC1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TD1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TF1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TG1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TH1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: 103
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Hebb, Room: 100
+Instructor: REZAIE, ERFAN
+
+Department: PHYS
+Course Number: 131
+Section: T1B
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T1C
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T1D
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T1E
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T1F
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T1H
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TA1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TB1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TC1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TD1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TF1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TG1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TH1
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: 10W
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: 201
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Hebb, Room: 100
+Instructor: SOSSI, VESNA
+
+Department: PHYS
+Course Number: 131
+Section: T2C
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2D
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2E
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2F
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2G
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2H
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:30, End Time: 17:30, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2I
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2J
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2M
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TC2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TD2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:30, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TE2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TF2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TG2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TH2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:30, End Time: 17:30, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TJ2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TM2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: 202
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Hebb, Room: 100
+Instructor: RIEGER, GEORG
+
+Department: PHYS
+Course Number: 131
+Section: T2C
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2D
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2E
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2F
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2G
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2H
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:30, End Time: 17:30, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2I
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2J
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2M
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TC2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TD2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:30, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TE2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TF2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TG2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TH2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:30, End Time: 17:30, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TJ2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TM2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: 203
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Hebb, Room: 100
+Instructor: SOSSI, VESNA
+
+Department: PHYS
+Course Number: 131
+Section: T2C
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2D
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2E
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2F
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2G
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2H
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:30, End Time: 17:30, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2I
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2J
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: T2M
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TC2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 11:30, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TD2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:30, End Time: 17:30, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TE2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TF2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TG2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Hebb, Room: 116
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TH2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:30, End Time: 17:30, Building: Hebb, Room: 316
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TJ2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: TM2
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 131
+Section: 20W
+Description: Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

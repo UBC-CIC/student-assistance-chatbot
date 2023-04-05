@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 320
+Section: 001
+Description: The study of computer applications to music, focusing on digital synthesis techniques and languages, methods of algorithmic composition, and the design of music editors.
+Pre-reqs: MUSC 319. (or permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Music, Room: 303
+Instructor: HAMEL, KEITH
+

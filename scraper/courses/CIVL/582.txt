@@ -1,0 +1,10 @@
+Department: CIVL
+Course Number: 582
+Section: 101
+Description: Methods to measure, predict and evaluate impacts of transportation modes. Discussion of measures to reduce impacts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Fri, Start Time: 9:00, End Time: 10:30, Building: Civil, Room: and
+Instructor: SAYED, TAREK
+

@@ -1,0 +1,22 @@
+Department: EOSC
+Course Number: 354
+Section: 101
+Description: Analysis of Time Series and Inverse Theory for Earth Scientists
+Pre-reqs: Either (a) SCIE 001 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Earth, Room: and
+Instructor: BOSTOCK, MICHAEL
+
+Department: EOSC
+Course Number: 354
+Section: L1A
+Description: Continuous and discrete Fourier transforms, correlation and convolution, spectral estimates, optimum least-squares filters, deconvolution and prediction, frequency-wave number filtering. A practical course on computer techniques applied to the analysis of a wide range of geophysical phenomena.
+Pre-reqs: Either (a) SCIE 001 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TBA
+

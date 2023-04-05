@@ -1,0 +1,57 @@
+Department: COMM
+Course Number: 420
+Section: DD1
+Description: Basic considerations affecting the domestic and international marketing of goods and services. Analytical frameworks and techniques that are used to guide marketing strategy decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: BASTO DA SILVA, RUI JORGE
+
+Department: COMM
+Course Number: 420
+Section: DD2
+Description: Basic considerations affecting the domestic and international marketing of goods and services. Analytical frameworks and techniques that are used to guide marketing strategy decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: MILLER, DAVID
+
+Department: COMM
+Course Number: 420
+Section: DD3
+Description: Basic considerations affecting the domestic and international marketing of goods and services. Analytical frameworks and techniques that are used to guide marketing strategy decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: BASTO DA SILVA, RUI JORGE
+
+Department: COMM
+Course Number: 420
+Section: WL1
+Description: Basic considerations affecting the domestic and international marketing of goods and services. Analytical frameworks and techniques that are used to guide marketing strategy decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: COMM
+Course Number: 420
+Section: WL2
+Description: Basic considerations affecting the domestic and international marketing of goods and services. Analytical frameworks and techniques that are used to guide marketing strategy decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: COMM
+Course Number: 420
+Section: WL3
+Description: Basic considerations affecting the domestic and international marketing of goods and services. Analytical frameworks and techniques that are used to guide marketing strategy decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: CENS
+Course Number: 307
+Section: 001
+Description: Witches: Myth and Reality
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Buchanan, Room: A202
+Instructor: FRACKMAN, KYLE
+

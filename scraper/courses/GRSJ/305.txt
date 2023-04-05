@@ -1,0 +1,22 @@
+Department: GRSJ
+Course Number: 305
+Section: 201
+Description: Critical examination and practical applications of concepts, theories, methods, and strategies of gender-aware organizing at the community and international levels.
+Pre-reqs: Either (a) all of GRSJ 101, GRSJ 102 or (b) all of WMST 101, WMST 102. (or third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Geography, Room: 147
+Instructor: CHATZIVASILEIOU, EVANGELIA
+
+Department: GRSJ
+Course Number: 305
+Section: WL1
+Description: Critical examination and practical applications of concepts, theories, methods, and strategies of gender-aware organizing at the community and international levels.
+Pre-reqs: Either (a) all of GRSJ 101, GRSJ 102 or (b) all of WMST 101, WMST 102. (or third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+

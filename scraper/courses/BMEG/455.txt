@@ -1,0 +1,19 @@
+Department: BMEG
+Course Number: 455
+Section: 101
+Description: Ethical, equity, and diversity issues and professionalism in Biomedical Engineering practice and design. Case studies and design projects will be used to expand on the foundation of biomedical engineering design, applying real-world ethical dilemmas including professional, medical, and research ethics.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: P., Room: A.
+Instructor: USPRECH, JENNA
+
+Department: BMEG
+Course Number: 455
+Section: WL1
+Description: Ethical, equity, and diversity issues and professionalism in Biomedical Engineering practice and design. Case studies and design projects will be used to expand on the foundation of biomedical engineering design, applying real-world ethical dilemmas including professional, medical, and research ethics.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

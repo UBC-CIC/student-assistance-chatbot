@@ -1,0 +1,11 @@
+Department: MECH
+Course Number: 460
+Section: 201
+Description: Axisymmetric membrane stresses in thin shells of revolution, stresses in thick-walled cylinders and rotating disks, beams on elastic foundations, axisymmetric bending of cylindrical shells, axisymmetric bending of circular plates.
+Pre-reqs: MECH 360.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: West, Room: Mall
+Instructor: BACCA, MATTIA
+

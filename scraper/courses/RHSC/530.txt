@@ -1,0 +1,10 @@
+Department: RHSC
+Course Number: 530
+Section: 002
+Description: Development, appraisal and formatting of a research proposal. Emphasis on research writing and critical analysis of a variety of research proposal formats.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:30, End Time: 16:30
+Instructor: HUOT, SUZANNE
+

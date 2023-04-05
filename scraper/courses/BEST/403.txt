@@ -1,0 +1,22 @@
+Department: BEST
+Course Number: 403
+Section: 201
+Description: Project-based course on development of bioeconomy products; demonstration of out-of-box thinking, service learning and teamwork. Restricted to students in the Forest Bioeconomy Sciences and Technology program.
+Pre-reqs: (Fourth year standing in Forest Bioeconomy Sciences and Technology.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: RENNECKAR, SCOTT
+
+Department: BEST
+Course Number: 403
+Section: L01
+Description: Project-based course on development of bioeconomy products; demonstration of out-of-box thinking, service learning and teamwork. Restricted to students in the Forest Bioeconomy Sciences and Technology program.
+Pre-reqs: (Fourth year standing in Forest Bioeconomy Sciences and Technology.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: RENNECKAR, SCOTT
+

@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 354
+Section: 001
+Description: Principles and procedures of stage management: organizations, systems, and operations.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 12:00, Building: Frederic, Room: Wood
+Instructor: MCLAUGHLIN, INGA
+

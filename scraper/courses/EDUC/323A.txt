@@ -1,0 +1,11 @@
+Department: EDUC
+Course Number: 323A
+Section: 002
+Description: Pass/Fail.
+Pre-reqs: EDUC 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 8:00, End Time: 16:00
+Instructor: TBA
+

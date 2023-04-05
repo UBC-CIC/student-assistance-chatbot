@@ -1,0 +1,9 @@
+Department: FIPR
+Course Number: 469G
+Section: 001
+Description: Advanced film production, including interdisciplinary projects.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SCHOLTE, TOM
+

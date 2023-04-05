@@ -1,0 +1,32 @@
+Department: FRE
+Course Number: 385
+Section: 001
+Description: Spreadsheet modeling and analysis of business and resource management problems: decision analysis, forecasting, linear programming, simulation modeling, and inventory management.
+Pre-reqs: One of ECON 101, ECON 310 and one of LFS 252, BIOL 300, FRST 231, STAT 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: MacLeod, Room: 2012
+Instructor: JOHNSON, MICHAEL
+
+Department: FRE
+Course Number: 385
+Section: L01
+Description: Spreadsheet modeling and analysis of business and resource management problems: decision analysis, forecasting, linear programming, simulation modeling, and inventory management.
+Pre-reqs: One of ECON 101, ECON 310 and one of LFS 252, BIOL 300, FRST 231, STAT 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:00, End Time: 17:00, Building: MacLeod, Room: 2012
+Instructor: JOHNSON, MICHAEL
+
+Department: FRE
+Course Number: 385
+Section: 0W2
+Description: Spreadsheet modeling and analysis of business and resource management problems: decision analysis, forecasting, linear programming, simulation modeling, and inventory management.
+Pre-reqs: One of ECON 101, ECON 310 and one of LFS 252, BIOL 300, FRST 231, STAT 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

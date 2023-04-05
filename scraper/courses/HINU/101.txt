@@ -1,0 +1,9 @@
+Department: HINU
+Course Number: 101
+Section: 001
+Pre-reqs: HINU 100.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KUMAR BHATT, SUNIL
+

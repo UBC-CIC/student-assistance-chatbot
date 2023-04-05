@@ -1,0 +1,80 @@
+Department: PHIL
+Course Number: 101
+Section: 001
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: A103
+Instructor: MARGOLIS, ERIC
+
+Department: PHIL
+Course Number: 101
+Section: L01
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: PHIL
+Course Number: 101
+Section: L02
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: PHIL
+Course Number: 101
+Section: L03
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: D314
+Instructor: TBA
+
+Department: PHIL
+Course Number: 101
+Section: L04
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: PHIL
+Course Number: 101
+Section: L05
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Mathematics, Room: 225
+Instructor: TBA
+
+Department: PHIL
+Course Number: 101
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Irving, Room: K
+Instructor: KRAAL, ANDERS
+
+Department: PHIL
+Course Number: 101
+Section: 003
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: P., Room: A.
+Instructor: MARGOLIS, ERIC
+
+Department: PHIL
+Course Number: 101
+Section: WL3
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

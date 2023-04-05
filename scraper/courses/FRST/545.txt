@@ -1,0 +1,10 @@
+Department: FRST
+Course Number: 545
+Section: 201
+Description: Technical Communication Skills II
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00
+Instructor: PRESCOTT, CINDY
+

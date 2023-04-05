@@ -1,0 +1,9 @@
+Department: PHTH
+Course Number: 511
+Section: 001
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 8:00, End Time: 13:00
+Instructor: FLETCHER, ROLAND
+

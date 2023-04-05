@@ -1,0 +1,10 @@
+Department: STAT
+Course Number: 551
+Section: 101
+Description: Statistical Consulting Practicum
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Earth, Room: Sciences
+Instructor: JOE, HARRY SUE WAH
+

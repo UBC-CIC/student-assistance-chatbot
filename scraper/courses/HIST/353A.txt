@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 353A
+Section: 201
+Description: An in-depth study of one major topic in the ancient and/or modern history of the Middle East. Please consult the Department webpage for current offerings.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: D213
+Instructor: KNUTSON, SARA
+

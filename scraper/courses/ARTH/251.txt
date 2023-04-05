@@ -1,0 +1,20 @@
+Department: ARTH
+Course Number: 251
+Section: 001
+Description: A thematic examination of Asian arts, such as historic, religious, and secular painting and sculpture to contemporary visual culture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Buchanan, Room: D219
+Instructor: ORELL, JULIA
+
+Department: ARTH
+Course Number: 251
+Section: 01W
+Description: A thematic examination of Asian arts, such as historic, religious, and secular painting and sculpture to contemporary visual culture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30
+Instructor: TBA
+

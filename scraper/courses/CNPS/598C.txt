@@ -1,0 +1,20 @@
+Department: CNPS
+Course Number: 598C
+Section: 001
+Description: For students in the master's program. Pass/Fail.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:30, End Time: 19:30
+Instructor: KLUBBEN, LAURA
+
+Department: CNPS
+Course Number: 598C
+Section: 002
+Description: For students in the master's program. Pass/Fail.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:30, End Time: 19:30, Building: Jack, Room: Bell
+Instructor: MCCULLOUGH, LUCY
+

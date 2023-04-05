@@ -1,0 +1,18 @@
+Department: ECON
+Course Number: 527
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Iona, Room: Building
+Instructor: MARMER, VADIM
+
+Department: ECON
+Course Number: 527
+Section: L1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:30, End Time: 10:00, Building: Buchanan, Room: B213
+Instructor: TBA
+

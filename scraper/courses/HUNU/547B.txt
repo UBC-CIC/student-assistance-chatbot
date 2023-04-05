@@ -1,0 +1,18 @@
+Department: HUNU
+Course Number: 547B
+Section: 001
+Description: In special cases, directed studies on certain aspects of nutrition may be arranged for graduate students in attendance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: HUNU
+Course Number: 547B
+Section: 002
+Description: In special cases, directed studies on certain aspects of nutrition may be arranged for graduate students in attendance.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

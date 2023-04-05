@@ -1,0 +1,11 @@
+Department: PHYS
+Course Number: 473
+Section: 201
+Description: Radioactive decay and radiations, nuclear properties, interactions of neutrons, physical principles of power reactors, nuclear fusion, radiation monitoring, and safety.
+Pre-reqs: One of PHYS 304, PHYS 450.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Frederic, Room: Lasserre
+Instructor: GOTTBERG, ALEXANDER
+

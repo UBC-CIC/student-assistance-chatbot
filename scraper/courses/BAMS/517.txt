@@ -1,0 +1,20 @@
+Department: BAMS
+Course Number: 517
+Section: BA1
+Description: Decision making under uncertainty; using decision trees; the value of information; utility and risk preferences; behavioral aspects of decision making under uncertainty.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 16:00, End Time: 18:00, Building: Henry, Room: Angus
+Instructor: ZHANG, HAO
+
+Department: BAMS
+Course Number: 517
+Section: BA2
+Description: Decision making under uncertainty; using decision trees; the value of information; utility and risk preferences; behavioral aspects of decision making under uncertainty.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: ZHANG, HAO
+

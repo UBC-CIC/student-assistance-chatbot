@@ -1,0 +1,17 @@
+Department: GEOG
+Course Number: 545A
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Geography, Room: 223
+Instructor: KLEIN, NAOMI
+
+Department: GEOG
+Course Number: 545A
+Section: WL1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

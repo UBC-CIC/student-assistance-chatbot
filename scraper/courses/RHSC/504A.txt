@@ -1,0 +1,18 @@
+Department: RHSC
+Course Number: 504A
+Section: 001
+Description: Directed Studies in Rehabilitation - DST REHABILIT'N
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: RHSC
+Course Number: 504A
+Section: 002
+Description: Directed Studies in Rehabilitation - DST REHABILIT'N
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,20 @@
+Department: CHIN
+Course Number: 493
+Section: 001
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: CHIU-DUKE, JOSEPHINE
+
+Department: CHIN
+Course Number: 493
+Section: W01
+Pre-reqs: One of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: To, Room: Be
+Instructor: CHIU-DUKE, JOSEPHINE
+

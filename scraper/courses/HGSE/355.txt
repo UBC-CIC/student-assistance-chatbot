@@ -1,0 +1,11 @@
+Department: HGSE
+Course Number: 355
+Section: 610
+Description: Processes that shape coastal terrestrial ecosystems through time and applications to current ecological reality. Part of the Haida Gwaii Fall Semester.
+Pre-reqs: (Third-year standing.)
+Co-reqs: All of HGSE 356, HGSE 357, HGSE 358, HGSE 359.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

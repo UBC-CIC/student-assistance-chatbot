@@ -1,0 +1,55 @@
+Department: MATH
+Course Number: 307
+Section: 101
+Description: Applied Linear Algebra
+Pre-reqs: One of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: A103
+Instructor: STENLUND, DAVID
+
+Department: MATH
+Course Number: 307
+Section: 102
+Description: Applications of linear algebra to problems in science and engineering; use of computer algebra systems for solving problems in linear algebra.
+Pre-reqs: One of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Chemistry, Room: D200
+Instructor: GAI, CHUNYI
+
+Department: MATH
+Course Number: 307
+Section: 103
+Description: Applications of linear algebra to problems in science and engineering; use of computer algebra systems for solving problems in linear algebra.
+Pre-reqs: One of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Mathematics, Room: Annex
+Instructor: WALLS, PATRICK
+
+Department: MATH
+Course Number: 307
+Section: 201
+Description: Applied Linear Algebra
+Pre-reqs: One of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: A202
+Instructor: STENLUND, DAVID
+
+Department: MATH
+Course Number: 307
+Section: 202
+Description: Applied Linear Algebra
+Pre-reqs: One of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Chemistry, Room: D200
+Instructor: YILMAZ, OZGUR
+

@@ -1,0 +1,10 @@
+Department: EPSE
+Course Number: 687D
+Section: 077
+Description: Pass/Fail
+Pre-reqs: (Admission to the School and Applied Child Psychology or Counselling Psychology Ph.D. Program.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: KASSAN, ANUSHA
+

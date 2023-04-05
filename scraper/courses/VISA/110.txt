@@ -1,0 +1,270 @@
+Department: VISA
+Course Number: 110
+Section: 001
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 11:00
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: L01
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B125
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: L02
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: B125
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: L03
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: B125
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: L04
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B125
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: L05
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: B125
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: L06
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 18:00, Building: Buchanan, Room: B125
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: L07
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 18:00, End Time: 20:00, Building: Buchanan, Room: B125
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: L08
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: B125
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: L09
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B125
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: L10
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: B125
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: L11
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 18:00, Building: Buchanan, Room: B125
+Instructor: HITE, JOSHUA
+
+Department: VISA
+Course Number: 110
+Section: 002
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L12
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: B125
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L13
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B125
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L14
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Ponderosa, Room: Commons
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L15
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: B125
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L16
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: Ponderosa, Room: Commons
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L17
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 16:00, End Time: 18:00, Building: Buchanan, Room: B125
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L18
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: B125
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L19
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B125
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: 227
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: A202
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L21
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 18:00, Building: Buchanan, Room: B125
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L22
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Buchanan, Room: B125
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L23
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: Ponderosa, Room: Commons
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L24
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 16:00, End Time: 18:00, Building: Ponderosa, Room: Commons
+Instructor: D'ONOFRIO, CHRISTINE
+
+Department: VISA
+Course Number: 110
+Section: L25
+Description: Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 18:00, End Time: 20:00, Building: Ponderosa, Room: Commons
+Instructor: D'ONOFRIO, CHRISTINE
+

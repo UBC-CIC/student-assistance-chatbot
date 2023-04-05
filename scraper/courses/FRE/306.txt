@@ -1,0 +1,21 @@
+Department: FRE
+Course Number: 306
+Section: 001
+Description: An overview of global food markets including recent trends (e.g., vertical coordination, strategic alliances, multinationals and small firms in niche markets), marketing and trade institutions such as state-trading enterprises and WTO regulations, issues specific to developing nations, and case studies.
+Pre-reqs: One of ECON 101, ECON 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: MacLeod, Room: 2002
+Instructor: BARICHELLO, RICHARD
+
+Department: FRE
+Course Number: 306
+Section: 0W1
+Description: An overview of global food markets including recent trends (e.g., vertical coordination, strategic alliances, multinationals and small firms in niche markets), marketing and trade institutions such as state-trading enterprises and WTO regulations, issues specific to developing nations, and case studies.
+Pre-reqs: One of ECON 101, ECON 310.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

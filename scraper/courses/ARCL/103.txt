@@ -1,0 +1,70 @@
+Department: ARCL
+Course Number: 103
+Section: 002
+Description: A critical introductory overview to the discipline of archaeology, its functions and entanglements, and potential contributions and transformations for the future.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Buchanan, Room: A102
+Instructor: BARNETT, KRISTEN
+
+Department: ARCL
+Course Number: 103
+Section: D1A
+Description: A critical introductory overview to the discipline of archaeology, its functions and entanglements, and potential contributions and transformations for the future.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ARCL
+Course Number: 103
+Section: D1B
+Description: A critical introductory overview to the discipline of archaeology, its functions and entanglements, and potential contributions and transformations for the future.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Leon, Room: and
+Instructor: TBA
+
+Department: ARCL
+Course Number: 103
+Section: D1C
+Description: A critical introductory overview to the discipline of archaeology, its functions and entanglements, and potential contributions and transformations for the future.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: ARCL
+Course Number: 103
+Section: D1D
+Description: A critical introductory overview to the discipline of archaeology, its functions and entanglements, and potential contributions and transformations for the future.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ARCL
+Course Number: 103
+Section: D1E
+Description: A critical introductory overview to the discipline of archaeology, its functions and entanglements, and potential contributions and transformations for the future.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Anthropology, Room: and
+Instructor: TBA
+
+Department: ARCL
+Course Number: 103
+Section: D1F
+Description: A critical introductory overview to the discipline of archaeology, its functions and entanglements, and potential contributions and transformations for the future.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00, Building: Anthropology, Room: and
+Instructor: TBA
+

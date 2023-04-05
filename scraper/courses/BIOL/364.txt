@@ -1,0 +1,22 @@
+Department: BIOL
+Course Number: 364
+Section: 201
+Description: Cardiovascular, respiratory, and osmoregulatory physiology. Preference will be given to students who are in Biology, Nutritional Sciences, and Combined Honours Biophysics.
+Pre-reqs: BIOL 204 and one of BIOL 260, BIOL 361.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Wesbrook, Room: 100
+Instructor: BRAUNER, COLIN
+
+Department: BIOL
+Course Number: 364
+Section: 2W1
+Description: Cardiovascular, respiratory, and osmoregulatory physiology. Preference will be given to students who are in Biology, Nutritional Sciences, and Combined Honours Biophysics.
+Pre-reqs: BIOL 204 and one of BIOL 260, BIOL 361.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00
+Instructor: TBA
+

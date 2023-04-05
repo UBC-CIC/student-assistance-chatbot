@@ -1,0 +1,9 @@
+Department: POLI
+Course Number: 549A
+Section: 001
+Description: Master's Thesis - MASTERS THESIS
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

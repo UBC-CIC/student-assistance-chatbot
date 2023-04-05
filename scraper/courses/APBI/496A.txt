@@ -1,0 +1,30 @@
+Department: APBI
+Course Number: 496A
+Section: 001
+Description: Application of principles and concepts of Applied Animal Biology to experiential learning in the fields of wild, companion, lab, and farm animal welfare and management.
+Pre-reqs: (Third-year standing or higher. APBI 314 and/or APBI 315 are recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DUBOIS, SARA
+
+Department: APBI
+Course Number: 496A
+Section: 002
+Description: Application of principles and concepts of Applied Animal Biology to experiential learning in the fields of wild, companion, lab, and farm animal welfare and management.
+Pre-reqs: (Third-year standing or higher. APBI 314 and/or APBI 315 are recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DUBOIS, SARA
+
+Department: APBI
+Course Number: 496A
+Section: 003
+Description: Application of principles and concepts of Applied Animal Biology to experiential learning in the fields of wild, companion, lab, and farm animal welfare and management.
+Pre-reqs: (Third-year standing or higher. APBI 314 and/or APBI 315 are recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DUBOIS, SARA
+

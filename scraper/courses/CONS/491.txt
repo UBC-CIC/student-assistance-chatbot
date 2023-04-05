@@ -1,0 +1,11 @@
+Department: CONS
+Course Number: 491
+Section: 101
+Description: Principles and methods for planning urban and rural recreation and related tourism resources including analyzing recreation resources, applying policies and standards, developing park/recreation area management plans, and understanding benefits to human and community wellbeing and biodiversity.
+Pre-reqs: One of UFOR 200, CONS 481.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:00, End Time: 12:30, Building: Frank, Room: Forward
+Instructor: BUNN, DAVID
+

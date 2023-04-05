@@ -1,0 +1,1881 @@
+Department: CPSC
+Course Number: 210
+Section: 101
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Centre, Room: for
+Instructor: GRUND, FELIX
+
+Department: CPSC
+Course Number: 210
+Section: L11
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L12
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L13
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L14
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L15
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L16
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1A
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1B
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1C
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1D
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1E
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1F
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1G
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1H
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1J
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1K
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1L
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1M
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1N
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1O
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1P
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1Q
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1R
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1S
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1T
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1U
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1V
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1X
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1Y
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1Z
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: 102
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Hugh, Room: Dempster
+Instructor: GRUND, FELIX
+
+Department: CPSC
+Course Number: 210
+Section: L11
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L12
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L13
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L14
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L15
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L16
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1A
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1B
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1C
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1D
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1E
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1F
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1G
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1H
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1J
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1K
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1L
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1M
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1N
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1O
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1P
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1Q
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1R
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1S
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1T
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1U
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1V
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1X
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1Y
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1Z
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: 104
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 18:00, Building: West, Room: Mall
+Instructor: OVEISI-FORDOEI, MEHRDAD
+
+Department: CPSC
+Course Number: 210
+Section: L11
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L12
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L13
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L14
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L15
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L16
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1A
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1B
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1C
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1D
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1E
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1F
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1G
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1H
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1J
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1K
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1L
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1M
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1N
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1O
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1P
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1Q
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1R
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1S
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1T
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1U
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1V
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1X
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1Y
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L1Z
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: 1W1
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: To, Room: Be
+Instructor: GRUND, FELIX
+
+Department: CPSC
+Course Number: 210
+Section: 1W2
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: To, Room: Be
+Instructor: GRUND, FELIX
+
+Department: CPSC
+Course Number: 210
+Section: 1W4
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:00, End Time: 18:00
+Instructor: OVEISI-FORDOEI, MEHRDAD
+
+Department: CPSC
+Course Number: 210
+Section: 201
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Earth, Room: Sciences
+Instructor: WOLFMAN, STEVEN
+
+Department: CPSC
+Course Number: 210
+Section: L2A
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2B
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2C
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2D
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2E
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2F
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2G
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2H
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2J
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2K
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2L
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2M
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2N
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2P
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2Q
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2R
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2S
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2T
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2U
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2W
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2X
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2Y
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2Z
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: 202
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Hugh, Room: Dempster
+Instructor: ALLEN, MEGHAN
+
+Department: CPSC
+Course Number: 210
+Section: L2A
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2B
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2C
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2D
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2E
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2F
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2G
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2H
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2J
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2K
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2L
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2M
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2N
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2P
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2Q
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2R
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2S
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2T
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2U
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2W
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2X
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2Y
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2Z
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: 203
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Earth, Room: Sciences
+Instructor: WOLFMAN, STEVEN
+
+Department: CPSC
+Course Number: 210
+Section: L2A
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2B
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2C
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2D
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2E
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2F
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2G
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2H
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 11:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2J
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2K
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2L
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2M
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2N
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2P
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2Q
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2R
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2S
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2T
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2U
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2W
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2X
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2Y
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: L2Z
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Institute, Room: for
+Instructor: TBA
+
+Department: CPSC
+Course Number: 210
+Section: 2W1
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: To, Room: Be
+Instructor: WOLFMAN, STEVEN
+
+Department: CPSC
+Course Number: 210
+Section: 2W2
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: To, Room: Be
+Instructor: ALLEN, MEGHAN
+
+Department: CPSC
+Course Number: 210
+Section: 2W3
+Description: Software Construction
+Pre-reqs: One of CPSC 107, CPSC 110.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: To, Room: Be
+Instructor: WOLFMAN, STEVEN
+

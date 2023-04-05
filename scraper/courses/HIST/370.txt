@@ -1,0 +1,50 @@
+Department: HIST
+Course Number: 370
+Section: 201
+Description: Europe since the middle of the twentieth century. Themes include the Cold War, the development of separate social and political systems in Western and Eastern Europe, the emergence of the welfare state, and the problems of European integration.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B215
+Instructor: LANTHIER, MICHAEL
+
+Department: HIST
+Course Number: 370
+Section: L01
+Description: Europe since the middle of the twentieth century. Themes include the Cold War, the development of separate social and political systems in Western and Eastern Europe, the emergence of the welfare state, and the problems of European integration.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: B312
+Instructor: LANTHIER, MICHAEL
+
+Department: HIST
+Course Number: 370
+Section: L02
+Description: Europe since the middle of the twentieth century. Themes include the Cold War, the development of separate social and political systems in Western and Eastern Europe, the emergence of the welfare state, and the problems of European integration.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B316
+Instructor: LANTHIER, MICHAEL
+
+Department: HIST
+Course Number: 370
+Section: L03
+Description: Europe since the middle of the twentieth century. Themes include the Cold War, the development of separate social and political systems in Western and Eastern Europe, the emergence of the welfare state, and the problems of European integration.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D306
+Instructor: LANTHIER, MICHAEL
+
+Department: HIST
+Course Number: 370
+Section: L04
+Description: Europe since the middle of the twentieth century. Themes include the Cold War, the development of separate social and political systems in Western and Eastern Europe, the emergence of the welfare state, and the problems of European integration.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B316
+Instructor: LANTHIER, MICHAEL
+

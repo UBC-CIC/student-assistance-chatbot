@@ -1,0 +1,90 @@
+Department: POLI
+Course Number: 220
+Section: 001
+Description: A comparative analysis of foreign governments. Specific countries to be covered will vary according to section; consult the brochure issued by the Department.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Leonard, Room: S.
+Instructor: KAM, CHRISTOPHER
+
+Department: POLI
+Course Number: 220
+Section: L2A
+Description: A comparative analysis of foreign governments. Specific countries to be covered will vary according to section; consult the brochure issued by the Department.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B312
+Instructor: TBA
+
+Department: POLI
+Course Number: 220
+Section: L2B
+Description: A comparative analysis of foreign governments. Specific countries to be covered will vary according to section; consult the brochure issued by the Department.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 13:30, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 220
+Section: L2C
+Description: A comparative analysis of foreign governments. Specific countries to be covered will vary according to section; consult the brochure issued by the Department.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D325
+Instructor: TBA
+
+Department: POLI
+Course Number: 220
+Section: L2D
+Description: A comparative analysis of foreign governments. Specific countries to be covered will vary according to section; consult the brochure issued by the Department.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 13:30, Building: Buchanan, Room: D319
+Instructor: TBA
+
+Department: POLI
+Course Number: 220
+Section: L2E
+Description: A comparative analysis of foreign governments. Specific countries to be covered will vary according to section; consult the brochure issued by the Department.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Irving, Room: K
+Instructor: TBA
+
+Department: POLI
+Course Number: 220
+Section: L2F
+Description: A comparative analysis of foreign governments. Specific countries to be covered will vary according to section; consult the brochure issued by the Department.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 13:30, Building: Buchanan, Room: B319
+Instructor: TBA
+
+Department: POLI
+Course Number: 220
+Section: L2G
+Description: A comparative analysis of foreign governments. Specific countries to be covered will vary according to section; consult the brochure issued by the Department.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 13:30, Building: Buchanan, Room: D214
+Instructor: TBA
+
+Department: POLI
+Course Number: 220
+Section: L2H
+Description: A comparative analysis of foreign governments. Specific countries to be covered will vary according to section; consult the brochure issued by the Department.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Frederic, Room: Lasserre
+Instructor: TBA
+

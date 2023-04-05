@@ -1,0 +1,10 @@
+Department: FIPR
+Course Number: 337
+Section: 001
+Description: Introductory cinematography and lighting techniques and aesthetics for 16mm film and digital media.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 22:00, Building: Theatre-Film, Room: Production
+Instructor: SCOTT, DEVAN
+

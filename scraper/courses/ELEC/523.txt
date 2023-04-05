@@ -1,0 +1,17 @@
+Department: ELEC
+Course Number: 523
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Food,, Room: Nutrition
+Instructor: NAJARIAN, SIAMAK
+
+Department: ELEC
+Course Number: 523
+Section: 1W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: NAJARIAN, SIAMAK
+

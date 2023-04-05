@@ -1,0 +1,11 @@
+Department: CONS
+Course Number: 425
+Section: 201
+Description: Sustainable Energy: Policy and Governance
+Pre-reqs: (Third- or fouth-year standing; 100-level MATH course.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Hugh, Room: Dempster
+Instructor: ZERRIFFI, HISHAM
+

@@ -1,0 +1,11 @@
+Department: MIDW
+Course Number: 310
+Section: 002
+Description: An original piece of scholarship that builds on knowledge and skills acquired from coursework and in consultation with faculty mentors. This self-directed course can be taken in year 1, 2, or 3 of the Program.
+Pre-reqs: (Exemption from or completion of MIDW 115.)
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:00, End Time: 12:00
+Instructor: KORNELSEN, JUDE
+

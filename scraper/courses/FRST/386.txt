@@ -1,0 +1,66 @@
+Department: FRST
+Course Number: 386
+Section: 201
+Description: Effects of forest management activities on fish and aquatic ecosystems.
+Pre-reqs: (Third- or fourth-year standing in Forestry, Science or Applied Science.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: HINCH, SCOTT
+
+Department: FRST
+Course Number: 386
+Section: L01
+Description: Effects of forest management activities on fish and aquatic ecosystems.
+Pre-reqs: (Third- or fourth-year standing in Forestry, Science or Applied Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Forest, Room: Sciences
+Instructor: HINCH, SCOTT
+
+Department: FRST
+Course Number: 386
+Section: L02
+Description: Effects of forest management activities on fish and aquatic ecosystems.
+Pre-reqs: (Third- or fourth-year standing in Forestry, Science or Applied Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Forest, Room: Sciences
+Instructor: HINCH, SCOTT
+
+Department: FRST
+Course Number: 386
+Section: L03
+Description: Effects of forest management activities on fish and aquatic ecosystems.
+Pre-reqs: (Third- or fourth-year standing in Forestry, Science or Applied Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 15:00, Building: Forest, Room: Sciences
+Instructor: HINCH, SCOTT
+
+Department: FRST
+Course Number: 386
+Section: L04
+Description: Effects of forest management activities on fish and aquatic ecosystems.
+Pre-reqs: (Third- or fourth-year standing in Forestry, Science or Applied Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: HINCH, SCOTT
+
+Department: FRST
+Course Number: 386
+Section: L05
+Description: Effects of forest management activities on fish and aquatic ecosystems.
+Pre-reqs: (Third- or fourth-year standing in Forestry, Science or Applied Science.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Forest, Room: Sciences
+Instructor: HINCH, SCOTT
+

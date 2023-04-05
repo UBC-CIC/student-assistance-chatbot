@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 463
+Section: 201
+Description: Managing an organization's strategic communications and relationships with diverse publics to handle issues, strengthen reputation, fulfill social responsibilities, and build trust. Topics include stakeholder engagement, issues management, crisis communications, and events and sponsorship.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: MILNE, TAMAR
+

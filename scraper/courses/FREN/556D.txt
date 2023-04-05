@@ -1,0 +1,8 @@
+Department: FREN
+Course Number: 556D
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BOUCHARD, MARIE-EVE(Coordinator)
+

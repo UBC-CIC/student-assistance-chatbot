@@ -1,0 +1,70 @@
+Department: ARTH
+Course Number: 101
+Section: 001
+Description: Drawing on examples from across history and around the world, this course deals with the role of the visual in society, culture, and everyday experience.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 12:00, Building: Wesbrook, Room: 100
+Instructor: ORELL, JULIA
+
+Department: ARTH
+Course Number: 101
+Section: L01
+Description: Drawing on examples from across history and around the world, this course deals with the role of the visual in society, culture, and everyday experience.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Geography, Room: 242
+Instructor: ORELL, JULIA
+
+Department: ARTH
+Course Number: 101
+Section: L02
+Description: Drawing on examples from across history and around the world, this course deals with the role of the visual in society, culture, and everyday experience.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 14:00, Building: Frederic, Room: Lasserre
+Instructor: ORELL, JULIA
+
+Department: ARTH
+Course Number: 101
+Section: L03
+Description: Drawing on examples from across history and around the world, this course deals with the role of the visual in society, culture, and everyday experience.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B216
+Instructor: ORELL, JULIA
+
+Department: ARTH
+Course Number: 101
+Section: L04
+Description: Drawing on examples from across history and around the world, this course deals with the role of the visual in society, culture, and everyday experience.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: B216
+Instructor: ORELL, JULIA
+
+Department: ARTH
+Course Number: 101
+Section: L05
+Description: Drawing on examples from across history and around the world, this course deals with the role of the visual in society, culture, and everyday experience.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: B216
+Instructor: ORELL, JULIA
+
+Department: ARTH
+Course Number: 101
+Section: L06
+Description: Drawing on examples from across history and around the world, this course deals with the role of the visual in society, culture, and everyday experience.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B216
+Instructor: ORELL, JULIA
+

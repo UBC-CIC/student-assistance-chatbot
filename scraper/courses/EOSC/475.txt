@@ -1,0 +1,21 @@
+Department: EOSC
+Course Number: 475
+Section: 201
+Description: Advanced biology, ecology and diversity of marine microbes. Emphasis on the roles of bacteria and viruses in marine foodwebs and geochemical cycles.
+Pre-reqs: (A minimum of 6 credits of third-year level life science courses.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Earth, Room: and
+Instructor: SUTTLE, CURTIS
+
+Department: EOSC
+Course Number: 475
+Section: WL1
+Description: Advanced biology, ecology and diversity of marine microbes. Emphasis on the roles of bacteria and viruses in marine foodwebs and geochemical cycles.
+Pre-reqs: (A minimum of 6 credits of third-year level life science courses.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

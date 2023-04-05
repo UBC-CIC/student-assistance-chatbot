@@ -1,0 +1,87 @@
+Department: EOSC
+Course Number: 221
+Section: 201
+Description: Optical mineralogy and the classification and genesis of igneous, metamorphic and sedimentary rocks.
+Pre-reqs: EOSC 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 10:30, Building: Earth, Room: Sciences
+Instructor: KOPYLOVA, MAYA
+
+Department: EOSC
+Course Number: 221
+Section: L2A
+Description: Optical mineralogy and the classification and genesis of igneous, metamorphic and sedimentary rocks.
+Pre-reqs: EOSC 220.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 18:00, End Time: 21:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 221
+Section: L2B
+Description: Optical mineralogy and the classification and genesis of igneous, metamorphic and sedimentary rocks.
+Pre-reqs: EOSC 220.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 221
+Section: L2C
+Description: Optical mineralogy and the classification and genesis of igneous, metamorphic and sedimentary rocks.
+Pre-reqs: EOSC 220.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 221
+Section: L2D
+Description: Optical mineralogy and the classification and genesis of igneous, metamorphic and sedimentary rocks.
+Pre-reqs: EOSC 220.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 15:00, End Time: 18:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 221
+Section: L2E
+Description: Optical mineralogy and the classification and genesis of igneous, metamorphic and sedimentary rocks.
+Pre-reqs: EOSC 220.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 18:00, End Time: 21:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 221
+Section: L2F
+Description: Optical mineralogy and the classification and genesis of igneous, metamorphic and sedimentary rocks.
+Pre-reqs: EOSC 220.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 221
+Section: 2W1
+Description: Optical mineralogy and the classification and genesis of igneous, metamorphic and sedimentary rocks.
+Pre-reqs: EOSC 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

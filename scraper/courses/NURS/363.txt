@@ -1,0 +1,11 @@
+Department: NURS
+Course Number: 363
+Section: 001
+Description: Students will apply theory and concepts from a life course perspective in provision of nursing care to persons living with mental health challenges and their families.
+Pre-reqs: All of NURS 300, NURS 310, NURS 321, NURS 322, NURS 330, NURS 352, NURS 360.
+Co-reqs: NURS 303 and one of NURS 323, NURS 401.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MAHY, NANCY
+

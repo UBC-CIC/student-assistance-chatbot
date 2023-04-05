@@ -1,0 +1,30 @@
+Department: DSCI
+Course Number: 551
+Section: 001
+Description: Descriptive statistics including measures of location and spread. Random variables, distributions, and parameters. Categorical variables. Uncertainty. Missing data.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:30, End Time: 12:00, Building: Pharmaceutical, Room: Sciences
+Instructor: RODRÍGUEZ ARELIS, GILBERTO ALEXI
+
+Department: DSCI
+Course Number: 551
+Section: L01
+Description: Descriptive statistics including measures of location and spread. Random variables, distributions, and parameters. Categorical variables. Uncertainty. Missing data.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: RODRÍGUEZ ARELIS, GILBERTO ALEXI
+
+Department: DSCI
+Course Number: 551
+Section: L02
+Description: Descriptive statistics including measures of location and spread. Random variables, distributions, and parameters. Categorical variables. Uncertainty. Missing data.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: RODRÍGUEZ ARELIS, GILBERTO ALEXI
+

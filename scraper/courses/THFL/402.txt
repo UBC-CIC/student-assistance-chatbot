@@ -1,0 +1,11 @@
+Department: THFL
+Course Number: 402
+Section: 001
+Description: Preparation to transition into the theatre and film industry. Portfolio development, visual identity, and skills to support professional performance practices aligned with theatre and film professional associations.
+Pre-reqs: (Pre or Corequisites: One of THTR 305, THTR 306, THTR 307, THTR 308, FIPR 333)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Theatre-Film, Room: Production
+Instructor: RIZZOTTI, PATRICK
+

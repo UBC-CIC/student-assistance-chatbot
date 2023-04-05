@@ -1,0 +1,18 @@
+Department: PHRM
+Course Number: 303E
+Section: 001
+Description: Individual assignments involving library and laboratory investigation of problems involved in the development of pharmaceutical dosage forms.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: WISNOVSKY, SIMON
+
+Department: PHRM
+Course Number: 303E
+Section: 002
+Description: Individual assignments involving library and laboratory investigation of problems involved in the development of pharmaceutical dosage forms.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LI, SHYH-DAR
+

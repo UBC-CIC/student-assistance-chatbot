@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 496
+Section: 201
+Description: Biotechnological engineering research topic.
+Pre-reqs: CHBE 495.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: CAO, YANKAI
+

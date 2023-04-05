@@ -1,0 +1,50 @@
+Department: FRST
+Course Number: 311
+Section: 101
+Description: Mechanisms and regulation of functional processes contributing to the assimilation, transport and utilization of water, mineral nutrients and carbon by plants. CHEM 203, CHEM 213, or CHEM 233 and CHEM 235 is recommended.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Hugh, Room: Dempster
+Instructor: MANSFIELD, SHAWN
+
+Department: FRST
+Course Number: 311
+Section: L10
+Description: Mechanisms and regulation of functional processes contributing to the assimilation, transport and utilization of water, mineral nutrients and carbon by plants. CHEM 203, CHEM 213, or CHEM 233 and CHEM 235 is recommended.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: SINGH, SANTOKH
+
+Department: FRST
+Course Number: 311
+Section: L11
+Description: Mechanisms and regulation of functional processes contributing to the assimilation, transport and utilization of water, mineral nutrients and carbon by plants. CHEM 203, CHEM 213, or CHEM 233 and CHEM 235 is recommended.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: SINGH, SANTOKH
+
+Department: FRST
+Course Number: 311
+Section: L12
+Description: Mechanisms and regulation of functional processes contributing to the assimilation, transport and utilization of water, mineral nutrients and carbon by plants. CHEM 203, CHEM 213, or CHEM 233 and CHEM 235 is recommended.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: SINGH, SANTOKH
+
+Department: FRST
+Course Number: 311
+Section: L13
+Description: Mechanisms and regulation of functional processes contributing to the assimilation, transport and utilization of water, mineral nutrients and carbon by plants. CHEM 203, CHEM 213, or CHEM 233 and CHEM 235 is recommended.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: SINGH, SANTOKH
+

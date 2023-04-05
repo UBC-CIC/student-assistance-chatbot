@@ -1,0 +1,33 @@
+Department: DSCI
+Course Number: 532
+Section: 001
+Description: Interactive visualization, design choices, dynamic change over time, multiple views, data reduction, dealing with complexity.
+Pre-reqs: DSCI 531.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:30, End Time: 12:00, Building: MacMillan, Room: 166
+Instructor: D' ANDREA, MARIA FLORENCIA
+
+Department: DSCI
+Course Number: 532
+Section: L01
+Description: Interactive visualization, design choices, dynamic change over time, multiple views, data reduction, dealing with complexity.
+Pre-reqs: DSCI 531.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: D' ANDREA, MARIA FLORENCIA
+
+Department: DSCI
+Course Number: 532
+Section: L02
+Description: Interactive visualization, design choices, dynamic change over time, multiple views, data reduction, dealing with complexity.
+Pre-reqs: DSCI 531.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: D' ANDREA, MARIA FLORENCIA
+

@@ -1,0 +1,59 @@
+Department: PHYS
+Course Number: 219
+Section: L1A
+Description: Analog electronics and amplifiers, digital electronics, analog-to-digital converters and an introduction to use of computers in data analysis and simulations.
+Pre-reqs: Either (a) one of PHYS 108, PHYS 118 and one of PHYS 109, PHYS 119; or (b) PHYS 102 or (c) all of PHYS 158, PHYS 159 or (d) SCIE 001.
+Co-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 418
+Instructor: KIEFL, ROBERT
+
+Department: PHYS
+Course Number: 219
+Section: L1B
+Description: Analog electronics and amplifiers, digital electronics, analog-to-digital converters and an introduction to use of computers in data analysis and simulations.
+Pre-reqs: Either (a) one of PHYS 108, PHYS 118 and one of PHYS 109, PHYS 119; or (b) PHYS 102 or (c) all of PHYS 158, PHYS 159 or (d) SCIE 001.
+Co-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 418
+Instructor: KIEFL, ROBERT
+
+Department: PHYS
+Course Number: 219
+Section: L1C
+Description: Analog electronics and amplifiers, digital electronics, analog-to-digital converters and an introduction to use of computers in data analysis and simulations.
+Pre-reqs: Either (a) one of PHYS 108, PHYS 118 and one of PHYS 109, PHYS 119; or (b) PHYS 102 or (c) all of PHYS 158, PHYS 159 or (d) SCIE 001.
+Co-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 418
+Instructor: KIEFL, ROBERT
+
+Department: PHYS
+Course Number: 219
+Section: L1W
+Description: Analog electronics and amplifiers, digital electronics, analog-to-digital converters and an introduction to use of computers in data analysis and simulations.
+Pre-reqs: Either (a) one of PHYS 108, PHYS 118 and one of PHYS 109, PHYS 119; or (b) PHYS 102 or (c) all of PHYS 158, PHYS 159 or (d) SCIE 001.
+Co-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 219
+Section: T1A
+Description: Analog electronics and amplifiers, digital electronics, analog-to-digital converters and an introduction to use of computers in data analysis and simulations.
+Pre-reqs: Either (a) one of PHYS 108, PHYS 118 and one of PHYS 109, PHYS 119; or (b) PHYS 102 or (c) all of PHYS 158, PHYS 159 or (d) SCIE 001.
+Co-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 11:00, End Time: 12:30, Building: Hennings, Room: 201
+Instructor: KIEFL, ROBERT
+

@@ -1,0 +1,9 @@
+Department: BIOF
+Course Number: 501A
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 17:00
+Instructor: HSIAO, WILLIAM
+

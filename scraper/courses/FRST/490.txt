@@ -1,0 +1,10 @@
+Department: FRST
+Course Number: 490
+Section: 201
+Pre-reqs: (Third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 18:00, Building: Forest, Room: Sciences
+Instructor: CAMPBELL, DAVID CAMERON
+

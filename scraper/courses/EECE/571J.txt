@@ -1,0 +1,8 @@
+Department: EECE
+Course Number: 571J
+Section: 208
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

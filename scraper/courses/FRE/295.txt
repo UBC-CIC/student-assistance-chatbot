@@ -1,0 +1,10 @@
+Department: FRE
+Course Number: 295
+Section: 106
+Pre-reqs: All of ECON 101, ECON 102 and MATH 105.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: SHRESTHA, RATNA
+

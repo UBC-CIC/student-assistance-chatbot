@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 396
+Section: 101
+Description: Overview of land use and environmental change in Canada and the United States; examines ideas and practices that shaped indigenous and non-indigenous resource exploitation, management, and activism to the end of the twentieth century.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 9:30, End Time: 11:00, Building: Geography, Room: 101
+Instructor: LOO, TINA MERRILL
+

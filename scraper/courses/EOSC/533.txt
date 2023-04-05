@@ -1,0 +1,10 @@
+Department: EOSC
+Course Number: 533
+Section: 101
+Description: Finite-difference models of steady-state and transient groundwater flow in the saturated and unsaturated zones; applications to regional groundwater flow, groundwater recharge, subsurface contributions to streamflow, and aquifer evaluation.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 8:00, End Time: 10:00, Building: Frank, Room: Forward
+Instructor: BECKIE, ROGER
+

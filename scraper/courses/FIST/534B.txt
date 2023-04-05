@@ -1,0 +1,10 @@
+Department: FIST
+Course Number: 534B
+Section: 002
+Description: Topics to be arranged.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 14:00, Building: Irving, Room: K
+Instructor: ZUO, MILA
+

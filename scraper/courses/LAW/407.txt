@@ -1,0 +1,18 @@
+Department: LAW
+Course Number: 407
+Section: 001
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: DUFF, DAVID
+
+Department: LAW
+Course Number: 407
+Section: 002
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 10:30, End Time: 12:30, Building: Allard, Room: Hall
+Instructor: CUI, WEI
+

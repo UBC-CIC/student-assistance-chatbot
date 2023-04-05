@@ -1,0 +1,10 @@
+Department: HUNU
+Course Number: 500
+Section: 001
+Description: Experimental design, methods of survey research, nutritional epidemiology, clinical research, and laboratory animal research. Issues such as animal models, ethics in animal and human research, statistical methods, and preparation of written reports and manuscripts, etc., will be addressed. Required of all M.Sc. and Ph.D. students in Human Nutrition.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: Civil, Room: and
+Instructor: STEFANSKA, BARBARA
+

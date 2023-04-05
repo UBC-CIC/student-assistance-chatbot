@@ -1,0 +1,17 @@
+Department: EECE
+Course Number: 571F
+Section: 104
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:30, End Time: 15:00, Building: MacLeod, Room: 3002
+Instructor: LIAO, RENJIE
+
+Department: EECE
+Course Number: 571F
+Section: 1W4
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LIAO, RENJIE
+

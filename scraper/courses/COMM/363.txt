@@ -1,0 +1,66 @@
+Department: COMM
+Course Number: 363
+Section: 101
+Description: Analytical methods applicable to marketing management decision making; attention to strategic considerations linking analysis of consumer data, corporate data, environmental factors, and competitive response. The course makes extensive use of micro computers.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: SILK, TIMOTHY
+
+Department: COMM
+Course Number: 363
+Section: 102
+Description: Analytical methods applicable to marketing management decision making; attention to strategic considerations linking analysis of consumer data, corporate data, environmental factors, and competitive response. The course makes extensive use of micro computers.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: SILK, TIMOTHY
+
+Department: COMM
+Course Number: 363
+Section: 103
+Description: Analytical methods applicable to marketing management decision making; attention to strategic considerations linking analysis of consumer data, corporate data, environmental factors, and competitive response. The course makes extensive use of micro computers.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: SILK, TIMOTHY
+
+Department: COMM
+Course Number: 363
+Section: 201
+Description: Analytical methods applicable to marketing management decision making; attention to strategic considerations linking analysis of consumer data, corporate data, environmental factors, and competitive response. The course makes extensive use of micro computers.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 8:30, End Time: 10:00, Building: Henry, Room: Angus
+Instructor: KIM, BAEK JUNG
+
+Department: COMM
+Course Number: 363
+Section: 202
+Description: Analytical methods applicable to marketing management decision making; attention to strategic considerations linking analysis of consumer data, corporate data, environmental factors, and competitive response. The course makes extensive use of micro computers.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: KIM, BAEK JUNG
+
+Department: COMM
+Course Number: 363
+Section: 203
+Description: Analytical methods applicable to marketing management decision making; attention to strategic considerations linking analysis of consumer data, corporate data, environmental factors, and competitive response. The course makes extensive use of micro computers.
+Pre-reqs: COMM 296.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: KIM, BAEK JUNG
+

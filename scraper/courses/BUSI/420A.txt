@@ -1,0 +1,9 @@
+Department: BUSI
+Course Number: 420A
+Section: 003
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 344D
+Section: 001
+Description: Emerging interdisciplinary scholarship on regulation, governance, and institutional design. Examination of research and experience around both formal and legal regulatory strategies, and other informal, decentred, or non-state-based methods of ordering individual and organizational behaviour.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
+Instructor: FORD, CRISTIE
+

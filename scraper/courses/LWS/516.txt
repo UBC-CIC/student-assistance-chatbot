@@ -1,0 +1,19 @@
+Department: LWS
+Course Number: 516
+Section: 001
+Description: Urbanization impacts on water resources with a focus on rainwater management, water quality, point and non-point sources of pollution, drinking water and waste water, riparian buffer zones, cumulative effects, and application of beneficial management practices.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: WILSON, JULIE
+
+Department: LWS
+Course Number: 516
+Section: D01
+Description: Urbanization impacts on water resources with a focus on rainwater management, water quality, point and non-point sources of pollution, drinking water and waste water, riparian buffer zones, cumulative effects, and application of beneficial management practices.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Orchard, Room: Commons
+Instructor: WILSON, JULIE
+

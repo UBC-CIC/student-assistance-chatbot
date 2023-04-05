@@ -1,0 +1,50 @@
+Department: HIST
+Course Number: 108
+Section: 201
+Description: The history of capitalism in its global dimension from the beginnings to the age of industrialization. An investigation of economies - in both their practices and cultures - around the world and across the ages from ancient times to the modern era.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 14:00, Building: Buchanan, Room: B215
+Instructor: HANSER, JESSICA
+
+Department: HIST
+Course Number: 108
+Section: L01
+Description: The history of capitalism in its global dimension from the beginnings to the age of industrialization. An investigation of economies - in both their practices and cultures - around the world and across the ages from ancient times to the modern era.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D216
+Instructor: HANSER, JESSICA
+
+Department: HIST
+Course Number: 108
+Section: L02
+Description: The history of capitalism in its global dimension from the beginnings to the age of industrialization. An investigation of economies - in both their practices and cultures - around the world and across the ages from ancient times to the modern era.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 12:00, End Time: 13:00, Building: Buchanan, Room: B319
+Instructor: HANSER, JESSICA
+
+Department: HIST
+Course Number: 108
+Section: L03
+Description: The history of capitalism in its global dimension from the beginnings to the age of industrialization. An investigation of economies - in both their practices and cultures - around the world and across the ages from ancient times to the modern era.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D325
+Instructor: HANSER, JESSICA
+
+Department: HIST
+Course Number: 108
+Section: L04
+Description: The history of capitalism in its global dimension from the beginnings to the age of industrialization. An investigation of economies - in both their practices and cultures - around the world and across the ages from ancient times to the modern era.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: B319
+Instructor: HANSER, JESSICA
+

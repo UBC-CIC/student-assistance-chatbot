@@ -1,0 +1,19 @@
+Department: LFS
+Course Number: 450
+Section: 001
+Description: Design, analysis, recommendation or implementation of solutions in response to a food sustainability issue faced by community partners. Emphasis is on professional communication, leadership development, project management and decision-making skills.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: MacMillan, Room: 158
+Instructor: RICHER, LISKA
+
+Department: LFS
+Course Number: 450
+Section: 0W1
+Description: Design, analysis, recommendation or implementation of solutions in response to a food sustainability issue faced by community partners. Emphasis is on professional communication, leadership development, project management and decision-making skills.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

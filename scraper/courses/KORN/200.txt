@@ -1,0 +1,54 @@
+Department: KORN
+Course Number: 200
+Section: 001
+Description: Reading and writing of modern colloquial Korean at an intermediate level. As of 2011W, credit will be granted for only one of KORN 201/202 or KORN 200.
+Pre-reqs: One of KORN 101, KORN 102.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D221
+Instructor: LEE, INSUN
+
+Department: KORN
+Course Number: 200
+Section: 002
+Description: Reading and writing of modern colloquial Korean at an intermediate level. As of 2011W, credit will be granted for only one of KORN 201/202 or KORN 200.
+Pre-reqs: One of KORN 101, KORN 102.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: KORN
+Course Number: 200
+Section: 003
+Description: Reading and writing of modern colloquial Korean at an intermediate level. As of 2011W, credit will be granted for only one of KORN 201/202 or KORN 200.
+Pre-reqs: One of KORN 101, KORN 102.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 10:00, End Time: 11:00, Building: Buchanan, Room: D229
+Instructor: LEE, INSUN
+
+Department: KORN
+Course Number: 200
+Section: W01
+Description: Reading and writing of modern colloquial Korean at an intermediate level. As of 2011W, credit will be granted for only one of KORN 201/202 or KORN 200.
+Pre-reqs: One of KORN 101, KORN 102.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 14:00, End Time: 15:00, Building: To, Room: Be
+Instructor: LEE, INSUN
+
+Department: KORN
+Course Number: 200
+Section: W03
+Description: Reading and writing of modern colloquial Korean at an intermediate level. As of 2011W, credit will be granted for only one of KORN 201/202 or KORN 200.
+Pre-reqs: One of KORN 101, KORN 102.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 10:00, End Time: 11:00, Building: To, Room: Be
+Instructor: LEE, INSUN
+

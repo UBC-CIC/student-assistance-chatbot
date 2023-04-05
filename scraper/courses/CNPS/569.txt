@@ -1,0 +1,9 @@
+Department: CNPS
+Course Number: 569
+Section: 074
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:30, End Time: 16:30, Building: Neville, Room: Scarfe
+Instructor: HAVERKAMP, BETH
+

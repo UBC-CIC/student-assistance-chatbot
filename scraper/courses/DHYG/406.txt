@@ -1,0 +1,10 @@
+Department: DHYG
+Course Number: 406
+Section: 001
+Description: Conduct an in-depth investigation of a health promotion issue.
+Pre-reqs: All of DHYG 400, DHYG 401, DHYG 461. (And Faculty approval.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HATZIMANOLAKIS, PENNY
+

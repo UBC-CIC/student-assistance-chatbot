@@ -1,0 +1,10 @@
+Department: ARCL
+Course Number: 235
+Section: 002
+Description: How, when and why humans became dependent on cultivated foods and domestic animals and the methods used to document plant and animal domestication.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: A201
+Instructor: ALAICA, ALEKSA
+

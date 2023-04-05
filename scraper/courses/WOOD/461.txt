@@ -1,0 +1,33 @@
+Department: WOOD
+Course Number: 461
+Section: 201
+Description: Examination of globalization and its impact on sustainability, including social, economic, and environmental aspects.
+Pre-reqs: (At least third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Hugh, Room: Dempster
+Instructor: VAN DER VEN, HAMISH
+
+Department: WOOD
+Course Number: 461
+Section: L01
+Description: Examination of globalization and its impact on sustainability, including social, economic, and environmental aspects.
+Pre-reqs: (At least third-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 9:00, End Time: 11:00, Building: Forest, Room: Sciences
+Instructor: VAN DER VEN, HAMISH
+
+Department: WOOD
+Course Number: 461
+Section: L02
+Description: Examination of globalization and its impact on sustainability, including social, economic, and environmental aspects.
+Pre-reqs: (At least third-year standing.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 11:00, Building: Forest, Room: Sciences
+Instructor: VAN DER VEN, HAMISH
+

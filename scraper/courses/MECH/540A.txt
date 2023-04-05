@@ -1,0 +1,18 @@
+Department: MECH
+Course Number: 540A
+Section: 101
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 19:00, End Time: 20:30, Building: Civil, Room: and
+Instructor: SIELMANN, CHRISTOPH
+
+Department: MECH
+Course Number: 540A
+Section: L1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: To, Room: Be
+Instructor: SIELMANN, CHRISTOPH
+

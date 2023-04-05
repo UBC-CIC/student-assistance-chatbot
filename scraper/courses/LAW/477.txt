@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 477
+Section: 001
+Description: Negotiation and bargaining; formulation of general principles governing the negotiation process; negotiation in legal practice; alternative means of dispute resolution.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Allard, Room: Hall
+Instructor: LEBARON, MICHELLE
+

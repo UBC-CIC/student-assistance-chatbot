@@ -1,0 +1,10 @@
+Department: PHIL
+Course Number: 414A
+Section: 001
+Description: Intensive study of a major philosopher or school such as Descartes, Hume, Empiricism, Rationalism, or the British utilitarians.
+Pre-reqs: One of PHIL 314, PHIL 315, PHIL 316.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

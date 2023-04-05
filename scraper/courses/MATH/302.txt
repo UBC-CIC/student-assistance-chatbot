@@ -1,0 +1,32 @@
+Department: MATH
+Course Number: 302
+Section: 101
+Description: Introduction to Probability
+Pre-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Mathematics, Room: Annex
+Instructor: RICHEY, JACOB
+
+Department: MATH
+Course Number: 302
+Section: 102
+Pre-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: West, Room: Mall
+Instructor: HERMON, JONATHAN
+
+Department: MATH
+Course Number: 302
+Section: 201
+Description: Introduction to Probability
+Pre-reqs: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Leonard, Room: S.
+Instructor: ROBEVA, ELINA
+

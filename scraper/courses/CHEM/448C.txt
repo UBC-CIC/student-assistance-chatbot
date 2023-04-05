@@ -1,0 +1,9 @@
+Department: CHEM
+Course Number: 448C
+Section: 001
+Description: Directed Studies in Chemistry - DST CHEMISTRY
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

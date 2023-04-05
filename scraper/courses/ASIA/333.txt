@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 333
+Section: 001
+Description: Main theories and key concepts with a particular focus on the changing status of women, and gender and sexual minorities.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:30
+Instructor: THOBANI, SUNERA
+
+Department: ASIA
+Course Number: 333
+Section: W01
+Description: Main theories and key concepts with a particular focus on the changing status of women, and gender and sexual minorities.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon, Start Time: 12:00, End Time: 13:30
+Instructor: THOBANI, SUNERA
+

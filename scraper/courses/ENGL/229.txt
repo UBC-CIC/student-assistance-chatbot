@@ -1,0 +1,33 @@
+Department: ENGL
+Course Number: 229
+Section: 001
+Description: Topics in the Study of Language and/or Rhetoric
+Pre-reqs: (Second-year standing and 3 credits from one of (a) 100-level ENGL or (b) ARTS 001 or (c) ASTU 100 or (d) ASTU 101 or (e) WRDS 150 or (f) WRDS 350. Prerequisites must be met by the first day of class or students will be withdrawn.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: B210
+Instructor: DANCYGIER, BARBARA
+
+Department: ENGL
+Course Number: 229
+Section: 002
+Description: Topics in the Study of Language and/or Rhetoric
+Pre-reqs: (Second-year standing and 3 credits from one of (a) 100-level ENGL or (b) ARTS 001 or (c) ASTU 100 or (d) ASTU 101 or (e) WRDS 150 or (f) WRDS 350. Prerequisites must be met by the first day of class or students will be withdrawn.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: B210
+Instructor: STICKLES, ELISE
+
+Department: ENGL
+Course Number: 229
+Section: 003
+Description: Topics in the Study of Language and/or Rhetoric
+Pre-reqs: (Second-year standing and 3 credits from one of (a) 100-level ENGL or (b) ARTS 001 or (c) ASTU 100 or (d) ASTU 101 or (e) WRDS 150 or (f) WRDS 350. Prerequisites must be met by the first day of class or students will be withdrawn.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D317
+Instructor: DE VILLIERS, JESSICA
+

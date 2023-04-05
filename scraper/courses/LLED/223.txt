@@ -1,0 +1,40 @@
+Department: LLED
+Course Number: 223
+Section: 001
+Description: Exploration of the emergence of new English varieties, as well as a critical examination of main reasons linked to the rise of English worldwide and its proposed role as a neutral global language.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:30, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: FAZEL, ISMAEIL
+
+Department: LLED
+Course Number: 223
+Section: L01
+Description: Exploration of the emergence of new English varieties, as well as a critical examination of main reasons linked to the rise of English worldwide and its proposed role as a neutral global language.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:30, End Time: 13:00, Building: Geography, Room: 201
+Instructor: TBA
+
+Department: LLED
+Course Number: 223
+Section: 002
+Description: Exploration of the emergence of new English varieties, as well as a critical examination of main reasons linked to the rise of English worldwide and its proposed role as a neutral global language.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:30, End Time: 12:30, Building: RITS, Room: 235
+Instructor: FAZEL, ISMAEIL
+
+Department: LLED
+Course Number: 223
+Section: L02
+Description: Exploration of the emergence of new English varieties, as well as a critical examination of main reasons linked to the rise of English worldwide and its proposed role as a neutral global language.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 11:30, End Time: 13:00, Building: RITS, Room: 235
+Instructor: TBA
+

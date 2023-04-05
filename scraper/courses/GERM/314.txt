@@ -1,0 +1,10 @@
+Department: GERM
+Course Number: 314
+Section: 001
+Description: Business German
+Pre-reqs: GERM 210.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

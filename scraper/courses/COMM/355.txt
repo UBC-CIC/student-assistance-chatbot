@@ -1,0 +1,55 @@
+Department: COMM
+Course Number: 355
+Section: 101
+Description: Income Taxation
+Pre-reqs: One of COMM 293, COMM 457.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Henry, Room: Angus
+Instructor: WONG, RICHARD
+
+Department: COMM
+Course Number: 355
+Section: 102
+Description: Income Taxation
+Pre-reqs: One of COMM 293, COMM 457.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:30, Building: Henry, Room: Angus
+Instructor: WONG, RICHARD
+
+Department: COMM
+Course Number: 355
+Section: 103
+Description: Income Taxation
+Pre-reqs: One of COMM 293, COMM 457.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: WONG, RICHARD
+
+Department: COMM
+Course Number: 355
+Section: 201
+Description: Income Taxation
+Pre-reqs: One of COMM 293, COMM 457.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:30, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: WONG, RICHARD
+
+Department: COMM
+Course Number: 355
+Section: 202
+Description: Income Taxation
+Pre-reqs: One of COMM 293, COMM 457.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 16:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: WONG, RICHARD
+

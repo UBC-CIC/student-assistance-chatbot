@@ -1,0 +1,10 @@
+Department: COMM
+Course Number: 311
+Section: 101
+Description: Research Theory for Commerce Scholars
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: AQUINO, KARL
+

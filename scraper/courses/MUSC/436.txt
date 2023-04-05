@@ -1,0 +1,10 @@
+Department: MUSC
+Course Number: 436
+Section: 001
+Description: Opera Theatre Techniques II
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 13:00, End Time: 15:00, Building: Auditorium, Room: 100
+Instructor: HERMISTON, NANCY JANE
+

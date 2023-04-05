@@ -1,0 +1,22 @@
+Department: KORN
+Course Number: 410A
+Section: 001
+Description: Reading and translating twentieth-century Korean short fiction.
+Pre-reqs: Either (a) KORN 300 or (b) all of KORN 301, KORN 302.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: B219
+Instructor: FULTON, BRUCE
+
+Department: KORN
+Course Number: 410A
+Section: W01
+Description: Reading and translating twentieth-century Korean short fiction.
+Pre-reqs: Either (a) KORN 300 or (b) all of KORN 301, KORN 302.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: To, Room: Be
+Instructor: FULTON, BRUCE
+

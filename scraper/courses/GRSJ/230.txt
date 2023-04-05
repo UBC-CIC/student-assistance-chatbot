@@ -1,0 +1,20 @@
+Department: GRSJ
+Course Number: 230
+Section: 101
+Description: The complex relationships between mechanisms of power, gender, and representation in Asia in different spaces examined through an interdisciplinary lens.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: West, Room: Mall
+Instructor: ALAM, RUSABA
+
+Department: GRSJ
+Course Number: 230
+Section: WL1
+Description: The complex relationships between mechanisms of power, gender, and representation in Asia in different spaces examined through an interdisciplinary lens.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: To, Room: Be
+Instructor: TBA
+

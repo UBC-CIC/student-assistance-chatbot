@@ -1,0 +1,73 @@
+Department: PHRM
+Course Number: 211
+Section: 001
+Description: Modules and integration activities focusing on respirology and cardiovascular disorders.
+Co-reqs: PHRM 231.
+Credits: 15
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 8:00, End Time: 12:00, Building: Pharmaceutical, Room: Sciences
+Instructor: SETO, KATHERINE
+
+Department: PHRM
+Course Number: 211
+Section: L01
+Description: Modules and integration activities focusing on respirology and cardiovascular disorders.
+Co-reqs: PHRM 231.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu Fri, Start Time: 8:30, End Time: 12:00, Building: Pharmaceutical, Room: Sciences
+
+Department: PHRM
+Course Number: 211
+Section: L02
+Description: Modules and integration activities focusing on respirology and cardiovascular disorders.
+Co-reqs: PHRM 231.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu Fri, Start Time: 8:30, End Time: 12:00
+
+Department: PHRM
+Course Number: 211
+Section: L03
+Description: Modules and integration activities focusing on respirology and cardiovascular disorders.
+Co-reqs: PHRM 231.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu Fri, Start Time: 8:30, End Time: 12:00
+
+Department: PHRM
+Course Number: 211
+Section: L04
+Description: Modules and integration activities focusing on respirology and cardiovascular disorders.
+Co-reqs: PHRM 231.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu Fri, Start Time: 8:30, End Time: 12:00
+Instructor: TBA
+
+Department: PHRM
+Course Number: 211
+Section: L05
+Description: Modules and integration activities focusing on respirology and cardiovascular disorders.
+Co-reqs: PHRM 231.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu Fri, Start Time: 8:30, End Time: 12:00
+Instructor: TBA
+
+Department: PHRM
+Course Number: 211
+Section: L06
+Description: Modules and integration activities focusing on respirology and cardiovascular disorders.
+Co-reqs: PHRM 231.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu Fri, Start Time: 8:30, End Time: 12:00
+

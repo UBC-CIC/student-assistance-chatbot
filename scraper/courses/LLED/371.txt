@@ -1,0 +1,21 @@
+Department: LLED
+Course Number: 371
+Section: 301
+Description: Pass/Fail.
+Pre-reqs: (A completed concentration in French of permission of the Department Head.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: GEORGE, NICOLE
+
+Department: LLED
+Course Number: 371
+Section: 640
+Description: Pass/Fail.
+Pre-reqs: (A completed concentration in French of permission of the Department Head.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,43 @@
+Department: BMEG
+Course Number: 457
+Section: 001
+Description: Capstone design and development of a practical biomedical device or system. Projects provided by local industry and engineering research laboratories.
+Pre-reqs: All of BMEG 350, BMEG 357.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Hugh, Room: Dempster
+Instructor: BAYAT, SHARAREH
+
+Department: BMEG
+Course Number: 457
+Section: S0A
+Description: Capstone design and development of a practical biomedical device or system. Projects provided by local industry and engineering research laboratories.
+Pre-reqs: All of BMEG 350, BMEG 357.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: Hennings, Room: 301
+Instructor: MOHAGHEGH HARANDI, NEGAR
+
+Department: BMEG
+Course Number: 457
+Section: T0A
+Description: Capstone design and development of a practical biomedical device or system. Projects provided by local industry and engineering research laboratories.
+Pre-reqs: All of BMEG 350, BMEG 357.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:00, End Time: 13:00, Building: P., Room: A.
+Instructor: TBA
+
+Department: BMEG
+Course Number: 457
+Section: WL1
+Description: Capstone design and development of a practical biomedical device or system. Projects provided by local industry and engineering research laboratories.
+Pre-reqs: All of BMEG 350, BMEG 357.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

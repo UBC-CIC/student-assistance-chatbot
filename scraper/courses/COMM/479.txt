@@ -1,0 +1,11 @@
+Department: COMM
+Course Number: 479
+Section: 101
+Description: Corporate Finance is the process by which corporations raise money, allocate funds to real assets, and manage the flow of funds back to the investors. Topics will vary according to interests of students, instructors, and developments in the field.
+Co-reqs: All of COMM 370, COMM 371.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: GIAMMARINO, RONALD
+

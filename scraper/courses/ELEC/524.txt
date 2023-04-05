@@ -1,0 +1,17 @@
+Department: ELEC
+Course Number: 524
+Section: 101
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Food,, Room: Nutrition
+Instructor: TANG, SHUO
+
+Department: ELEC
+Course Number: 524
+Section: 1W1
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

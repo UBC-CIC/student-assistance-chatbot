@@ -1,0 +1,17 @@
+Department: BASM
+Course Number: 510
+Section: 001
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 17:00, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: ARRATA, PHILIPPE
+
+Department: BASM
+Course Number: 510
+Section: WL1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

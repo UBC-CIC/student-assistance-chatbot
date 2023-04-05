@@ -1,0 +1,18 @@
+Department: PLAN
+Course Number: 548D
+Section: 001
+Description: Each year the school may offer one or more courses on a topical issue covering recent advances in the field.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 548D
+Section: 0W1
+Description: Each year the school may offer one or more courses on a topical issue covering recent advances in the field.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

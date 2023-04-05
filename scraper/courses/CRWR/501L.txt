@@ -1,0 +1,18 @@
+Department: CRWR
+Course Number: 501L
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: Jack, Room: Bell
+Instructor: WARRENER, SHERYDA
+
+Department: CRWR
+Course Number: 501L
+Section: D02
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Wed
+Instructor: KNIGHT, CHELENE
+

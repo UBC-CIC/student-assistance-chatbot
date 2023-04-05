@@ -1,0 +1,9 @@
+Department: FRST
+Course Number: 521C
+Section: 203
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Orchard, Room: Commons
+Instructor: NESBITT, LORIEN
+

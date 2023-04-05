@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 439
+Section: 001
+Description: Legal issues relating to the construction process. Not offered each year, consult Faculty.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:30, End Time: 20:30, Building: Allard, Room: Hall
+Instructor: CURTIS, DAVID
+

@@ -1,0 +1,18 @@
+Department: EECE
+Course Number: 571B
+Section: 107
+Description: Electrical Engineering Seminar and Special Problems - FDN OF BLOCKCHN
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 15:00, Building: MacLeod, Room: 2002
+Instructor: WANG, ZEHUA
+
+Department: EECE
+Course Number: 571B
+Section: 1W7
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: WANG, ZEHUA
+

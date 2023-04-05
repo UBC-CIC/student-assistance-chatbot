@@ -1,0 +1,18 @@
+Department: BA
+Course Number: 532C
+Section: 001
+Description: Intensive on-campus study at schools within the Global Network for Advanced Management (GNAM). Face-to-face course activities and lectures, cross-cultural teams, and final presentations on projects. Students can take more than one Global Network Week during their MBA program. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BA
+Course Number: 532C
+Section: 002
+Description: Intensive on-campus study at schools within the Global Network for Advanced Management (GNAM). Face-to-face course activities and lectures, cross-cultural teams, and final presentations on projects. Students can take more than one Global Network Week during their MBA program. Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

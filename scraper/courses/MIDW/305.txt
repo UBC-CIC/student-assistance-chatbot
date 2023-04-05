@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 305
+Section: 001
+Description: Theoretical principles of care for pregnancy, birth, and the puerperium with an emphasis on the recognition and management of variations of normal and findings outside of normal. Consists of a one-week intensive time in Vancouver, during which emergency skills certification is acquired, and weekly web-based tutorials.
+Credits: 6
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 16:00
+Instructor: JOHNSON, NATALIE
+

@@ -1,0 +1,18 @@
+Department: LFS
+Course Number: 101
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: TAYLOR, KAREN
+
+Department: LFS
+Course Number: 101
+Section: T1A
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: MacMillan, Room: 160
+Instructor: TAYLOR, KAREN
+

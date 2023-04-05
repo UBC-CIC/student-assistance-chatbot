@@ -1,0 +1,20 @@
+Department: CAPS
+Course Number: 398
+Section: 001
+Description: Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks full-time. Work term report required. Restricted to students admitted to the Co-op Option in Honours Cellular, Anatomical and Physiological Sciences (B.Sc.).
+Pre-reqs: (Co-op Workshops, CAPS 301, CAPS 303 (or, PHYL 301, PHYL 303).)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: OSBORNE, SALMA
+
+Department: CAPS
+Course Number: 398
+Section: 002
+Description: Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks full-time. Work term report required. Restricted to students admitted to the Co-op Option in Honours Cellular, Anatomical and Physiological Sciences (B.Sc.).
+Pre-reqs: (Co-op Workshops, CAPS 301, CAPS 303 (or, PHYL 301, PHYL 303).)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: OSBORNE, SALMA
+

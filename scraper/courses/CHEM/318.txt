@@ -1,0 +1,21 @@
+Department: CHEM
+Course Number: 318
+Section: 110
+Description: Fundamental aspects of chemical catalysis: kinetic models; catalytic processes in biochemistry and industry; emerging topics in catalysis.
+Pre-reqs: One of CHEM 218, CHEM 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Chemistry, Room: D300
+Instructor: MEHRKHODAVANDI, PARISA
+
+Department: CHEM
+Course Number: 318
+Section: 1W1
+Description: Fundamental aspects of chemical catalysis: kinetic models; catalytic processes in biochemistry and industry; emerging topics in catalysis.
+Pre-reqs: One of CHEM 218, CHEM 250.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: VANT
+Course Number: 148
+Section: VGM
+Description: Projects linked to topics explored in the UBC Vantage College International Program curricula.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 11:30, Building: Earth, Room: Sciences
+Instructor: ADDISON, CHRISTOPHER
+

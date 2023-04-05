@@ -1,0 +1,54 @@
+Department: EOSC
+Course Number: 321
+Section: 101
+Description: The origin and formation of igneous rocks.
+Pre-reqs: EOSC 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:00, Building: Earth, Room: Sciences
+Instructor: KOPYLOVA, MAYA
+
+Department: EOSC
+Course Number: 321
+Section: L1A
+Description: The origin and formation of igneous rocks.
+Pre-reqs: EOSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 18:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 321
+Section: L1B
+Description: The origin and formation of igneous rocks.
+Pre-reqs: EOSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 321
+Section: L1C
+Description: The origin and formation of igneous rocks.
+Pre-reqs: EOSC 221.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 321
+Section: WL1
+Description: The origin and formation of igneous rocks.
+Pre-reqs: EOSC 221.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

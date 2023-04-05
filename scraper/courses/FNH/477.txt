@@ -1,0 +1,21 @@
+Department: FNH
+Course Number: 477
+Section: 001
+Description: Evidence-based examination of the role of nutrition in the prevention of chronic disease.
+Pre-reqs: FNH 398.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Frederic, Room: Lasserre
+Instructor: STEFANSKA, BARBARA
+
+Department: FNH
+Course Number: 477
+Section: 0W1
+Description: Evidence-based examination of the role of nutrition in the prevention of chronic disease.
+Pre-reqs: FNH 398.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

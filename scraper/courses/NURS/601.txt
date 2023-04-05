@@ -1,0 +1,27 @@
+Department: NURS
+Course Number: 601
+Section: 001
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: UBC, Room: Hospital
+Instructor: DAHINTEN, SUSAN
+
+Department: NURS
+Course Number: 601
+Section: 101
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00, Building: UBC, Room: Hospital
+Instructor: DAHINTEN, SUSAN
+
+Department: NURS
+Course Number: 601
+Section: 201
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 9:00, End Time: 12:00, Building: UBC, Room: Hospital
+Instructor: DAHINTEN, SUSAN
+

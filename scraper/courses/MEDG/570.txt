@@ -1,0 +1,10 @@
+Department: MEDG
+Course Number: 570
+Section: 001
+Description: Clinical experience in prenatal procedures and counselling; teratogen counselling. Clinically relevant experience in cytogenetics, molecular, biochemical disease and embryopathology laboratories.
+Pre-reqs: (Acceptance into M.Sc. Genetic Counselling program.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: OH, TRACEY
+

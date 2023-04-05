@@ -1,0 +1,36 @@
+Department: CHBE
+Course Number: 366
+Section: 201
+Description: Experiments to illustrate and use material presented in 300-level Chemical Engineering program courses. Field trips may be required.
+Pre-reqs: All of CHBE 201, CHBE 241, CHBE 251, CHBE 264.
+Co-reqs: All of CHBE 345, CHBE 356.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Chemical, Room: and
+Instructor: CHINTALAPATI, PRANAV
+
+Department: CHBE
+Course Number: 366
+Section: L2A
+Description: Experiments to illustrate and use material presented in 300-level Chemical Engineering program courses. Field trips may be required.
+Pre-reqs: All of CHBE 201, CHBE 241, CHBE 251, CHBE 264.
+Co-reqs: All of CHBE 345, CHBE 356.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 18:00, Building: Chemical, Room: and
+Instructor: CHINTALAPATI, PRANAV
+
+Department: CHBE
+Course Number: 366
+Section: L2B
+Description: Experiments to illustrate and use material presented in 300-level Chemical Engineering program courses. Field trips may be required.
+Pre-reqs: All of CHBE 201, CHBE 241, CHBE 251, CHBE 264.
+Co-reqs: All of CHBE 345, CHBE 356.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 18:00, Building: Chemical, Room: and
+Instructor: CHINTALAPATI, PRANAV
+

@@ -1,0 +1,18 @@
+Department: RHSC
+Course Number: 589B
+Section: 001
+Pre-reqs: RHSC 587. (Permission of the project coordinator is also required.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MORTENSON, PATRICIA
+
+Department: RHSC
+Course Number: 589B
+Section: 006
+Pre-reqs: RHSC 587. (Permission of the project coordinator is also required.)
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BAINBRIDGE, LESLEY
+

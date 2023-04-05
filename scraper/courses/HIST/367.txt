@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 367
+Section: 101
+Description: Europe during the age of the Enlightenment, from the end of the religious wars to the French Revolution, with emphasis on political, social, cultural, and intellectual changes in their global context.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: MATHESON, MARY
+

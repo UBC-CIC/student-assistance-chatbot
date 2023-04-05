@@ -1,0 +1,10 @@
+Department: FRST
+Course Number: 531
+Section: 201
+Description: Multivariate analysis of variance, cluster, principal components, factor, canonical and discriminant analysis. Theory and conceptual background are presented but emphasis is on selection of appropriate analysis and interpretation of results. Examples from forestry and related fields are analysed by computer programs at UBC.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 12:00, End Time: 13:00, Building: Civil, Room: and
+Instructor: AHMED, SUBORNA
+

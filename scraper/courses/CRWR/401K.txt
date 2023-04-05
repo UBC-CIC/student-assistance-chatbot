@@ -1,0 +1,22 @@
+Department: CRWR
+Course Number: 401K
+Section: 001
+Description: A workshop class in the writing of poetry.
+Pre-reqs: (Restricted to Majors in Creative Writing.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00
+Instructor: MAILLARD, KEITH
+
+Department: CRWR
+Course Number: 401K
+Section: 003
+Description: A workshop class in the writing of poetry.
+Pre-reqs: (Restricted to Majors in Creative Writing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 12:00, Building: Irving, Room: K
+Instructor: KIRTON, JONINA
+

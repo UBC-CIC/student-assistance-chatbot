@@ -1,0 +1,32 @@
+Department: MECH
+Course Number: 329
+Section: 101
+Description: Selection of material properties for mechanical design. Metals and alloys, ceramics, polymers, composites and other hybrid materials.
+Pre-reqs: Either (a) MECH 224 or (b) all of APSC 278, MECH 260.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: Wesbrook, Room: 201
+Instructor: BACCA, MATTIA
+
+Department: MECH
+Course Number: 329
+Section: T1A
+Description: Selection of material properties for mechanical design. Metals and alloys, ceramics, polymers, composites and other hybrid materials.
+Pre-reqs: Either (a) MECH 224 or (b) all of APSC 278, MECH 260.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 14:00, Building: Wesbrook, Room: 201
+Instructor: TBA
+
+Department: MECH
+Course Number: 329
+Section: WL1
+Description: Selection of material properties for mechanical design. Metals and alloys, ceramics, polymers, composites and other hybrid materials.
+Pre-reqs: Either (a) MECH 224 or (b) all of APSC 278, MECH 260.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

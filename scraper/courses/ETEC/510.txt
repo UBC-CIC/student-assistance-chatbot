@@ -1,0 +1,54 @@
+Department: ETEC
+Course Number: 510
+Section: 64A
+Description: Design of Technology- Supported Learning Environments
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: JANES, DIANE
+
+Department: ETEC
+Course Number: 510
+Section: 64B
+Description: Design of Technology- Supported Learning Environments
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: JANES, DIANE
+
+Department: ETEC
+Course Number: 510
+Section: 65A
+Description: Design of Technology- Supported Learning Environments
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: ALABI, HALIMAT
+
+Department: ETEC
+Course Number: 510
+Section: 65B
+Description: Design of Technology- Supported Learning Environments
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MCCREADY, SAMUEL
+
+Department: ETEC
+Course Number: 510
+Section: W4A
+Description: Design of Technology- Supported Learning Environments
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: ETEC
+Course Number: 510
+Section: W5A
+Description: Design of Technology- Supported Learning Environments
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

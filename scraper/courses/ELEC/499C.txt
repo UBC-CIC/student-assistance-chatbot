@@ -1,0 +1,9 @@
+Department: ELEC
+Course Number: 499C
+Section: 101
+Description: Undergraduate Thesis - UNDERGRAD THESIS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,20 @@
+Department: ASIA
+Course Number: 311
+Section: 001
+Description: Religious terrain of the Tibetan cultural realm, looking at the history and development of Tibetan Buddhism and key ideas of the four main Tibetan Buddhist traditions.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:30, Building: Buchanan, Room: D218
+Instructor: SHAKYA, TSERING
+
+Department: ASIA
+Course Number: 311
+Section: W01
+Description: Religious terrain of the Tibetan cultural realm, looking at the history and development of Tibetan Buddhism and key ideas of the four main Tibetan Buddhist traditions.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 9:00, End Time: 10:30
+Instructor: SHAKYA, TSERING
+

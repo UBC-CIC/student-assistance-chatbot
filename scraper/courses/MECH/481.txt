@@ -1,0 +1,11 @@
+Department: MECH
+Course Number: 481
+Section: 101
+Description: Analysis of airfoils and wings. Potential flow, thin airfoil theory, lifting line analysis of wings. Predicting viscous drag. Numerical methods for analysis and design of airfoils and wings. Use of wind tunnels for experimental study of aerodynamics.
+Pre-reqs: MECH 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:00, Building: Civil, Room: and
+Instructor: OLLIVIER-GOOCH, CARL
+

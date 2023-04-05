@@ -1,0 +1,43 @@
+Department: MICB
+Course Number: 418
+Section: 201
+Description: Exploitation of microbial and animal cells for the industrial production of chemicals ranging from alcohol to therapeutic proteins. Genetic manipulation of cellular characteristics, fermentation methods, patenting and governmental approval processes.
+Co-reqs: One of BIOL 335, MICB 325, BIOT 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Chemistry, Room: C124
+Instructor: OLIVER, DAVID
+
+Department: MICB
+Course Number: 418
+Section: T01
+Description: Exploitation of microbial and animal cells for the industrial production of chemicals ranging from alcohol to therapeutic proteins. Genetic manipulation of cellular characteristics, fermentation methods, patenting and governmental approval processes.
+Co-reqs: One of BIOL 335, MICB 325, BIOT 380.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Food,, Room: Nutrition
+Instructor: TBA
+
+Department: MICB
+Course Number: 418
+Section: T02
+Description: Exploitation of microbial and animal cells for the industrial production of chemicals ranging from alcohol to therapeutic proteins. Genetic manipulation of cellular characteristics, fermentation methods, patenting and governmental approval processes.
+Co-reqs: One of BIOL 335, MICB 325, BIOT 380.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 16:00, Building: Food,, Room: Nutrition
+Instructor: TBA
+
+Department: MICB
+Course Number: 418
+Section: WL2
+Description: Exploitation of microbial and animal cells for the industrial production of chemicals ranging from alcohol to therapeutic proteins. Genetic manipulation of cellular characteristics, fermentation methods, patenting and governmental approval processes.
+Co-reqs: One of BIOL 335, MICB 325, BIOT 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

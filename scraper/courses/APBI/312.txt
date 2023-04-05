@@ -1,0 +1,21 @@
+Department: APBI
+Course Number: 312
+Section: 001
+Description: Reproductive and digestive physiology, and current technologies applied to these systems in domestic and wild animals.
+Pre-reqs: One of BIOL 204, BIOL 260. (3rd year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: MacMillan, Room: 158
+Instructor: CERRI, RONALDO
+
+Department: APBI
+Course Number: 312
+Section: 0W1
+Description: Reproductive and digestive physiology, and current technologies applied to these systems in domestic and wild animals.
+Pre-reqs: One of BIOL 204, BIOL 260. (3rd year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

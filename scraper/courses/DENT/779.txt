@@ -1,0 +1,19 @@
+Department: DENT
+Course Number: 779
+Section: 001
+Description: Pass/Fail.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: PUTNINS, EDWARD
+
+Department: DENT
+Course Number: 779
+Section: SEM
+Description: Pass/Fail.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 12:30, End Time: 13:30, Building: J.B., Room: MacDonald
+Instructor: PUTNINS, EDWARD
+

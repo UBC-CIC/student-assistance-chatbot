@@ -1,0 +1,11 @@
+Department: MUSC
+Course Number: 394E
+Section: 795
+Description: Private instruction, vocal or instrumental.
+Pre-reqs: (One of MUSC 271-295.)
+Credits: 8
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 8:00, End Time: 9:00
+Instructor: PEARSON, ALEC
+

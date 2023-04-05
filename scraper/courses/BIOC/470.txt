@@ -1,0 +1,21 @@
+Department: BIOC
+Course Number: 470
+Section: 001
+Description: Biochemical basis of select global challenges. Critical evaluation of primary literature to form evidence-based opinions and communicating biochemistry as it relates to several controversial societal issues.
+Pre-reqs: One of BIOC 302, BIOC 303.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Fri, Start Time: 15:00, End Time: 17:00, Building: Hebb, Room: B112
+Instructor: BROWN, LINDSAY
+
+Department: BIOC
+Course Number: 470
+Section: 00W
+Description: Biochemical basis of select global challenges. Critical evaluation of primary literature to form evidence-based opinions and communicating biochemistry as it relates to several controversial societal issues.
+Pre-reqs: One of BIOC 302, BIOC 303.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,11 @@
+Department: MINE
+Course Number: 404
+Section: 201
+Description: Strategic issues in an organization; types of organizations; personnel evaluations and job rating systems; impact of manpower planning on decision-making; union negotiations; public relations; dealing with the media; corporate responsibilities to society and employees.
+Pre-reqs: (Third- or Fourth-year standing in Mining Engineering.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:30, End Time: 17:00, Building: Neville, Room: Scarfe
+Instructor: STEEN, JOHN THOMAS
+

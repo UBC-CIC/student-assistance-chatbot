@@ -1,0 +1,20 @@
+Department: MTRL
+Course Number: 517
+Section: 101
+Description: The full spectrum of design encountered including the design of components, structures and processes used to manufacture materials.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Orchard, Room: Commons
+Instructor: MAIJER, DAAN
+
+Department: MTRL
+Course Number: 517
+Section: T1A
+Description: The full spectrum of design encountered including the design of components, structures and processes used to manufacture materials.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: MAIJER, DAAN
+

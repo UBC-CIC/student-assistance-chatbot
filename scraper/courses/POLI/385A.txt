@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 385A
+Section: 002
+Description: Public Opinion and Elections - PBLC OPN,ELEC
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:00, End Time: 10:30, Building: Frederic, Room: Lasserre
+Instructor: RIVARD, ALEXANDRE
+

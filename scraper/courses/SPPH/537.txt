@@ -1,0 +1,12 @@
+Department: SPPH
+Course Number: 537
+Section: 001
+Description: Indicators of maternal/newborn well-being across population subgroups, changing trends in obstetrical intervention, perinatal morbidity, and the analysis of perinatal data.
+Pre-reqs: (SPPH 400, SPPH 502)
+Co-reqs: (SPPH 500)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 13:30, End Time: 16:30
+Instructor: JANSSEN, PATRICIA
+

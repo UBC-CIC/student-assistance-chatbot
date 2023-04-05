@@ -1,0 +1,76 @@
+Department: FRST
+Course Number: 201
+Section: 101
+Description: The structure and function of forest ecosystems, including: energetics; productivity; nutrient, carbon and water cycling; soils; the physical environment; population and community ecology; disturbance ecology; ecological succession; biological diversity and ecological resilience.
+Co-reqs: FRST 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Chemical, Room: and
+Instructor: GUICHON, SHANNON
+
+Department: FRST
+Course Number: 201
+Section: L01
+Description: The structure and function of forest ecosystems, including: energetics; productivity; nutrient, carbon and water cycling; soils; the physical environment; population and community ecology; disturbance ecology; ecological succession; biological diversity and ecological resilience.
+Co-reqs: FRST 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: GUICHON, SHANNON
+
+Department: FRST
+Course Number: 201
+Section: L02
+Description: The structure and function of forest ecosystems, including: energetics; productivity; nutrient, carbon and water cycling; soils; the physical environment; population and community ecology; disturbance ecology; ecological succession; biological diversity and ecological resilience.
+Co-reqs: FRST 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: GUICHON, SHANNON
+
+Department: FRST
+Course Number: 201
+Section: L03
+Description: The structure and function of forest ecosystems, including: energetics; productivity; nutrient, carbon and water cycling; soils; the physical environment; population and community ecology; disturbance ecology; ecological succession; biological diversity and ecological resilience.
+Co-reqs: FRST 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:00, Building: Forest, Room: Sciences
+Instructor: GUICHON, SHANNON
+
+Department: FRST
+Course Number: 201
+Section: L04
+Description: The structure and function of forest ecosystems, including: energetics; productivity; nutrient, carbon and water cycling; soils; the physical environment; population and community ecology; disturbance ecology; ecological succession; biological diversity and ecological resilience.
+Co-reqs: FRST 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: GUICHON, SHANNON
+
+Department: FRST
+Course Number: 201
+Section: L05
+Description: The structure and function of forest ecosystems, including: energetics; productivity; nutrient, carbon and water cycling; soils; the physical environment; population and community ecology; disturbance ecology; ecological succession; biological diversity and ecological resilience.
+Co-reqs: FRST 200.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 12:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: GUICHON, SHANNON
+
+Department: FRST
+Course Number: 201
+Section: WL1
+Description: The structure and function of forest ecosystems, including: energetics; productivity; nutrient, carbon and water cycling; soils; the physical environment; population and community ecology; disturbance ecology; ecological succession; biological diversity and ecological resilience.
+Co-reqs: FRST 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

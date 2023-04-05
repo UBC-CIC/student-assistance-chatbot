@@ -1,0 +1,21 @@
+Department: EDCP
+Course Number: 322A
+Section: 301
+Description: Pass/Fail.
+Pre-reqs: (A completed concentration in physical education or permission of the head.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 8:00, End Time: 10:00, Building: Neville, Room: Scarfe
+Instructor: MCGINLEY, STEPHEN
+
+Department: EDCP
+Course Number: 322A
+Section: 640
+Description: Pass/Fail.
+Pre-reqs: (A completed concentration in physical education or permission of the head.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: DOVGALA, DEBORAH
+

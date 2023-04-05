@@ -1,0 +1,11 @@
+Department: FREN
+Course Number: 477
+Section: 201
+Description: Study of the different varieties (or dialects) of contemporary French and issues related to French-speaking communities around the world.
+Pre-reqs: FREN 353 and one of FREN 353, FREN 225.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: D204
+Instructor: BOUCHARD, MARIE-EVE
+

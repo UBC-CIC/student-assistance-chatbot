@@ -1,0 +1,11 @@
+Department: CIVL
+Course Number: 320
+Section: 101
+Description: The structure and properties of common Civil Engineering materials: aggregates, Portland cement, concrete, wood, steel and other construction materials. The emphasis is on the relationship between the structure of materials and their mechanical and durability properties.
+Pre-reqs: All of APSC 278, APSC 279.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: P., Room: A.
+Instructor: SOLEIMANI-DASHTAKI, SALMAN
+

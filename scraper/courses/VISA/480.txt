@@ -1,0 +1,11 @@
+Department: VISA
+Course Number: 480
+Section: 001
+Description: Readings in art theory and criticism.
+Pre-reqs: VISA 380.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Allard, Room: Hall
+Instructor: THAUBERGER, ALTHEA
+

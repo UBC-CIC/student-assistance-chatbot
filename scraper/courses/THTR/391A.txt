@@ -1,0 +1,10 @@
+Department: THTR
+Course Number: 391A
+Section: 001
+Description: Open only to B.F.A. Acting students.
+Pre-reqs: All of THTR 271, THTR 272, THTR 273, THTR 274.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BERTOIA, SUSAN
+

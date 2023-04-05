@@ -1,0 +1,18 @@
+Department: ARCH
+Course Number: 545B
+Section: 001
+Description: Directed research and exploration of selected topics in architecture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARCH
+Course Number: 545B
+Section: 003
+Description: Directed research and exploration of selected topics in architecture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

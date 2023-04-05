@@ -1,0 +1,9 @@
+Department: NAME
+Course Number: 501
+Section: 201
+Description: Pressure hull design; finite element analysis applications; classification rules; ice and ice loads; dynamic loads including slamming, risk and reliability.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BRAIDWOOD, IAIN
+

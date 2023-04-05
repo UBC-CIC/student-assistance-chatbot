@@ -1,0 +1,10 @@
+Department: FRST
+Course Number: 578C
+Section: 203
+Description: Directed Studies in Forest Business and Management - DIR STUDIES
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: C., Room: K.
+Instructor: LU, JULIET
+

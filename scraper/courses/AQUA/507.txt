@@ -1,0 +1,9 @@
+Department: AQUA
+Course Number: 507
+Section: 001
+Credits: 2
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 9:00, End Time: 11:00
+Instructor: MENDOZA, ALBERTO
+

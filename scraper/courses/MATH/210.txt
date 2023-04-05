@@ -1,0 +1,12 @@
+Department: MATH
+Course Number: 210
+Section: 201
+Description: Introduction to numerical computation, computer algebra, mathematical graphics. Primarily for second year students taking a degree in mathematics. One hour laboratory each week.
+Pre-reqs: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
+Co-reqs: One of MATH 215, MATH 255, MATH 256, MATH 258 and one of MATH 152, MATH 221, MATH 223.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: Leonard, Room: S.
+Instructor: WALLS, PATRICK
+

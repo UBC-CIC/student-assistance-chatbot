@@ -1,0 +1,21 @@
+Department: NURS
+Course Number: 552
+Section: 002
+Pre-reqs: NURS 504.
+Co-reqs: NURS 511.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: UBC, Room: Hospital
+Instructor: DAHINTEN, SUSAN
+
+Department: NURS
+Course Number: 552
+Section: 02W
+Pre-reqs: NURS 504.
+Co-reqs: NURS 511.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: No
+Instructor: TBA
+

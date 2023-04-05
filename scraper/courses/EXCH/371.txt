@@ -1,0 +1,486 @@
+Department: EXCH
+Course Number: 371
+Section: 001
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 002
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 003
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 004
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 005
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 006
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 007
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 008
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 009
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 010
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 011
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 012
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 013
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 014
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 015
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 024
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 025
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 101
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 102
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 103
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 104
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 105
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 106
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 107
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 108
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 109
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 110
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 111
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 112
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 113
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 114
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 115
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 116
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 117
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 118
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 119
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 125
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 169
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 201
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 202
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 203
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 204
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 205
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 206
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 207
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 210
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 211
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 212
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 213
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 214
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 215
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 948
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 953
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EXCH
+Course Number: 371
+Section: 954
+Pre-reqs: (second-, third-, or fourth-year standing.)
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

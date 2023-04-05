@@ -1,0 +1,44 @@
+Department: BIOL
+Course Number: 324
+Section: 101
+Description: Introduction to seed plant taxonomy emphasizing descriptive morphology and identification. Each student will be required to submit a plant collection.
+Pre-reqs: BIOL 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:00, End Time: 11:00, Building: UBC, Room: Life
+Instructor: CRONK, QUENTIN CHARLES
+
+Department: BIOL
+Course Number: 324
+Section: L10
+Description: Introduction to seed plant taxonomy emphasizing descriptive morphology and identification. Each student will be required to submit a plant collection.
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 324
+Section: L11
+Description: Introduction to seed plant taxonomy emphasizing descriptive morphology and identification. Each student will be required to submit a plant collection.
+Pre-reqs: BIOL 121.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 324
+Section: 1W1
+Description: Introduction to seed plant taxonomy emphasizing descriptive morphology and identification. Each student will be required to submit a plant collection.
+Pre-reqs: BIOL 121.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+

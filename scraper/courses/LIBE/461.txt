@@ -1,0 +1,9 @@
+Department: LIBE
+Course Number: 461
+Section: 63A
+Description: The role, philosophy, and management of school library resource centres in elementary and secondary schools.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: DALY, HEATHER
+

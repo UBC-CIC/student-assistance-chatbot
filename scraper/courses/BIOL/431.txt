@@ -1,0 +1,22 @@
+Department: BIOL
+Course Number: 431
+Section: 101
+Description: Ultrastructure, biogenesis, and evolution of eukaryotic cells and cell organelles, including their macromolecular basis.
+Pre-reqs: BIOL 200. (And fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Neville, Room: Scarfe
+Instructor: KEELING, NAOMI
+
+Department: BIOL
+Course Number: 431
+Section: 1W1
+Description: Ultrastructure, biogenesis, and evolution of eukaryotic cells and cell organelles, including their macromolecular basis.
+Pre-reqs: BIOL 200. (And fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: To, Room: Be
+Instructor: TBA
+

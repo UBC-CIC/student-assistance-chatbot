@@ -1,0 +1,680 @@
+Department: PHYS
+Course Number: 157
+Section: 101
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Hebb, Room: 100
+Instructor: DIERKER, STEVEN
+
+Department: PHYS
+Course Number: 157
+Section: T1A
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Hennings, Room: 201
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1B
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1C
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: A201
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1D
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Leonard, Room: S.
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1E
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1F
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1G
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Mathematics, Room: 100
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1H
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 13:30, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1I
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1J
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1K
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 200
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1L
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1M
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1N
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1P
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1R
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 10:30, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: 102
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 100
+Instructor: DIERKER, STEVEN
+
+Department: PHYS
+Course Number: 157
+Section: T1A
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Hennings, Room: 201
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1B
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1C
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: A201
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1D
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Leonard, Room: S.
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1E
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1F
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1G
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Mathematics, Room: 100
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1H
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 13:30, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1I
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1J
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1K
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 200
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1L
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1M
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1N
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1P
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1R
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 10:30, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: 103
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Hebb, Room: 100
+Instructor: DIERKER, STEVEN
+
+Department: PHYS
+Course Number: 157
+Section: T1A
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 11:00, Building: Hennings, Room: 201
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1B
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1C
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: A201
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1D
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Leonard, Room: S.
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1E
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 15:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1F
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:00, End Time: 17:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1G
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Mathematics, Room: 100
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1H
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 13:30, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1I
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1J
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1K
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Hennings, Room: 200
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1L
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1M
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 11:00, End Time: 12:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1N
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 13:00, End Time: 14:00, Building: Hebb, Room: 216
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1P
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Hebb, Room: 314
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1R
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 10:30, Building: Hebb, Room: B112
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: 1WL
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: T1W
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: 201
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Hebb, Room: 114
+Instructor: MCCUTCHEON, WILLIAM H.
+
+Department: PHYS
+Course Number: 157
+Section: T2A
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 13:30, Building: Hebb, Room: 114
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: 2WL
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 157
+Section: 9AR
+Description: Heat, thermodynamics, oscillations, waves, and sound.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

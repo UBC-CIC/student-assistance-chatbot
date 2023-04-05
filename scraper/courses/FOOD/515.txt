@@ -1,0 +1,9 @@
+Department: FOOD
+Course Number: 515
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 13:30, End Time: 16:30, Building: Henry, Room: Angus
+Instructor: WASIK, RONALD
+

@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 506A
+Section: 100
+Description: The relationship between current theoretical issues and research methods.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 14:00, Building: Anthropology, Room: and
+Instructor: SARI, ELIF
+

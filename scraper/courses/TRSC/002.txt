@@ -1,0 +1,9 @@
+Department: TRSC
+Course Number: 002
+Section: 001
+Pre-reqs: TRSC 001.
+Credits: 0
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

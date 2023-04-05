@@ -1,0 +1,54 @@
+Department: PHRM
+Course Number: 306A
+Section: 001
+Description: Individual assignments involving library and field work investigations of problems associated with pharmacy practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: JOHAL, AJIT
+
+Department: PHRM
+Course Number: 306A
+Section: 002
+Description: Individual assignments involving library and field work investigations of problems associated with pharmacy practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: REARDON, JILLIAN
+
+Department: PHRM
+Course Number: 306A
+Section: 003
+Description: Individual assignments involving library and field work investigations of problems associated with pharmacy practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LIM, TIMOTHY
+
+Department: PHRM
+Course Number: 306A
+Section: 004
+Description: Individual assignments involving library and field work investigations of problems associated with pharmacy practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: SIHOTA, AMRINDER
+
+Department: PHRM
+Course Number: 306A
+Section: 005
+Description: Individual assignments involving library and field work investigations of problems associated with pharmacy practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LOW, ALAN
+
+Department: PHRM
+Course Number: 306A
+Section: 006
+Description: Individual assignments involving library and field work investigations of problems associated with pharmacy practice.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: REARDON, JILLIAN
+

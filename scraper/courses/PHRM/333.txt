@@ -1,0 +1,10 @@
+Department: PHRM
+Course Number: 333
+Section: 001
+Description: Common oncological diseases and their drug treatment.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 12:00
+Instructor: WONG, JUDY
+

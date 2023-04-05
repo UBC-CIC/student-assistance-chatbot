@@ -1,0 +1,81 @@
+Department: CNPS
+Course Number: 433
+Section: 63A
+Description: Personal and social adjustment issues for professional counsellors; basic skills necessary for effective group counselling.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: SKRENES, SHEKOOFEH
+
+Department: CNPS
+Course Number: 433
+Section: 63B
+Description: Personal and social adjustment issues for professional counsellors; basic skills necessary for effective group counselling.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: NICKS, DAVID
+
+Department: CNPS
+Course Number: 433
+Section: 63C
+Description: Personal and social adjustment issues for professional counsellors; basic skills necessary for effective group counselling.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BRUNO, TALINO
+
+Department: CNPS
+Course Number: 433
+Section: 63D
+Description: Personal and social adjustment issues for professional counsellors; basic skills necessary for effective group counselling.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BRUNO, TALINO
+
+Department: CNPS
+Course Number: 433
+Section: 63E
+Description: Personal and social adjustment issues for professional counsellors; basic skills necessary for effective group counselling.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: NICKS, DAVID
+
+Department: CNPS
+Course Number: 433
+Section: 63F
+Description: Personal and social adjustment issues for professional counsellors; basic skills necessary for effective group counselling.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BRUNO, TALINO
+
+Department: CNPS
+Course Number: 433
+Section: 63G
+Description: Personal and social adjustment issues for professional counsellors; basic skills necessary for effective group counselling.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BRUNO, TALINO
+
+Department: CNPS
+Course Number: 433
+Section: W3A
+Description: Personal and social adjustment issues for professional counsellors; basic skills necessary for effective group counselling.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: CNPS
+Course Number: 433
+Section: W3D
+Description: Personal and social adjustment issues for professional counsellors; basic skills necessary for effective group counselling.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

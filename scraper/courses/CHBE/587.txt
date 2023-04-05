@@ -1,0 +1,10 @@
+Department: CHBE
+Course Number: 587
+Section: 201
+Pre-reqs: (MATH 255 (or equivalent); PHYS 108, PHYS 118, PHYS 158 (or equivalent); CHEM 154 (or equivalent).)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:30, Building: Chemical, Room: and
+Instructor: FROSTAD, JOHN
+

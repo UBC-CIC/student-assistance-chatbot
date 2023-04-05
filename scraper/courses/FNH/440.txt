@@ -1,0 +1,22 @@
+Department: FNH
+Course Number: 440
+Section: 001
+Description: Management responsibilities in quantity food production with emphasis on menu planning, purchasing and service. Includes planning and equipping food services. Restricted to students in the Dietetics major. Note: Course registrants are required to possess a Foodsafe II certificate.
+Pre-reqs: FNH 340.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Food,, Room: Nutrition
+Instructor: KASTEN, GERALD
+
+Department: FNH
+Course Number: 440
+Section: T01
+Description: Management responsibilities in quantity food production with emphasis on menu planning, purchasing and service. Includes planning and equipping food services. Restricted to students in the Dietetics major. Note: Course registrants are required to possess a Foodsafe II certificate.
+Pre-reqs: FNH 340.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Food,, Room: Nutrition
+Instructor: KASTEN, GERALD
+

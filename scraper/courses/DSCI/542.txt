@@ -1,0 +1,30 @@
+Department: DSCI
+Course Number: 542
+Section: 001
+Description: Claims, reasons, and evidence. Strengths and weaknesses of models. Effective oral and written presentation of scientific results, including interpretation of data and recognition of assumptions, bias, validity, and reliability. Citations, references, and peer-review.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Hugh, Room: Dempster
+Instructor: NGUYEN, LE QUAN
+
+Department: DSCI
+Course Number: 542
+Section: L01
+Description: Claims, reasons, and evidence. Strengths and weaknesses of models. Effective oral and written presentation of scientific results, including interpretation of data and recognition of assumptions, bias, validity, and reliability. Citations, references, and peer-review.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: NGUYEN, LE QUAN
+
+Department: DSCI
+Course Number: 542
+Section: L02
+Description: Claims, reasons, and evidence. Strengths and weaknesses of models. Effective oral and written presentation of scientific results, including interpretation of data and recognition of assumptions, bias, validity, and reliability. Citations, references, and peer-review.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: NGUYEN, LE QUAN
+

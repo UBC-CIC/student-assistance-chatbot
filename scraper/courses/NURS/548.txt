@@ -1,0 +1,21 @@
+Department: NURS
+Course Number: 548
+Section: 001
+Pre-reqs: NURS 552.
+Co-reqs: NURS 511.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 12:00, Building: UBC, Room: Hospital
+Instructor: JENKINS, EMILY
+
+Department: NURS
+Course Number: 548
+Section: 01W
+Pre-reqs: NURS 552.
+Co-reqs: NURS 511.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: No
+Instructor: TBA
+

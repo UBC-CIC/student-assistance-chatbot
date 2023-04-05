@@ -1,0 +1,10 @@
+Department: CNPS
+Course Number: 524
+Section: 001
+Description: Major issues and problems of adult development. Selection of appropriate counselling interventions for use in education and other counselling settings.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 16:30, End Time: 19:30, Building: Neville, Room: Scarfe
+Instructor: ELEZ, TATJANA
+

@@ -1,0 +1,60 @@
+Department: ASIA
+Course Number: 212
+Section: 001
+Description: Literary, historiographic, religious, and feminist approaches to Japanese myths, legal tracts, religious tales, fiction, and poetry.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: A203
+Instructor: BLUM, HALEY
+
+Department: ASIA
+Course Number: 212
+Section: 002
+Description: Literary, historiographic, religious, and feminist approaches to Japanese myths, legal tracts, religious tales, fiction, and poetry.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Chemistry, Room: C126
+Instructor: HANLON, KURTIS
+
+Department: ASIA
+Course Number: 212
+Section: 003
+Description: Literary, historiographic, religious, and feminist approaches to Japanese myths, legal tracts, religious tales, fiction, and poetry.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 14:00, Building: Geography, Room: 212
+Instructor: BLUM, HALEY
+
+Department: ASIA
+Course Number: 212
+Section: W01
+Description: Literary, historiographic, religious, and feminist approaches to Japanese myths, legal tracts, religious tales, fiction, and poetry.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: To, Room: Be
+Instructor: BLUM, HALEY
+
+Department: ASIA
+Course Number: 212
+Section: W02
+Description: Literary, historiographic, religious, and feminist approaches to Japanese myths, legal tracts, religious tales, fiction, and poetry.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: To, Room: Be
+Instructor: HANLON, KURTIS
+
+Department: ASIA
+Course Number: 212
+Section: W03
+Description: Literary, historiographic, religious, and feminist approaches to Japanese myths, legal tracts, religious tales, fiction, and poetry.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 12:30, End Time: 13:30
+Instructor: BLUM, HALEY
+

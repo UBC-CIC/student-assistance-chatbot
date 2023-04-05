@@ -1,0 +1,77 @@
+Department: FRST
+Course Number: 395
+Section: 101
+Description: Biology of important bird and mammal species resident in forested regions, with particular emphasis on the influences of silvicultural and logging practices.
+Pre-reqs: One of FRST 201, BIOL 230, BIOL 306.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Forest, Room: Sciences
+Instructor: BURTON, COLE
+
+Department: FRST
+Course Number: 395
+Section: L02
+Description: Biology of important bird and mammal species resident in forested regions, with particular emphasis on the influences of silvicultural and logging practices.
+Pre-reqs: One of FRST 201, BIOL 230, BIOL 306.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: BURTON, COLE
+
+Department: FRST
+Course Number: 395
+Section: L03
+Description: Biology of important bird and mammal species resident in forested regions, with particular emphasis on the influences of silvicultural and logging practices.
+Pre-reqs: One of FRST 201, BIOL 230, BIOL 306.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 8:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: BURTON, COLE
+
+Department: FRST
+Course Number: 395
+Section: L04
+Description: Biology of important bird and mammal species resident in forested regions, with particular emphasis on the influences of silvicultural and logging practices.
+Pre-reqs: One of FRST 201, BIOL 230, BIOL 306.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 8:00, End Time: 10:00, Building: Forest, Room: Sciences
+Instructor: BURTON, COLE
+
+Department: FRST
+Course Number: 395
+Section: L05
+Description: Biology of important bird and mammal species resident in forested regions, with particular emphasis on the influences of silvicultural and logging practices.
+Pre-reqs: One of FRST 201, BIOL 230, BIOL 306.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: BURTON, COLE
+
+Department: FRST
+Course Number: 395
+Section: 201
+Description: Biology of important bird and mammal species resident in forested regions, with particular emphasis on the influences of silvicultural and logging practices.
+Pre-reqs: One of FRST 201, BIOL 230, BIOL 306.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: SHRESTHA, ANIL
+
+Department: FRST
+Course Number: 395
+Section: LA1
+Description: Biology of important bird and mammal species resident in forested regions, with particular emphasis on the influences of silvicultural and logging practices.
+Pre-reqs: One of FRST 201, BIOL 230, BIOL 306.
+Credits: n/a
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
+Instructor: SHRESTHA, ANIL
+

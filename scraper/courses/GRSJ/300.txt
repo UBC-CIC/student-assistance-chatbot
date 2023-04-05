@@ -1,0 +1,76 @@
+Department: GRSJ
+Course Number: 300
+Section: 901
+Description: Intersectional Approaches to Thinking Gender
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: Leon, Room: and
+Instructor: OWIS, YASMIN
+
+Department: GRSJ
+Course Number: 300
+Section: 902
+Description: Intersectional Approaches to Thinking Gender
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: Buchanan, Room: B208
+Instructor: BANDALI, ALIFA
+
+Department: GRSJ
+Course Number: 300
+Section: 99A
+Description: Interdisciplinary exploration of the multiple intersections between gender and (neo)colonialism, racism, poverty, ableism, and heterosexism in a globalized world; historical and cross-cultural aspects, and the social construction of sex and gender, masculinity and femininity.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: WALKS, MICHELLE
+
+Department: GRSJ
+Course Number: 300
+Section: 99C
+Description: Interdisciplinary exploration of the multiple intersections between gender and (neo)colonialism, racism, poverty, ableism, and heterosexism in a globalized world; historical and cross-cultural aspects, and the social construction of sex and gender, masculinity and femininity.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: WALKS, MICHELLE
+
+Department: GRSJ
+Course Number: 300
+Section: WL1
+Description: Interdisciplinary exploration of the multiple intersections between gender and (neo)colonialism, racism, poverty, ableism, and heterosexism in a globalized world; historical and cross-cultural aspects, and the social construction of sex and gender, masculinity and femininity.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: GRSJ
+Course Number: 300
+Section: WL2
+Description: Interdisciplinary exploration of the multiple intersections between gender and (neo)colonialism, racism, poverty, ableism, and heterosexism in a globalized world; historical and cross-cultural aspects, and the social construction of sex and gender, masculinity and femininity.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 16:00, End Time: 17:00, Building: To, Room: Be
+Instructor: TBA
+
+Department: GRSJ
+Course Number: 300
+Section: WLA
+Description: Interdisciplinary exploration of the multiple intersections between gender and (neo)colonialism, racism, poverty, ableism, and heterosexism in a globalized world; historical and cross-cultural aspects, and the social construction of sex and gender, masculinity and femininity.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: GRSJ
+Course Number: 300
+Section: WLC
+Description: Interdisciplinary exploration of the multiple intersections between gender and (neo)colonialism, racism, poverty, ableism, and heterosexism in a globalized world; historical and cross-cultural aspects, and the social construction of sex and gender, masculinity and femininity.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

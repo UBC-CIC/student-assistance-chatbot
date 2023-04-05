@@ -1,0 +1,20 @@
+Department: MUSC
+Course Number: 135
+Section: 001
+Description: Opera Repertoire I
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:00, Building: Auditorium, Room: 200
+Instructor: GRANT, ANDREA
+
+Department: MUSC
+Course Number: 135
+Section: 1W1
+Description: A musico-dramatic study and analysis of representative works in the international operatic theatre from 1600 to the present, through musical, literary and graphic sources. Each sequential year of study, the student is expected to show increased facility in musical and dramatic analysis as well as a greater understanding of the works under examination. Open to students outside the B.Mus. program by permission of the instructor.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 11:00, End Time: 12:00
+Instructor: GRANT, ANDREA
+

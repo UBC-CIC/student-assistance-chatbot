@@ -1,0 +1,11 @@
+Department: CRWR
+Course Number: 307
+Section: 001
+Description: An exploration of practice in the writing of the one-act stage play and short radio drama, focusing on how a writer employs the technical elements of the craft of these dramatic genres. Manuscript submission is not required for admission.
+Pre-reqs: One of CRWR 200, CRWR 202.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:30, End Time: 17:00, Building: Hebb, Room: 116
+Instructor: BRODIE, LEANNA
+

@@ -1,0 +1,20 @@
+Department: BAMA
+Course Number: 580A
+Section: BA1
+Description: Topics in Marketing - EXP CAUS INF
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Wed Thu Fri Sat, Start Time: 9:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: CORNIL, YANN
+
+Department: BAMA
+Course Number: 580A
+Section: BA2
+Description: Topics in Marketing - EXP CAUS INF
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Wed Thu Fri Sat, Start Time: 9:00, End Time: 17:30, Building: Henry, Room: Angus
+Instructor: CORNIL, YANN
+

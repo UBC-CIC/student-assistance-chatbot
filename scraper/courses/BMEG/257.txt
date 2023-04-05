@@ -1,0 +1,32 @@
+Department: BMEG
+Course Number: 257
+Section: 201
+Description: Engineering design process for biomedical technologies. Practical skills in engineering design, computer aided design, electronic circuits, programming, and rapid prototyping in the context of biomedical technologies. Introduction to broader ethical and sustainability considerations for biomedical technology design.
+Pre-reqs: Either (a) all of BMEG 101, BMEG 102 or (b) all of APSC 101, BMEG 200, PHYS 159.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 9:00, Building: Aquatic, Room: Ecosystems
+Instructor: KUO, CALVIN
+
+Department: BMEG
+Course Number: 257
+Section: S2A
+Description: Engineering design process for biomedical technologies. Practical skills in engineering design, computer aided design, electronic circuits, programming, and rapid prototyping in the context of biomedical technologies. Introduction to broader ethical and sustainability considerations for biomedical technology design.
+Pre-reqs: Either (a) all of BMEG 101, BMEG 102 or (b) all of APSC 101, BMEG 200, PHYS 159.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:00, End Time: 11:00, Building: Aquatic, Room: Ecosystems
+Instructor: KUO, CALVIN
+
+Department: BMEG
+Course Number: 257
+Section: WL1
+Description: Engineering design process for biomedical technologies. Practical skills in engineering design, computer aided design, electronic circuits, programming, and rapid prototyping in the context of biomedical technologies. Introduction to broader ethical and sustainability considerations for biomedical technology design.
+Pre-reqs: Either (a) all of BMEG 101, BMEG 102 or (b) all of APSC 101, BMEG 200, PHYS 159.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

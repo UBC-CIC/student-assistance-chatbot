@@ -1,0 +1,31 @@
+Department: CHEM
+Course Number: 445A
+Section: 135
+Description: Principles of experimental design, practice and problem solving in chemistry, including the opportunity to pursue projects in a research setting.
+Pre-reqs: One of CHEM 345, CHEM 335. (Students satisfying the prerequisite requirement using CHEM 335 must have fourth-year standing in a Chemistry Combined Major specialization.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B470
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 445A
+Section: 1W1
+Description: Principles of experimental design, practice and problem solving in chemistry, including the opportunity to pursue projects in a research setting.
+Pre-reqs: One of CHEM 345, CHEM 335. (Students satisfying the prerequisite requirement using CHEM 335 must have fourth-year standing in a Chemistry Combined Major specialization.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CHEM
+Course Number: 445A
+Section: RLE
+Description: Principles of experimental design, practice and problem solving in chemistry, including the opportunity to pursue projects in a research setting.
+Pre-reqs: One of CHEM 345, CHEM 335. (Students satisfying the prerequisite requirement using CHEM 335 must have fourth-year standing in a Chemistry Combined Major specialization.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BUSSIERE, GUILLAUME
+

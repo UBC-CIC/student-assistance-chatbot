@@ -1,0 +1,119 @@
+Department: CHEM
+Course Number: 335
+Section: 1W1
+Description: Chemistry Integrated Laboratory II
+Pre-reqs: CHEM 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CHEM
+Course Number: 335
+Section: 2W1
+Description: Chemistry Integrated Laboratory II
+Pre-reqs: CHEM 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CHEM
+Course Number: 335
+Section: L1B
+Description: Chemistry Integrated Laboratory II
+Pre-reqs: CHEM 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 335
+Section: L1C
+Description: Chemistry Integrated Laboratory II
+Pre-reqs: CHEM 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 335
+Section: L3B
+Description: Chemistry Integrated Laboratory II
+Pre-reqs: CHEM 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 335
+Section: L3C
+Description: Chemistry Integrated Laboratory II
+Pre-reqs: CHEM 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 335
+Section: L5B
+Description: Chemistry Integrated Laboratory II
+Pre-reqs: CHEM 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 335
+Section: LB1
+Description: Chemistry Integrated Laboratory II
+Pre-reqs: CHEM 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 335
+Section: LB5
+Description: Chemistry Integrated Laboratory II
+Pre-reqs: CHEM 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 335
+Section: LC1
+Description: Chemistry Integrated Laboratory II
+Pre-reqs: CHEM 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+
+Department: CHEM
+Course Number: 335
+Section: LC5
+Description: Chemistry Integrated Laboratory II
+Pre-reqs: CHEM 315.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 18:00, Building: Chemistry, Room: B450
+Instructor: BUSSIERE, GUILLAUME
+

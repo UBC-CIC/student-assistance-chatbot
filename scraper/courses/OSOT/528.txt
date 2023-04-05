@@ -1,0 +1,8 @@
+Department: OSOT
+Course Number: 528
+Section: 001
+Description: Preparation for practice concepts to facilitate integration of knowledge and skills introduced in term 1 of the MOT program. Demonstration of emerging Occupational Therapy competencies for a total of 5 weeks of supervised fieldwork experience in affiliated agencies is required.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

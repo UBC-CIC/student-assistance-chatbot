@@ -1,0 +1,20 @@
+Department: PHAR
+Course Number: 370
+Section: 001
+Description: Application and problem solving in the pharmaceutical sciences. Integration of knowledge and skills from multiple courses to problem solve authentic cases and problems of increasing complexity. Development of self-directed learning skills.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 14:00, Building: Pharmaceutical, Room: Sciences
+Instructor: KALRA, JESSICA
+
+Department: PHAR
+Course Number: 370
+Section: L01
+Description: Application and problem solving in the pharmaceutical sciences. Integration of knowledge and skills from multiple courses to problem solve authentic cases and problems of increasing complexity. Development of self-directed learning skills.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 12:00, End Time: 14:00, Building: Pharmaceutical, Room: Sciences
+Instructor: KALRA, JESSICA
+

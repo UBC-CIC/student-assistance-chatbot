@@ -1,0 +1,83 @@
+Department: CPEN
+Course Number: 441
+Section: 101
+Description: Practical issues for interfaces for modern software. Task analysis, user modelling, usability engineering, representations, metaphors, prototyping tools. Applications: interactive multimedia systems, engineering, scientific visualization, engineering design.
+Pre-reqs: One of CPSC 260, CPSC 221 and one of CPEN 221, CPSC 210, CPEN 333.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 17:30, End Time: 20:30, Building: Hugh, Room: Dempster
+Instructor: FELS, S SIDNEY
+
+Department: CPEN
+Course Number: 441
+Section: L1A
+Description: Practical issues for interfaces for modern software. Task analysis, user modelling, usability engineering, representations, metaphors, prototyping tools. Applications: interactive multimedia systems, engineering, scientific visualization, engineering design.
+Pre-reqs: One of CPSC 260, CPSC 221 and one of CPEN 221, CPSC 210, CPEN 333.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 20:00, End Time: 21:00, Building: MacLeod, Room: 4002
+Instructor: FELS, S SIDNEY
+
+Department: CPEN
+Course Number: 441
+Section: L1W
+Description: Practical issues for interfaces for modern software. Task analysis, user modelling, usability engineering, representations, metaphors, prototyping tools. Applications: interactive multimedia systems, engineering, scientific visualization, engineering design.
+Pre-reqs: One of CPSC 260, CPSC 221 and one of CPEN 221, CPSC 210, CPEN 333.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 441
+Section: T1A
+Description: Practical issues for interfaces for modern software. Task analysis, user modelling, usability engineering, representations, metaphors, prototyping tools. Applications: interactive multimedia systems, engineering, scientific visualization, engineering design.
+Pre-reqs: One of CPSC 260, CPSC 221 and one of CPEN 221, CPSC 210, CPEN 333.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 20:30, End Time: 21:30, Building: Hugh, Room: Dempster
+Instructor: FELS, S SIDNEY
+
+Department: CPEN
+Course Number: 441
+Section: T1W
+Description: Practical issues for interfaces for modern software. Task analysis, user modelling, usability engineering, representations, metaphors, prototyping tools. Applications: interactive multimedia systems, engineering, scientific visualization, engineering design.
+Pre-reqs: One of CPSC 260, CPSC 221 and one of CPEN 221, CPSC 210, CPEN 333.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 441
+Section: 1W1
+Description: Practical issues for interfaces for modern software. Task analysis, user modelling, usability engineering, representations, metaphors, prototyping tools. Applications: interactive multimedia systems, engineering, scientific visualization, engineering design.
+Pre-reqs: One of CPSC 260, CPSC 221 and one of CPEN 221, CPSC 210, CPEN 333.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 441
+Section: L1W
+Description: Practical issues for interfaces for modern software. Task analysis, user modelling, usability engineering, representations, metaphors, prototyping tools. Applications: interactive multimedia systems, engineering, scientific visualization, engineering design.
+Pre-reqs: One of CPSC 260, CPSC 221 and one of CPEN 221, CPSC 210, CPEN 333.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: CPEN
+Course Number: 441
+Section: T1W
+Description: Practical issues for interfaces for modern software. Task analysis, user modelling, usability engineering, representations, metaphors, prototyping tools. Applications: interactive multimedia systems, engineering, scientific visualization, engineering design.
+Pre-reqs: One of CPSC 260, CPSC 221 and one of CPEN 221, CPSC 210, CPEN 333.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

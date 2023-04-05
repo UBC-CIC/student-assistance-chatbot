@@ -1,0 +1,10 @@
+Department: ASIA
+Course Number: 513B
+Section: 034
+Description: Topics in Classical Chinese Literature - TOPICS CHIN LIT
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:30, End Time: 17:30, Building: Buchanan, Room: B213
+Instructor: DUFFY, KAY JANE
+

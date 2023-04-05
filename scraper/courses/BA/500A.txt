@@ -1,0 +1,63 @@
+Department: BA
+Course Number: 500A
+Section: ER1
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 8:00, End Time: 21:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: BA
+Course Number: 500A
+Section: ER4
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: BA
+Course Number: 500A
+Section: ER5
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: BA
+Course Number: 500A
+Section: ER6
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 8:00, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: BA
+Course Number: 500A
+Section: OR6
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 10:00, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: BA
+Course Number: 500A
+Section: RR1
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 12:00, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: BA
+Course Number: 500A
+Section: RR3
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 17:00, End Time: 19:00, Building: Henry, Room: Angus
+Instructor: TBA
+

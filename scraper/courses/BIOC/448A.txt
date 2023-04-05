@@ -1,0 +1,20 @@
+Department: BIOC
+Course Number: 448A
+Section: 101
+Description: Directed Studies in Biochemistry - DIRECTED STUDIES
+Pre-reqs: (Permission of the Department Head is required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, LINDSAY
+
+Department: BIOC
+Course Number: 448A
+Section: 201
+Description: Directed Studies in Biochemistry - DIRECTED STUDIES
+Pre-reqs: (Permission of the Department Head is required.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: BROWN, LINDSAY
+

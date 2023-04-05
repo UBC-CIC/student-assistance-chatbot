@@ -1,0 +1,10 @@
+Department: MEDD
+Course Number: 411
+Section: 001
+Description: Integrating foundational and clinical sciences and clinical practice themes. Case-based approach fostering the development of evidence-based clinical reasoning and clinical skills. Organized on the basis of clinical presentations. Pass/fail.
+Credits: 17
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Wed Thu Fri, Start Time: 8:00, End Time: 12:00
+Instructor: TBA
+

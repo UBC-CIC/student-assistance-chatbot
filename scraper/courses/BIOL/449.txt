@@ -1,0 +1,10 @@
+Department: BIOL
+Course Number: 449
+Section: 001
+Description: A course designed to allow students to undertake a research project in selected fields. Open only to Honours students in Biology, with permission of the supervisor. Presentation of a thesis and an oral examination are required.
+Co-reqs: BIOL 447.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

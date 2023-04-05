@@ -1,0 +1,19 @@
+Department: MUSC
+Course Number: 323
+Section: 001
+Description: Genres of popular music from 1950 to the present and their changing aesthetic, social, cultural, and historical dimensions. Prior experience with music notation and terminology is not required. This course is not acceptable for credit toward the B.Mus., or toward the B.A. major, honours, or minor in Music.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Auditorium, Room: 200
+Instructor: METZER, DAVID
+
+Department: MUSC
+Course Number: 323
+Section: 1W1
+Description: Genres of popular music from 1950 to the present and their changing aesthetic, social, cultural, and historical dimensions. Prior experience with music notation and terminology is not required. This course is not acceptable for credit toward the B.Mus., or toward the B.A. major, honours, or minor in Music.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: METZER, DAVID
+

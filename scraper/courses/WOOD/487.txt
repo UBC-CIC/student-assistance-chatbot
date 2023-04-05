@@ -1,0 +1,33 @@
+Department: WOOD
+Course Number: 487
+Section: 201
+Description: Physical, chemical and mechanical variables involved in adhesive bonding of composite wood products; characteristics of adhesives; plywood, composite wood panels, hardboard, medium density fibreboard, laminated wood and engineered lumber composites manufacturing processes; important physical and chemical properties of products.
+Pre-reqs: WOOD 373.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Forest, Room: Sciences
+Instructor: DAI, CHUNPING
+
+Department: WOOD
+Course Number: 487
+Section: L01
+Description: Physical, chemical and mechanical variables involved in adhesive bonding of composite wood products; characteristics of adhesives; plywood, composite wood panels, hardboard, medium density fibreboard, laminated wood and engineered lumber composites manufacturing processes; important physical and chemical properties of products.
+Pre-reqs: WOOD 373.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: DAI, CHUNPING
+
+Department: WOOD
+Course Number: 487
+Section: L02
+Description: Physical, chemical and mechanical variables involved in adhesive bonding of composite wood products; characteristics of adhesives; plywood, composite wood panels, hardboard, medium density fibreboard, laminated wood and engineered lumber composites manufacturing processes; important physical and chemical properties of products.
+Pre-reqs: WOOD 373.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 14:00, Building: Forest, Room: Sciences
+Instructor: DAI, CHUNPING
+

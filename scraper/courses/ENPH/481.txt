@@ -1,0 +1,40 @@
+Department: ENPH
+Course Number: 481
+Section: 101
+Description: A project course for students pursuing entrepreneurial training within Engineering Physics, and wishing to further develop projects resulting from ENPH 459.
+Pre-reqs: ENPH 459.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GUNN, DYLAN
+
+Department: ENPH
+Course Number: 481
+Section: L1A
+Description: A project course for students pursuing entrepreneurial training within Engineering Physics, and wishing to further develop projects resulting from ENPH 459.
+Pre-reqs: ENPH 459.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ENPH
+Course Number: 481
+Section: 201
+Description: A project course for students pursuing entrepreneurial training within Engineering Physics, and wishing to further develop projects resulting from ENPH 459.
+Pre-reqs: ENPH 459.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GUNN, DYLAN
+
+Department: ENPH
+Course Number: 481
+Section: L2A
+Description: A project course for students pursuing entrepreneurial training within Engineering Physics, and wishing to further develop projects resulting from ENPH 459.
+Pre-reqs: ENPH 459.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GUNN, DYLAN
+

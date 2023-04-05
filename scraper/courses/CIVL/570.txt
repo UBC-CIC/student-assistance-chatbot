@@ -1,0 +1,21 @@
+Department: CIVL
+Course Number: 570
+Section: 101
+Description: Soil composition and geological factors affecting engineering properties, stress and strain at a point, principle of effective stress, stress-strain relations; theories of primary and secondary consolidation, settlement; shear testing equipment, stress-strain and strength behaviour of soil under static and dynamic loading.
+Pre-reqs: CIVL 311.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:00, Building: Civil, Room: and
+Instructor: WIJEWICKREME, DHARMAPRIYA
+
+Department: CIVL
+Course Number: 570
+Section: WL1
+Description: Soil composition and geological factors affecting engineering properties, stress and strain at a point, principle of effective stress, stress-strain relations; theories of primary and secondary consolidation, settlement; shear testing equipment, stress-strain and strength behaviour of soil under static and dynamic loading.
+Pre-reqs: CIVL 311.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

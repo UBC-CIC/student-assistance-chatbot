@@ -1,0 +1,10 @@
+Department: EDUC
+Course Number: 430
+Section: 21S
+Description: Pass/Fail.
+Pre-reqs: One of EDUC 418, EDUC 419, EDUC 421.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

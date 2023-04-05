@@ -1,0 +1,11 @@
+Department: APBI
+Course Number: 463
+Section: 002
+Description: Insect ecology and evolutionary biology of pests, predators, pollinators and other insect groups in agroecosystems. Application to biodiversity management and sustainable agricultural practices.
+Pre-reqs: One of APBI 327, BIOL 327 and one of BIOL 300, GEOG 374, FRST 231, LFS 252, STAT 200.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: CARRILLO, JULI
+

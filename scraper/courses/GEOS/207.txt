@@ -1,0 +1,33 @@
+Department: GEOS
+Course Number: 207
+Section: 101
+Description: Geographical ecology emphasizing contemporary species distributions at local to global spatial scales, population and community dynamics, and human impacts. Labs emphasize collecting data (sometimes outdoors) and interpreting results.
+Pre-reqs: One of GEOB 102, GEOS 102.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Geography, Room: 101
+Instructor: WILLIAMS, JENNIFER
+
+Department: GEOS
+Course Number: 207
+Section: L1A
+Description: Geographical ecology emphasizing contemporary species distributions at local to global spatial scales, population and community dynamics, and human impacts. Labs emphasize collecting data (sometimes outdoors) and interpreting results.
+Pre-reqs: One of GEOB 102, GEOS 102.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:00, End Time: 14:00, Building: Geography, Room: 215D
+Instructor: WILLIAMS, JENNIFER
+
+Department: GEOS
+Course Number: 207
+Section: L1B
+Description: Geographical ecology emphasizing contemporary species distributions at local to global spatial scales, population and community dynamics, and human impacts. Labs emphasize collecting data (sometimes outdoors) and interpreting results.
+Pre-reqs: One of GEOB 102, GEOS 102.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Geography, Room: 242
+Instructor: WILLIAMS, JENNIFER
+

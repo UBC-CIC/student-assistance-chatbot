@@ -1,0 +1,11 @@
+Department: POLI
+Course Number: 372A
+Section: 001
+Description: Multinational corporations and the state in the contemporary international system, including the impact of multinationals and foreign direct investment on governments, societies, and industry.
+Pre-reqs: (Third year standing. Previous completion of an introductory course in international relations (e.g. POLI 260 or its equivalent) is very strongly recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: A202
+Instructor: CRAWFORD, ROBERT
+

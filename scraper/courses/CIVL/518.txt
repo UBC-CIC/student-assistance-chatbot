@@ -1,0 +1,10 @@
+Department: CIVL
+Course Number: 518
+Section: 101
+Description: Probability theory and random variables. Performance functions and probability of non-performance: simulations and FORM/SORM methods. Applications. System reliability. Time-dependent reliability and introduction to stochastic processes.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 10:00, End Time: 13:00, Building: Civil, Room: and
+Instructor: HAUKAAS, TERJE
+

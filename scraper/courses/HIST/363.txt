@@ -1,0 +1,10 @@
+Department: HIST
+Course Number: 363
+Section: 101
+Description: A survey of the development of institutions, ideas and the economy in Europe from about 400 through about 1000 CE.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Buchanan, Room: B209
+Instructor: TIMMERMANN, JOSHUA
+

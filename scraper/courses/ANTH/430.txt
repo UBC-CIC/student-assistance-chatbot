@@ -1,0 +1,10 @@
+Department: ANTH
+Course Number: 430
+Section: 002
+Description: Indigenous perspectives on governance, authority, and jurisdiction as applied to British Columbia First Nations. Recommended: ANTH 220.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 17:00, End Time: 20:00, Building: Anthropology, Room: and
+Instructor: MENZIES, CHARLES
+

@@ -1,0 +1,9 @@
+Department: PSYC
+Course Number: 546B
+Section: 001
+Description: Seminar in Psychological Problems - ANOVA & GLM
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: RIGHTS, JASON
+

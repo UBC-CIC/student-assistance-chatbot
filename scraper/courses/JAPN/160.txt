@@ -1,0 +1,18 @@
+Department: JAPN
+Course Number: 160
+Section: 002
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: B302
+Instructor: KAWADA, NORIYUKI
+
+Department: JAPN
+Course Number: 160
+Section: W02
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Tue Thu Fri, Start Time: 14:00, End Time: 16:00, Building: To, Room: Be
+Instructor: KAWADA, NORIYUKI
+

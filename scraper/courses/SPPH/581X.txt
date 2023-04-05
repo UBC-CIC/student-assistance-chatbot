@@ -1,0 +1,10 @@
+Department: SPPH
+Course Number: 581X
+Section: 002
+Description: By seminar and directed readings, certain topics of current interest are explored in depth.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: See Section Comments
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: School, Room: of
+Instructor: BLACK, CHARLYN
+

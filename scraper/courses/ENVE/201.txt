@@ -1,0 +1,12 @@
+Department: ENVE
+Course Number: 201
+Section: 201
+Description: All aspects of technical communication, including report preparation, business correspondence, and oral presentation, applied to environmental engineering specific cases and projects.
+Pre-reqs: WRDS 150. (or equivalent (ENGL 100, 110, 111 or 112))
+Co-reqs: One of ENVE 200, ENVE 202, ENVE 203.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: MacMillan, Room: 158
+Instructor: WOLF, PAMELA
+

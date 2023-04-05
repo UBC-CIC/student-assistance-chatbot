@@ -1,0 +1,18 @@
+Department: ASTU
+Course Number: 610
+Section: 101
+Description: Approved and supervised paid work experience with a public or private organization for a minimum of 13 weeks full-time. Orientation, workshops, and co-op assignments required. Restricted to Ph.D. degree students in departments with Ph.D. approved co-op programs.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ASTU
+Course Number: 610
+Section: 201
+Description: Approved and supervised paid work experience with a public or private organization for a minimum of 13 weeks full-time. Orientation, workshops, and co-op assignments required. Restricted to Ph.D. degree students in departments with Ph.D. approved co-op programs.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

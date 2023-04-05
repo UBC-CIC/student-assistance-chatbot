@@ -1,0 +1,11 @@
+Department: GEOG
+Course Number: 450
+Section: 201
+Description: Historical, legal, and quantitative analysis of urban research. Emphasis on spatial, racial, and political dynamics of urban inequality.
+Pre-reqs: (Fourth-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 14:00, Building: Geography, Room: 115
+Instructor: WYLY, ELVIN
+

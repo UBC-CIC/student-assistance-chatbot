@@ -1,0 +1,10 @@
+Department: COEC
+Course Number: 491
+Section: 001
+Description: Concepts and processes for the strategic management of single- and multi-business unit private sector enterprises, analyzed using the case method. Integrates methodologies from economic and organizational theory to form the foundations for strategic analyses.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Iona, Room: Building
+Instructor: MARSHALL MANRIQUEZ, GUILLERMO
+

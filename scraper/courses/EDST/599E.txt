@@ -1,0 +1,24 @@
+Department: EDST
+Course Number: 599E
+Section: 084
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDST
+Course Number: 599E
+Section: 085
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EDST
+Course Number: 599E
+Section: 086
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

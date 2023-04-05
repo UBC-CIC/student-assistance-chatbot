@@ -1,0 +1,20 @@
+Department: ECED
+Course Number: 495
+Section: 61A
+Description: Early Childhood Education Practicum and Seminar III
+Pre-reqs: All of ECED 400, ECED 401, ECED 406, ECED 407, ECED 438, ECED 490, ECED 491, EPSE 406.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HASEYAMA, KOICHI
+
+Department: ECED
+Course Number: 495
+Section: 62A
+Description: Early Childhood Education Practicum and Seminar III
+Pre-reqs: All of ECED 400, ECED 401, ECED 406, ECED 407, ECED 438, ECED 490, ECED 491, EPSE 406.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HASEYAMA, KOICHI
+

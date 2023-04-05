@@ -1,0 +1,10 @@
+Department: PHIL
+Course Number: 390A
+Section: 001
+Description: For students in third-year Honours.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 18:00, Building: Irving, Room: K
+Instructor: MARGOLIS, ERIC
+

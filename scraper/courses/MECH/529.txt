@@ -1,0 +1,21 @@
+Department: MECH
+Course Number: 529
+Section: 101
+Description: Advanced modelling of mechanical, electrical, fluid, thermal and multi-domain systems; inter-domain analogies; analytical models in time and frequency domains; modelling tools; response analysis; digital simulation; practical project.
+Pre-reqs: (Prior undergraduate coursework in dynamics, vibration, or electrical circuits.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 17:00, End Time: 18:30, Building: Frank, Room: Forward
+Instructor: DE SILVA, CLARENCE WILFRED
+
+Department: MECH
+Course Number: 529
+Section: WL1
+Description: Advanced modelling of mechanical, electrical, fluid, thermal and multi-domain systems; inter-domain analogies; analytical models in time and frequency domains; modelling tools; response analysis; digital simulation; practical project.
+Pre-reqs: (Prior undergraduate coursework in dynamics, vibration, or electrical circuits.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

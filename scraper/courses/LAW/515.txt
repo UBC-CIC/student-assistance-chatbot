@@ -1,0 +1,16 @@
+Department: LAW
+Course Number: 515
+Section: 99A
+Credits: 5
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MANN, PERBEEN
+
+Department: LAW
+Course Number: 515
+Section: 99C
+Credits: 5
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MANN, PERBEEN
+

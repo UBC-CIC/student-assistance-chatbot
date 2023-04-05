@@ -1,0 +1,57 @@
+Department: COMM
+Course Number: 320
+Section: DD1
+Description: Preparation of financial statements and use of financial information contained in financial statements to make better decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 8:00, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: SINCLAIR, SCOTT
+
+Department: COMM
+Course Number: 320
+Section: DD2
+Description: Preparation of financial statements and use of financial information contained in financial statements to make better decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 9:30, Building: Henry, Room: Angus
+Instructor: SINCLAIR, SCOTT
+
+Department: COMM
+Course Number: 320
+Section: DD3
+Description: Preparation of financial statements and use of financial information contained in financial statements to make better decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: SINCLAIR, SCOTT
+
+Department: COMM
+Course Number: 320
+Section: WL1
+Description: Preparation of financial statements and use of financial information contained in financial statements to make better decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: COMM
+Course Number: 320
+Section: WL2
+Description: Preparation of financial statements and use of financial information contained in financial statements to make better decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: COMM
+Course Number: 320
+Section: WL3
+Description: Preparation of financial statements and use of financial information contained in financial statements to make better decisions. For Master of Management - Dual Degree Option students only.
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

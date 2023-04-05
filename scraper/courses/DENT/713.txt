@@ -1,0 +1,9 @@
+Department: DENT
+Course Number: 713
+Section: 001
+Description: Pass/Fail.
+Credits: 12
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TARZEMANY, RANA
+

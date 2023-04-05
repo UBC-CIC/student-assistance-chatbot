@@ -1,0 +1,9 @@
+Department: ORPA
+Course Number: 508
+Section: 001
+Description: Selected topics in orthopaedic surgery and related basic sciences. Given in alternate years.
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

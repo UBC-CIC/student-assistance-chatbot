@@ -1,0 +1,11 @@
+Department: MICB
+Course Number: 448S
+Section: 201
+Description: A library (3 credits) or laboratory (3 or 6 credits) project. Requires permission of the Undergraduate Advisor. The results are presented in a written report to be reviewed by oral examination.
+Pre-reqs: Either (a) MICB 323 or (b) all of MICB 322, MICB 399.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 17:00, End Time: 18:30, Building: Biological, Room: Sciences
+Instructor: TBA
+

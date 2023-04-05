@@ -6,6 +6,24 @@ Before you deploy, you must have the following in place:
 *  [AWS CLI](https://aws.amazon.com/cli/) 
 *  [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html#getting_started_install)  
 
+# Step 0: Provide AWS CLI Credentials
+1. As the cloud formation and the scraper will be accessing AWS resources we will need to configure the tokens on the command line
+```
+aws configure sso
+```
+2. After typing the prompt, fill in the following information:
+
+- SSO session name: (any session name)
+- SSO Start URL: https://ubc-cicsso.awsapps.com/start#
+- SSO Region: ca-central-1
+
+After you type in the region, it should prompt you to sign up on your browser
+
+3. After logging in, you will have to fill in the following information:
+
+- CLI default client Region: ca-central-1
+- CLI default output format: (blank)
+- CLI profile name: (any profile name)
 
 # Step 1: Clone The Repository
 
@@ -46,17 +64,58 @@ The deployment can take anywhere from 30 minutes to an hour as most of the time 
 Once deployed, the command will complete and you should be able to find the cloudformation stack on your AWS Account.
 
 
-# Step 3: Scraper Deployment
-1. Install the dependencies using the command:
+# Step 3: Populating Kendra's Data Sources (Fast)
+As the UBC courses data does not change frequently, we have already scraped the data in the courses/ directory. To improve our deployment speed, we can simply upload the pre-scraped data to our S3 bucket instead of re-scraping the data each time we would like to deploy it.
+
+1. Before we run the scraper we have to manually change some environment variables in the .env file
+```
+PROFILE_NAME=(profile name in step0)
+S3_BUCKET_NAME=(bucket name in step2)
+KENDRA_INDEX_ID=(kendra index id in step2)
+KENDRA_DATA_SOURCE_ID=(kendra data source id in step2)
+```
+
+2. Install the dependencies using the command:
 ```bash
 pip install -r requirements.txt
 ```
-2. Run the scraper with the following command:
+3. Change directory to the scraper folder:
 ```bash
-python scraper.py
+cd scraper
+```
+4. Upload the files with the following command:
+```bash
+python upload.py
+```
+After it is done scraping and uploading the code to S3, it will trigger the AWS Kendra index to sync the data source.
+
+Note: This upload process should take around 20-30 minutes.
+
+
+# Step 3 Alternative: Scrape new data (Slow)
+
+
+1. Before we run the scraper we have to manually change some environment variables in the .env file
+```
+PROFILE_NAME=(profile name in step0)
+S3_BUCKET_NAME=(bucket name in step2)
+KENDRA_INDEX_ID=(kendra index id in step2)
+KENDRA_DATA_SOURCE_ID=(kendra data source id in step2)
+```
+2. Install the dependencies using the command:
+```bash
+pip install -r requirements.txt
+```
+3. Change directory to the scraper folder:
+```bash
+cd scraper
+```
+4. Run the scraper with the following command:
+```bash
+python scrape.py
 ```
 
-Note: The scraper code scrapes the courses from the [UBC courses website](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea). We are able to extract the following information:
+The code above will then begin scraping courses from the [UBC courses website](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea). We are able to extract the following information:
 * Buildings
 * Co-requisites
 * Course Number
@@ -67,6 +126,11 @@ Note: The scraper code scrapes the courses from the [UBC courses website](https:
 * Mode of delivery
 * Pre-requisites
 * Requires in-person attendance
+
+After it is done scraping and uploading the code to S3, it will trigger the AWS Kendra index to sync the data source. 
+
+Note: The scraping process for the websites should take about 1-2 hours.
+
 
 # Step 4: Frontend Deployment
 

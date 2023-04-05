@@ -1,0 +1,10 @@
+Department: SCAN
+Course Number: 414
+Section: 001
+Description: Topics in Danish and Northern European Cultural Studies (in English).
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B309
+Instructor: HAVEMOSE, ANN-KATHRINE
+

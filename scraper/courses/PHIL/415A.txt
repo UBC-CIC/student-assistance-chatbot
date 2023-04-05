@@ -1,0 +1,11 @@
+Department: PHIL
+Course Number: 415A
+Section: 001
+Description: Study of Kant's critical philosophy.
+Pre-reqs: One of PHIL 314, PHIL 315, PHIL 340.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Buchanan, Room: B307
+Instructor: KRAAL, ANDERS
+

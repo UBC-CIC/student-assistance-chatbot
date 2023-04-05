@@ -1,0 +1,9 @@
+Department: CHEM
+Course Number: 448B
+Section: 200
+Description: Directed Studies in Chemistry - T2 DST CHEMISTRY
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

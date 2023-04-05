@@ -1,0 +1,55 @@
+Department: COMM
+Course Number: 468
+Section: 101
+Description: Applied marketing planning with emphasis on a major industrial analysis and the subsequent development of a detailed marketing plan for an operating organization.
+Pre-reqs: All of COMM 362, COMM 363, COMM 365.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Henry, Room: Angus
+Instructor: DICKSON, JENNY
+
+Department: COMM
+Course Number: 468
+Section: 102
+Description: Applied marketing planning with emphasis on a major industrial analysis and the subsequent development of a detailed marketing plan for an operating organization.
+Pre-reqs: All of COMM 362, COMM 363, COMM 365.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: DICKSON, JENNY
+
+Department: COMM
+Course Number: 468
+Section: 201
+Description: Applied marketing planning with emphasis on a major industrial analysis and the subsequent development of a detailed marketing plan for an operating organization.
+Pre-reqs: All of COMM 362, COMM 363, COMM 365.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Henry, Room: Angus
+Instructor: MAHAFFY, DARREN
+
+Department: COMM
+Course Number: 468
+Section: 202
+Description: Applied marketing planning with emphasis on a major industrial analysis and the subsequent development of a detailed marketing plan for an operating organization.
+Pre-reqs: All of COMM 362, COMM 363, COMM 365.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: David, Room: Lam
+Instructor: DICKSON, JENNY
+
+Department: COMM
+Course Number: 468
+Section: 203
+Description: Applied marketing planning with emphasis on a major industrial analysis and the subsequent development of a detailed marketing plan for an operating organization.
+Pre-reqs: All of COMM 362, COMM 363, COMM 365.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: David, Room: Lam
+Instructor: DICKSON, JENNY
+

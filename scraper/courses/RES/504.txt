@@ -1,0 +1,10 @@
+Department: RES
+Course Number: 504
+Section: 101
+Description: Survey design focusing on stated and revealed environmental preferences, choices, behaviour and values.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 12:00, Building: School, Room: of
+Instructor: SATTERFIELD, THERESA
+

@@ -1,0 +1,10 @@
+Department: CIVL
+Course Number: 520
+Section: 101
+Description: Construction Planning and Control
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Civil, Room: and
+Instructor: ZOU, ZHENGBO
+

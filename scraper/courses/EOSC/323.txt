@@ -1,0 +1,75 @@
+Department: EOSC
+Course Number: 323
+Section: 101
+Description: Analysis and interpretation of natural deformation.
+Pre-reqs: All of EOSC 221, EOSC 223 and one of EOSC 210, EOSC 222.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:00, Building: Earth, Room: Sciences
+Instructor: KENNEDY, LORI
+
+Department: EOSC
+Course Number: 323
+Section: L1A
+Description: Analysis and interpretation of natural deformation.
+Pre-reqs: All of EOSC 221, EOSC 223 and one of EOSC 210, EOSC 222.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 15:00, End Time: 18:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 323
+Section: L1B
+Description: Analysis and interpretation of natural deformation.
+Pre-reqs: All of EOSC 221, EOSC 223 and one of EOSC 210, EOSC 222.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 16:00, End Time: 19:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 323
+Section: L1C
+Description: Analysis and interpretation of natural deformation.
+Pre-reqs: All of EOSC 221, EOSC 223 and one of EOSC 210, EOSC 222.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 15:00, End Time: 18:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 323
+Section: L1D
+Description: Analysis and interpretation of natural deformation.
+Pre-reqs: All of EOSC 221, EOSC 223 and one of EOSC 210, EOSC 222.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 16:00, End Time: 19:00, Building: Earth, Room: and
+Instructor: TBA
+
+Department: EOSC
+Course Number: 323
+Section: L1E
+Description: Analysis and interpretation of natural deformation.
+Pre-reqs: All of EOSC 221, EOSC 223 and one of EOSC 210, EOSC 222.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: EOSC
+Course Number: 323
+Section: WL1
+Description: Analysis and interpretation of natural deformation.
+Pre-reqs: All of EOSC 221, EOSC 223 and one of EOSC 210, EOSC 222.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

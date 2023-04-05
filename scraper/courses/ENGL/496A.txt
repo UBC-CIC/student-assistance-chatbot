@@ -1,0 +1,9 @@
+Department: ENGL
+Course Number: 496A
+Section: 101
+Description: For Honours students only.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: EARLE, BO
+

@@ -1,0 +1,10 @@
+Department: LING
+Course Number: 525
+Section: 002
+Description: Discussion and critical analysis of current issues in semantic theory.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: UBC, Room: Life
+Instructor: RULLMANN, HOTZE
+

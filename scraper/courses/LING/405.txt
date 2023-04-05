@@ -1,0 +1,11 @@
+Department: LING
+Course Number: 405
+Section: 002
+Description: Analytic and theoretical consideration of the interrelation of word formation, sound patterning, and meaningful sentence structure. Not offered every year.
+Pre-reqs: All of LING 300, LING 311. (Recommended: LING 327)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: Hebb, Room: 116
+Instructor: HAMMERLY, CHRISTOPHER
+

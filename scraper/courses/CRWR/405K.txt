@@ -1,0 +1,11 @@
+Department: CRWR
+Course Number: 405K
+Section: 001
+Description: A workshop class in writing creative nonfiction, focused on some of the more popular forms of creative nonfiction: autobiography, rhetoric (commentary), literary journalism, and the personal essay.
+Pre-reqs: (Restricted to Majors in Creative Writing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 15:00, End Time: 17:00, Building: Buchanan, Room: B219
+Instructor: CATRON, MANDY
+

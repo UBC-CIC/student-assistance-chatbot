@@ -1,0 +1,45 @@
+Department: ETEC
+Course Number: 500
+Section: 64A
+Description: Research Methodology in Education
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: MCCRACKEN, JANET
+
+Department: ETEC
+Course Number: 500
+Section: 64B
+Description: Research Methodology in Education
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BARTOSH, OKSANA
+
+Department: ETEC
+Course Number: 500
+Section: 65A
+Description: Research Methodology in Education
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: BARTOSH, OKSANA
+
+Department: ETEC
+Course Number: 500
+Section: W4A
+Description: Research Methodology in Education
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: ETEC
+Course Number: 500
+Section: W5A
+Description: Research Methodology in Education
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

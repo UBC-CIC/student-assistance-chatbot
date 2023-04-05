@@ -1,0 +1,10 @@
+Department: AUDI
+Course Number: 550C
+Section: 002
+Description: May be taken more than once for credit.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 7:00, End Time: 8:00
+Instructor: TBA
+

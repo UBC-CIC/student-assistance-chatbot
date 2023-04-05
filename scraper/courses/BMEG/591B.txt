@@ -1,0 +1,19 @@
+Department: BMEG
+Course Number: 591B
+Section: 101
+Description: Topics in Biomedical Engineering - LNR SYS OPTCS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: P., Room: A.
+Instructor: JU, MYEONG JIN
+
+Department: BMEG
+Course Number: 591B
+Section: WL1
+Description: Topics in Biomedical Engineering - LNR SYS OPTCS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

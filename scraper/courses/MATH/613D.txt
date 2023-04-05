@@ -1,0 +1,9 @@
+Department: MATH
+Course Number: 613D
+Section: 201
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00
+Instructor: MARTIN, GREGORY
+

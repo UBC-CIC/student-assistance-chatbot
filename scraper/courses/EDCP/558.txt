@@ -1,0 +1,9 @@
+Department: EDCP
+Course Number: 558
+Section: 61A
+Description: Theoretical perspectives and current research on science learning in contexts other than formal science classes.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: ANDERSON, DAVID
+

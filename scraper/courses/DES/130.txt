@@ -1,0 +1,120 @@
+Department: DES
+Course Number: 130
+Section: 002
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 12:30, End Time: 14:00, Building: Earth, Room: Sciences
+Instructor: EARL, ALLISON BERNICE
+
+Department: DES
+Course Number: 130
+Section: L01
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:00, End Time: 11:00, Building: Neville, Room: Scarfe
+Instructor: EARL, ALLISON BERNICE
+
+Department: DES
+Course Number: 130
+Section: L02
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: MacLeod, Room: 2014
+Instructor: EARL, ALLISON BERNICE
+
+Department: DES
+Course Number: 130
+Section: L03
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Neville, Room: Scarfe
+Instructor: EARL, ALLISON BERNICE
+
+Department: DES
+Course Number: 130
+Section: L04
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: Ponderosa, Room: Commons
+Instructor: EARL, ALLISON BERNICE
+
+Department: DES
+Course Number: 130
+Section: L05
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: Allard, Room: Hall
+Instructor: EARL, ALLISON BERNICE
+
+Department: DES
+Course Number: 130
+Section: L06
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Ponderosa, Room: Commons
+Instructor: EARL, ALLISON BERNICE
+
+Department: DES
+Course Number: 130
+Section: L07
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 12:00, End Time: 14:00, Building: MacLeod, Room: 2014
+Instructor: EARL, ALLISON BERNICE
+
+Department: DES
+Course Number: 130
+Section: L08
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00, Building: Forest, Room: Sciences
+Instructor: EARL, ALLISON BERNICE
+
+Department: DES
+Course Number: 130
+Section: L09
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Ponderosa, Room: Commons
+Instructor: EARL, ALLISON BERNICE
+
+Department: DES
+Course Number: 130
+Section: L10
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 15:00, End Time: 17:00, Building: Orchard, Room: Commons
+Instructor: EARL, ALLISON BERNICE
+
+Department: DES
+Course Number: 130
+Section: WL1
+Description: Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 12:30
+Instructor: EARL, ALLISON BERNICE
+

@@ -1,0 +1,11 @@
+Department: LING
+Course Number: 410
+Section: 001
+Description: Current issues in phonological theory.
+Pre-reqs: LING 311.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Earth, Room: and
+Instructor: PULLEYBLANK, DOUGLAS
+

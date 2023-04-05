@@ -1,0 +1,54 @@
+Department: GRSJ
+Course Number: 224F
+Section: 99A
+Description: Techniques of literary study, with emphasis on intersectionality and the ways in which gender is represented in literature and contributions of feminism and gender studies to literary studies.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: FERREIRA DA SILVA, DENISE
+
+Department: GRSJ
+Course Number: 224F
+Section: 99B
+Description: Techniques of literary study, with emphasis on intersectionality and the ways in which gender is represented in literature and contributions of feminism and gender studies to literary studies.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: FERGUSON, KATHRYN
+
+Department: GRSJ
+Course Number: 224F
+Section: 99C
+Description: Techniques of literary study, with emphasis on intersectionality and the ways in which gender is represented in literature and contributions of feminism and gender studies to literary studies.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: FERGUSON, KATHRYN
+
+Department: GRSJ
+Course Number: 224F
+Section: WLA
+Description: Techniques of literary study, with emphasis on intersectionality and the ways in which gender is represented in literature and contributions of feminism and gender studies to literary studies.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: GRSJ
+Course Number: 224F
+Section: WLB
+Description: Techniques of literary study, with emphasis on intersectionality and the ways in which gender is represented in literature and contributions of feminism and gender studies to literary studies.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+
+Department: GRSJ
+Course Number: 224F
+Section: WLC
+Description: Techniques of literary study, with emphasis on intersectionality and the ways in which gender is represented in literature and contributions of feminism and gender studies to literary studies.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: TBA
+

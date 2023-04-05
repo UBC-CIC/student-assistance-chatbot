@@ -1,0 +1,9 @@
+Department: EPSE
+Course Number: 598V
+Section: 075
+Description: Pass/Fail.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: HOLBROOK, CAY
+

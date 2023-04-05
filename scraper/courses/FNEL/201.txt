@@ -1,0 +1,22 @@
+Department: FNEL
+Course Number: 201
+Section: 001
+Description: Emphasis on increasing fluency in conversational ability, enhancing pronunciation and comprehension skills, expanding vocabulary, extending literacy and grammatical understanding, and further study of oral traditions in their cultural context.
+Pre-reqs: (FNEL102 in the same language.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed, Start Time: 16:30, End Time: 18:00
+Instructor: POINT BASSETT, CHARLA GRACE
+
+Department: FNEL
+Course Number: 201
+Section: WL1
+Description: Emphasis on increasing fluency in conversational ability, enhancing pronunciation and comprehension skills, expanding vocabulary, extending literacy and grammatical understanding, and further study of oral traditions in their cultural context.
+Pre-reqs: (FNEL102 in the same language.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed
+Instructor: POINT BASSETT, CHARLA GRACE
+

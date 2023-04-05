@@ -1,0 +1,10 @@
+Department: SOCI
+Course Number: 230
+Section: 201
+Description: Major theories of consumer society, evaluating impacts of shopping on human and non-human environments and popular solutions to these impacts.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Irving, Room: K
+Instructor: HUDDART KENNEDY, EMILY
+

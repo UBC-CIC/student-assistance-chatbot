@@ -1,0 +1,18 @@
+Department: ARTC
+Course Number: 411
+Section: 01F
+Pre-reqs: One of ARTC 310, ARTC 311.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ARTC
+Course Number: 411
+Section: 01W
+Pre-reqs: One of ARTC 310, ARTC 311.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

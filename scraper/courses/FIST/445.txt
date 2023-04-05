@@ -1,0 +1,9 @@
+Department: FIST
+Course Number: 445
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 16:30, Building: Buchanan, Room: D307
+Instructor: COULTHARD, LISA
+

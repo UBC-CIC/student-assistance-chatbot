@@ -1,0 +1,10 @@
+Department: GEOG
+Course Number: 327
+Section: 101
+Description: Canada from the beginning of European contact to the mid-19th century, stressing the changing geographical patterns of settlement, economy, and culture.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Mathematics, Room: Annex
+Instructor: MCKAY, KATHRYN
+

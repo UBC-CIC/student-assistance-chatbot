@@ -1,0 +1,10 @@
+Department: FISH
+Course Number: 506I
+Section: 001
+Description: Current Topics in Fisheries - CO-CREATE AQ SCI
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Wed, Start Time: 9:30, End Time: 12:30
+Instructor: REID, ANDREA
+

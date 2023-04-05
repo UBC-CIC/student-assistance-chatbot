@@ -1,0 +1,22 @@
+Department: GRSJ
+Course Number: 307
+Section: 201
+Description: Critical examination of mainstream and alternative media images of gender, race, and sexuality in the context of networked social media, film, music, and television.
+Pre-reqs: Either (a) all of GRSJ 101, GRSJ 102 or (b) all of WMST 101, WMST 102. (or third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: B315
+Instructor: SLOVIN, LJ
+
+Department: GRSJ
+Course Number: 307
+Section: WL1
+Description: Critical examination of mainstream and alternative media images of gender, race, and sexuality in the context of networked social media, film, music, and television.
+Pre-reqs: Either (a) all of GRSJ 101, GRSJ 102 or (b) all of WMST 101, WMST 102. (or third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: To, Room: Be
+Instructor: TBA
+

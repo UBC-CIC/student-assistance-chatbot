@@ -1,0 +1,10 @@
+Department: CAPS
+Course Number: 303
+Section: 001
+Description: Techniques and principles of human physiology. This course must be taken in conjunction with CAPS 301. Restricted to Cellular, Anatomical and Physiological Sciences and Pharmacology Honours students.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: HAAS, KURT
+

@@ -1,0 +1,45 @@
+Department: BA
+Course Number: 520
+Section: BA1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00
+Instructor: TBA
+
+Department: BA
+Course Number: 520
+Section: BA2
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00
+Instructor: TBA
+
+Department: BA
+Course Number: 520
+Section: DD1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+
+Department: BA
+Course Number: 520
+Section: DD2
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Fri*, End Time: 10:00, Building: 12:00
+Instructor: TBA
+
+Department: BA
+Course Number: 520
+Section: MM1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Henry, Room: Angus
+Instructor: TBA
+

@@ -1,0 +1,19 @@
+Department: ENGL
+Course Number: 561A
+Section: 001
+Description: Topics in Science and Technology Studies - TOPICS IN STS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 15:00, End Time: 18:00, Building: Buchanan, Room: Tower
+Instructor: PHILIP, KAVITA
+
+Department: ENGL
+Course Number: 561A
+Section: 01W
+Description: Topics in Science and Technology Studies - TOPICS IN STS
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

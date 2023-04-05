@@ -1,0 +1,22 @@
+Department: CNTO
+Course Number: 403
+Section: 001
+Description: Intermediate lower level (part II) Cantonese for non-heritage learners. Continuation of CNTO 401.
+Pre-reqs: CNTO 401. (Or placement approval.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D307
+Instructor: PAI, KIT
+
+Department: CNTO
+Course Number: 403
+Section: W01
+Description: Intermediate lower level (part II) Cantonese for non-heritage learners. Continuation of CNTO 401.
+Pre-reqs: CNTO 401. (Or placement approval.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 16:00
+Instructor: PAI, KIT
+

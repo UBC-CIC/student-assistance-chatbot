@@ -1,0 +1,18 @@
+Department: MUSC
+Course Number: 593G
+Section: 001
+Description: Private instruction, vocal or instrumental. May be repeated for credit, in accordance with program requirements.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: GIRARD, JONATHAN
+
+Department: MUSC
+Course Number: 593G
+Section: 760
+Description: Private instruction, vocal or instrumental. May be repeated for credit, in accordance with program requirements.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: MACLELLAN, PEDER
+

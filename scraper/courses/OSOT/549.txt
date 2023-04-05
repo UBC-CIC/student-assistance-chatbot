@@ -1,0 +1,8 @@
+Department: OSOT
+Course Number: 549
+Section: 001
+Description: Professional identity, professionalism, and cultural humility are further explored. Knowledge is applied to develop self-directed, culturally safe, lifelong learners. Conscious use of theory, evidence and critical thinking will be utilized to maintain, evaluate and improve occupational therapy practice.
+Credits: 5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+

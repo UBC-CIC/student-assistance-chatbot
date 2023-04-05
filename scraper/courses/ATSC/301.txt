@@ -1,0 +1,11 @@
+Department: ATSC
+Course Number: 301
+Section: 201
+Description: Atmospheric Radiation and Remote Sensing
+Pre-reqs: One of PHYS 102, PHYS 108, PHYS 118, PHYS 158. (and familiarity with a programming language.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 9:00, End Time: 10:00, Building: Neville, Room: Scarfe
+Instructor: AUSTIN, PHILIP
+

@@ -1,0 +1,264 @@
+Department: CNTO
+Course Number: 311
+Section: 001
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D229
+Instructor: PAI, KIT
+
+Department: CNTO
+Course Number: 311
+Section: 002
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D205
+Instructor: PAI, KIT
+
+Department: CNTO
+Course Number: 311
+Section: 003
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D205
+Instructor: PAI, KIT
+
+Department: CNTO
+Course Number: 311
+Section: 004
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu Fri, Start Time: 9:00, End Time: 10:00
+Instructor: DOHERTY, LIAM
+
+Department: CNTO
+Course Number: 311
+Section: 005
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu Fri, Start Time: 11:00, End Time: 12:00
+Instructor: DOHERTY, LIAM
+
+Department: CNTO
+Course Number: 311
+Section: 006
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu Fri, Start Time: 9:00, End Time: 10:00
+Instructor: DOHERTY, LIAM
+
+Department: CNTO
+Course Number: 311
+Section: 007
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu Fri, Start Time: 11:00, End Time: 12:00
+Instructor: DOHERTY, LIAM
+
+Department: CNTO
+Course Number: 311
+Section: 008
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu Fri, Start Time: 14:00, End Time: 15:00, Building: Buchanan, Room: D229
+Instructor: LAM, WAI MAN
+
+Department: CNTO
+Course Number: 311
+Section: 009
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D229
+Instructor: LAM, WAI MAN
+
+Department: CNTO
+Course Number: 311
+Section: 010
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu Fri, Start Time: 14:00, End Time: 15:00, Building: Leon, Room: and
+Instructor: LAM, WAI MAN
+
+Department: CNTO
+Course Number: 311
+Section: 011
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu Fri, Start Time: 15:00, End Time: 16:00, Building: Buchanan, Room: D229
+Instructor: LAM, WAI MAN
+
+Department: CNTO
+Course Number: 311
+Section: 012
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon Fri Tue Thu, Start Time: 11:00, End Time: 12:00
+Instructor: PAI, KIT
+
+Department: CNTO
+Course Number: 311
+Section: W01
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 15:00
+Instructor: PAI, KIT
+
+Department: CNTO
+Course Number: 311
+Section: W02
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 15:00, End Time: 16:00
+Instructor: PAI, KIT
+
+Department: CNTO
+Course Number: 311
+Section: W03
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 15:00
+Instructor: PAI, KIT
+
+Department: CNTO
+Course Number: 311
+Section: W04
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu Fri, Start Time: 9:00, End Time: 10:00
+Instructor: DOHERTY, LIAM
+
+Department: CNTO
+Course Number: 311
+Section: W05
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 1, Days: Tue Thu Fri, Start Time: 11:00, End Time: 12:00
+Instructor: DOHERTY, LIAM
+
+Department: CNTO
+Course Number: 311
+Section: W06
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu Fri, Start Time: 9:00, End Time: 10:00
+Instructor: DOHERTY, LIAM
+
+Department: CNTO
+Course Number: 311
+Section: W07
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Tue Thu Fri, Start Time: 11:00, End Time: 12:00
+Instructor: DOHERTY, LIAM
+
+Department: CNTO
+Course Number: 311
+Section: W08
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu Fri, Start Time: 14:00, End Time: 15:00
+Instructor: LAM, WAI MAN
+
+Department: CNTO
+Course Number: 311
+Section: W09
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu Fri, Start Time: 15:00, End Time: 16:00
+Instructor: LAM, WAI MAN
+
+Department: CNTO
+Course Number: 311
+Section: W10
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Fri, Start Time: 14:00, End Time: 15:00
+Instructor: LAM, WAI MAN
+
+Department: CNTO
+Course Number: 311
+Section: W11
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu Fri, Start Time: 15:00, End Time: 16:00
+Instructor: LAM, WAI MAN
+
+Department: CNTO
+Course Number: 311
+Section: W12
+Description: Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO 301 and CNTO 303, but is structured specifically for heritage speakers of Mandarin.
+Pre-reqs: One of CHIN 243, CHIN 244. (Or placement approval.)
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Term: 2, Days: Mon Tue Thu Fri, Start Time: 11:00, End Time: 12:00
+Instructor: PAI, KIT
+

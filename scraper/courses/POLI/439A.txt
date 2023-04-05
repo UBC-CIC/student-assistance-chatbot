@@ -1,0 +1,20 @@
+Department: POLI
+Course Number: 439A
+Section: 001
+Description: The relationship between politics, economics, and development. The role of the state, political institutions, economic policy, and foreign aid in development strategies.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Frederic, Room: Lasserre
+Instructor: FARKASCH, ROBERT
+
+Department: POLI
+Course Number: 439A
+Section: 002
+Description: The relationship between politics, economics, and development. The role of the state, political institutions, economic policy, and foreign aid in development strategies.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Hennings, Room: 301
+Instructor: FARKASCH, ROBERT
+

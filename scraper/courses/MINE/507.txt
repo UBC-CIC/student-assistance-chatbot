@@ -1,0 +1,10 @@
+Department: MINE
+Course Number: 507
+Section: 201
+Description: Mass mining (caving) methods, their design and operation, the value proposition and the key value drivers.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 8:00, End Time: 11:00, Building: Civil, Room: and
+Instructor: MOSS, ALLAN
+

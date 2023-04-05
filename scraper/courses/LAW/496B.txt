@@ -1,0 +1,10 @@
+Department: LAW
+Course Number: 496B
+Section: 005
+Description: Enrolment restricted.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: BAKAN, JOEL CONRAD
+

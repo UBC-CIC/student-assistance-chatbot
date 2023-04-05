@@ -1,0 +1,187 @@
+Department: PHYS
+Course Number: 119
+Section: L1A
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 312
+Instructor: MICHAL, CARL
+
+Department: PHYS
+Course Number: 119
+Section: L1B
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:30, End Time: 12:30, Building: Hebb, Room: 312
+Instructor: MICHAL, CARL
+
+Department: PHYS
+Course Number: 119
+Section: L1C
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 312
+Instructor: MICHAL, CARL
+
+Department: PHYS
+Course Number: 119
+Section: L1D
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Wed, Start Time: 11:00, End Time: 14:00, Building: Hebb, Room: 312
+Instructor: MICHAL, CARL
+
+Department: PHYS
+Course Number: 119
+Section: L1E
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 312
+Instructor: MICHAL, CARL
+
+Department: PHYS
+Course Number: 119
+Section: L1F
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 312
+Instructor: MICHAL, CARL
+
+Department: PHYS
+Course Number: 119
+Section: L1W
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 119
+Section: L2A
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 8:00, End Time: 11:00, Building: Hebb, Room: 312
+Instructor: LISTER, ALISON
+
+Department: PHYS
+Course Number: 119
+Section: L2B
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 14:00, Building: Hebb, Room: 312
+Instructor: LISTER, ALISON
+
+Department: PHYS
+Course Number: 119
+Section: L2C
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 312
+Instructor: LISTER, ALISON
+
+Department: PHYS
+Course Number: 119
+Section: L2D
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 14:00, Building: Hebb, Room: 312
+Instructor: IVES, JOSS
+
+Department: PHYS
+Course Number: 119
+Section: L2E
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 312
+
+Department: PHYS
+Course Number: 119
+Section: L2F
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 14:00, End Time: 17:00, Building: Hebb, Room: 312
+
+Department: PHYS
+Course Number: 119
+Section: L2G
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 8:00, End Time: 11:00, Building: Hebb, Room: 312
+
+Department: PHYS
+Course Number: 119
+Section: L2W
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PHYS
+Course Number: 119
+Section: V2A
+Description: Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning.
+Pre-reqs: One of PHYS 12, PHYS 100.
+Co-reqs: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.
+Credits: 1
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:30, Building: Hebb, Room: 312
+Instructor: IVES, JOSS
+

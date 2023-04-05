@@ -1,0 +1,10 @@
+Department: CRWR
+Course Number: 220
+Section: 002
+Description: Covers three genres from fiction, poetry, creative nonfiction, radio drama, radio feature, or stageplay.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 11:00, End Time: 13:00, Building: Buchanan, Room: D218
+Instructor: BELCOURT, BILLY-RAY
+

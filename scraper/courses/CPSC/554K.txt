@@ -1,0 +1,10 @@
+Department: CPSC
+Course Number: 554K
+Section: 201
+Description: Topics in Human-Computer Interaction - DFP PROJECT
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 13:00, Building: Forest, Room: Sciences
+Instructor: HODGSON, ANTONY
+

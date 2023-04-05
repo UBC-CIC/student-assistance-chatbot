@@ -1,0 +1,10 @@
+Department: MINE
+Course Number: 585
+Section: 201
+Pre-reqs: MINE 581.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 17:00, End Time: 20:00, Building: Orchard, Room: Commons
+Instructor: PRISCU, CAIUS
+

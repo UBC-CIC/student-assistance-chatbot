@@ -1,0 +1,12 @@
+Department: MUSC
+Course Number: 537C
+Section: 001
+Description: Seminar in the Literature of Opera - SEM LIT OF OPERA
+Pre-reqs: All of MUSC 221, MUSC 301, MUSC 454, MUSC 455, MUSC 520.
+Co-reqs: MUSC 520.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: Auditorium, Room: 200
+Instructor: RAFTERY, JAMES
+

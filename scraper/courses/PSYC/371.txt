@@ -1,0 +1,11 @@
+Department: PSYC
+Course Number: 371
+Section: 002
+Description: Neurodevelopment and neuroplasticity, the physiological bases of several motivated behaviours (sleep, sexual behaviour, hunger and eating, drugs and addiction), cognition, the stress response, and brain dysfunction and recovery.
+Pre-reqs: PSYC 370.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00, Building: Buchanan, Room: A102
+Instructor: SNYDER, JASON
+

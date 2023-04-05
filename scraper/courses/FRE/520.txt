@@ -1,0 +1,9 @@
+Department: FRE
+Course Number: 520
+Section: 003
+Credits: 2
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 15:00, End Time: 17:00, Building: MacMillan, Room: 160
+Instructor: WISEMAN, KELLEEN
+

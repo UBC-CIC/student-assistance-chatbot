@@ -1,0 +1,20 @@
+Department: MTRL
+Course Number: 263
+Section: 201
+Description: Fluid statics; fluid mechanics; laminar and turbulent flow; equations of continuity and motion; boundary layers; flow in conduits and packed and fluidized beds; flow measurements.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 10:00, End Time: 11:00, Building: Frank, Room: Forward
+Instructor: DIXON, DAVID
+
+Department: MTRL
+Course Number: 263
+Section: L2A
+Description: Fluid statics; fluid mechanics; laminar and turbulent flow; equations of continuity and motion; boundary layers; flow in conduits and packed and fluidized beds; flow measurements.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: Forest, Room: Sciences
+Instructor: DIXON, DAVID
+

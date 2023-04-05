@@ -1,0 +1,30 @@
+Department: MUSC
+Course Number: 150A
+Section: 001
+Description: Large Instrumental Ensemble - LRGE INST ENSEMB
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Sat, Start Time: 16:00, End Time: 19:00, Building: Chan, Room: Centre
+Instructor: BHATE, JAELEM
+
+Department: MUSC
+Course Number: 150A
+Section: T01
+Description: Symphony Orchestra, Symphonic Wind Ensemble, or Concert Winds. May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music. Open to other students by audition, with credit, as stipulated by their faculties.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 16:00, End Time: 19:00, Building: Chan, Room: Centre
+Instructor: BHATE, JAELEM
+
+Department: MUSC
+Course Number: 150A
+Section: T02
+Description: Symphony Orchestra, Symphonic Wind Ensemble, or Concert Winds. May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music. Open to other students by audition, with credit, as stipulated by their faculties.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 15:00, End Time: 18:00, Building: Chan, Room: Centre
+Instructor: BHATE, JAELEM
+

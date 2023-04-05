@@ -1,0 +1,77 @@
+Department: BIOL
+Course Number: 352
+Section: 201
+Description: Introduction to the processes involved in growth and development: cell division, tissue culture, meristems, differentiation, and the action of major growth regulators, and photomorphogenesis. Emphasis on experimental approaches.
+Pre-reqs: Either (a) BIOL 200 and one of BIOL 233, BIOL 234; or (b) FRST 302. (CHEM 233 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: ARNOTT, ARALIYA
+
+Department: BIOL
+Course Number: 352
+Section: L21
+Description: Introduction to the processes involved in growth and development: cell division, tissue culture, meristems, differentiation, and the action of major growth regulators, and photomorphogenesis. Emphasis on experimental approaches.
+Pre-reqs: Either (a) BIOL 200 and one of BIOL 233, BIOL 234; or (b) FRST 302. (CHEM 233 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: SINGH, SANTOKH
+
+Department: BIOL
+Course Number: 352
+Section: L22
+Description: Introduction to the processes involved in growth and development: cell division, tissue culture, meristems, differentiation, and the action of major growth regulators, and photomorphogenesis. Emphasis on experimental approaches.
+Pre-reqs: Either (a) BIOL 200 and one of BIOL 233, BIOL 234; or (b) FRST 302. (CHEM 233 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: SINGH, SANTOKH
+
+Department: BIOL
+Course Number: 352
+Section: L23
+Description: Introduction to the processes involved in growth and development: cell division, tissue culture, meristems, differentiation, and the action of major growth regulators, and photomorphogenesis. Emphasis on experimental approaches.
+Pre-reqs: Either (a) BIOL 200 and one of BIOL 233, BIOL 234; or (b) FRST 302. (CHEM 233 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: SINGH, SANTOKH
+
+Department: BIOL
+Course Number: 352
+Section: L24
+Description: Introduction to the processes involved in growth and development: cell division, tissue culture, meristems, differentiation, and the action of major growth regulators, and photomorphogenesis. Emphasis on experimental approaches.
+Pre-reqs: Either (a) BIOL 200 and one of BIOL 233, BIOL 234; or (b) FRST 302. (CHEM 233 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
+Instructor: SINGH, SANTOKH
+
+Department: BIOL
+Course Number: 352
+Section: T21
+Description: Introduction to the processes involved in growth and development: cell division, tissue culture, meristems, differentiation, and the action of major growth regulators, and photomorphogenesis. Emphasis on experimental approaches.
+Pre-reqs: Either (a) BIOL 200 and one of BIOL 233, BIOL 234; or (b) FRST 302. (CHEM 233 is recommended.)
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Fri, Start Time: 10:00, End Time: 11:00, Building: Biological, Room: Sciences
+Instructor: TBA
+
+Department: BIOL
+Course Number: 352
+Section: 2W1
+Description: Introduction to the processes involved in growth and development: cell division, tissue culture, meristems, differentiation, and the action of major growth regulators, and photomorphogenesis. Emphasis on experimental approaches.
+Pre-reqs: Either (a) BIOL 200 and one of BIOL 233, BIOL 234; or (b) FRST 302. (CHEM 233 is recommended.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:00
+Instructor: TBA
+

@@ -1,0 +1,49 @@
+Department: COMM
+Course Number: 120
+Section: DD1
+Description: A broad introduction to the field of business and how the different disciplines within business interact and combine in business decision-making. For Master of Management - Dual Degree Option students only.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: DODDS, COLIN
+
+Department: COMM
+Course Number: 120
+Section: DD2
+Description: A broad introduction to the field of business and how the different disciplines within business interact and combine in business decision-making. For Master of Management - Dual Degree Option students only.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Henry, Room: Angus
+Instructor: DODDS, COLIN
+
+Department: COMM
+Course Number: 120
+Section: DD3
+Description: A broad introduction to the field of business and how the different disciplines within business interact and combine in business decision-making. For Master of Management - Dual Degree Option students only.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 11:00, End Time: 12:30, Building: Henry, Room: Angus
+Instructor: RAI, SABRINA
+
+Department: COMM
+Course Number: 120
+Section: DD4
+Description: A broad introduction to the field of business and how the different disciplines within business interact and combine in business decision-making. For Master of Management - Dual Degree Option students only.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
+Instructor: RAI, SABRINA
+
+Department: COMM
+Course Number: 120
+Section: WL1
+Description: A broad introduction to the field of business and how the different disciplines within business interact and combine in business decision-making. For Master of Management - Dual Degree Option students only.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

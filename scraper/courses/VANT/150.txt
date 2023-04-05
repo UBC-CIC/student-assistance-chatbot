@@ -1,0 +1,40 @@
+Department: VANT
+Course Number: 150
+Section: VE1
+Description: Topics in sustainability, including the impact of technology on the environment and society, and fundamentals of engineering design. Restricted to students in the UBC Vantage College Engineering Stream.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 11:00, End Time: 12:00, Building: Orchard, Room: Commons
+Instructor: MOTAVAS, SALOOME
+
+Department: VANT
+Course Number: 150
+Section: VT1
+Description: Topics in sustainability, including the impact of technology on the environment and society, and fundamentals of engineering design. Restricted to students in the UBC Vantage College Engineering Stream.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: VANT
+Course Number: 150
+Section: VT2
+Description: Topics in sustainability, including the impact of technology on the environment and society, and fundamentals of engineering design. Restricted to students in the UBC Vantage College Engineering Stream.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 11:00, End Time: 13:00, Building: Orchard, Room: Commons
+Instructor: TBA
+
+Department: VANT
+Course Number: 150
+Section: VT3
+Description: Topics in sustainability, including the impact of technology on the environment and society, and fundamentals of engineering design. Restricted to students in the UBC Vantage College Engineering Stream.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Fri, Start Time: 14:00, End Time: 16:00, Building: Orchard, Room: Commons
+Instructor: TBA
+

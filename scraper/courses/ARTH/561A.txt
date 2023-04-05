@@ -1,0 +1,9 @@
+Department: ARTH
+Course Number: 561A
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Frederic, Room: Lasserre
+Instructor: SHELTON, ANTHONY
+

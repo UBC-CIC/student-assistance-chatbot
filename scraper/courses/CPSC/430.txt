@@ -1,0 +1,44 @@
+Department: CPSC
+Course Number: 430
+Section: 101
+Description: Computers and Society
+Pre-reqs: (3 credits of Computer Science and at least third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Hugh, Room: Dempster
+Instructor: LEYTON-BROWN, KEVIN
+
+Department: CPSC
+Course Number: 430
+Section: 102
+Description: Computers and Society
+Pre-reqs: (3 credits of Computer Science and at least third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Hugh, Room: Dempster
+Instructor: LEE, MELISSA
+
+Department: CPSC
+Course Number: 430
+Section: 1W1
+Description: Computers and Society
+Pre-reqs: (3 credits of Computer Science and at least third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 12:30, End Time: 14:00
+Instructor: LEYTON-BROWN, KEVIN
+
+Department: CPSC
+Course Number: 430
+Section: 1W2
+Description: Computers and Society
+Pre-reqs: (3 credits of Computer Science and at least third-year standing.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: To, Room: Be
+Instructor: LEE, MELISSA
+

@@ -1,0 +1,10 @@
+Department: IWME
+Course Number: 503
+Section: 101
+Description: Fundamental principles of process design for chemical and biological systems to treat water used in and effluents generated from industrial processes. Industry application examples: mining, oil sands, oil and gas, pulp and paper, agriculture, food and beverage.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 18:00, End Time: 21:00, Building: Civil, Room: and
+Instructor: KHEYRANDISH, ATAOLLAH
+

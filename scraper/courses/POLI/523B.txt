@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 523B
+Section: 002
+Description: Political Thought - POLI THOUGHT
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Thu, Start Time: 9:00, End Time: 12:00
+Instructor: SULTAN, NAZMUL
+

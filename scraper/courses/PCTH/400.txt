@@ -1,0 +1,11 @@
+Department: PCTH
+Course Number: 400
+Section: 001
+Description: Lectures and discussions in scientific pharmacology. All aspects of the study of drugs will be covered, but the course will concentrate on the scientific aspects of the pharmacology of neurohumoral transmission; mathematics of pharmacology; cardiovascular, respiratory and clinical pharmacology; and to a lesser extent on the pharmacology of various organs and tissues.
+Pre-reqs: Either (a) a score of 75% or higher in PCTH 305 or (b) PCTH 300.
+Credits: 6
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon Wed Fri, Start Time: 11:00, End Time: 12:00, Building: Medical, Room: Sciences
+Instructor: ANSERMINO, JOHN MARK
+

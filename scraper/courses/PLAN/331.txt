@@ -1,0 +1,41 @@
+Department: PLAN
+Course Number: 331
+Section: 001
+Description: Considers the city as a terrain for the manifestation and mediation of social justice. Explores how the allocation of land, goods, and services in cities (re)produces social stratification, and how institutions and civil society negotiate just and unjust outcomes.
+Pre-reqs: (Third-year standing or above in any program. Second year students may be admitted with permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 331
+Section: 002
+Description: Considers the city as a terrain for the manifestation and mediation of social justice. Explores how the allocation of land, goods, and services in cities (re)produces social stratification, and how institutions and civil society negotiate just and unjust outcomes.
+Pre-reqs: (Third-year standing or above in any program. Second year students may be admitted with permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Geography, Room: 214
+Instructor: BELKADI, MERYEM
+
+Department: PLAN
+Course Number: 331
+Section: 0W1
+Description: Considers the city as a terrain for the manifestation and mediation of social justice. Explores how the allocation of land, goods, and services in cities (re)produces social stratification, and how institutions and civil society negotiate just and unjust outcomes.
+Pre-reqs: (Third-year standing or above in any program. Second year students may be admitted with permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: PLAN
+Course Number: 331
+Section: 0W2
+Description: Considers the city as a terrain for the manifestation and mediation of social justice. Explores how the allocation of land, goods, and services in cities (re)produces social stratification, and how institutions and civil society negotiate just and unjust outcomes.
+Pre-reqs: (Third-year standing or above in any program. Second year students may be admitted with permission of instructor.)
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,10 @@
+Department: MIDW
+Course Number: 125
+Section: 001
+Description: An overview of basic concepts in pharmacology, pharmacy, and therapeutics relevant to the practice of midwifery in Canada.
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 9:30, End Time: 11:00
+Instructor: HORNE, ANDREW
+

@@ -1,0 +1,9 @@
+Department: MINE
+Course Number: 553
+Section: 201
+Description: Use of mathematical programming, network theory, queuing models and simulation to model service and production operations in industry. Use of models in decision-making.
+Credits: 3
+Mode of Delivery: Online
+Requires in Person Attendance: No
+Instructor: DUNBAR, W SCOTT
+

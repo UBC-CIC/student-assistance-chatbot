@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 364B
+Section: 001
+Description: Analysis of the activities and influence of modern international organizations in international security, economic, and social issue areas. The course will focus on organizations associated with the United Nations, but other world and regional bodies will be analysed as well.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: A202
+Instructor: HECHT, CATHERINE
+

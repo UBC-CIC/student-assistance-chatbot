@@ -1,0 +1,18 @@
+Department: LFS
+Course Number: 302A
+Section: 001
+Description: Field studies carried out abroad under staff direction. Participating students are assessed a fee.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LAVKULICH, LESLIE
+
+Department: LFS
+Course Number: 302A
+Section: 002
+Description: Field studies carried out abroad under staff direction. Participating students are assessed a fee.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: LAVKULICH, LESLIE
+

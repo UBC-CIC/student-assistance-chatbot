@@ -1,0 +1,10 @@
+Department: NURS
+Course Number: 531
+Section: 202
+Description: Theories of learning and their implications for the design of clinical learning experiences.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: UBC, Room: Hospital
+Instructor: ADHAMI, NASSIM
+

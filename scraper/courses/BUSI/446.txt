@@ -1,0 +1,20 @@
+Department: BUSI
+Course Number: 446
+Section: 001
+Description: Analysis of real estate development process with an examination of economic feasibility studies, approval processes, project financing, construction, project management, and marketing phases.
+Pre-reqs: BUSI 445.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: BUSI
+Course Number: 446
+Section: 002
+Description: Analysis of real estate development process with an examination of economic feasibility studies, approval processes, project financing, construction, project management, and marketing phases.
+Pre-reqs: BUSI 445.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

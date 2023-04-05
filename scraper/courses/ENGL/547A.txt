@@ -1,0 +1,9 @@
+Department: ENGL
+Course Number: 547A
+Section: 001
+Description: Directed Reading - DIRECTED READING
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+

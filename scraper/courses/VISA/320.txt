@@ -1,0 +1,22 @@
+Department: VISA
+Course Number: 320
+Section: 001
+Description: Investigation of drawing as a discipline in the context of contemporary art. Emphasis on expanding definitions of the drawing practice while focusing on technical and conceptual development.
+Pre-reqs: One of VISA 220, VISA 281, FINA 281.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: Dorothy, Room: Somerset
+Instructor: GU, XIONG
+
+Department: VISA
+Course Number: 320
+Section: 01W
+Description: Investigation of drawing as a discipline in the context of contemporary art. Emphasis on expanding definitions of the drawing practice while focusing on technical and conceptual development.
+Pre-reqs: One of VISA 220, VISA 281, FINA 281.
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: To, Room: Be
+Instructor: TBA
+

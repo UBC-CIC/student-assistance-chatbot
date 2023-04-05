@@ -1,0 +1,17 @@
+Department: PHIL
+Course Number: 551A
+Section: 001
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Wed, Start Time: 14:00, End Time: 17:00
+Instructor: MARGOLIS, ERIC
+
+Department: PHIL
+Course Number: 551A
+Section: 002
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: THOMPSON, EVAN
+

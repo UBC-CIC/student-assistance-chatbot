@@ -1,0 +1,10 @@
+Department: MATH
+Course Number: 501
+Section: 101
+Description: Algebra I
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Mon Wed Fri, Start Time: 14:00, End Time: 15:00, Building: West, Room: Mall
+Instructor: RAMDORAI, SUJATHA
+

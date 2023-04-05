@@ -1,0 +1,10 @@
+Department: POLI
+Course Number: 367B
+Section: 001
+Description: International Relations Theory and the International System - INT REL TH&IN SY
+Credits: 3
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Buchanan, Room: A203
+Instructor: CRAWFORD, ROBERT
+

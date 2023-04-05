@@ -1,0 +1,9 @@
+Department: BAHR
+Course Number: 505
+Section: MM1
+Credits: 1.5
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 10:00, Building: David, Room: Lam
+Instructor: EVANS, JONATHAN BLAIR
+

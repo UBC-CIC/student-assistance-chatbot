@@ -1,0 +1,8 @@
+Department: LLED
+Course Number: 501
+Section: 062
+Credits: 3
+Mode of Delivery: Hybrid
+Requires in Person Attendance: Yes
+Instructor: TBA
+

@@ -1,0 +1,306 @@
+Department: ELEC
+Course Number: 201
+Section: 101
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Henry, Room: Angus
+Instructor: SHEKHAR, SUDIP
+
+Department: ELEC
+Course Number: 201
+Section: L1A
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Fri^, End Time: 13:00, Building: 15:00, Room: MacLeod
+Instructor: SHEKHAR, SUDIP
+
+Department: ELEC
+Course Number: 201
+Section: L1B
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Tue^, End Time: 9:00, Building: 11:00, Room: MacLeod
+Instructor: SHEKHAR, SUDIP
+
+Department: ELEC
+Course Number: 201
+Section: L1C
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Thu^, End Time: 13:00, Building: 15:00, Room: MacLeod
+Instructor: SHEKHAR, SUDIP
+
+Department: ELEC
+Course Number: 201
+Section: L1D
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Wed^, End Time: 14:00, Building: 16:00, Room: MacLeod
+
+Department: ELEC
+Course Number: 201
+Section: LWA
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: LWB
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: LWC
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: LWD
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: T1A
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 1, Start Time: Fri*, End Time: 16:00, Building: 18:00
+Instructor: SHEKHAR, SUDIP
+
+Department: ELEC
+Course Number: 201
+Section: T1W
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: 1W1
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: LWA
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: LWB
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: LWC
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: T1W
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: 201
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue Thu, Start Time: 15:30, End Time: 17:30, Building: Earth, Room: Sciences
+Instructor: NOJEH, ALIREZA
+
+Department: ELEC
+Course Number: 201
+Section: L2A
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Thu, Start Time: 11:00, End Time: 13:00, Building: MacLeod, Room: 2038
+Instructor: NOJEH, ALIREZA
+
+Department: ELEC
+Course Number: 201
+Section: L2B
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Days: Tue, Start Time: 11:00, End Time: 13:00, Building: MacLeod, Room: 2038
+Instructor: NOJEH, ALIREZA
+
+Department: ELEC
+Course Number: 201
+Section: LW1
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: LW2
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: T2A
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Term: 2, Start Time: Wed^, End Time: 17:00, Building: 19:00, Room: Hugh
+Instructor: NOJEH, ALIREZA
+
+Department: ELEC
+Course Number: 201
+Section: T2W
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: 2W1
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: 4
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: LW1
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: LW2
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
+Department: ELEC
+Course Number: 201
+Section: T2W
+Description: The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+Pre-reqs: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.
+Co-reqs: One of MATH 255, MATH 256, MATH 265.
+Credits: n/a
+Mode of Delivery: In-Person
+Requires in Person Attendance: Yes
+Instructor: TBA
+
