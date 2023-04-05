@@ -7,7 +7,7 @@ Before you deploy, you must have the following in place:
 *  [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html#getting_started_install)  
 
 # Step 0: Provide AWS CLI Credentials
-1. As the cloud formation and the scraper will be access AWS resources we will need to configure the tokens on the command line
+1. As the cloud formation and the scraper will be accessing AWS resources we will need to configure the tokens on the command line
 ```
 aws configure sso
 ```
@@ -19,7 +19,8 @@ aws configure sso
 
 After you type in the region, it should prompt you to sign up on your browser
 
-3. 
+3. After logging in, you will have to fill in the following information:
+
 - CLI default client Region: ca-central-1
 - CLI default output format: (blank)
 - CLI profile name: (any profile name)
@@ -82,7 +83,10 @@ pip install -r requirements.txt
 ```bash
 python upload.py
 ```
+After it is done scraping and uploading the code to S3, it will trigger the AWS Kendra index to sync the data source.
+
 Note: This upload process should take around 20-30 minutes.
+
 
 # Step 3 Alternative: Scrape new data (Slow)
 
