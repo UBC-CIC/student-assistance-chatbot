@@ -337,6 +337,9 @@ export class ubcStudentAssistantBot extends cdk.Stack {
         autoDeleteObjects: true,
     });
 
+    //Create output for S3 bucket for scraper
+    new cdk.CfnOutput(this, 's3_bucket_id', { value: courseBucket.bucketName });
+
     //Create IAM role for kendra data source
     const dataSourceCoursePolicy = new iam.PolicyDocument({
       statements: [
