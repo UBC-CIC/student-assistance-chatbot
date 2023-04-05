@@ -86,7 +86,7 @@ aws cloudformation deploy --template-file cfn-amplifyRole.yml --stack-name ampli
 This command will create the desired IAM role to deploy the Amplify stack for the front-end.
 
 Once the role has been created, click the button below to launch the amplify app. This button will take you to the AWS console to deploy the app.
-<br>
+
 
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/UBC-CIC/student-assistance-chatbot)
 
@@ -97,22 +97,25 @@ Once the role has been created, click the button below to launch the amplify app
 ![Region Image](./images/regionExample.png)
 
 
-2. You will be taken to the following page. Select the `amplifyconsole-chatbot-backend-role` for the backend deployment.
+2. You will be taken to the following page. If your github is not authorized, you will have to authorize it before proceeding. Otherwise, select the `amplifyconsole-chatbot-backend-role` for the backend deployment.
 
 
 ![Select Role Image](./images/selectBackendRole.png)
+
 
 3. The deployment will take a few minutes. Please wait until the deployment status is green.
 
 
 ![Build Complete Image](./images/frontendBuildCompletion.png)
 
+
 4. Now that the app is deployed, you can click the left toolbar to open up the `AWS Amplify` menu. Once there, navigate to the  `Rewrites and Redirects` section and click edit.
 
 
 ![Rewrites and Redirects image](./images/rewritesAndRedirects.png)
 
-5. Add the following rule to your you rewrites and redirects
+
+5. Add the following rule to your rewrites and redirects.
 
 
 
