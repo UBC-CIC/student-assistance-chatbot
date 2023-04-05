@@ -118,7 +118,7 @@ Now that you have deployed the application on Amplify, you should find a forked 
 ![Respository Image](./images/exampleRepository.png)
 
 
-For the deployment to work, we have to manually set the appropriate config that will connect AWS Lex to AWS Amplify. Once you find this page, using the github UI you can navigate to the file `src/.env` which should look like this
+For the deployment to work, we have to manually set the appropriate config that will connect AWS Lex to AWS Amplify. Once you find this page, using the github UI you can navigate to the file [environment file](../.env) which should look like this
 
 
 ![Blank Env Image](./images/blankEnv.png)
@@ -140,7 +140,7 @@ REACT_APP_LEX_BOT_ID=8M9VJWBQXW
 REACT_APP_LEX_COGNITO_POOL_ID=ca-central-1:32f39a14-2e1c-4712-80ee-8d35e977afea
 
 # Scraper Config 
-PROFILE_NAME=myprofile
+PROFILE_NAME= #Profile name from step 0
 KENDRA_INDEX_ID=cecad942-683f-41d3-ba26-c9046e81bfac
 KENDRA_DATA_SOURCE_ID=eed041fb-db11-42d6-825d-423a59e23f81
 S3_BUCKET_NAME=ubcstudentassistantbot-ubccoursebucketbd7d4111-1q2su36zjy6ok
@@ -154,21 +154,25 @@ After you have filled out the env variables, you can commit the changes to the r
 After committing this change, log into your AWS console and select the AWS Lex service. In the base console, you should see a deployed chatbot.
 
 
-![Lex Bot](./images/lexChatbot.png)
+![Lex Bot Image](./images/lexChatbot.png)
 
 
 Click into the chatbot and open the left toolbar menu. Under ubcStudentAssistantBot and the Deployment option, you should see the Aliases option.
 
 
-![Lex Aliases](.images/lexAlias.png)
+![Lex Aliases Image](./images/lexAlias.png)
 
 
 Click into the testBot Alias and select the english language as indicated below
 
 
-![Lex English](.images/lexEnglish.png)
+![Lex English Image](./images/lexEnglish.png)
 
 
+From there, you will need to select the lambda we created in the cdk deployment. It will start with `ubcStudentAssistantBot-lexDeployLambda` and then be appeneded by a random uuid.
+
+
+![Lex Lambda Image](./images/lexLambda.png)
 
 
 Now, we can continue on with the rest of the frontend deployment.
@@ -216,23 +220,15 @@ Then hit save.
 # Step 4: Populating Kendra's Data Sources (Fast)
 As the UBC courses data does not change frequently, we have already scraped the data in the courses/ directory. To improve our deployment speed, we can simply upload the pre-scraped data to our S3 bucket instead of re-scraping the data each time we would like to deploy it.
 
-1. Before we run the scraper we have to manually change some environment variables in the .env file
-```
-PROFILE_NAME=(profile name in step0)
-S3_BUCKET_NAME=(bucket name in step2)
-KENDRA_INDEX_ID=(kendra index id in step2)
-KENDRA_DATA_SOURCE_ID=(kendra data source id in step2)
-```
-
-2. Install the dependencies using the command:
+1. Install the dependencies using the command:
 ```bash
 pip install -r requirements.txt
 ```
-3. Change directory to the scraper folder:
+2. Change directory to the scraper folder:
 ```bash
 cd scraper
 ```
-4. Upload the files with the following command:
+3. Upload the files with the following command:
 ```bash
 python upload.py
 ```
@@ -243,23 +239,15 @@ Note: This upload process should take around 20-30 minutes.
 
 # Step 4 Alternative: Scrape new data (Slow)
 
-
-1. Before we run the scraper we have to manually change some environment variables in the .env file
-```
-PROFILE_NAME=(profile name in step0)
-S3_BUCKET_NAME=(bucket name in step2)
-KENDRA_INDEX_ID=(kendra index id in step2)
-KENDRA_DATA_SOURCE_ID=(kendra data source id in step2)
-```
-2. Install the dependencies using the command:
+1. Install the dependencies using the command:
 ```bash
 pip install -r requirements.txt
 ```
-3. Change directory to the scraper folder:
+2. Change directory to the scraper folder:
 ```bash
 cd scraper
 ```
-4. Run the scraper with the following command:
+3. Run the scraper with the following command:
 ```bash
 python scrape.py
 ```
