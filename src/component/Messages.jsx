@@ -5,7 +5,7 @@ import {getMessage,addMessage} from "../variables";
 
 import { Amplify, Interactions } from 'aws-amplify';
 import { AWSLexV2Provider } from '@aws-amplify/interactions';
-import interactionsConfig from "../../cdk/bin/cdk";
+import interactionsConfig from "../aws-interaction-export";
 
 Amplify.addPluggable(new AWSLexV2Provider());
 

@@ -67,7 +67,7 @@ Additionally, you will see a number of values in your command line that should l
 
 ![CDK output image](./images/cdkOutputs.png)
 
-Please take note of this values as you will need them later on in the deployment process.
+Please take note of these values as you will need them later on in the deployment process.
 
 
 # Step 3: Populating Kendra's Data Sources (Fast)
