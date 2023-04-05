@@ -103,14 +103,14 @@ Once the role has been created, click the button below to launch the amplify app
 3. The deployment will then take a few minutes, please wait until the deployment status is green
 
 
-![Build Complete Image](./images/frontendBuildComplete.png)
+![Build Complete Image](./images/frontendBuildCompletion.png)
 
 4. Now that the app is deployed, you can click the left toolbar to open up the `AWS Amplify` menu. Once there, navigate to the  `Rewrites and Redirects` section and click edit
 
 
 ![Rewrites and Redirects image](./images/rewritesAndRedirects.png)
 
-5. Add the following rule to your
+5. Add the following rule to your you rewrites and redirects
 
 
 
