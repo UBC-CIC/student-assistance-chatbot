@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![Architecture diagram](images/ArchitectureDiagram.png)
+![Architecture diagram](images/architectureDiagram.png)
 
 ## Description
 ### User/bot conversation flow (Blue)

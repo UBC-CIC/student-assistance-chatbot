@@ -24,7 +24,7 @@ Here, the chatbot will direct the user to ask any question they desire under the
 # Feedback Page
 Upon completion of a conversation, the user has the option to submit feedback to improve the chatbot. This can be done by clicking the feedback button on the chat page.
 
-![Home Page Feedback Button](./images/FeedbackHighlight.png)
+![Home Page Feedback Button](./images/feedbackHighlight.png)
 
 The user will then land on the feedback page where they can submit a rating from 1 to 5 stars, based on their chatbot experience, and leave comments of any type for chatbot improvement.
 
@@ -34,7 +34,7 @@ The user will then land on the feedback page where they can submit a rating from
 # Admin Page
 If you are a system administrator, you will have access to the admin page provided you have created an admin account following the steps outlined in the [deployment guide](./DeploymentGuide.md). To get to the admin page, you can click the admin button on the chat page.
 
-![Home Page Admin Button](./images/AdminHighlight.png)
+![Home Page Admin Button](./images/adminHighlight.png)
 
 Upon logging in as the system admin, you will land upon the following page.
 ![Admin Page](./images/adminPage.png)

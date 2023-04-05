@@ -21,7 +21,7 @@ The architecture for our solution was divided into a front-end and back-end part
 
 The below diagram shows the overarching architecture and how the system works. For further details please see the [Architecture Deep Dive](docs/ArchitectureDeepDive.md).
 
-![Architecture Diagram](docs/images/ArchitectureDiagram.png)
+![Architecture Diagram](docs/images/architectureDiagram.png)
 
 # Deployment
 
