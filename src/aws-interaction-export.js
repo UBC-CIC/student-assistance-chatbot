@@ -1,7 +1,12 @@
+let lexCognitoPoolId = //YOUR COGNITO POOL ID
+let region = //YOUR AWS REGION HERE
+let lexBotId = //YOUR LEX BOT ID
+
+
 const interactionsConfig = {
     Auth: {
-        identityPoolId: "ca-central-1:d9039ad6-f9d8-4f9a-8114-66e79188f63a", //Change to your identity pool arn
-        region: "ca-central-1" //Change to your region
+        identityPoolId: lexCognitoPoolId,
+        region: region
     },
     Interactions: {
         bots: {
@@ -9,9 +14,9 @@ const interactionsConfig = {
             ubcStudentAssistantBot: {
                 name: "ubcStudentAssistantBot",
                 aliasId: "TSTALIASID",
-                botId: "T5ALQLFKDU",  //Change to your bot's created ID
+                botId: lexBotId,
                 localeId: "en_US",
-                region: "ca-central-1", //Change to your region
+                region: region,
                 providerName: "AWSLexV2Provider",
             },
         }
