@@ -87,7 +87,8 @@ This command will create the desired IAM role to deploy the Amplify stack for th
 
 Once the role has been created, click the button below to launch the amplify app. This button will take you to the AWS console to deploy the app.
 
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/UBC-CIC/student-assistance-chatbot/)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/UBC-CIC/student-assistance-chatbot)
+
 
 1. On the AWS console, select your desired region before hitting the conenct to github button.
 
