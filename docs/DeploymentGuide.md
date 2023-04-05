@@ -149,6 +149,10 @@ S3_BUCKET_NAME=ubcstudentassistantbot-ubccoursebucketbd7d4111-1q2su36zjy6ok
 After you have filled out the env variables, you can commit the changes to the repository.
 
 
+![Commit Image](./images/commitEnvFile.png)
+
+
+Now, we can continue on with the rest of the frontend deployment
 
 
 1. Once you have pushed your commit, the final deployment will take a few minutes. Please wait until the deployment status is green. If your build is stuck on the "forking your github repository" step, you can refresh the page and go back to step 3 from the [previous section](#step-3-frontend-deployment).
@@ -256,7 +260,6 @@ The code above will then begin scraping courses from the [UBC courses website](h
 After it is done scraping and uploading the code to S3, it will trigger the AWS Kendra index to sync the data source. 
 
 Note: The scraping process for the websites should take about 1-2 hours.
-
 
 
 Congratulations, the deployment of your app is complete!
