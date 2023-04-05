@@ -103,7 +103,7 @@ Once the role has been created, click the button below to launch the amplify app
 ![Select Role Image](./images/selectBackendRole.png)
 
 
-3. The deployment will take a few minutes. Please wait until the deployment status is green. If your build is stuck on the forking your github repository step, you can refresh the page and go back to step 2.
+3. The deployment will take a few minutes. Please wait until the deployment status is green. If your build is stuck on the "forking your github repository" step, you can refresh the page and go back to step 2.
 
 
 ![Build Complete Image](./images/frontendBuildCompletion.png)
@@ -128,13 +128,13 @@ Then hit save.
 ![Rewrites and Redirects Edit Image](./images/addRewriteRule.png)
 
 
-6. Once this is complete, you can now create your admin account. For this step, you need to log into the `AWS Cognito`. Once you are there, you can find the user pool that was created with your Amplify deployment.
+6. Once this is complete, you can now create your admin account. For this step, you need to log into `AWS Cognito`. Once you are there, you can find the user pool that was created with your Amplify deployment.
 
 
 ![Amplify User Pool Image](./images/adminUserPool.png)
 
 
-7. Once you have found your new user pool, click into and create a new user. Fill in the appropriate fields like below. Note that the password that you set in the console will be needed to log into the admin page, so please write it down in an appropriate place. If your email is not verified, you will be unable to change your password via our application UI.
+7. Once you have found your new user pool, click into and create a new user. Fill in the appropriate fields shown below. Note that the password that you set in the console will be needed to log into the admin page, so please write it down in an appropriate place. If your email is not verified, you will be unable to change your password via our application UI.
 
 
 ![Cognito User Creation Image](./images/cognitoUserCreation.png)
