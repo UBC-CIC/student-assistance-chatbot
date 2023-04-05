@@ -1,25 +1,20 @@
 from selenium import webdriver
-import undetected_chromedriver.v2 as uc
 from selenium.webdriver.common.by import By
-op = webdriver.ChromeOptions()
-from selenium.webdriver.chrome.options import Options
-import re
-import os
-import json
+from selenium.webdriver.firefox.options import Options
+from webdriver_manager.firefox import GeckoDriverManager
 
-URL = "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea"
+import re
+import json
+import boto3
+from botocore.exceptions import ClientError
+import os
+from dotenv import load_dotenv
+
 PREREQ_SELECTOR = "//*[contains(text(),'Pre-req')]"
 COREQ_SELECTOR = "//*[contains(text(),'Co-req')]"
 SELECTOR = ".table.table-striped > tbody > tr > td > a"
-BASE_DIRECTORY = "./classes/"
 METADATA_DIRECTORY = "./metadata/"
 REGEX = "^.*dept=([^&]*)&course=([^&]*)&section=([^&]*)"
-
-chrome_options = Options()
-chrome_options.add_argument("--headless")
-driver = uc.Chrome(options=chrome_options)
-
-indexName = "ubc-scraped-courses"
 
 CREDIT_REGEX = "Credits: (.*)"
 MODE_OF_DELIVERY_REGEX = "Mode of Delivery: (.*)"
@@ -27,6 +22,11 @@ REQUIRES_IN_PERSON_ATTENDANCE_REGEX = "Requires In-Person Attendance: (.*)"
 DATE_BUILDING_REGEX = "((?:1|2) (?:Mon|Tue|Wed|Thu|Fri|Sat|Sun).*)"
 INSTRUCTOR_REGEX = "Instructor: (.*)"
 
+load_dotenv()
+# Set up S3 client
+session = boto3.Session(profile_name=os.getenv("PROFILE_NAME"))
+s3 = session.client('s3')
+    
 class DateBuilding():
     def __init__(self,term,days,startTime,endTime,building,room):
         self.term = term
@@ -143,6 +143,7 @@ def parse(courseMain):
     return Course(credit, description, mode_of_delivery, requires_in_person_attendance, date_buildings_arr, instructor)
 
 def generateMetadata(department,courseNumber, sourceURI):
+    indexName = "ubc-scraped-courses"
     metadata = {
         "DocumentId": "s3://"+indexName+"/"+department+"/"+courseNumber + ".txt",
         "Attributes": {
@@ -156,23 +157,19 @@ def generateMetadata(department,courseNumber, sourceURI):
     return json_object
 
 
-def scrape(url,parentUrl,prereq,coreq):
+def scrape(url,parentUrl,prereq,coreq,bucketName,driver):
     driver.get(url)
     subjBox = driver.find_elements(By.CSS_SELECTOR, SELECTOR)
     if not prereq:
         try:
             prereqBox = driver.find_element(By.XPATH,PREREQ_SELECTOR)
             prereq = prereqBox.text
-            print(url)
-            print(prereq)
         except:
             pass
     if not coreq:
         try:
             coreqBox = driver.find_element(By.XPATH,COREQ_SELECTOR)
             coreq = coreqBox.text
-            print(url)
-            print(coreq)
         except:
             pass        
     urls = []
@@ -183,48 +180,55 @@ def scrape(url,parentUrl,prereq,coreq):
             
     if len(urls) != 0:
         for innerUrl in urls:
-            scrape(innerUrl,url,prereq,coreq)
+            scrape(innerUrl,url,prereq,coreq,bucketName,driver)
     else:
+        
+        courseMain = driver.find_element(By.XPATH, "//*[@role='main']").text.replace("Save To Worklist","")
+        result = re.search(REGEX,driver.current_url)
+        department = result.groups()[0]
+        courseNumber = result.groups()[1]
+        section = result.groups()[2]
+        formatted = formatText(parse(courseMain),prereq,coreq,department, courseNumber, section)
+        directory = department + "/"
+        filename = courseNumber + ".txt"
+
+        # Write data to file-like object
+        file_data = formatted.encode('utf-8')
+
+        # Upload file to S3
         try:
-            courseMain = driver.find_element(By.XPATH, "//*[@role='main']").text.replace("Save To Worklist","")
-            result = re.search(REGEX,driver.current_url)
-            department = result.groups()[0]
-            courseNumber = result.groups()[1]
-            section = result.groups()[2]
-            formatted = formatText(parse(courseMain),prereq,coreq,department, courseNumber, section)
-            directory = BASE_DIRECTORY + department + "/"
-            filename = courseNumber + ".txt"
-            os.makedirs(os.path.dirname(directory),exist_ok=True)
-            with open(directory + filename, "a+", encoding="utf-8") as f:
-                f.write(formatted + "\n")
-            json_object = generateMetadata(department,courseNumber,parentUrl)
-            #metadataDirectory = METADATA_DIRECTORY + department + "/"
-            #os.makedirs(os.path.dirname(metadataDirectory),exist_ok=True)
-            with open(directory + filename + ".metadata.json", "w") as m:
-                m.write(json_object)
-        except:
-            pass
+            s3.put_object(Bucket=bucketName, Key=directory+filename, Body=file_data)
+            print(f"File uploaded to s3://{bucketName}/{directory+filename}")
+        except ClientError as e:
+            print(f"Error uploading file to S3: {e}")
+        json_object = generateMetadata(department,courseNumber,parentUrl)
+        # Write data to file-like object
+        metadata_data = json_object.encode('utf-8')
+        # Upload file to S3
+        try:
+            s3.put_object(Bucket=bucketName, Key=directory + filename + ".metadata.json", Body=metadata_data)
+            print(f"File uploaded to s3://{bucketName}/{directory+filename}")
+        except ClientError as e:
+            print(f"Error uploading file to S3: {e}")
+        # os.makedirs(os.path.dirname(directory),exist_ok=True)
+        # with open(directory + filename, "a+", encoding="utf-8") as f:
+        #     f.write(formatted + "\n")
+        # json_object = generateMetadata(department,courseNumber,parentUrl)
+        # with open(directory + filename + ".metadata.json", "w") as m:
+        #     m.write(json_object)
+
+
+
+def beginScraper(bucketName):
     
-scrape(URL,None,None,None)
-
-# Files below only used to help to clean up json files
-
-def find_json_files(directory):
-    json_files = []
-    for root, dirs, files in os.walk(directory):
-        for file in files:
-            if file.endswith(".json"):
-                json_files.append(os.path.join(root, file))
-    return json_files
-
-def remove_contentType(json_files):
-    for file in json_files:
-        with open(file, 'r') as json_file:
-            json_data = json.load(json_file)
-            if 'ContentType' in json_data:
-                del json_data['ContentType']
-                with open(file, 'w') as json_file:
-                    json.dump(json_data, json_file)
-
-# json_files = find_json_files("./classes")
-# remove_contentType(json_files)
+    # Using firefox instead of chrome because I can't run headless in chrome
+    URL = "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea"
+    # chrome_options = Options()
+    # chrome_options.add_argument("--no-sandbox")
+    # chrome_options.add_argument("--window-size=1920,1080")
+    # chrome_options.add_argument("--headless")
+    #driver = uc.Chrome(options=chrome_options)
+    options = Options()
+    options.headless = True
+    driver = webdriver.Firefox(options=options,executable_path=GeckoDriverManager().install())
+    scrape(URL,None,None,None,bucketName,driver)

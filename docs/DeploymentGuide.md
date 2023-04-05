@@ -6,6 +6,23 @@ Before you deploy, you must have the following in place:
 *  [AWS CLI](https://aws.amazon.com/cli/) 
 *  [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html#getting_started_install)  
 
+# Step 0: Provide AWS CLI Credentials
+1. As the cloud formation and the scraper will be access AWS resources we will need to configure the tokens on the command line
+```
+aws configure sso
+```
+2. After typing the prompt, fill in the following information:
+
+- SSO session name: (any session name)
+- SSO Start URL: https://ubc-cicsso.awsapps.com/start#
+- SSO Region: ca-central-1
+
+After you type in the region, it should prompt you to sign up on your browser
+
+3. 
+CLI default client Region: ca-central-1
+CLI default output format: (blank)
+CLI profile name: (any profile name)
 
 # Step 1: Clone The Repository
 
@@ -47,6 +64,9 @@ Once deployed, the command will complete and you should be able to find the clou
 
 
 # Step 3: Scraper Deployment
+
+
+
 1. Install the dependencies using the command:
 ```bash
 pip install -r requirements.txt
