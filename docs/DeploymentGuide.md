@@ -140,7 +140,7 @@ REACT_APP_LEX_BOT_ID=8M9VJWBQXW
 REACT_APP_LEX_COGNITO_POOL_ID=ca-central-1:32f39a14-2e1c-4712-80ee-8d35e977afea
 
 # Scraper Config 
-PROFILE_NAME=myprofile
+PROFILE_NAME= #Profile name from step 0
 KENDRA_INDEX_ID=cecad942-683f-41d3-ba26-c9046e81bfac
 KENDRA_DATA_SOURCE_ID=eed041fb-db11-42d6-825d-423a59e23f81
 S3_BUCKET_NAME=ubcstudentassistantbot-ubccoursebucketbd7d4111-1q2su36zjy6ok
@@ -220,23 +220,15 @@ Then hit save.
 # Step 4: Populating Kendra's Data Sources (Fast)
 As the UBC courses data does not change frequently, we have already scraped the data in the courses/ directory. To improve our deployment speed, we can simply upload the pre-scraped data to our S3 bucket instead of re-scraping the data each time we would like to deploy it.
 
-1. Before we run the scraper we have to manually change some environment variables in the .env file
-```
-PROFILE_NAME=(profile name in step0)
-S3_BUCKET_NAME=(bucket name in step2)
-KENDRA_INDEX_ID=(kendra index id in step2)
-KENDRA_DATA_SOURCE_ID=(kendra data source id in step2)
-```
-
-2. Install the dependencies using the command:
+1. Install the dependencies using the command:
 ```bash
 pip install -r requirements.txt
 ```
-3. Change directory to the scraper folder:
+2. Change directory to the scraper folder:
 ```bash
 cd scraper
 ```
-4. Upload the files with the following command:
+3. Upload the files with the following command:
 ```bash
 python upload.py
 ```
@@ -247,23 +239,15 @@ Note: This upload process should take around 20-30 minutes.
 
 # Step 4 Alternative: Scrape new data (Slow)
 
-
-1. Before we run the scraper we have to manually change some environment variables in the .env file
-```
-PROFILE_NAME=(profile name in step0)
-S3_BUCKET_NAME=(bucket name in step2)
-KENDRA_INDEX_ID=(kendra index id in step2)
-KENDRA_DATA_SOURCE_ID=(kendra data source id in step2)
-```
-2. Install the dependencies using the command:
+1. Install the dependencies using the command:
 ```bash
 pip install -r requirements.txt
 ```
-3. Change directory to the scraper folder:
+2. Change directory to the scraper folder:
 ```bash
 cd scraper
 ```
-4. Run the scraper with the following command:
+3. Run the scraper with the following command:
 ```bash
 python scrape.py
 ```
