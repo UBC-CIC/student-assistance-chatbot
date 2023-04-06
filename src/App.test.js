@@ -173,9 +173,10 @@ describe('Check AdminPage Function', () => {
   });
 
   test('check admin login function', async() => {
+    //Enter your own admin username and password for testing purposes
     const state = {
-      username:'admin',
-      password:'UBCAdmin2023'
+      username:'',
+      password:'' 
     }
 
     await new Promise(resolve => setTimeout(resolve, 5000));
