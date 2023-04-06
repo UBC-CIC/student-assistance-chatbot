@@ -7,8 +7,6 @@ import re
 import json
 import boto3
 from botocore.exceptions import ClientError
-import os
-from dotenv import load_dotenv
 
 PREREQ_SELECTOR = "//*[contains(text(),'Pre-req')]"
 COREQ_SELECTOR = "//*[contains(text(),'Co-req')]"

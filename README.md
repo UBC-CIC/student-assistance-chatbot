@@ -47,7 +47,7 @@ If you are a user using this app and would like to know more, please see the [Us
 ├── node_modules
 ├── public
 ├── scraper/
-│   ├── courses
+│   ├── courses.zip
 │   ├── scrape.py
 │   ├── scraper.py
 │   ├── syncKendra.py
