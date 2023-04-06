@@ -122,7 +122,7 @@ REACT_APP_LEX_BOT_ID=#ubcStudentAssistantBot.lexBotId
 REACT_APP_LEX_COGNITO_POOL_ID=#ubcStudentAssistantBot.lexCognitoPoolId
 
 # Scraper Config 
-PROFILE_NAME=#Your profile name here
+PROFILE_NAME=#Your AWS profile name here
 KENDRA_INDEX_ID=#ubcStudentAssistantBot.kendraIndexId
 KENDRA_DATA_SOURCE_ID=#ubcStudentAssistantBot.kendraDataSourceId
 S3_BUCKET_NAME=#ubcStudentAssistantBot.s3BucketId
