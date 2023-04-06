@@ -1,9 +1,0 @@
-Department: ORPA
-Course Number: 717
-Section: 001
-Description: Formal presentations by the orthopaedic residents, fellows, faculty and guests. Subject matter includes the whole spectrum of orthopaedics.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

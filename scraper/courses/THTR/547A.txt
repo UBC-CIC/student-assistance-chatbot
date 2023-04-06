@@ -1,8 +1,0 @@
-Department: THTR
-Course Number: 547A
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: FIRKINS, JACQUELINE
-

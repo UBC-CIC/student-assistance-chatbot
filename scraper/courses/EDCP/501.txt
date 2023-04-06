@@ -1,9 +1,0 @@
-Department: EDCP
-Course Number: 501
-Section: 61A
-Description: Pass/Fail.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: DEZWART, MARY-LEAH
-

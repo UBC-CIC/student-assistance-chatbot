@@ -1,9 +1,0 @@
-Department: PHIL
-Course Number: 485
-Section: 001
-Description: Same as PHIL 486-9.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

@@ -1,9 +1,0 @@
-Department: CONS
-Course Number: 504C
-Section: 102
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: MacLeod, Room: 2018
-Instructor: MARTIN, TARA
-

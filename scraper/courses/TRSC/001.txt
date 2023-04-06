@@ -1,8 +1,0 @@
-Department: TRSC
-Course Number: 001
-Section: 001
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

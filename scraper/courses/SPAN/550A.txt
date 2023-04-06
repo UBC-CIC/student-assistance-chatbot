@@ -1,9 +1,0 @@
-Department: SPAN
-Course Number: 550A
-Section: 101
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue, Start Time: 15:00, End Time: 18:00, Building: Mathematics, Room: 204
-Instructor: VICTORIANO, RAMON ANTONIO
-

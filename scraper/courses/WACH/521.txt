@@ -1,9 +1,0 @@
-Department: WACH
-Course Number: 521
-Section: 001
-Description: Biology of human development, child growth and puberty, adolescent health, childhood chronic and acute diseases, gender diversity in pediatrics, social environment and child health, and pediatric research in partnership with Indigenous communities.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon Wed, Start Time: 9:00, End Time: 10:30
-

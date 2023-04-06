@@ -1,9 +1,0 @@
-Department: ORPA
-Course Number: 716
-Section: 001
-Description: Evaluation of orthopaedic diseases and injuries in patients at bedside. A review of clinical features is correlated with relevant physiology and pathology.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

@@ -1,9 +1,0 @@
-Department: MEDD
-Course Number: 449
-Section: 001
-Description: Opportunity to build on scholarly activities initiated in MEDD 419 and 429, or start new ones. Emphasizes social accountability and fosters innovation and critical thought to prepare graduates for roles as scholars, lifelong learners, and leaders. Pass/Fail.
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

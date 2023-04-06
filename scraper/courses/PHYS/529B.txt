@@ -1,9 +1,0 @@
-Department: PHYS
-Course Number: 529B
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon Fri, Start Time: 14:00, End Time: 15:00, Building: Hennings, Room: 302
-Instructor: ROZALI, MOSHE
-

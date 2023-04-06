@@ -1,9 +1,0 @@
-Department: CIVL
-Course Number: 592A
-Section: 002
-Description: Independent studies not related to thesis work.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: FANNIN, R JONATHAN
-

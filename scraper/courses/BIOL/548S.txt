@@ -1,9 +1,0 @@
-Department: BIOL
-Course Number: 548S
-Section: 201
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue Thu, Start Time: 13:30, End Time: 15:00
-Instructor: JOHANNSSON, ORA
-

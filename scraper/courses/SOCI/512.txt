@@ -1,9 +1,0 @@
-Department: SOCI
-Course Number: 512
-Section: 102
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Anthropology, Room: and
-Instructor: MUSTO, MICHELA
-

@@ -1,8 +1,0 @@
-Department: AUDI
-Course Number: 580
-Section: 001
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

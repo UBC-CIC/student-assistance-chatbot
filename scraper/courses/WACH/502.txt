@@ -1,9 +1,0 @@
-Department: WACH
-Course Number: 502
-Section: 001
-Description: Biological and social determinants of health, health equity and inclusion.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue, Start Time: 12:00, End Time: 13:30
-

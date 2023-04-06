@@ -1,9 +1,0 @@
-Department: PHRM
-Course Number: 361
-Section: 001
-Description: Training for authorization to administer injections.
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Wed, Start Time: 8:00, End Time: 9:00, Building: Pharmaceutical, Room: Sciences
-

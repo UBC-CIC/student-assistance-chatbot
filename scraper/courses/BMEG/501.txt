@@ -1,9 +1,0 @@
-Department: BMEG
-Course Number: 501
-Section: 001
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Thu, Start Time: 8:00, End Time: 10:00
-Instructor: TAM, ROGER
-

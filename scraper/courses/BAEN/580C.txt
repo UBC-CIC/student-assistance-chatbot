@@ -1,9 +1,0 @@
-Department: BAEN
-Course Number: 580C
-Section: 001
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon Wed, Start Time: 16:00, End Time: 18:00, Building: David, Room: Lam
-Instructor: TANSEY, JAMES
-

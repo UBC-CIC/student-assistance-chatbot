@@ -1,9 +1,0 @@
-Department: HIST
-Course Number: 333C
-Section: 001
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: Buchanan, Room: Tower
-Instructor: KNUTSON, SARA
-

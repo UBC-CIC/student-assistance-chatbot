@@ -1,9 +1,0 @@
-Department: MECH
-Course Number: 578
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon Wed Fri, Start Time: 15:00, End Time: 16:00, Building: Chemical, Room: and
-Instructor: KIRCHEN, PATRICK
-

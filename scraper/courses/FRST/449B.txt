@@ -1,9 +1,0 @@
-Department: FRST
-Course Number: 449B
-Section: 202
-Description: In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in forestry.
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: KOZAK, ROBERT ANTAL
-

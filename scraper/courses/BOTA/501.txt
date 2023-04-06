@@ -1,9 +1,0 @@
-Department: BOTA
-Course Number: 501
-Section: 101
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 14:00, End Time: 17:00, Building: Biological, Room: Sciences
-Instructor: ANGERT, AMY
-

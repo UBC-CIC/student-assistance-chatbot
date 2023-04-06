@@ -1,9 +1,0 @@
-Department: DHYG
-Course Number: 402
-Section: 99A
-Description: Dental Hygiene Practice I
-Credits: 6
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: MCFARLANE, RAE
-

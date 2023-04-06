@@ -1,9 +1,0 @@
-Department: THTR
-Course Number: 515B
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 13:00, End Time: 16:00, Building: Neville, Room: Scarfe
-Instructor: MORRIS, LEORA
-

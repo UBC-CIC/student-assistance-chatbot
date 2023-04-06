@@ -1,8 +1,0 @@
-Department: ARST
-Course Number: 594B
-Section: 002
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

@@ -1,9 +1,0 @@
-Department: EDCP
-Course Number: 306
-Section: 301
-Pre-reqs: EDCP 305.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

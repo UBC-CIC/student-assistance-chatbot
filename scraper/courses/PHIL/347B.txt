@@ -1,9 +1,0 @@
-Department: PHIL
-Course Number: 347B
-Section: 002
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon Wed Fri, Start Time: 13:00, End Time: 14:00, Building: To, Room: Be
-Instructor: KRAAL, ANDERS
-

@@ -1,9 +1,0 @@
-Department: FIPR
-Course Number: 534B
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Fri, Start Time: 10:00, End Time: 13:00, Building: Theatre-Film, Room: Production
-Instructor: MCGOWAN, SHARON
-

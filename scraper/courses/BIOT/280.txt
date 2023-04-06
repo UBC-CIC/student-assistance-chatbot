@@ -1,8 +1,0 @@
-Department: BIOT
-Course Number: 280
-Section: 001
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

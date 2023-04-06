@@ -1,9 +1,0 @@
-Department: NAME
-Course Number: 524
-Section: 101
-Description: Terminology; planning; scheduling; budgeting and cost accounting; risk management; quality control; shipbuilding applications.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: STANA, VITORIO
-

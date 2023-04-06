@@ -1,9 +1,0 @@
-Department: CPSC
-Course Number: 649
-Section: 001
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue
-Instructor: TBA
-

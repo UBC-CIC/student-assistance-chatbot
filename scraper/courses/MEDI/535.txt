@@ -1,9 +1,0 @@
-Department: MEDI
-Course Number: 535
-Section: 001
-Description: Reviews of research in selected areas of experimental medicine, including presentation of student's own research results.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: KALIA, SUNIL
-

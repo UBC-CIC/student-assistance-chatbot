@@ -1,9 +1,0 @@
-Department: CONS
-Course Number: 506
-Section: 202
-Description: Key forest conservation issues in Asia, regional strategies, programs, and practices for restoration of critical landscapes, rehabilitation of terrestrial ecosystems and conservation of flagship species.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: WANG, GUANGYU
-

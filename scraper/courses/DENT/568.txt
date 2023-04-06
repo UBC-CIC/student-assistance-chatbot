@@ -1,9 +1,0 @@
-Department: DENT
-Course Number: 568
-Section: 001
-Description: Continues in third year.
-Credits: 8
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: PLISKA, BENJAMIN
-

@@ -1,9 +1,0 @@
-Department: PLAN
-Course Number: 500
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: West, Room: Mall
-Instructor: HOOPER, MICHAEL
-

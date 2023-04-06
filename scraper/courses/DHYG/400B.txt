@@ -1,9 +1,0 @@
-Department: DHYG
-Course Number: 400B
-Section: 001
-Description: Critical reviews of oral health care delivery, oral disease processes and dental hygiene.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: MCFARLANE, RAE
-

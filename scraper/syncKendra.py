@@ -4,7 +4,7 @@ import pprint
 import time
 
 def syncKendra(dataSourceId, indexId,profile_name):
-    session = boto3.Session(profile_name)
+    session = boto3.Session(profile_name=profile_name)
     kendra = session.client("kendra",region_name="ca-central-1")
     try:
 

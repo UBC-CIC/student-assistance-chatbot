@@ -1,9 +1,0 @@
-Department: ASIA
-Course Number: 490Z
-Section: W01
-Description: Focus changes from year to year. Prerequisite: Permission of Instructor and fourth-year standing.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

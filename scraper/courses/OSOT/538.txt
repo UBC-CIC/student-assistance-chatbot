@@ -1,8 +1,0 @@
-Department: OSOT
-Course Number: 538
-Section: 001
-Description: Advanced integration of knowledge and skills introduced in terms 1, 2, 3 and 4 of the MOT program to demonstrate Occupational Therapy intermediate competencies for a total of 12 weeks of supervised fieldwork experience in affiliated health agencies.
-Credits: 7
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-

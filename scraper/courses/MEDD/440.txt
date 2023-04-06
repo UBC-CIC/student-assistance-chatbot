@@ -1,9 +1,0 @@
-Department: MEDD
-Course Number: 440
-Section: 001
-Description: Senior Elective encompasses 6 months of Year 4 of the MD undergraduate program. Students will choose from available electives between 2 and 4 weeks in duration and participate in all relevant clinical and academic activities associated with those electives. Pass/fail.
-Credits: 24
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

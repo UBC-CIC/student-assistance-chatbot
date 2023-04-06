@@ -1,9 +1,0 @@
-Department: AUDI
-Course Number: 526
-Section: 001
-Pre-reqs: AUDI 402.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: HOWE, TAMI
-

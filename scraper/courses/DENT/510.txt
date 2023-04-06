@@ -1,9 +1,0 @@
-Department: DENT
-Course Number: 510
-Section: 002
-Description: Continues in year 2.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

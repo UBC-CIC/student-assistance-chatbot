@@ -1,9 +1,0 @@
-Department: DMED
-Course Number: 500
-Section: 001
-Description: Business, technological, social, and ethical issues of digital entertainment introduced and framed though historical exploration and critical analysis of economics, technical innovations, social demands, and ethical constraints involved.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 13:30, End Time: 16:30
-

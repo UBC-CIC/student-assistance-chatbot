@@ -1,9 +1,0 @@
-Department: SPAN
-Course Number: 312C
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Henry, Room: Angus
-Instructor: BEASLEY-MURRAY, JONATHAN
-

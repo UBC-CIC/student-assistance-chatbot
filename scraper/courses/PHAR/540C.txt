@@ -1,9 +1,0 @@
-Department: PHAR
-Course Number: 540C
-Section: 002
-Description: Lectures and supervised studies in selected areas of pharmacology. Enrolment restricted.
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: NISLOW, COREY
-

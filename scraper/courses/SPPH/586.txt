@@ -1,9 +1,0 @@
-Department: SPPH
-Course Number: 586
-Section: 002
-Description: Indigenous health policy and history in Canada through four substantive areas: economics and financing; need and demand; ethics, rights and law; quality and effectiveness.
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: SPITTAL, PATRICIA
-

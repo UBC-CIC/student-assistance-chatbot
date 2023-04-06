@@ -1,9 +1,0 @@
-Department: SPAN
-Course Number: 591
-Section: 101
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Start Time: Wed*, End Time: 15:00, Building: 18:00, Room: Buchanan
-Instructor: GELINAS-LEMAIRE, VINCENT
-

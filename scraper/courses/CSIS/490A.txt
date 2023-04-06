@@ -1,9 +1,0 @@
-Department: CSIS
-Course Number: 490A
-Section: 101
-Description: Designed to allow a student to develop an individual course of study in a specific area as approved by a faculty member affiliated with the CSIS program.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

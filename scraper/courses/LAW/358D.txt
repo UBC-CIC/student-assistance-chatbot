@@ -1,9 +1,0 @@
-Department: LAW
-Course Number: 358D
-Section: 003
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 9:30, End Time: 12:30, Building: Allard, Room: Hall
-Instructor: GUNN, KATE
-

@@ -1,8 +1,0 @@
-Department: FOOD
-Course Number: 530D
-Section: 004
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

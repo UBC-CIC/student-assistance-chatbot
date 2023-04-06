@@ -1,9 +1,0 @@
-Department: APSC
-Course Number: 598H
-Section: 921
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue Thu, Start Time: 12:00, End Time: 13:30, Building: West, Room: Mall
-Instructor: STANA, VITORIO
-

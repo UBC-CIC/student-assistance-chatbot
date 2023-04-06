@@ -1,9 +1,0 @@
-Department: PHTH
-Course Number: 521
-Section: 001
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon, Start Time: 8:00, End Time: 11:00
-Instructor: BOYD, LARA
-

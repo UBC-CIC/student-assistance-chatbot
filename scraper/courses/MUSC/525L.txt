@@ -1,9 +1,0 @@
-Department: MUSC
-Course Number: 525L
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue, Start Time: 13:00, End Time: 15:30, Building: Music, Room: 475
-Instructor: FISHER, ALEXANDER JOHN
-

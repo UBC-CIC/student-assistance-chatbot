@@ -1,9 +1,0 @@
-Department: FCOR
-Course Number: 500
-Section: 101
-Credits: 1.5
-Mode of Delivery: Hybrid
-Requires in Person Attendance: No
-Term: 1, Days: Mon Wed, Start Time: 11:30, End Time: 13:00, Building: Forest, Room: Sciences
-Instructor: BULL, JUSTIN
-

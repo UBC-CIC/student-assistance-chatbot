@@ -1,9 +1,0 @@
-Department: ORPA
-Course Number: 715
-Section: 001
-Description: Evaluation of new patients and diagnosis and treatment of appropriate diseases. Basic signs and clinical features are both stressed in the total management of the patient. Two hours per week in the Outpatient Department under supervision of an orthopaedics faculty member.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

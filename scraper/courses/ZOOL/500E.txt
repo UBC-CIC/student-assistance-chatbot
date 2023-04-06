@@ -1,8 +1,0 @@
-Department: ZOOL
-Course Number: 500E
-Section: 101
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

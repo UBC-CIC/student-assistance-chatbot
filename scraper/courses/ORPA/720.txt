@@ -1,9 +1,0 @@
-Department: ORPA
-Course Number: 720
-Section: 001
-Description: Weekly lectures by orthopaedic faculty and guest faculty from other departments. Lecture topics include applied physiology, anatomy, and pathology as they relate to orthopaedic diseases.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

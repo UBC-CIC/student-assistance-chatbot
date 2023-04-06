@@ -1,9 +1,0 @@
-Department: KIN
-Course Number: 575
-Section: WB7
-Description: Technical and applied knowledge in data science and analytics related to high performance sports.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: TSAI, MING-CHANG
-

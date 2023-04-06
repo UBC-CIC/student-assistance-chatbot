@@ -1,9 +1,0 @@
-Department: PHRM
-Course Number: 251
-Section: 001
-Description: Preparation for experiential learning in the hospital setting. Focuses on enhancing familiarity with the care environment and developing skills suited for students to apply to patient care during institutional experiential rotations.
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Start Time: Mon^, End Time: 10:00, Building: 12:00, Room: Pharmaceutical
-

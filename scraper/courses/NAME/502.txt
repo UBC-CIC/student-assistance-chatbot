@@ -1,9 +1,0 @@
-Department: NAME
-Course Number: 502
-Section: 201
-Description: Advanced ship resistance; boundary layers; propeller design; numerical methods in hydrodynamics; advanced marine vehicles; ocean waves; cavitation; ship vibration. Includes a laboratory component involving a wave/towing tank and computational fluid dynamics project.
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: HANNAN, MOHAMMED
-

@@ -1,9 +1,0 @@
-Department: FSCT
-Course Number: 490
-Section: 001
-Description: Block registration for the expert witness testimony instrumental analysis for forensic chemistry and forensic toxicology courses taken in the Joint BCIT/UBC Degree in Biochemistry and Forensic Science. Registration is limited to students in the Joint Degree Program.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

@@ -1,8 +1,0 @@
-Department: OSOT
-Course Number: 519
-Section: 001
-Description: Concepts of professionalism, reflexivity, cultural humility and collaboration are introduced to develop the skills of a self-directed, culturally safe, lifelong learner, who consciously uses theory, evidence and critical thinking skills to maintain, evaluate and improve their practice of occupational therapy.
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-

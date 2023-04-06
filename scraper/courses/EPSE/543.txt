@@ -1,8 +1,0 @@
-Department: EPSE
-Course Number: 543
-Section: 074
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: WEAVER, STEPHANIE
-

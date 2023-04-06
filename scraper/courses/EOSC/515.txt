@@ -1,8 +1,0 @@
-Department: EOSC
-Course Number: 515
-Section: 201
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: GILLEY, BRETT
-

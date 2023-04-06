@@ -1,9 +1,0 @@
-Department: ECED
-Course Number: 438
-Section: 63C
-Description: Observation and Documentation in Early Childhood Settings
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: EL KHATIB, LARA
-

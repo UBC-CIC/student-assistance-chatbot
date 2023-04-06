@@ -1,9 +1,0 @@
-Department: MEDI
-Course Number: 530
-Section: 005
-Description: Pathogenesis and abnormal physiology in disease of the intestine and accessory organs; carcinogenesis; regulatory peptides; liver disease; inflammatory bowel disease; oesophageal dysfunction.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

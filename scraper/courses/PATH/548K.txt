@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 548K
-Section: 018
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon
-Instructor: PRYZDIAL, EDWARD
-

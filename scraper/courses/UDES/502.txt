@@ -1,9 +1,0 @@
-Department: UDES
-Course Number: 502
-Section: 001
-Credits: 9
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue Fri, Start Time: 13:30, End Time: 18:00
-Instructor: LOKMAN, KEES
-

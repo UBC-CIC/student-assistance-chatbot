@@ -1,9 +1,0 @@
-Department: FCOR
-Course Number: 502
-Section: 201
-Credits: 1.5
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Term: 2, Days: Mon Wed, Start Time: 13:30, End Time: 15:00
-Instructor: CHAIMAHAWONG, PIYAPATTRA
-

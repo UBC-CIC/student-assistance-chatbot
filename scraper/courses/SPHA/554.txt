@@ -1,9 +1,0 @@
-Department: SPHA
-Course Number: 554
-Section: 002
-Description: Data analysis and statistical inference. Applications in assessment of the legitimacy and significance of reports.
-Credits: 1.5
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: MARIN, MICHAEL
-

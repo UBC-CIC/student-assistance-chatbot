@@ -1,9 +1,0 @@
-Department: LING
-Course Number: 530G
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Wed, Start Time: 9:00, End Time: 12:00
-Instructor: SALEHIAN KIA, FATEMEH
-

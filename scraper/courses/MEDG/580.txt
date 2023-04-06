@@ -1,9 +1,0 @@
-Department: MEDG
-Course Number: 580
-Section: 101
-Description: Annotation, filtering, and candidate variant calling skill development with a clinical focus; yield, benefits, and limitations of genome-wide sequencing. Online. Restricted to students in the Graduate Certificate in Genomic Counselling and Variant Interpretation or others with permission of instructor.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: BIRCH, PATRICIA
-

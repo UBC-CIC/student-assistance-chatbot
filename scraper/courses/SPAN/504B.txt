@@ -1,9 +1,0 @@
-Department: SPAN
-Course Number: 504B
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue, Start Time: 15:00, End Time: 18:00, Building: Irving, Room: K
-Instructor: SANTOS, ALESSANDRA
-

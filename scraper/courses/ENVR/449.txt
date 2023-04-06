@@ -1,9 +1,0 @@
-Department: ENVR
-Course Number: 449
-Section: 001
-Pre-reqs: ENVR 300. (and fourth-year standing in the B.Sc. Environmental Sciences honours program.)
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: VER, LEAH MAY
-

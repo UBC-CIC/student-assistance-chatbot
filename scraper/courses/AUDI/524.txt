@@ -1,8 +1,0 @@
-Department: AUDI
-Course Number: 524
-Section: 001
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: MCGEE, CHERYL
-

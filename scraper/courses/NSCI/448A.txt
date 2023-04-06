@@ -1,9 +1,0 @@
-Department: NSCI
-Course Number: 448A
-Section: 001
-Description: Directed investigation of a neuroscience research question requiring a report of the findings.
-Pre-reqs: (At least a 70% average in the preceding 30 credits, permission of the supervisor, and permission of the director of the neuroscience specialization.)
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-

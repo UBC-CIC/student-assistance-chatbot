@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 402
-Section: 001
-Description: A theoretical and practical examination of those modern concepts of haematology which relate to the practice of medical laboratory science.
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 12:00, End Time: 14:00, Building: UBC, Room: Hospital
-

@@ -1,8 +1,0 @@
-Department: EDST
-Course Number: 580A
-Section: 081
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

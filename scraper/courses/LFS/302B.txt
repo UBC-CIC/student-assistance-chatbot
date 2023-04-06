@@ -1,9 +1,0 @@
-Department: LFS
-Course Number: 302B
-Section: 001
-Description: Field studies carried out abroad under staff direction. Participating students are assessed a fee.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: LAVKULICH, LESLIE
-

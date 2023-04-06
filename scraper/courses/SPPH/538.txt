@@ -1,9 +1,0 @@
-Department: SPPH
-Course Number: 538
-Section: 002
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: School, Room: of
-Instructor: STEEL, DANIEL
-

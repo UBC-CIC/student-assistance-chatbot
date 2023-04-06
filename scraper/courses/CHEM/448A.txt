@@ -1,9 +1,0 @@
-Department: CHEM
-Course Number: 448A
-Section: 100
-Description: Directed Studies in Chemistry - T1 DST CHEMISTRY
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

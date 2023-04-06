@@ -1,9 +1,0 @@
-Department: AUDI
-Course Number: 545
-Section: 003
-Description: Ethics, service delivery systems, practice considerations specific to the workplace, and assessment of readiness for clinical learning.
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: BROWN, SASHA
-

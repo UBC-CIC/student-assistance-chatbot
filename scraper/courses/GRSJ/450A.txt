@@ -1,9 +1,0 @@
-Department: GRSJ
-Course Number: 450A
-Section: 101
-Description: General reading and/or a research undertaking, with the agreement, and under supervision of, a faculty member selected by the student and approved by the GRSJ Undergraduate Advisor. A written paper or equivalent will be required. Open to GRSJ majors or minors.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

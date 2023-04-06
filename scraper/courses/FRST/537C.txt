@@ -1,8 +1,0 @@
-Department: FRST
-Course Number: 537C
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: NELSON, HARRY WILLIAM
-

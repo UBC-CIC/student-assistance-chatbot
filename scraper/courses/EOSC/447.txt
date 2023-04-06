@@ -1,9 +1,0 @@
-Department: EOSC
-Course Number: 447
-Section: 001
-Description: For B.A.Sc. Topic to be approved by the Department.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

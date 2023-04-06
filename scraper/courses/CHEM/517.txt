@@ -1,9 +1,0 @@
-Department: CHEM
-Course Number: 517
-Section: 133
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue Thu, Start Time: 15:30, End Time: 17:00, Building: Chemistry, Room: D215
-Instructor: BIZZOTTO, DAN
-

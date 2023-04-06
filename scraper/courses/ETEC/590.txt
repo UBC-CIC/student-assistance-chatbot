@@ -1,9 +1,0 @@
-Department: ETEC
-Course Number: 590
-Section: 65A
-Description: Graduating Project
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: EWART, KERI
-

@@ -1,9 +1,0 @@
-Department: DENT
-Course Number: 514
-Section: 001
-Description: Continues in year 3.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: RICHMAN, JOY MARION
-

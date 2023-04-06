@@ -1,9 +1,0 @@
-Department: PHYS
-Course Number: 490
-Section: 001
-Description: Self-directed, collaborative studies, in a group-learning environment, initiated and coordinated by senior undergraduate students with the supervision of a faculty advisor. Course structure, enrolment, and delivery methods will comply with the "Handbook for Student Directed Seminars". Cannot be used as a specialization requirement in any PHYS and/or ASTR specialization.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

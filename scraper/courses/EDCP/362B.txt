@@ -1,9 +1,0 @@
-Department: EDCP
-Course Number: 362B
-Section: 301
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 16:30, End Time: 20:00, Building: Neville, Room: Scarfe
-Instructor: CLARK, HEATHER
-

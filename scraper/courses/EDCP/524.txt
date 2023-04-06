@@ -1,9 +1,0 @@
-Department: EDCP
-Course Number: 524
-Section: 032
-Description: Foundations and conflicting conceptions of digital visual culture and art education. Theory and practice in the development and implementation of art education technology.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

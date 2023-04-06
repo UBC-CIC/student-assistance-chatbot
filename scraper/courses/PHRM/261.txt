@@ -1,9 +1,0 @@
-Department: PHRM
-Course Number: 261
-Section: 001
-Description: Overview of Indigenous health in Canada and the role a pharmacist can have in collaborating with Indigenous communities in providing culturally safe care and healing
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Thu, Start Time: 13:00, End Time: 14:00
-

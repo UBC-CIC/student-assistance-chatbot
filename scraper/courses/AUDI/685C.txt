@@ -1,8 +1,0 @@
-Department: AUDI
-Course Number: 685C
-Section: 003
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

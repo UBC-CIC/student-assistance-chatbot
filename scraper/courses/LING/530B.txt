@@ -1,9 +1,0 @@
-Department: LING
-Course Number: 530B
-Section: 004
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 15:30, Building: TFS, Room: 121
-Instructor: MORZYCKI, MARCIN
-

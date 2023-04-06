@@ -1,9 +1,0 @@
-Department: GEOS
-Course Number: 449
-Section: 101
-Description: Original research on an approved topic, developed under the guidance of a faculty member. Open to 4th year students in Geographical Sciences with appropriate background courses related to the research topic, and permission of the directing faculty member. The 3-credit option is only available to students who complete GEOS 449 in tandem with GEOS 409.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

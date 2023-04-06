@@ -1,9 +1,0 @@
-Department: EPSE
-Course Number: 525
-Section: 074
-Pre-reqs: EPSE 399.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: HALLENBECK, TAYLOR
-

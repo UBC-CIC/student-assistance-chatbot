@@ -1,8 +1,0 @@
-Department: DENT
-Course Number: 523
-Section: 001
-Credits: n/a
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

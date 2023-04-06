@@ -1,8 +1,0 @@
-Department: OSOT
-Course Number: 515
-Section: 001
-Description: Labs, simulations and tutorials provide opportunities to practice evidenced based foundational skills, techniques and approaches in preparation for occupational therapy practice in the local and regional context.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-

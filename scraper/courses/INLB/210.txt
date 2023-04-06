@@ -1,9 +1,0 @@
-Department: INLB
-Course Number: 210
-Section: 005
-Description: Cultural, political, and economic context that informs the experiences of Indigenous people and communities. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s).
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Wed, Start Time: 13:00, End Time: 15:00
-

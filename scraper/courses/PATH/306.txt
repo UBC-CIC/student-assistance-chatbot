@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 306
-Section: 001
-Description: Control processes for workplace hazards of radiological, chemical, and biological origin.
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Fri, Start Time: 12:00, End Time: 14:00, Building: UBC, Room: Hospital
-

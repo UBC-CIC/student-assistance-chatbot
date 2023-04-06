@@ -1,9 +1,0 @@
-Department: MUSC
-Course Number: 402C
-Section: 003
-Description: For fourth-year students who receive permission of the Director of the School of Music to do advanced studies in their major field.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 327
-Section: 001
-Description: Descriptions of each group of human microbial pathogens according to biological attributes, clinical features, pathogenesis and pathology, epidemiology, immunological reactions, laboratory diagnosis, principles of antimicrobial therapy, preventative measures. For students in the Faculty of Medicine B.M.L.Sc.
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 10:00, End Time: 12:00, Building: UBC, Room: Hospital
-

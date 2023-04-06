@@ -1,9 +1,0 @@
-Department: EDCP
-Course Number: 498
-Section: 63C
-Description: Culminating inquiry in curriculum and pedagogy for the Home Economics Education Diploma.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: BAUER EDSTROM, MELISSA
-

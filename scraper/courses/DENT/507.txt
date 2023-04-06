@@ -1,9 +1,0 @@
-Department: DENT
-Course Number: 507
-Section: 001
-Pre-reqs: DENT 506.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

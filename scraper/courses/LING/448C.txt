@@ -1,9 +1,0 @@
-Department: LING
-Course Number: 448C
-Section: 001
-Description: Supervisor and topic chosen by mutual agreement between student and Linguistics faculty member. Department Advisor approval is required.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: CARDOSO, AMANDA
-

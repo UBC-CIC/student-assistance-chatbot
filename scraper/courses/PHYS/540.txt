@@ -1,9 +1,0 @@
-Department: PHYS
-Course Number: 540
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: Hennings, Room: 301
-Instructor: FORD, NANCY
-

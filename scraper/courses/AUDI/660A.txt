@@ -1,8 +1,0 @@
-Department: AUDI
-Course Number: 660A
-Section: 001
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

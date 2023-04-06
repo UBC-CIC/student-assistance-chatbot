@@ -1,9 +1,0 @@
-Department: STAT
-Course Number: 649
-Section: 001
-Description: Doctoral Dissertation
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

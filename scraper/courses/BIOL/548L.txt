@@ -1,9 +1,0 @@
-Department: BIOL
-Course Number: 548L
-Section: 101
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue Thu, Start Time: 15:00, End Time: 16:30
-Instructor: ALTSHULER, DOUGLAS
-

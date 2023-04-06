@@ -1,9 +1,0 @@
-Department: FRST
-Course Number: 590
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon, Start Time: 17:00, End Time: 19:00, Building: Forest, Room: Sciences
-Instructor: ALILA, YOUNES
-

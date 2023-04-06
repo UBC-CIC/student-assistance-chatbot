@@ -216,6 +216,6 @@ def beginScraper(bucket_name,profile_name):
     options = Options()
     options.headless = True
     driver = webdriver.Firefox(options=options,executable_path=GeckoDriverManager().install())
-    session = boto3.Session(profile_name)
+    session = boto3.Session(profile_name=profile_name)
     s3 = session.client('s3')
     scrape(URL,None,None,None,bucket_name,driver,s3)

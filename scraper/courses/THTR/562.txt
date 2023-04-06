@@ -1,9 +1,0 @@
-Department: THTR
-Course Number: 562
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Thu, Start Time: 12:30, End Time: 15:30, Building: Buchanan, Room: D209
-Instructor: JOHNSTON, KIRSTY
-

@@ -1,9 +1,0 @@
-Department: CRWR
-Course Number: 508K
-Section: D01
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Term: 1, Days: Wed Thu
-Instructor: LEAVITT, SARAH
-

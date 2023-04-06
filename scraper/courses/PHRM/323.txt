@@ -1,9 +1,0 @@
-Department: PHRM
-Course Number: 323
-Section: 001
-Description: Indigenous health in Canada and the role pharmacists' cultural humility and safety can play when collaborating with other health professionals and Indigenous communities to provide care and healing.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: See Section Comments
-Instructor: LEUNG, LARRY
-

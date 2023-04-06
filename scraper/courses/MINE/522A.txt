@@ -1,8 +1,0 @@
-Department: MINE
-Course Number: 522A
-Section: 101
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: PAWLIK, MAREK
-

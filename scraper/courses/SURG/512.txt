@@ -1,9 +1,0 @@
-Department: SURG
-Course Number: 512
-Section: 99A
-Description: Relationship of surgery to preventing and treating disabling impairments in lower income countries. Focus will be on sensory impairments (blindness and deafness) and physical impairment.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: NAKKU, DOREEN
-

@@ -1,9 +1,0 @@
-Department: PHTH
-Course Number: 534
-Section: 001
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon Tue Wed Thu Fri, Start Time: 8:00, End Time: 17:00, Building: To, Room: Be
-Instructor: ELLIS, AMY
-

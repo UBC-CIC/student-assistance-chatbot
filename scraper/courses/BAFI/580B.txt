@@ -1,9 +1,0 @@
-Department: BAFI
-Course Number: 580B
-Section: 001
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon Wed, Start Time: 14:00, End Time: 16:00, Building: Henry, Room: Angus
-Instructor: GORNALL, WILL
-

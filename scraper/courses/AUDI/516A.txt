@@ -1,9 +1,0 @@
-Department: AUDI
-Course Number: 516A
-Section: 002
-Description: May be taken more than once for credit.
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: MARINOVA-TODD, STEFKA
-

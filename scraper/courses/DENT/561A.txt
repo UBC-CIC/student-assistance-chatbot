@@ -1,8 +1,0 @@
-Department: DENT
-Course Number: 561A
-Section: 100
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

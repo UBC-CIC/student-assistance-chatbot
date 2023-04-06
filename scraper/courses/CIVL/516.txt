@@ -1,9 +1,0 @@
-Department: CIVL
-Course Number: 516
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue, Start Time: 12:30, End Time: 14:00, Building: Chemistry, Room: D200
-Instructor: LOSS, CRISTIANO
-

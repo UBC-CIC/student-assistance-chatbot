@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 725
-Section: 001
-Description: Gross and microscopic changes associated with infections, and the pathophysiology involved in their development. The course includes seminars based on histological specimens. For residents in Medical Microbiology, General and Anatomical Pathology, and Infectious Diseases.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

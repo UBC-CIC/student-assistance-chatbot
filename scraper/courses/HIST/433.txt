@@ -1,9 +1,0 @@
-Department: HIST
-Course Number: 433
-Section: 001
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 13:00, End Time: 15:00, Building: Buchanan, Room: Tower
-Instructor: MILLER, BRADLEY
-

@@ -1,9 +1,0 @@
-Department: MUSC
-Course Number: 593A
-Section: 001
-Description: Private instruction, vocal or instrumental. May be repeated for credit, in accordance with program requirements.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: DAWSON, TERENCE
-

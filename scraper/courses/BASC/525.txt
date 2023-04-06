@@ -1,9 +1,0 @@
-Department: BASC
-Course Number: 525
-Section: WL2
-Description: Strategic and operational decision-making within a supply chain and service provision context. Focuses on managerial decision- making using cases, decision models, and analytics.
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

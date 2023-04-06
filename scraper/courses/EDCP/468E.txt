@@ -1,9 +1,0 @@
-Department: EDCP
-Course Number: 468E
-Section: 001
-Description: Pass/Fail.
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

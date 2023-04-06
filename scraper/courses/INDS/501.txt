@@ -1,9 +1,0 @@
-Department: INDS
-Course Number: 501
-Section: 101
-Description: Introduction to concepts and practice in higher education instruction; emphasis on lesson planning, student participation and instructional aides; includes video-taped practice teacher/peer feedback 28 classroom hours.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

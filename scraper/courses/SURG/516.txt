@@ -1,9 +1,0 @@
-Department: SURG
-Course Number: 516
-Section: 99C
-Pre-reqs: SURG 510.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: LEE, LAURA
-

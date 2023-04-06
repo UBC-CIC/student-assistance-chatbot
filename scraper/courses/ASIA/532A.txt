@@ -1,9 +1,0 @@
-Department: ASIA
-Course Number: 532A
-Section: 021
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Fri, Start Time: 15:00, End Time: 18:00, Building: Buchanan, Room: D306
-Instructor: LAFFIN, CHRISTINA
-

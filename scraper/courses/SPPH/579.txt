@@ -1,9 +1,0 @@
-Department: SPPH
-Course Number: 579
-Section: 002
-Description: Applied biostatistics, epidemiology and data management addressing public health priorities and clinical research in Indigenous communities.
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: ST. LAURENT, DREW
-

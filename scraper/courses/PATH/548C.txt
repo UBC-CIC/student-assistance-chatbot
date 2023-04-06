@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 548C
-Section: 03B
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Wed, Start Time: 15:30, End Time: 17:00
-Instructor: DEVLIN, ANGELA
-

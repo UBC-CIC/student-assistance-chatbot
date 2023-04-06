@@ -1,9 +1,0 @@
-Department: COMM
-Course Number: 628
-Section: 001
-Description: Organizational Studies Research Seminar
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

@@ -1,9 +1,0 @@
-Department: MIDW
-Course Number: 499A
-Section: 001
-Description: Unique self-directed elective learning opportunities.
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

@@ -1,9 +1,0 @@
-Department: HIST
-Course Number: 586A
-Section: 201
-Credits: 3
-Mode of Delivery: Hybrid
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon, Start Time: 10:00, End Time: 12:30, Building: Buchanan, Room: Tower
-Instructor: CHEEK, TIMOTHY
-

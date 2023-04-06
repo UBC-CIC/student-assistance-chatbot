@@ -1,9 +1,0 @@
-Department: EDCP
-Course Number: 313A
-Section: 301
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Wed Fri, Start Time: 8:00, End Time: 10:00, Building: Neville, Room: Scarfe
-Instructor: ROBERTS, FRANCES
-

@@ -1,9 +1,0 @@
-Department: MATH
-Course Number: 610E
-Section: 101
-Description: Topics in Pure Mathematics - TOPICS PURE MATH
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: PRAMANIK, MALABIKA
-

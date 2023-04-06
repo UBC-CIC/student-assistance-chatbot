@@ -1,8 +1,0 @@
-Department: SURG
-Course Number: 548B
-Section: 002
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

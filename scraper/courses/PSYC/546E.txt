@@ -1,9 +1,0 @@
-Department: PSYC
-Course Number: 546E
-Section: 001
-Description: Seminar in Psychological Problems - MULT REGRESS
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: BIESANZ, JEREMY
-

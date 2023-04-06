@@ -1,9 +1,0 @@
-Department: DENT
-Course Number: 724
-Section: 001
-Description: Endodontic treatment of patients in the clinic under the supervision of specialist instructors. Supervised endodontic treatment clinic.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: COIL, JEFFREY MARTIN
-

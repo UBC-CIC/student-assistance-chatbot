@@ -1,9 +1,0 @@
-Department: ECPS
-Course Number: 490B
-Section: 002
-Description: Directed investigation of a problem or issue, requiring a written report or alternate mode of reporting or disseminating results of the investigation
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

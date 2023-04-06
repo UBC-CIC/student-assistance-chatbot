@@ -1,9 +1,0 @@
-Department: EDUC
-Course Number: 440
-Section: 62A
-Description: Pass/Fail.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

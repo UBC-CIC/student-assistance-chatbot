@@ -1,9 +1,0 @@
-Department: ECED
-Course Number: 531B
-Section: 052
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: Yes
-Term: 2, Days: Wed, Start Time: 16:30, End Time: 19:30
-Instructor: LAWLOR, MOLLY
-

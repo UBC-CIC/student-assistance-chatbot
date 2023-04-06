@@ -1,9 +1,0 @@
-Department: SURG
-Course Number: 514
-Section: 99C
-Description: Examines response to humanitarian disasters. Includes case models of surgical care responses and strategies to move from relief to recovery.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: BROWN, ROSS
-

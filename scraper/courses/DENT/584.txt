@@ -1,9 +1,0 @@
-Department: DENT
-Course Number: 584
-Section: 001
-Description: Endodontic epidemiology, materials, prognosis of treatment, geriatric endodontics, complications, treatment resistant infections, and endo-perio lesions.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: COIL, JEFFREY MARTIN
-

@@ -1,9 +1,0 @@
-Department: ECED
-Course Number: 439
-Section: 63A
-Description: Assessment of Infants and Young Children with Special Needs
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: WOOLDRIDGE, MICHAELA
-

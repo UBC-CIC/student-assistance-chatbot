@@ -1,8 +1,0 @@
-Department: FRST
-Course Number: 526C
-Section: 921
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: BOEDHIHARTONO, AGNI
-

@@ -1,8 +1,0 @@
-Department: AUDI
-Course Number: 552
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: SHAHNAZ, NAVID
-

@@ -1,7 +1,0 @@
-Department: PHRM
-Course Number: 300
-Section: 001
-Credits: 9
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-

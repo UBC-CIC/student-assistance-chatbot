@@ -1,9 +1,0 @@
-Department: JRNL
-Course Number: 503B
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 9:00, End Time: 12:00, Building: Sing, Room: Tao
-Instructor: BARFOROUSH, SARANAZ
-

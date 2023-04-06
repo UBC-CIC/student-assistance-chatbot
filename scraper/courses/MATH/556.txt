@@ -1,9 +1,0 @@
-Department: MATH
-Course Number: 556
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Auditorium, Room: Annex
-Instructor: WARD, MICHAEL JEFFREY
-

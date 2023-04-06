@@ -1,9 +1,0 @@
-Department: RHSC
-Course Number: 504C
-Section: 005
-Description: Directed Studies in Rehabilitation - DST REHABILIT'N
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

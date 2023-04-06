@@ -1,9 +1,0 @@
-Department: BIOL
-Course Number: 525D
-Section: 101
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon Tue Wed Thu Fri, Start Time: 10:00, End Time: 16:00
-Instructor: TBA
-

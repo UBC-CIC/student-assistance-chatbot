@@ -1,9 +1,0 @@
-Department: CONS
-Course Number: 449F
-Section: 001
-Description: In special cases and with the approval of the instructor concerned, a student may carry out directed studies of specific problems in natural resources conservation.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

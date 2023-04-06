@@ -1,9 +1,0 @@
-Department: MUSC
-Course Number: 693C
-Section: 003
-Description: Private instruction, vocal or instrumental.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: WILSON, ERIC
-

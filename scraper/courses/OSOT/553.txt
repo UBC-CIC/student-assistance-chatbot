@@ -1,9 +1,0 @@
-Department: OSOT
-Course Number: 553
-Section: 001
-Description: To address inequities and meet the occupational needs of diverse communities, students will learn, critique and apply program development principles. Program development principles include needs assessment, program design, budgeting and resource planning, marketing, program evaluation, and proposal writing and presentation.
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: BULK, LAURA
-

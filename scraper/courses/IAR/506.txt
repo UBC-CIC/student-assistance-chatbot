@@ -1,9 +1,0 @@
-Department: IAR
-Course Number: 506
-Section: 001
-Description: Interdisciplinary investigation of the idea that globalization is not limited to the economic sphere but also includes popular culture, communications, travel, food and desire of the other.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

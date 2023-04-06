@@ -1,9 +1,0 @@
-Department: GEOG
-Course Number: 525
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue, Start Time: 11:00, End Time: 14:00, Building: Geography, Room: 223
-Instructor: SUNDBERG, JUANITA
-

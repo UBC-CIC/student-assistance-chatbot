@@ -1,9 +1,0 @@
-Department: FRST
-Course Number: 522
-Section: 101
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon Wed, Start Time: 13:00, End Time: 15:00, Building: Forest, Room: Sciences
-Instructor: BULKAN, JANETTE
-

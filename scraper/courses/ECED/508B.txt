@@ -1,8 +1,0 @@
-Department: ECED
-Course Number: 508B
-Section: 62A
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: HASEYAMA, KOICHI
-

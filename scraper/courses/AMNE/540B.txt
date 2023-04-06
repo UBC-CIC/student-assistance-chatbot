@@ -1,9 +1,0 @@
-Department: AMNE
-Course Number: 540B
-Section: 001
-Description: A maximum of 12 credits will be granted for AMNE 540 or CNRS 503. Students should consult the AMNE Graduate Advisor before registering.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: Buchanan, Room: D216
-

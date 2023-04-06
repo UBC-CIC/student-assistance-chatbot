@@ -1,9 +1,0 @@
-Department: HIST
-Course Number: 321D
-Section: 201
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Wed, Start Time: 14:00, End Time: 16:00, Building: Buchanan, Room: Tower
-Instructor: GLASSHEIM, EAGLE
-

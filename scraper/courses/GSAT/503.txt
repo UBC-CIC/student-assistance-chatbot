@@ -1,9 +1,0 @@
-Department: GSAT
-Course Number: 503
-Section: 003
-Description: Advanced study under the direction of a faculty member composed of laboratory sessions and/or directed readings related to selected areas of genome science and technology.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

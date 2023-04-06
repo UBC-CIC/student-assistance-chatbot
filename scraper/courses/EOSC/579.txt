@@ -1,9 +1,0 @@
-Department: EOSC
-Course Number: 579
-Section: 201
-Pre-reqs: EOSC 512.
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: ALLEN, SUSAN ELIZABETH
-

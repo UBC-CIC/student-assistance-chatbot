@@ -1,9 +1,0 @@
-Department: PCTH
-Course Number: 449A
-Section: 001
-Description: A research problem directed by a faculty member. Restricted to Honours Pharmacology students.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: PANG, CATHERINE C
-

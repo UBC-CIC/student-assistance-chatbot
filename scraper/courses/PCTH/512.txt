@@ -1,9 +1,0 @@
-Department: PCTH
-Course Number: 512
-Section: 001
-Description: A series of lectures, tutorials and exercises designed to improve student skills in the design and statistical analyses of pharmacological experiments.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: DORMUTH, COLIN
-

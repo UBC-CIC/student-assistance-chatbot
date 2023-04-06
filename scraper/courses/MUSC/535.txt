@@ -1,9 +1,0 @@
-Department: MUSC
-Course Number: 535
-Section: 001
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Fri, Start Time: 13:00, End Time: 15:00, Building: Music, Room: 113
-Instructor: SHARON, RENA
-

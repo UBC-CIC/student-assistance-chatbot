@@ -1,9 +1,0 @@
-Department: LAW
-Course Number: 524D
-Section: 001
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Fri, Start Time: 9:30, End Time: 12:30, Building: Allard, Room: Hall
-Instructor: SARFATY, GALIT
-

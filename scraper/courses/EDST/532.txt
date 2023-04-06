@@ -1,9 +1,0 @@
-Department: EDST
-Course Number: 532
-Section: 62A
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Wed, Start Time: 16:30, End Time: 19:30, Building: School, Room: of
-Instructor: SHILLING, AMBER
-

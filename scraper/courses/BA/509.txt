@@ -1,8 +1,0 @@
-Department: BA
-Course Number: 509
-Section: BA1
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

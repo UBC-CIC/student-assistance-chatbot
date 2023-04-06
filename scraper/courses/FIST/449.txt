@@ -1,9 +1,0 @@
-Department: FIST
-Course Number: 449
-Section: 001
-Description: A course allowing honours students to work with a faculty member on a major research paper.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: COULTHARD, LISA
-

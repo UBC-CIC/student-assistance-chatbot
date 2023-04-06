@@ -1,9 +1,0 @@
-Department: HUNU
-Course Number: 547E
-Section: 002
-Description: In special cases, directed studies on certain aspects of nutrition may be arranged for graduate students in attendance.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

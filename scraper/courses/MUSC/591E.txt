@@ -1,9 +1,0 @@
-Department: MUSC
-Course Number: 591E
-Section: 001
-Description: Private instruction, vocal or instrumental.
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

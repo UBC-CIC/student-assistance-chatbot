@@ -1,9 +1,0 @@
-Department: HIST
-Course Number: 390A
-Section: 101
-Description: Small-group instruction in a seminar format on a variety of historical topics. Check with the department for course offerings. This course does not satisfy the History Majors Research Seminar (490) requirement.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: DEMPSEY, JESSICA
-

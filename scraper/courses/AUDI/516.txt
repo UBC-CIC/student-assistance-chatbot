@@ -1,9 +1,0 @@
-Department: AUDI
-Course Number: 516
-Section: 001
-Description: May be taken more than once for credit.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

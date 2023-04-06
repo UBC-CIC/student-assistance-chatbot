@@ -1,8 +1,0 @@
-Department: ASIA
-Course Number: 533B
-Section: 011
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: ORBAUGH, SHARALYN
-

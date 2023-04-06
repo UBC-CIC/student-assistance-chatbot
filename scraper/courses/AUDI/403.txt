@@ -1,9 +1,0 @@
-Department: AUDI
-Course Number: 403
-Section: 99D
-Description: Introduction to Neurolinguistics
-Credits: 1.5
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: SIMMONS, NOREEN
-

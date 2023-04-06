@@ -1,9 +1,0 @@
-Department: BIOC
-Course Number: 554
-Section: 001
-Description: Mechanisms, regulation and dynamics of DNA and RNA biology. Structure and function of nucleic acids and their role in replication, transcription, translation and expression of genetic information.
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TEVES, SHEILA
-

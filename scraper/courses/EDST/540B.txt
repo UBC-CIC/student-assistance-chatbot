@@ -1,8 +1,0 @@
-Department: EDST
-Course Number: 540B
-Section: 022
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: GRAIN, KARI
-

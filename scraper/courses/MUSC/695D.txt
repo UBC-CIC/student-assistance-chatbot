@@ -1,9 +1,0 @@
-Department: MUSC
-Course Number: 695D
-Section: 004
-Description: Private instruction, vocal or instrumental.
-Credits: 10
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

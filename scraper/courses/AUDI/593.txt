@@ -1,9 +1,0 @@
-Department: AUDI
-Course Number: 593
-Section: 001
-Co-reqs: All of AUDI 577, AUDI 586.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: CHOI, MARCIA
-

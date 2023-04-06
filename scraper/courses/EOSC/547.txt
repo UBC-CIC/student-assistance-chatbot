@@ -1,9 +1,0 @@
-Department: EOSC
-Course Number: 547
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon, Start Time: 10:00, End Time: 12:00, Building: Orchard, Room: Commons
-Instructor: EBERHARDT, ERIK
-

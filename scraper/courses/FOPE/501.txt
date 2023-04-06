@@ -1,8 +1,0 @@
-Department: FOPE
-Course Number: 501
-Section: 101
-Description: Fundamental concepts of spatial technologies and geo-spatial analysis.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-

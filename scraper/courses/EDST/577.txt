@@ -1,9 +1,0 @@
-Department: EDST
-Course Number: 577
-Section: 081
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Wed, Start Time: 16:30, End Time: 19:30, Building: Ponderosa, Room: Commons
-Instructor: WEBB, PHILIP
-

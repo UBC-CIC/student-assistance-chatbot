@@ -1,8 +1,0 @@
-Department: AUDI
-Course Number: 586
-Section: 001
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: HOWE, TAMI
-

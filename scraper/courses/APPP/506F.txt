@@ -1,9 +1,0 @@
-Department: APPP
-Course Number: 506F
-Section: 101
-Description: A capstone design project designed to give students experience in leading complex multidisciplinary projects relevant to their professional specialization. Collaboratively delivered with the Faculty of Commerce and Business Administration.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: GOPALAKRISHNAN, SATHISH
-

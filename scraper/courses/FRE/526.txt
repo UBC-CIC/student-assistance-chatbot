@@ -1,9 +1,0 @@
-Department: FRE
-Course Number: 526
-Section: 002
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon Wed, Start Time: 10:00, End Time: 11:30, Building: MacMillan, Room: 154
-Instructor: GULATI, SUMEET
-

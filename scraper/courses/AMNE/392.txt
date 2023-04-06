@@ -1,9 +1,0 @@
-Department: AMNE
-Course Number: 392
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Buchanan, Room: D213
-Instructor: COOPER, ELISABETH
-

@@ -1,9 +1,0 @@
-Department: NAME
-Course Number: 522
-Section: 201
-Description: Build strategy; shipyard layout and equipment; manufacturing techniques; outfitting and painting techniques; material properties; corrosion; welding; fatigue; composite materials.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: KOENIG, PHILIP
-

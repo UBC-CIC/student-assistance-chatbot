@@ -1,8 +1,0 @@
-Department: EOSC
-Course Number: 595G
-Section: 205
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

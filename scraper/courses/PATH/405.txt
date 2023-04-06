@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 405
-Section: 001
-Description: Oral and written presentation and critical appraisal of scientific papers.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Wed, Start Time: 14:00, End Time: 17:00, Building: UBC, Room: Hospital
-

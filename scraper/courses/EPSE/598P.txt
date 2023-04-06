@@ -1,9 +1,0 @@
-Department: EPSE
-Course Number: 598P
-Section: 075
-Description: Pass/Fail.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: SCHANDING, GEORGE
-

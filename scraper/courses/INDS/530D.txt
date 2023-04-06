@@ -1,9 +1,0 @@
-Department: INDS
-Course Number: 530D
-Section: 001
-Description: A series of directed readings related to student's area of interdisciplinary studies. This advanced course may be taken upon approval of the Program head.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: TBA
-

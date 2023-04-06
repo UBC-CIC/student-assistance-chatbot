@@ -1,9 +1,0 @@
-Department: SPPH
-Course Number: 515
-Section: 002
-Pre-reqs: Either (a) all of HCEP 400, HCEP 502 or (b) all of SPPH 400, SPPH 502.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

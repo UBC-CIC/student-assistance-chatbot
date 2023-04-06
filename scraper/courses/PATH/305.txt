@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 305
-Section: 001
-Description: Theoretical and practical application of widely used microscopy techniques.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue, Start Time: 13:00, End Time: 16:00, Building: UBC, Room: Hospital
-

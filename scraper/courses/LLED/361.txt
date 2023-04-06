@@ -1,9 +1,0 @@
-Department: LLED
-Course Number: 361
-Section: 640
-Description: Pass/Fail.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: STRASSER, MICHELLE
-

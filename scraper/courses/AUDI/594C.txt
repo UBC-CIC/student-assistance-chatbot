@@ -1,8 +1,0 @@
-Department: AUDI
-Course Number: 594C
-Section: 100
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: CHOI, MARCIA
-

@@ -1,9 +1,0 @@
-Department: WACH
-Course Number: 531
-Section: 001
-Description: Neuroendocrine regulation of reproduction, regulation of the ovarian and testicular function.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Wed, Start Time: 10:00, End Time: 12:00
-

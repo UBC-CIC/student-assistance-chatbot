@@ -1,9 +1,0 @@
-Department: MUSC
-Course Number: 527H
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Thu, Start Time: 13:00, End Time: 15:30
-Instructor: VELLUTINI, CLAUDIO
-

@@ -1,9 +1,0 @@
-Department: MUSC
-Course Number: 512B
-Section: 002
-Description: Approval by the Director, School of Music, is required.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

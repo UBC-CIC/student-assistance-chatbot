@@ -1,9 +1,0 @@
-Department: PHYS
-Course Number: 541
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue Thu, Start Time: 9:00, End Time: 10:30, Building: Buchanan, Room: D214
-Instructor: RAHMIM, ARMAN
-

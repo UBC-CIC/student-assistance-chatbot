@@ -1,9 +1,0 @@
-Department: LLED
-Course Number: 213
-Section: 001
-Description: The processes by which individuals become competent members of society through the use of language.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

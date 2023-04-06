@@ -1,8 +1,0 @@
-Department: EPSE
-Course Number: 546
-Section: 075
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: WILTON, ADAM
-

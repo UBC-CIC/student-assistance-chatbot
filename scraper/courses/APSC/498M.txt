@@ -1,9 +1,0 @@
-Department: APSC
-Course Number: 498M
-Section: 101
-Description: Requires approval of a Department Head or Program Director.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

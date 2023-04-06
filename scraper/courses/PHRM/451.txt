@@ -1,9 +1,0 @@
-Department: PHRM
-Course Number: 451
-Section: 001
-Description: Principles of clinical study design, focusing on randomized controlled trials, systematic reviews, epidemiologic studies (cohort, case-control), pharmacoeconomic analyses, clinical prediction rules, and guidelines. Pass/Fail.
-Credits: 4
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: MCCORMACK, JAMES
-

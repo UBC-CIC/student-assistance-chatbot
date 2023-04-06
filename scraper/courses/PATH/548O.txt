@@ -1,8 +1,0 @@
-Department: PATH
-Course Number: 548O
-Section: 015
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: LAM, WAN
-

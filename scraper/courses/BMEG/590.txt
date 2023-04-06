@@ -1,9 +1,0 @@
-Department: BMEG
-Course Number: 590
-Section: 101
-Description: Formulate and implement a professional skills development plan involving workshops on topics such as writing, presentation, teaching, finance, marketing, equity, ethics. Pass/Fail grading.
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

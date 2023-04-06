@@ -1,9 +1,0 @@
-Department: DENT
-Course Number: 778
-Section: 001
-Description: Pass/Fail.
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: PUTNINS, EDWARD
-

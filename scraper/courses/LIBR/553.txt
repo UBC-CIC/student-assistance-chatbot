@@ -1,9 +1,0 @@
-Department: LIBR
-Course Number: 553
-Section: 002
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue, Start Time: 14:00, End Time: 17:00, Building: Allard, Room: Hall
-Instructor: O'BRIEN, HEATHER
-

@@ -1,9 +1,0 @@
-Department: NURS
-Course Number: 571
-Section: 001
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue, Start Time: 9:00, End Time: 12:00, Building: UBC, Room: Hospital
-Instructor: BURROWS, MARLENE
-

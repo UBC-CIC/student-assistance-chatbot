@@ -1,9 +1,0 @@
-Department: GRSJ
-Course Number: 500
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Wed, Start Time: 12:00, End Time: 15:00
-Instructor: RIANO-ALCALA, PILAR
-

@@ -1,9 +1,0 @@
-Department: WACH
-Course Number: 548A
-Section: 001
-Description: Student-directed literature-based or experimental investigation of a topic.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

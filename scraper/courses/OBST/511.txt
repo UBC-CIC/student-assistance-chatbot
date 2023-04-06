@@ -1,9 +1,0 @@
-Department: OBST
-Course Number: 511
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 9:00, End Time: 11:00
-Instructor: BROTTO FONTANA, LORI
-

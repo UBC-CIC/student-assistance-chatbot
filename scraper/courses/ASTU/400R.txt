@@ -1,9 +1,0 @@
-Department: ASTU
-Course Number: 400R
-Section: 002
-Description: For upper-division students in the Faculty of Arts. Topics announced annually.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

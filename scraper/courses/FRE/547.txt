@@ -1,8 +1,0 @@
-Department: FRE
-Course Number: 547
-Section: 001
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

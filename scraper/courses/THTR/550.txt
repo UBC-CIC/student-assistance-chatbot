@@ -1,9 +1,0 @@
-Department: THTR
-Course Number: 550
-Section: 001
-Description: Seminar in theatre scenery, costumes, and architecture of selected historical periods. Pre- or co-requisite: THTR 505 and THTR 506.
-Credits: 6
-Mode of Delivery: Hybrid
-Requires in Person Attendance: Yes
-Instructor: FIRKINS, JACQUELINE
-

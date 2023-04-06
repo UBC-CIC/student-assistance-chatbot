@@ -1,9 +1,0 @@
-Department: COLX
-Course Number: 595
-Section: 001
-Description: Techniques for identifying, analyzing, and synthesizing primary sources for the most current research in computational linguistics.
-Pre-reqs: (24 credits of DSCI and COLX courses.)
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-

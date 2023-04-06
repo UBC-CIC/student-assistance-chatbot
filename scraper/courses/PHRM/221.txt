@@ -1,9 +1,0 @@
-Department: PHRM
-Course Number: 221
-Section: 001
-Description: Foundations of nutrition, nutrition for healthy individuals through the lifespan, and selected clinical applications of nutrition in pharmacy practice.
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Wed, Start Time: 10:00, End Time: 12:00, Building: Pharmaceutical, Room: Sciences
-

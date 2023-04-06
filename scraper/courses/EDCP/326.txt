@@ -1,9 +1,0 @@
-Department: EDCP
-Course Number: 326
-Section: 301
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 10:30, End Time: 12:00, Building: Orchard, Room: Commons
-Instructor: PETHERICK, LEANNE
-

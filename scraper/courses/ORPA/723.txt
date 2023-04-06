@@ -1,9 +1,0 @@
-Department: ORPA
-Course Number: 723
-Section: 001
-Description: The practical application of orthopaedics in the operating room with discussion of techniques of surgery, anatomy, pathology, pathophysiology and complications of diseases.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

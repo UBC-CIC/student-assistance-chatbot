@@ -1,9 +1,0 @@
-Department: HIST
-Course Number: 699
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Wed, Start Time: 9:30, End Time: 12:00, Building: Buchanan, Room: Tower
-Instructor: RAIBMON, PAIGE
-

@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 304
-Section: 001
-Description: An advanced lecture and laboratory course in the microscopic structure of the human body necessary for a complete understanding of histochemistry and histopathology.
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon, Start Time: 15:00, End Time: 17:00, Building: UBC, Room: Hospital
-

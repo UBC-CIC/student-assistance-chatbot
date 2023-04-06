@@ -1,9 +1,0 @@
-Department: LAW
-Course Number: 404
-Section: 001
-Description: Available in online distance education format only. Elements of sentencing for murder, manslaughter and infanticide; defences to homicide; parties to homicide; and corporate homicide.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: GRANT, ISABEL
-

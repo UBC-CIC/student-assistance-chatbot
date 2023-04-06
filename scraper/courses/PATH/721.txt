@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 721
-Section: 001
-Description: Conduct of research on some aspect of clinical or basic microbiology. For medical residents.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

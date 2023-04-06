@@ -1,8 +1,0 @@
-Department: OSOT
-Course Number: 558
-Section: 001
-Description: Evidence of integration and synthesis of complex knowledge and skills provided throughout the MOT program to demonstrate Occupational Therapy advanced competencies for a total of 14 weeks of supervised fieldwork experience in affiliated health agencies.
-Credits: 9
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-

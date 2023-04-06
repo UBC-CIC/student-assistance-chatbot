@@ -1,9 +1,0 @@
-Department: STAT
-Course Number: 548B
-Section: 201
-Description: Directed Studies in Statistics - DIRECTED STUDIES
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

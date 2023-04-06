@@ -1,9 +1,0 @@
-Department: STAT
-Course Number: 520C
-Section: 001
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue Thu, Start Time: 12:30, End Time: 14:00, Building: Earth, Room: Sciences
-Instructor: GUSTAFSON, PAUL
-

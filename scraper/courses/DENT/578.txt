@@ -1,9 +1,0 @@
-Department: DENT
-Course Number: 578
-Section: 001
-Description: Dental anatomy, morphology, endodontic instruments, diagnosis and differential diagnosis, etiology and pathogenesis of endodontic infections, and strategies of infection control.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: COIL, JEFFREY MARTIN
-

@@ -1,9 +1,0 @@
-Department: FOOD
-Course Number: 523
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue Thu, Start Time: 10:30, End Time: 12:00, Building: Food,, Room: Nutrition
-Instructor: BRENNER, THOMAS
-

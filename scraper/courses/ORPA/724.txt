@@ -1,9 +1,0 @@
-Department: ORPA
-Course Number: 724
-Section: 001
-Description: Orthopaedic traumatology is reviewed, with emphasis being placed on applied basic science, surgical anatomy, diagnosis and definitive management. These sessions are supervised by a faculty member and are held weekly, each session lasting one hour.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

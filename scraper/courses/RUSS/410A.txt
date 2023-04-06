@@ -1,9 +1,0 @@
-Department: RUSS
-Course Number: 410A
-Section: 001
-Description: Women in Russian Literature and Culture - WMN RUSS LIT&CLT
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: TBA
-

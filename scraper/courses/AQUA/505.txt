@@ -1,9 +1,0 @@
-Department: AQUA
-Course Number: 505
-Section: 001
-Credits: 2
-Mode of Delivery: Hybrid
-Requires in Person Attendance: Yes
-Term: 1, Days: Thu, Start Time: 10:00, End Time: 12:00
-Instructor: FROMMEL, ANDREA
-

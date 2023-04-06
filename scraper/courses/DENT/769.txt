@@ -1,9 +1,0 @@
-Department: DENT
-Course Number: 769
-Section: 001
-Description: Preparing dental graduate instructors to be effective teachers in dentistry. Spans from August of year 1 to August of year 2 for first year dental graduate students.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: VON BERGMANN, HSINGCHI
-

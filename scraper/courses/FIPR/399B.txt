@@ -1,9 +1,0 @@
-Department: FIPR
-Course Number: 399B
-Section: 001
-Description: Off-campus film production field research. Based on film project work outside the university.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: BOURGES, ANTOINE
-

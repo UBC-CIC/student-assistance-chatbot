@@ -1,8 +1,0 @@
-Department: PHRM
-Course Number: 302E
-Section: 003
-Description: Individual assignments involving library and clinical investigation of specific problems relating to drug utilization and information topics.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-

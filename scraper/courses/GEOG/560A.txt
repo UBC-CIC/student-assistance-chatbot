@@ -1,9 +1,0 @@
-Department: GEOG
-Course Number: 560A
-Section: 101
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Thu, Start Time: 14:00, End Time: 17:00, Building: Geography, Room: 215D
-Instructor: PECK, JAMIE
-

@@ -1,9 +1,0 @@
-Department: DES
-Course Number: 341
-Section: 101
-Description: Supervised, technical work experience in an established company or organization for a minimum of three months. Experiential Report required. Restricted to students meeting the requirements of the Bachelor of Design and the Co-operative Education Program.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

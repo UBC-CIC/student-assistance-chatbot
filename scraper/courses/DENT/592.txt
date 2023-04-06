@@ -1,9 +1,0 @@
-Department: DENT
-Course Number: 592
-Section: 001
-Description: Modern endodontic technology and clinical endodontics. Lectures, seminars, and simulation training.
-Credits: 1
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: COIL, JEFFREY MARTIN
-

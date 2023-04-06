@@ -1,9 +1,0 @@
-Department: LAW
-Course Number: 519
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue, Start Time: 18:00, End Time: 21:00, Building: Allard, Room: Hall
-Instructor: MCLEAN, PAUL
-

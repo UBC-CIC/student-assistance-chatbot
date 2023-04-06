@@ -1,9 +1,0 @@
-Department: EDCP
-Course Number: 565
-Section: 62A
-Description: Issues, theories, and research studies.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: MCINTOSH, LISA
-

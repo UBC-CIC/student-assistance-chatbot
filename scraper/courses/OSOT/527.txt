@@ -1,8 +1,0 @@
-Department: OSOT
-Course Number: 527
-Section: 001
-Description: Assumptions and principles of qualitative and quantitative research designs; elements of basic research designs for investigating and evaluating occupational performance and diverse issues relevant to occupational science and occupational therapy are introduced, emphasizing critical appraisal of occupational therapy research literature.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-

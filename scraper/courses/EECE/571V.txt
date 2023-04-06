@@ -1,8 +1,0 @@
-Department: EECE
-Course Number: 571V
-Section: 112
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: LEMIEUX, GUY
-

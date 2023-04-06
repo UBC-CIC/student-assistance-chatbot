@@ -1,9 +1,0 @@
-Department: SURG
-Course Number: 510
-Section: 99A
-Description: Surgical Care in International Health
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: BUGIS, SAMUEL
-

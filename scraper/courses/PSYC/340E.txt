@@ -1,9 +1,0 @@
-Department: PSYC
-Course Number: 340E
-Section: 001
-Description: Directed investigation of a research problem, requiring a written report of the findings. Requires the supervising faculty member's permission. See the Department's website for more information.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

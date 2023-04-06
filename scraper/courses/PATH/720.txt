@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 720
-Section: 001
-Description: Conduct of bacterial, fungal, parasitological, and viral laboratory tests relevant to the microbiological examination of patients. For medical residents.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

@@ -1,9 +1,0 @@
-Department: CHBE
-Course Number: 583
-Section: 101
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Mon Wed Fri, Start Time: 10:00, End Time: 11:00, Building: Mathematics, Room: 100
-Instructor: WILKINSON, DAVID
-

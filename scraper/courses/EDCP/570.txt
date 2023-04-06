@@ -1,9 +1,0 @@
-Department: EDCP
-Course Number: 570
-Section: 62A
-Description: Seminar in the Teaching of Information and Communication Technologies
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: CODE, JILLIANNE
-

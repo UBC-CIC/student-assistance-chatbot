@@ -1,9 +1,0 @@
-Department: WACH
-Course Number: 501
-Section: 001
-Description: Biomedical, clinical, translational, and population research; research approaches and opportunities across the four health research pillars (biomedical, clinical, health services, population health).
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue Thu, Start Time: 9:00, End Time: 10:30
-

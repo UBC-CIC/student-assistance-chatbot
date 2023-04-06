@@ -1,9 +1,0 @@
-Department: CRWR
-Course Number: 570L
-Section: 002
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Fri, Start Time: 10:00, End Time: 12:00, Building: Frederic, Room: Lasserre
-Instructor: TAYLOR, TIMOTHY
-

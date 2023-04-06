@@ -1,9 +1,0 @@
-Department: PLAN
-Course Number: 523
-Section: 001
-Credits: 2
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Fri, Start Time: 9:00, End Time: 12:00, Building: West, Room: Mall
-Instructor: ADIN, EMILIE
-

@@ -1,9 +1,0 @@
-Department: ARST
-Course Number: 591
-Section: 002
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Term: 2, Days: Thu, Start Time: 14:00, End Time: 17:00
-Instructor: SHEFFIELD, REBECKA
-

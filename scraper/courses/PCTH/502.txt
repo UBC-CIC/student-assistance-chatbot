@@ -1,9 +1,0 @@
-Department: PCTH
-Course Number: 502
-Section: 001
-Description: Lectures, discussions and assigned reading on the actions of drugs on the production, release and cellular effects of hormones and neurotransmitters. Given in odd-numbered and alternate years.
-Credits: 4
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: BHAGAVATULA, SASTRY
-

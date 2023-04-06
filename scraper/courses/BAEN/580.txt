@@ -1,9 +1,0 @@
-Department: BAEN
-Course Number: 580
-Section: 821
-Credits: 1.5
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Fri Sat Sun
-Instructor: POGUE, FRASER
-

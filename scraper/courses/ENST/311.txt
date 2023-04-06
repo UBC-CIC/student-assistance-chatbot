@@ -1,8 +1,0 @@
-Department: ENST
-Course Number: 311
-Section: 101
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 1, Days: Tue Thu, Start Time: 14:00, End Time: 15:30, Building: Mathematics, Room: Annex
-

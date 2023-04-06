@@ -1,9 +1,0 @@
-Department: OSOT
-Course Number: 551
-Section: 001
-Description: Current legislative, socio-political, economic, cultural, and service delivery issues influencing occupational therapy practice are addressed. The structural, systemic, and contextual influences upon clients' health and occupations are also examined.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: BULK, LAURA
-

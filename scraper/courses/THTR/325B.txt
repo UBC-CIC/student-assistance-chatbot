@@ -1,9 +1,0 @@
-Department: THTR
-Course Number: 325B
-Section: 001
-Credits: 3
-Mode of Delivery: Hybrid
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue, Start Time: 9:30, End Time: 12:30, Building: West, Room: Mall
-Instructor: LACHANCE, LINDSAY
-

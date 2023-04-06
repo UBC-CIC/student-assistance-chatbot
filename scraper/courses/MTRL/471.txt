@@ -1,9 +1,0 @@
-Department: MTRL
-Course Number: 471
-Section: 201
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue, Start Time: 15:00, End Time: 16:30, Building: Orchard, Room: Commons
-Instructor: BAHI, ARDESHIR
-

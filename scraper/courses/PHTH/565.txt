@@ -1,9 +1,0 @@
-Department: PHTH
-Course Number: 565
-Section: 001
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Tue Thu, Start Time: 8:00, End Time: 12:00, Building: To, Room: Be
-Instructor: DUMONT, TYLER
-

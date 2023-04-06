@@ -1,9 +1,0 @@
-Department: PSYT
-Course Number: 550A
-Section: 002
-Description: Reading and study in particular fields of study and research in psychiatry.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: DIAMOND, ADELE
-

@@ -1,9 +1,0 @@
-Department: EDCP
-Course Number: 541
-Section: 61A
-Description: Recent controversies in North American historical literature and implications for school curriculum in the light of research on teaching and learning history.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: GIBSON, LINDSAY
-

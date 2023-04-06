@@ -1,9 +1,0 @@
-Department: PATH
-Course Number: 407
-Section: 001
-Description: A theoretical and practical examination of analytical and pathophysiological aspects of clinical and forensic toxicology.
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Wed, Start Time: 9:00, End Time: 11:00, Building: UBC, Room: Hospital
-

@@ -1,9 +1,0 @@
-Department: FISH
-Course Number: 506R
-Section: 100
-Credits: 3
-Mode of Delivery: Hybrid
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon, Start Time: 14:00, End Time: 16:00, Building: Aquatic, Room: Ecosystems
-Instructor: MCALLISTER, MURDOCH
-

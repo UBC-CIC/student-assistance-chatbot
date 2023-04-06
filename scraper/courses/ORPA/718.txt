@@ -1,9 +1,0 @@
-Department: ORPA
-Course Number: 718
-Section: 001
-Description: Patients with a variety of rheumatological disorders are presented for discussion and evaluation in this combined conference, which rheumatologists and orthopaedic surgeons who have a special interest in reconstructive surgery attend. During each weekly two hour session, patients with difficult management problems are presented for clinical evaluation and discussion of medical and orthopaedic treatment.
-Credits: 0
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: TBA
-

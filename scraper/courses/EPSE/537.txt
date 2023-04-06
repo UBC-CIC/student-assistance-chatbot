@@ -1,8 +1,0 @@
-Department: EPSE
-Course Number: 537
-Section: 074
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: MCGREGOR, DUNCAN
-

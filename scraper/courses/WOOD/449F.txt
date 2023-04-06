@@ -1,9 +1,0 @@
-Department: WOOD
-Course Number: 449F
-Section: 101
-Description: In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in wood products processing.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: LEUNG, VINCENT
-

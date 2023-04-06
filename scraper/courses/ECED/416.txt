@@ -1,9 +1,0 @@
-Department: ECED
-Course Number: 416
-Section: 63A
-Description: Kindergarten Curriculum
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: MEREDITH, ANGELA
-

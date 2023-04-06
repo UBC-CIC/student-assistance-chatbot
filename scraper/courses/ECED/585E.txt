@@ -1,8 +1,0 @@
-Department: ECED
-Course Number: 585E
-Section: 61A
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: SINGH, ANGELPREET
-

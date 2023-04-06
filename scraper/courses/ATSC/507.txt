@@ -1,9 +1,0 @@
-Department: ATSC
-Course Number: 507
-Section: 201
-Pre-reqs: (All of a fluid-dynamics course, a numerical-methods course, as well as computer-programming skills.)
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: STULL, ROLAND
-

@@ -1,9 +1,0 @@
-Department: PHYS
-Course Number: 447C
-Section: 001
-Description: Directed studies available to students in Honours Physics with approval from the Head of the Department.
-Credits: 6
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: KIEFL, ROBERT
-

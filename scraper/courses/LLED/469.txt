@@ -1,9 +1,0 @@
-Department: LLED
-Course Number: 469
-Section: 63A
-Description: Principles and practices of teachers and teacher-librarians designing and teaching curriculum using inquiry-based pedagogy. LLED 469 is a core course for the Teacher Librarian Diploma.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: HUSIEFF, KRISTEN LEIGH
-

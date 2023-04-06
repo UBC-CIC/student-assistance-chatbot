@@ -1,8 +1,0 @@
-Department: FOPE
-Course Number: 503
-Section: 201
-Description: Potential impacts of climate change on global forest systems. Concepts and techniques of climate change modelling; adaptive management strategies.
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-

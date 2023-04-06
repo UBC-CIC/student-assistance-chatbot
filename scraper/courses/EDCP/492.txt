@@ -1,8 +1,0 @@
-Department: EDCP
-Course Number: 492
-Section: 63A
-Credits: 3
-Mode of Delivery: Online
-Requires in Person Attendance: No
-Instructor: BREVNER, MEGAN
-

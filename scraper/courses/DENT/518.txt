@@ -1,8 +1,0 @@
-Department: DENT
-Course Number: 518
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Instructor: RICHMAN, JOY MARION
-

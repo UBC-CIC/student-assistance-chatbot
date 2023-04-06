@@ -1,9 +1,0 @@
-Department: JRNL
-Course Number: 520A
-Section: 001
-Credits: 3
-Mode of Delivery: In-Person
-Requires in Person Attendance: Yes
-Term: 2, Days: Mon, Start Time: 13:30, End Time: 16:30, Building: Sing, Room: Tao
-Instructor: TENENBOIM, ORI
-
