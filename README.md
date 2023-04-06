@@ -1,6 +1,6 @@
 ## UBC Chatbot Project
 
-For our team's capstone course, our team selected the UBC Chatbot assistant project in order to provide students with a secondary resource when dealing with UBC's complex course requirement system and to relieve traffic on the academic advisors.
+For our team's capstone course, we selected the UBC Chatbot assistant project in order to provide students with a secondary resource when dealing with UBC's complex course requirement system and to relieve traffic on the academic advisors.
 The client for this project is UBC’s Cloud Innovation Centre (CIC). The CIC’s core mission is to provide UBC student teams with leading edge cloud technology to tackle real-world challenges within the community. The high-level goal for the UBC Chatbot system will be to foster community engagement within UBC and provide support to students that is correct, available and reliable.
 
 The scope of the project was limited to course related questions, but in the future there are opportunities to expand this system to support more queries relating to the UBC community, whether they come from students, alumni or other interested parties.
@@ -17,7 +17,7 @@ The scope of the project was limited to course related questions, but in the fut
 
 # High Level Architecture
 
-The architecture for our solution was divided into a front-end and back-end part. The front-end system consists of the User Interface and the feedback system that allows users to provide feedback. The back-end system contains the chatbot and it's information base and the functionality to update and add to the information base
+The architecture for our solution was divided into a front-end and back-end portion. The front-end system consists of the User Interface and the feedback system that allows users to provide feedback. The back-end system contains the chatbot and it's information base, along with the functionality to update and add to it.
 
 The below diagram shows the overarching architecture and how the system works. For further details please see the [Architecture Deep Dive](docs/ArchitectureDeepDive.md).
 
@@ -47,7 +47,11 @@ If you are a user using this app and would like to know more, please see the [Us
 ├── node_modules
 ├── public
 ├── scraper/
+│   ├── courses
+│   ├── scrape.py
 │   ├── scraper.py
+│   ├── syncKendra.py
+│   ├── upload.py
 ├── src/
 │   ├── component/
 │   │   ├── Feedback.jsx
@@ -84,7 +88,8 @@ If you are a user using this app and would like to know more, please see the [Us
 2. **`/cdk`**: Contains the deployment code for the backend of the app. This includes the Lex V2 Bot in addition to creating the appropriate AWS Kendra Instances
 3. **`/docs`**: Contains all relevant documentation files
 4. **`/public`**: Contains assets/images
-5. **`/src`**: Contains all the source code for the site.
+5. **`/scraper`**: Contains scraper code and pre-scraped courses
+6. **`/src`**: Contains all the source code for the site.
 
    1. **`/component`**: Reusable React components.
       - Below is a description of these components:
