@@ -6,24 +6,6 @@ Before you deploy, you must have the following in place:
 *  [AWS CLI](https://aws.amazon.com/cli/) 
 *  [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html#getting_started_install)  
 
-# Step 0: Provide AWS CLI Credentials
-1. As the cloud formation and the scraper will be accessing AWS resources we will need to configure the tokens on the command line
-```
-aws configure sso
-```
-2. After typing the prompt, fill in the following information:
-
-- SSO session name: (any session name)
-- SSO Start URL: https://ubc-cicsso.awsapps.com/start#
-- SSO Region: ca-central-1
-
-After you type in the region, it should prompt you to sign up on your browser
-
-3. After logging in, you will have to fill in the following information:
-
-- CLI default client Region: ca-central-1
-- CLI default output format: (blank)
-- CLI profile name: (any profile name)
 
 # Step 1: Clone The Repository
 
@@ -135,15 +117,15 @@ For our example, we would fill out the file referring to the outputs from the im
 
 ```
 # React App config
-REACT_APP_AWS_REGION=ca-central-1
-REACT_APP_LEX_BOT_ID=8M9VJWBQXW
-REACT_APP_LEX_COGNITO_POOL_ID=ca-central-1:32f39a14-2e1c-4712-80ee-8d35e977afea
+REACT_APP_AWS_REGION=#ubcStudentAssistantBot.AWSRegion
+REACT_APP_LEX_BOT_ID=#ubcStudentAssistantBot.lexBotId
+REACT_APP_LEX_COGNITO_POOL_ID=#ubcStudentAssistantBot.lexCognitoPoolId
 
 # Scraper Config 
-PROFILE_NAME= #Profile name from step 0
-KENDRA_INDEX_ID=cecad942-683f-41d3-ba26-c9046e81bfac
-KENDRA_DATA_SOURCE_ID=eed041fb-db11-42d6-825d-423a59e23f81
-S3_BUCKET_NAME=ubcstudentassistantbot-ubccoursebucketbd7d4111-1q2su36zjy6ok
+PROFILE_NAME=#Your profile name here
+KENDRA_INDEX_ID=#ubcStudentAssistantBot.kendraIndexId
+KENDRA_DATA_SOURCE_ID=#ubcStudentAssistantBot.kendraDataSourceId
+S3_BUCKET_NAME=#ubcStudentAssistantBot.s3BucketId
 ```
 
 After you have filled out the environment variables, you can commit the changes to the repository.
