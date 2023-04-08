@@ -20,7 +20,8 @@
 1. The user sends feedback through the chatbot interface. 
 2. Amplify sends feedback to AppSync via an API call.
 3. AppSync saves the rating and comments into the DynamoDB feedback table. This also includes a log of the conversation for reference. 
-4. System admin can view all the feedback by logging into the admin account through the chatbot interface. 
+4. System admin user and password must be authenticated by Cognito. 
+5. System admin can view all the feedback through the chatbot interface. 
 
 ## GraphQL Schema
 Our application backend works around `AWS AppSync`, a serverless `GraphQL` API service. With each call to the AppSync GraphQL API a `resolver` is triggered which will trigger the `AWS DynamoDB` API. This resolver will submit the request to the application's `DynamoDB` instance. To add an `AWS AppSync` service to your `AWS Amplify` app, you can follow the instructions [here](https://docs.amplify.aws/lib/graphqlapi/getting-started/q/platform/js/#create-the-graphql-api). 
