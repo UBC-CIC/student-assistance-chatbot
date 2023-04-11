@@ -104,7 +104,7 @@ If you are a user using this app and would like to know more, please see the [Us
 
 # Changelog
 
-No changes have been conducted since the app has been released to the public.
+No changes have been conducted since the app has not been released to the public.
 
 # Credits
 
